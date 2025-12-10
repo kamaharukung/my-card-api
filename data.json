@@ -13707,7 +13707,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-035_P.png",
           "hPR",
           "P",
-          80,
+          55,
           "",
           "หมด",
           {
@@ -14942,7 +14942,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-043_P.png",
           "hPR",
           "P",
-          125,
+          105,
           "",
           "หมด",
           {
@@ -15579,7 +15579,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-007_P.png",
           "hPR",
           "P",
-          80,
+          55,
           "",
           "หมด",
           {
@@ -15631,13 +15631,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-006_P.png",
           "hPR",
           "P",
-          195,
+          170,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          25
+          20
         ],
         [
           "hSD09-007",
@@ -33038,7 +33038,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-035_P.png",
           "hPR",
           "P",
-          80,
+          55,
           "",
           "หมด",
           {
@@ -34247,7 +34247,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-043_P.png",
           "hPR",
           "P",
-          125,
+          105,
           "",
           "หมด",
           {
@@ -34858,7 +34858,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD08-007_P.png",
           "hPR",
           "P",
-          80,
+          55,
           "",
           "หมด",
           {
@@ -34897,13 +34897,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-006_P.png",
           "hPR",
           "P",
-          195,
+          170,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          25
+          20
         ],
         [
           "hSD09-007",
