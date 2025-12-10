@@ -1591,7 +1591,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-076_C.png",
           "hBP01",
           "C",
-          45,
+          30,
           "",
           "หมด",
           {
@@ -2793,7 +2793,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          25
         ],
         [
           "hBP02-031",
@@ -3528,7 +3528,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_RR.png",
           "hBP02",
           "RR",
-          105,
+          80,
           6,
           "มีในคลัง",
           {
@@ -5302,7 +5302,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          35
         ],
         [
           "hBP03-049",
@@ -13960,7 +13960,7 @@
           {
             "valueType": "IMAGE"
           },
-          50
+          40
         ],
         [
           "hBP01-072",
@@ -14285,7 +14285,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          40
         ],
         [
           "hBP02-009",
@@ -20922,7 +20922,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-076_C.png",
           "hBP01",
           "C",
-          45,
+          30,
           "",
           "หมด",
           {
@@ -22124,7 +22124,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          25
         ],
         [
           "hBP02-031",
@@ -22859,7 +22859,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_RR.png",
           "hBP02",
           "RR",
-          105,
+          80,
           "",
           "หมด",
           {
@@ -24633,7 +24633,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          35
         ],
         [
           "hBP03-049",
@@ -33278,7 +33278,7 @@
           {
             "valueType": "IMAGE"
           },
-          50
+          40
         ],
         [
           "hBP01-072",
@@ -33590,7 +33590,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          40
         ],
         [
           "hBP02-009",
