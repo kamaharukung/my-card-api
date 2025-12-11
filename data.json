@@ -889,7 +889,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-054_U.png",
           "hBP01",
           "U",
-          55,
+          45,
           9,
           "มีในคลัง",
           {
@@ -3430,7 +3430,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          15
         ],
         [
           "hBP02-006",
@@ -8266,7 +8266,7 @@
           {
             "valueType": "IMAGE"
           },
-          25
+          20
         ],
         [
           "hBP04-026",
@@ -8409,7 +8409,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          10
         ],
         [
           "hBP04-058",
@@ -8669,7 +8669,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          5
         ],
         [
           "hBP04-029",
@@ -12231,7 +12231,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          1
         ],
         [
           "hBP05-002",
@@ -12329,7 +12329,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-016_RR.png",
           "hBP05",
           "RR",
-          70,
+          55,
           "",
           "หมด",
           {
@@ -12394,7 +12394,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-045_RR.png",
           "hBP05",
           "RR",
-          80,
+          105,
           3,
           "มีในคลัง",
           {
@@ -14623,7 +14623,7 @@
           {
             "valueType": "IMAGE"
           },
-          ""
+          1
         ],
         [
           "hBP03-037",
@@ -15026,7 +15026,7 @@
           {
             "valueType": "IMAGE"
           },
-          1
+          5
         ],
         [
           "hBP04-068",
@@ -15546,7 +15546,7 @@
           {
             "valueType": "IMAGE"
           },
-          280
+          200
         ],
         [
           "hSD08-005",
@@ -16742,7 +16742,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          20
         ],
         [
           "hBP02-077",
@@ -17334,7 +17334,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD02/hSD02-006_C.png",
           "hSD02",
           "C",
-          45,
+          30,
           8,
           "มีในคลัง",
           {
@@ -20220,7 +20220,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-054_U.png",
           "hBP01",
           "U",
-          55,
+          45,
           "",
           "หมด",
           {
@@ -22761,7 +22761,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          15
         ],
         [
           "hBP02-006",
@@ -27597,7 +27597,7 @@
           {
             "valueType": "IMAGE"
           },
-          25
+          20
         ],
         [
           "hBP04-026",
@@ -27740,7 +27740,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          10
         ],
         [
           "hBP04-058",
@@ -28000,7 +28000,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          5
         ],
         [
           "hBP04-029",
@@ -31562,7 +31562,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          1
         ],
         [
           "hBP05-002",
@@ -31660,7 +31660,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-016_RR.png",
           "hBP05",
           "RR",
-          70,
+          55,
           "",
           "หมด",
           {
@@ -31725,7 +31725,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-045_RR.png",
           "hBP05",
           "RR",
-          80,
+          105,
           "",
           "หมด",
           {
@@ -33928,7 +33928,7 @@
           {
             "valueType": "IMAGE"
           },
-          ""
+          1
         ],
         [
           "hBP03-037",
@@ -34331,7 +34331,7 @@
           {
             "valueType": "IMAGE"
           },
-          1
+          5
         ],
         [
           "hBP04-068",
@@ -36008,7 +36008,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          20
         ],
         [
           "hBP02-077",
@@ -36600,7 +36600,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD02/hSD02-006_C.png",
           "hSD02",
           "C",
-          45,
+          30,
           "",
           "หมด",
           {
