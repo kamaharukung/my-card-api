@@ -2111,7 +2111,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-015_C.png",
           "hBP06",
           "C",
-          10,
+          15,
           "",
           "หมด",
           {
@@ -3086,7 +3086,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-090_U.png",
           "hBP06",
           "U",
-          175,
+          205,
           22,
           "มีในคลัง",
           {
@@ -3125,7 +3125,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-093_U.png",
           "hBP06",
           "U",
-          130,
+          150,
           24,
           "มีในคลัง",
           {
@@ -3723,7 +3723,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-014_RR.png",
           "hBP01",
           "RR",
-          105,
+          80,
           "",
           "หมด",
           {
@@ -11412,7 +11412,7 @@
           {
             "valueType": "IMAGE"
           },
-          100
+          150
         ],
         [
           "hY05-004",
@@ -11425,7 +11425,7 @@
           {
             "valueType": "IMAGE"
           },
-          120
+          180
         ],
         [
           "hY06-004",
@@ -17041,7 +17041,7 @@
           {
             "valueType": "IMAGE"
           },
-          25
+          30
         ],
         [
           "hBP01-044",
@@ -23002,7 +23002,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-014_RR.png",
           "hBP01",
           "RR",
-          105,
+          80,
           "",
           "หมด",
           {
@@ -30756,7 +30756,7 @@
           {
             "valueType": "IMAGE"
           },
-          100
+          150
         ],
         [
           "hY05-004",
@@ -30769,7 +30769,7 @@
           {
             "valueType": "IMAGE"
           },
-          120
+          180
         ],
         [
           "hY06-004",
@@ -36385,7 +36385,7 @@
           {
             "valueType": "IMAGE"
           },
-          25
+          30
         ],
         [
           "hBP01-044",
