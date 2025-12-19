@@ -187,7 +187,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-004_OUR.png",
           "hBP06",
           "OUR",
-          5940,
+          7440,
           "",
           "หมด",
           {
@@ -213,7 +213,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-006_OUR.png",
           "hBP06",
           "OUR",
-          2995,
+          3840,
           "",
           "หมด",
           {
@@ -440,7 +440,7 @@
           {
             "valueType": "IMAGE"
           },
-          80
+          110
         ],
         [
           "hY04-010",
