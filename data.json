@@ -219,7 +219,7 @@
           {
             "valueType": "IMAGE"
           },
-          600
+          700
         ],
         [
           "hBP06-007",
@@ -245,7 +245,7 @@
           {
             "valueType": "IMAGE"
           },
-          600
+          500
         ],
         [
           "hBP06-014",
@@ -440,7 +440,7 @@
           {
             "valueType": "IMAGE"
           },
-          120
+          100
         ],
         [
           "hY04-010",
@@ -518,7 +518,7 @@
           {
             "valueType": "IMAGE"
           },
-          90
+          100
         ],
         [
           "hBP06-013",
@@ -557,7 +557,7 @@
           {
             "valueType": "IMAGE"
           },
-          60
+          50
         ],
         [
           "hBP06-020",
@@ -596,7 +596,7 @@
           {
             "valueType": "IMAGE"
           },
-          100
+          90
         ],
         [
           "hBP06-027",
@@ -687,7 +687,7 @@
           {
             "valueType": "IMAGE"
           },
-          50
+          60
         ],
         [
           "hBP06-044",
@@ -778,7 +778,7 @@
           {
             "valueType": "IMAGE"
           },
-          40
+          50
         ],
         [
           "hBP06-055",
@@ -804,7 +804,7 @@
           {
             "valueType": "IMAGE"
           },
-          80
+          70
         ],
         [
           "hBP06-059",
@@ -817,7 +817,7 @@
           {
             "valueType": "IMAGE"
           },
-          70
+          60
         ],
         [
           "hBP06-060",
@@ -960,7 +960,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          20
         ],
         [
           "hBP06-083",
@@ -1025,7 +1025,7 @@
           {
             "valueType": "IMAGE"
           },
-          ""
+          1
         ],
         [
           "hBP06-012",
@@ -1090,7 +1090,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          5
         ],
         [
           "hBP06-022",
@@ -1402,7 +1402,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          1
         ],
         [
           "hBP06-067",
@@ -2832,7 +2832,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          10
         ],
         [
           "hBP06-071",
@@ -7077,7 +7077,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_RR.png",
           "hBP02",
           "RR",
-          80,
+          105,
           6,
           "มีในคลัง",
           {
@@ -9358,7 +9358,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          5
         ],
         [
           "hBP03-096",
@@ -11256,7 +11256,7 @@
           {
             "valueType": "IMAGE"
           },
-          90
+          100
         ],
         [
           "hBP04-048",
@@ -14519,7 +14519,7 @@
           {
             "valueType": "IMAGE"
           },
-          20
+          25
         ],
         [
           "hBP05-018",
@@ -14649,7 +14649,7 @@
           {
             "valueType": "IMAGE"
           },
-          60
+          70
         ],
         [
           "hBP05-037",
@@ -14818,7 +14818,7 @@
           {
             "valueType": "IMAGE"
           },
-          20
+          25
         ],
         [
           "hBP05-062",
@@ -15689,7 +15689,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          10
         ],
         [
           "hBP05-007",
@@ -16086,7 +16086,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-037_RR.png",
           "hBP05",
           "RR",
-          45,
+          55,
           2,
           "มีในคลัง",
           {
@@ -16515,7 +16515,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-070_RR.png",
           "hBP05",
           "RR",
-          45,
+          55,
           4,
           "มีในคลัง",
           {
@@ -17561,7 +17561,7 @@
           {
             "valueType": "IMAGE"
           },
-          40
+          30
         ],
         [
           "hBP02-009",
@@ -20668,7 +20668,7 @@
           {
             "valueType": "IMAGE"
           },
-          1
+          5
         ],
         [
           "hSD02-010",
@@ -21383,7 +21383,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          10
         ],
         [
           "hSD06-008",
@@ -22818,7 +22818,7 @@
           {
             "valueType": "IMAGE"
           },
-          600
+          700
         ],
         [
           "hBP06-007",
@@ -22844,7 +22844,7 @@
           {
             "valueType": "IMAGE"
           },
-          600
+          500
         ],
         [
           "hBP06-014",
@@ -23039,7 +23039,7 @@
           {
             "valueType": "IMAGE"
           },
-          120
+          100
         ],
         [
           "hY04-010",
@@ -23117,7 +23117,7 @@
           {
             "valueType": "IMAGE"
           },
-          90
+          100
         ],
         [
           "hBP06-013",
@@ -23156,7 +23156,7 @@
           {
             "valueType": "IMAGE"
           },
-          60
+          50
         ],
         [
           "hBP06-020",
@@ -23195,7 +23195,7 @@
           {
             "valueType": "IMAGE"
           },
-          100
+          90
         ],
         [
           "hBP06-027",
@@ -23286,7 +23286,7 @@
           {
             "valueType": "IMAGE"
           },
-          50
+          60
         ],
         [
           "hBP06-044",
@@ -23377,7 +23377,7 @@
           {
             "valueType": "IMAGE"
           },
-          40
+          50
         ],
         [
           "hBP06-055",
@@ -23403,7 +23403,7 @@
           {
             "valueType": "IMAGE"
           },
-          80
+          70
         ],
         [
           "hBP06-059",
@@ -23416,7 +23416,7 @@
           {
             "valueType": "IMAGE"
           },
-          70
+          60
         ],
         [
           "hBP06-060",
@@ -23559,7 +23559,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          20
         ],
         [
           "hBP06-083",
@@ -23624,7 +23624,7 @@
           {
             "valueType": "IMAGE"
           },
-          ""
+          1
         ],
         [
           "hBP06-012",
@@ -23689,7 +23689,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          5
         ],
         [
           "hBP06-022",
@@ -24001,7 +24001,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          1
         ],
         [
           "hBP06-067",
@@ -25431,7 +25431,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          10
         ],
         [
           "hBP06-071",
@@ -29403,7 +29403,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_RR.png",
           "hBP02",
           "RR",
-          80,
+          105,
           "",
           "หมด",
           {
@@ -31957,7 +31957,7 @@
           {
             "valueType": "IMAGE"
           },
-          10
+          5
         ],
         [
           "hBP03-096",
@@ -33855,7 +33855,7 @@
           {
             "valueType": "IMAGE"
           },
-          90
+          100
         ],
         [
           "hBP04-048",
@@ -37118,7 +37118,7 @@
           {
             "valueType": "IMAGE"
           },
-          20
+          25
         ],
         [
           "hBP05-018",
@@ -37248,7 +37248,7 @@
           {
             "valueType": "IMAGE"
           },
-          60
+          70
         ],
         [
           "hBP05-037",
@@ -37417,7 +37417,7 @@
           {
             "valueType": "IMAGE"
           },
-          20
+          25
         ],
         [
           "hBP05-062",
@@ -38171,7 +38171,7 @@
           {
             "valueType": "IMAGE"
           },
-          5
+          10
         ],
         [
           "hBP05-007",
@@ -38256,7 +38256,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-037_RR.png",
           "hBP05",
           "RR",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -38334,7 +38334,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-070_RR.png",
           "hBP05",
           "RR",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -40134,7 +40134,7 @@
           {
             "valueType": "IMAGE"
           },
-          40
+          30
         ],
         [
           "hBP02-009",
@@ -43189,7 +43189,7 @@
           {
             "valueType": "IMAGE"
           },
-          1
+          5
         ],
         [
           "hSD02-010",
@@ -43904,7 +43904,7 @@
           {
             "valueType": "IMAGE"
           },
-          15
+          10
         ],
         [
           "hSD06-008",
