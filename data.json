@@ -3087,7 +3087,7 @@
           "hBP06",
           "U",
           205,
-          22,
+          21,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -4946,8 +4946,8 @@
           "hBP01",
           "U",
           45,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -16568,7 +16568,7 @@
           "hBP05",
           "C",
           70,
-          50,
+          49,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -16633,7 +16633,7 @@
           "hBP05",
           "U",
           30,
-          20,
+          18,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -16646,7 +16646,7 @@
           "hBP05",
           "U",
           370,
-          12,
+          11,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -22598,7 +22598,7 @@
             "hololive OFFICIAL CARD GAME Official Sleeve vol.27 ",
             400,
             "https://i.postimg.cc/zXYcdD61/image-2025-12-21-201933737.png",
-            3,
+            2,
             "มีในคลัง"
           ],
           [
