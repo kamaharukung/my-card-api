@@ -518,7 +518,7 @@
           {
             "valueType": "IMAGE"
           },
-          90
+          100
         ],
         [
           "hBP06-013",
@@ -11068,6 +11068,19 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-001_SEC.png",
           "hBP04",
           "SEC",
+          19950,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          4000
+        ],
+        [
+          "hBP04-004",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_SEC.png",
+          "hBP04",
+          "SEC",
           22450,
           "",
           "หมด",
@@ -11075,19 +11088,6 @@
             "valueType": "IMAGE"
           },
           4500
-        ],
-        [
-          "hBP04-004",
-          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_SEC.png",
-          "hBP04",
-          "SEC",
-          24950,
-          "",
-          "หมด",
-          {
-            "valueType": "IMAGE"
-          },
-          5000
         ],
         [
           "hBP04-005",
@@ -11211,13 +11211,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-013_UR.png",
           "hBP04",
           "UR",
-          2495,
+          2245,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          600
+          450
         ],
         [
           "hBP04-025",
@@ -14233,7 +14233,7 @@
           {
             "valueType": "IMAGE"
           },
-          240
+          200
         ],
         [
           "hBP05-003",
@@ -14259,7 +14259,7 @@
           {
             "valueType": "IMAGE"
           },
-          1200
+          1000
         ],
         [
           "hBP05-005",
@@ -14272,7 +14272,7 @@
           {
             "valueType": "IMAGE"
           },
-          450
+          400
         ],
         [
           "hBP05-006",
@@ -14376,7 +14376,7 @@
           {
             "valueType": "IMAGE"
           },
-          400
+          300
         ],
         [
           "hBP05-045",
@@ -23156,7 +23156,7 @@
           {
             "valueType": "IMAGE"
           },
-          90
+          100
         ],
         [
           "hBP06-013",
@@ -33706,6 +33706,19 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-001_SEC.png",
           "hBP04",
           "SEC",
+          19950,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          4000
+        ],
+        [
+          "hBP04-004",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_SEC.png",
+          "hBP04",
+          "SEC",
           22450,
           "",
           "หมด",
@@ -33713,19 +33726,6 @@
             "valueType": "IMAGE"
           },
           4500
-        ],
-        [
-          "hBP04-004",
-          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_SEC.png",
-          "hBP04",
-          "SEC",
-          24950,
-          "",
-          "หมด",
-          {
-            "valueType": "IMAGE"
-          },
-          5000
         ],
         [
           "hBP04-005",
@@ -33849,13 +33849,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-013_UR.png",
           "hBP04",
           "UR",
-          2495,
+          2245,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          600
+          450
         ],
         [
           "hBP04-025",
@@ -36871,7 +36871,7 @@
           {
             "valueType": "IMAGE"
           },
-          240
+          200
         ],
         [
           "hBP05-003",
@@ -36897,7 +36897,7 @@
           {
             "valueType": "IMAGE"
           },
-          1200
+          1000
         ],
         [
           "hBP05-005",
@@ -36910,7 +36910,7 @@
           {
             "valueType": "IMAGE"
           },
-          450
+          400
         ],
         [
           "hBP05-006",
@@ -37014,7 +37014,7 @@
           {
             "valueType": "IMAGE"
           },
-          400
+          300
         ],
         [
           "hBP05-045",
