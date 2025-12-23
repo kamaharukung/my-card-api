@@ -427,7 +427,7 @@
           {
             "valueType": "IMAGE"
           },
-          100
+          120
         ],
         [
           "hY03-013",
@@ -492,7 +492,7 @@
           {
             "valueType": "IMAGE"
           },
-          180
+          160
         ],
         [
           "hBP02-016",
@@ -973,7 +973,7 @@
           {
             "valueType": "IMAGE"
           },
-          70
+          80
         ],
         [
           "hSD07-007",
@@ -1220,7 +1220,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          40
         ],
         [
           "hBP06-040",
@@ -4269,7 +4269,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-056_C.png",
           "hBP01",
           "C",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -7077,7 +7077,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_RR.png",
           "hBP02",
           "RR",
-          105,
+          80,
           6,
           "มีในคลัง",
           {
@@ -23065,7 +23065,7 @@
           {
             "valueType": "IMAGE"
           },
-          100
+          120
         ],
         [
           "hY03-013",
@@ -23130,7 +23130,7 @@
           {
             "valueType": "IMAGE"
           },
-          180
+          160
         ],
         [
           "hBP02-016",
@@ -23611,7 +23611,7 @@
           {
             "valueType": "IMAGE"
           },
-          70
+          80
         ],
         [
           "hSD07-007",
@@ -23858,7 +23858,7 @@
           {
             "valueType": "IMAGE"
           },
-          30
+          40
         ],
         [
           "hBP06-040",
@@ -27388,7 +27388,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-056_C.png",
           "hBP01",
           "C",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -29442,7 +29442,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_RR.png",
           "hBP02",
           "RR",
-          105,
+          80,
           "",
           "หมด",
           {
