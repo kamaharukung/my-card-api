@@ -1003,7 +1003,7 @@
           {
             "valueType": "IMAGE"
           },
-          70,
+          60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           63
@@ -4091,7 +4091,7 @@
           {
             "valueType": "IMAGE"
           },
-          2400,
+          1800,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP01",
           4
@@ -27314,6 +27314,18 @@
         ],
         "data": [
           [
+            "#งานโดจิน ลูกเต๋า: Hoshimachi Suisei\n(1 ชิ้น)",
+            230,
+            "https://booth.pximg.net/0de1669e-b95d-4e63-8e7b-b2a6e720c8a1/i/6909139/5ee01658-d9fe-4dbd-aa2e-2e2481c61637_base_resized.jpg",
+            -1,
+            "มีในคลัง",
+            "2026-01-19T17:00:00.000Z",
+            "",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Pre-Order",
+            2
+          ],
+          [
             "#งานโดจิน SP Marker: Takane Lui\n(1 ชิ้น)",
             200,
             "https://booth.pximg.net/b531b196-9c7a-4551-872d-4ecb7320ef36/i/7497468/f03e4f8f-0ef1-4e30-8712-79cd5e2f3e37.jpg",
@@ -27323,7 +27335,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            2
+            3
           ],
           [
             "#งานโดจิน SP Marker: Hakui Koyori\n(1 ชิ้น)",
@@ -27335,7 +27347,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            3
+            4
           ],
           [
             "#งานโดจิน SP Marker: Aki Rosenthal\n(1 ชิ้น)",
@@ -27347,7 +27359,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            4
+            5
           ],
           [
             "#งานโดจิน SP Marker: La+ Darknesss\n(1 ชิ้น)",
@@ -27359,7 +27371,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            5
+            6
           ],
           [
             "#งานโดจิน SP Marker: Shiranui Flare\n(1 ชิ้น)",
@@ -27371,7 +27383,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            6
+            7
           ],
           [
             "#งานโดจิน SP Marker: Nakiri Ayame\n(1 ชิ้น)",
@@ -27383,7 +27395,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            7
+            8
           ],
           [
             "#งานโดจิน SP Marker: Kazama Iroha\n(1 ชิ้น)",
@@ -27395,7 +27407,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            8
+            9
           ],
           [
             "#งานโดจิน SP Marker: AZKi\n(1 ชิ้น)",
@@ -27407,7 +27419,7 @@
             "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            9
+            10
           ],
           [
             "[hSD12] SD: hololive English (JP) | Advent \n(1 กล่อง)  ",
@@ -27419,7 +27431,7 @@
             "2026-02-19T17:00:00.000Z",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
-            10
+            11
           ],
           [
             "[hSD13] SD: hololive English (JP) | Justice\n(1 กล่อง)  ",
@@ -27429,18 +27441,6 @@
             "มีในคลัง",
             "2025-11-30T17:00:00.000Z",
             "2026-02-19T17:00:00.000Z",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Pre-Order",
-            11
-          ],
-          [
-            "",
-            "",
-            "",
-            "",
-            "หมด",
-            "",
-            "",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Pre-Order",
             12
@@ -29071,7 +29071,7 @@
           {
             "valueType": "IMAGE"
           },
-          70,
+          60,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP06",
           63
@@ -32159,7 +32159,7 @@
           {
             "valueType": "IMAGE"
           },
-          2400,
+          1800,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP01",
           4
