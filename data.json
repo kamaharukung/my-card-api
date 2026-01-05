@@ -2789,13 +2789,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-027_RR.png",
           "hBP06",
           "RR",
-          175,
+          150,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          10,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           39
@@ -2981,13 +2981,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-039_RR.png",
           "hBP06",
           "RR",
-          100,
+          130,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           51
@@ -3419,7 +3419,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           78
@@ -12859,7 +12859,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           67
@@ -15899,7 +15899,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           27
@@ -26309,13 +26309,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD06/hSD06-007_RR.png",
           "hSD06",
           "RR",
-          105,
+          80,
           4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          10,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD06",
           8
@@ -26379,7 +26379,7 @@
           {
             "valueType": "IMAGE"
           },
-          25,
+          30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD06",
           12
@@ -26875,7 +26875,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD09",
           5
@@ -30967,13 +30967,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-027_RR.png",
           "hBP06",
           "RR",
-          175,
+          150,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          10,
+          5,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP06",
           39
@@ -31159,13 +31159,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-039_RR.png",
           "hBP06",
           "RR",
-          100,
+          130,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP06",
           51
@@ -31597,7 +31597,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP06",
           78
@@ -40253,7 +40253,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          10,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP03",
           18
@@ -43805,7 +43805,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP04",
           10
@@ -54391,13 +54391,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD06/hSD06-007_RR.png",
           "hSD06",
           "RR",
-          105,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          10,
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "SD06",
           8
@@ -54461,7 +54461,7 @@
           {
             "valueType": "IMAGE"
           },
-          25,
+          30,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "SD06",
           12
@@ -54957,7 +54957,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "SD09",
           5
