@@ -811,7 +811,7 @@
           {
             "valueType": "IMAGE"
           },
-          40,
+          50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           51
@@ -3798,7 +3798,7 @@
           "hBP06",
           "U",
           100,
-          19,
+          17,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -20961,6 +20961,22 @@
           20
         ],
         [
+          "hBP01-039",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-039_P.png",
+          "hPR",
+          "P",
+          145,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          5,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          21
+        ],
+        [
           "hBP01-041",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-041_P.png",
           "hPR",
@@ -20974,7 +20990,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          21
+          22
         ],
         [
           "hBP01-044",
@@ -20990,7 +21006,7 @@
           50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          22
+          23
         ],
         [
           "hBP01-046",
@@ -21006,7 +21022,7 @@
           40,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          23
+          24
         ],
         [
           "hBP01-048",
@@ -21022,7 +21038,7 @@
           100,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          24
+          25
         ],
         [
           "hBP01-050",
@@ -21038,7 +21054,7 @@
           80,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          25
+          26
         ],
         [
           "hBP01-052",
@@ -21054,7 +21070,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          26
+          27
         ],
         [
           "hBP01-054",
@@ -21070,7 +21086,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          27
+          28
         ],
         [
           "hBP01-055",
@@ -21086,7 +21102,7 @@
           700,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          28
+          29
         ],
         [
           "hBP01-056",
@@ -21102,7 +21118,7 @@
           70,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          29
+          30
         ],
         [
           "hBP01-060",
@@ -21118,7 +21134,7 @@
           40,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          30
+          31
         ],
         [
           "hBP01-061",
@@ -21134,7 +21150,7 @@
           1000,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          31
+          32
         ],
         [
           "hBP01-062",
@@ -21150,7 +21166,7 @@
           70,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          32
+          33
         ],
         [
           "hBP01-065",
@@ -21166,7 +21182,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          33
+          34
         ],
         [
           "hBP01-066",
@@ -21182,7 +21198,7 @@
           240,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          34
+          35
         ],
         [
           "hBP01-068",
@@ -21198,7 +21214,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          35
+          36
         ],
         [
           "hBP01-070",
@@ -21214,7 +21230,7 @@
           40,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          36
+          37
         ],
         [
           "hBP01-072",
@@ -21230,7 +21246,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          37
+          38
         ],
         [
           "hBP01-074",
@@ -21246,7 +21262,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          38
+          39
         ],
         [
           "hBP01-075",
@@ -21262,7 +21278,7 @@
           500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          39
+          40
         ],
         [
           "hBP01-076",
@@ -21278,7 +21294,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          40
+          41
         ],
         [
           "hBP01-076",
@@ -21294,7 +21310,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          41
+          42
         ],
         [
           "hBP01-077",
@@ -21310,7 +21326,7 @@
           1000,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          42
+          43
         ],
         [
           "hBP01-079",
@@ -21326,7 +21342,7 @@
           200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          43
+          44
         ],
         [
           "hBP01-080",
@@ -21342,7 +21358,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          44
+          45
         ],
         [
           "hBP01-082",
@@ -21358,7 +21374,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          45
+          46
         ],
         [
           "hBP01-086",
@@ -21374,7 +21390,7 @@
           10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          46
+          47
         ],
         [
           "hBP01-087",
@@ -21390,7 +21406,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          47
+          48
         ],
         [
           "hBP01-088",
@@ -21406,7 +21422,7 @@
           50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          48
+          49
         ],
         [
           "hBP01-090",
@@ -21422,7 +21438,7 @@
           50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          49
+          50
         ],
         [
           "hBP01-092",
@@ -21438,7 +21454,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          50
+          51
         ],
         [
           "hBP01-094",
@@ -21454,7 +21470,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          51
+          52
         ],
         [
           "hBP01-095",
@@ -21470,7 +21486,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          52
+          53
         ],
         [
           "hBP01-102",
@@ -21486,7 +21502,7 @@
           1000,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          53
+          54
         ],
         [
           "hBP01-104",
@@ -21502,7 +21518,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          54
+          55
         ],
         [
           "hBP01-108",
@@ -21518,7 +21534,7 @@
           350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          55
+          56
         ],
         [
           "hBP01-113",
@@ -21534,7 +21550,7 @@
           280,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          56
+          57
         ],
         [
           "hBP01-114",
@@ -21550,7 +21566,7 @@
           10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          57
+          58
         ],
         [
           "hBP01-115",
@@ -21566,7 +21582,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          58
+          59
         ],
         [
           "hBP01-126",
@@ -21582,7 +21598,7 @@
           400,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          59
+          60
         ],
         [
           "hBP02-008",
@@ -21598,7 +21614,7 @@
           300,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          60
+          61
         ],
         [
           "hBP02-008",
@@ -21614,7 +21630,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          61
+          62
         ],
         [
           "hBP02-009",
@@ -21630,7 +21646,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          62
+          63
         ],
         [
           "hBP02-011",
@@ -21646,7 +21662,7 @@
           1200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          63
+          64
         ],
         [
           "hBP02-014",
@@ -21662,7 +21678,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          64
+          65
         ],
         [
           "hBP02-018",
@@ -21678,7 +21694,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          65
+          66
         ],
         [
           "hBP02-024",
@@ -21694,7 +21710,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          66
+          67
         ],
         [
           "hBP02-028",
@@ -21710,7 +21726,7 @@
           1100,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          67
+          68
         ],
         [
           "hBP02-028",
@@ -21726,7 +21742,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          68
+          69
         ],
         [
           "hBP02-029",
@@ -21742,7 +21758,7 @@
           1100,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          69
+          70
         ],
         [
           "hBP02-032",
@@ -21758,7 +21774,7 @@
           1000,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          70
+          71
         ],
         [
           "hBP02-035",
@@ -21774,7 +21790,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          71
+          72
         ],
         [
           "hBP02-042",
@@ -21790,7 +21806,7 @@
           50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          72
+          73
         ],
         [
           "hBP02-043",
@@ -21806,7 +21822,7 @@
           200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          73
+          74
         ],
         [
           "hBP02-047",
@@ -21822,7 +21838,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          74
+          75
         ],
         [
           "hBP02-048",
@@ -21838,7 +21854,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          75
+          76
         ],
         [
           "hBP02-054",
@@ -21854,7 +21870,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          76
+          77
         ],
         [
           "hBP02-061",
@@ -21870,7 +21886,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          77
+          78
         ],
         [
           "hBP02-065",
@@ -21886,7 +21902,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          78
+          79
         ],
         [
           "hBP02-079",
@@ -21902,7 +21918,7 @@
           400,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          79
+          80
         ],
         [
           "hBP02-085",
@@ -21918,7 +21934,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          80
+          81
         ],
         [
           "hBP03-006",
@@ -21934,7 +21950,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          81
+          82
         ],
         [
           "hBP03-009",
@@ -21950,7 +21966,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          82
+          83
         ],
         [
           "hBP03-014",
@@ -21966,7 +21982,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          83
+          84
         ],
         [
           "hBP03-016",
@@ -21982,7 +21998,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          84
+          85
         ],
         [
           "hBP03-025",
@@ -21998,7 +22014,7 @@
           10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          85
+          86
         ],
         [
           "hBP03-026",
@@ -22014,7 +22030,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          86
+          87
         ],
         [
           "hBP03-031",
@@ -22030,7 +22046,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          87
+          88
         ],
         [
           "hBP03-037",
@@ -22046,7 +22062,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          88
+          89
         ],
         [
           "hBP03-040",
@@ -22062,7 +22078,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          89
+          90
         ],
         [
           "hBP03-046",
@@ -22078,7 +22094,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          90
+          91
         ],
         [
           "hBP03-051",
@@ -22094,7 +22110,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          91
+          92
         ],
         [
           "hBP03-057",
@@ -22110,7 +22126,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          92
+          93
         ],
         [
           "hBP03-061",
@@ -22126,7 +22142,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          93
+          94
         ],
         [
           "hBP03-067",
@@ -22142,7 +22158,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          94
+          95
         ],
         [
           "hBP03-073",
@@ -22158,7 +22174,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          95
+          96
         ],
         [
           "hBP03-080",
@@ -22174,7 +22190,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          96
+          97
         ],
         [
           "hBP03-088",
@@ -22190,7 +22206,7 @@
           600,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          97
+          98
         ],
         [
           "hBP03-088",
@@ -22206,7 +22222,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          98
+          99
         ],
         [
           "hBP03-088",
@@ -22222,7 +22238,7 @@
           500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          99
+          100
         ],
         [
           "hBP03-092",
@@ -22238,7 +22254,7 @@
           100,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          100
+          101
         ],
         [
           "hBP03-093",
@@ -22254,7 +22270,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          101
+          102
         ],
         [
           "hBP03-105",
@@ -22270,7 +22286,7 @@
           350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          102
+          103
         ],
         [
           "hBP03-107",
@@ -22286,7 +22302,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          103
+          104
         ],
         [
           "hBP03-112",
@@ -22302,7 +22318,7 @@
           250,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          104
+          105
         ],
         [
           "hBP04-008",
@@ -22318,7 +22334,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          105
+          106
         ],
         [
           "hBP04-009",
@@ -22334,7 +22350,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          106
+          107
         ],
         [
           "hBP04-016",
@@ -22350,7 +22366,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          107
+          108
         ],
         [
           "hBP04-020",
@@ -22366,7 +22382,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          108
+          109
         ],
         [
           "hBP04-028",
@@ -22382,7 +22398,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          109
+          110
         ],
         [
           "hBP04-032",
@@ -22398,7 +22414,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          110
+          111
         ],
         [
           "hBP04-039",
@@ -22414,7 +22430,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          111
+          112
         ],
         [
           "hBP04-043",
@@ -22430,7 +22446,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          112
+          113
         ],
         [
           "hBP04-044",
@@ -22446,7 +22462,7 @@
           300,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          113
+          114
         ],
         [
           "hBP04-050",
@@ -22462,7 +22478,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          114
+          115
         ],
         [
           "hBP04-054",
@@ -22478,7 +22494,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          115
+          116
         ],
         [
           "hBP04-062",
@@ -22494,7 +22510,7 @@
           200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          116
+          117
         ],
         [
           "hBP04-063",
@@ -22510,7 +22526,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          117
+          118
         ],
         [
           "hBP04-067",
@@ -22526,7 +22542,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          118
+          119
         ],
         [
           "hBP04-068",
@@ -22542,7 +22558,7 @@
           900,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          119
+          120
         ],
         [
           "hBP04-073",
@@ -22558,7 +22574,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          120
+          121
         ],
         [
           "hBP04-074",
@@ -22574,7 +22590,7 @@
           160,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          121
+          122
         ],
         [
           "hBP04-079",
@@ -22590,7 +22606,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          122
+          123
         ],
         [
           "hBP04-083",
@@ -22606,7 +22622,23 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          123
+          124
+        ],
+        [
+          "hBP05-009",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-009_P.png",
+          "hPR",
+          "P",
+          1995,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          320,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          125
         ],
         [
           "hBP05-011",
@@ -22622,7 +22654,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          124
+          126
         ],
         [
           "hBP05-031",
@@ -22638,7 +22670,39 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          125
+          127
+        ],
+        [
+          "hBP05-036",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-036_P.png",
+          "hPR",
+          "P",
+          6200,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          1200,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          128
+        ],
+        [
+          "hBP05-068",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-068_P.png",
+          "hPR",
+          "P",
+          4450,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          1000,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          129
         ],
         [
           "hBP05-079",
@@ -22654,7 +22718,7 @@
           240,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          126
+          130
         ],
         [
           "hBP05-079",
@@ -22670,7 +22734,7 @@
           400,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          127
+          131
         ],
         [
           "hBP05-080",
@@ -22686,7 +22750,39 @@
           160,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          128
+          132
+        ],
+        [
+          "hBP06-015",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-015_P.png",
+          "hPR",
+          "P",
+          195,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          133
+        ],
+        [
+          "hBP06-022",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-022_P.png",
+          "hPR",
+          "P",
+          105,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          5,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          134
         ],
         [
           "hPR-001",
@@ -22702,7 +22798,7 @@
           170,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          129
+          135
         ],
         [
           "hPR-002",
@@ -22718,7 +22814,7 @@
           280,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          130
+          136
         ],
         [
           "hPR-002",
@@ -22734,7 +22830,7 @@
           500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          131
+          137
         ],
         [
           "hSD01-004",
@@ -22750,7 +22846,7 @@
           280,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          132
+          138
         ],
         [
           "hSD01-006",
@@ -22766,7 +22862,7 @@
           240,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          133
+          139
         ],
         [
           "hSD01-007",
@@ -22782,7 +22878,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          134
+          140
         ],
         [
           "hSD01-009",
@@ -22798,7 +22894,7 @@
           500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          135
+          141
         ],
         [
           "hSD01-011",
@@ -22814,7 +22910,7 @@
           900,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          136
+          142
         ],
         [
           "hSD01-012",
@@ -22830,7 +22926,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          137
+          143
         ],
         [
           "hSD01-013",
@@ -22846,7 +22942,7 @@
           100,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          138
+          144
         ],
         [
           "hSD01-016",
@@ -22862,7 +22958,7 @@
           40,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          139
+          145
         ],
         [
           "hSD01-016",
@@ -22878,7 +22974,7 @@
           6400,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          140
+          146
         ],
         [
           "hSD01-017",
@@ -22894,7 +22990,7 @@
           50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          141
+          147
         ],
         [
           "hSD01-018",
@@ -22910,7 +23006,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          142
+          148
         ],
         [
           "hSD02-002",
@@ -22926,7 +23022,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          143
+          149
         ],
         [
           "hSD02-007",
@@ -22942,7 +23038,7 @@
           160,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          144
+          150
         ],
         [
           "hSD02-012",
@@ -22958,7 +23054,23 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          145
+          151
+        ],
+        [
+          "hSD02-014",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD02-014_P.png",
+          "hPR",
+          "P",
+          125,
+          1,
+          "มีในคลัง",
+          {
+            "valueType": "IMAGE"
+          },
+          1,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          152
         ],
         [
           "hSD03-002",
@@ -22974,7 +23086,7 @@
           10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          146
+          153
         ],
         [
           "hSD03-002",
@@ -22990,7 +23102,7 @@
           650,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          147
+          154
         ],
         [
           "hSD03-003",
@@ -23006,7 +23118,7 @@
           400,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          148
+          155
         ],
         [
           "hSD03-007",
@@ -23022,7 +23134,7 @@
           10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          149
+          156
         ],
         [
           "hSD03-013",
@@ -23038,7 +23150,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          150
+          157
         ],
         [
           "hSD04-002",
@@ -23054,7 +23166,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          151
+          158
         ],
         [
           "hSD04-007",
@@ -23070,7 +23182,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          152
+          159
         ],
         [
           "hSD05-002",
@@ -23086,7 +23198,39 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          153
+          160
+        ],
+        [
+          "hSD05-011",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD05-011_P.png",
+          "hPR",
+          "P",
+          105,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          1,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          161
+        ],
+        [
+          "hSD06-005",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-005_P.png",
+          "hPR",
+          "P",
+          445,
+          1,
+          "มีในคลัง",
+          {
+            "valueType": "IMAGE"
+          },
+          60,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          162
         ],
         [
           "hSD06-006",
@@ -23102,7 +23246,39 @@
           500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          154
+          163
+        ],
+        [
+          "hSD06-008",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-008_P.png",
+          "hPR",
+          "P",
+          105,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          1,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          164
+        ],
+        [
+          "hSD06-011",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD06-011_P.png",
+          "hPR",
+          "P",
+          145,
+          1,
+          "มีในคลัง",
+          {
+            "valueType": "IMAGE"
+          },
+          10,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          165
         ],
         [
           "hSD07-002",
@@ -23118,7 +23294,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          155
+          166
         ],
         [
           "hSD07-014",
@@ -23134,7 +23310,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          156
+          167
         ],
         [
           "hSD08-002",
@@ -23150,7 +23326,7 @@
           10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          157
+          168
         ],
         [
           "hSD08-004",
@@ -23166,7 +23342,7 @@
           200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          158
+          169
         ],
         [
           "hSD08-005",
@@ -23182,7 +23358,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          159
+          170
         ],
         [
           "hSD08-006",
@@ -23198,7 +23374,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          160
+          171
         ],
         [
           "hSD08-007",
@@ -23214,7 +23390,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          161
+          172
         ],
         [
           "hSD09-002",
@@ -23230,7 +23406,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          162
+          173
         ],
         [
           "hSD09-004",
@@ -23246,7 +23422,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          163
+          174
         ],
         [
           "hSD09-005",
@@ -23262,7 +23438,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          164
+          175
         ],
         [
           "hSD09-006",
@@ -23278,7 +23454,7 @@
           25,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          165
+          176
         ],
         [
           "hSD09-007",
@@ -23294,7 +23470,71 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          166
+          177
+        ],
+        [
+          "hSD10-002",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD10-002_P.png",
+          "hPR",
+          "P",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          1,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          178
+        ],
+        [
+          "hSD10-007",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD10-007_P.png",
+          "hPR",
+          "P",
+          80,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          "",
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          179
+        ],
+        [
+          "hSD11-002",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD11-002_P.png",
+          "hPR",
+          "P",
+          80,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          "",
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          180
+        ],
+        [
+          "hSD11-007",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD11-007_P.png",
+          "hPR",
+          "P",
+          170,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          15,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "PR",
+          181
         ],
         [
           "hY01-002",
@@ -23310,7 +23550,7 @@
           50,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          167
+          182
         ],
         [
           "hY01-005",
@@ -23326,7 +23566,7 @@
           320,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          168
+          183
         ],
         [
           "hY01-009",
@@ -23342,7 +23582,7 @@
           250,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          169
+          184
         ],
         [
           "hY02-004",
@@ -23358,7 +23598,7 @@
           240,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          170
+          185
         ],
         [
           "hY02-007",
@@ -23374,7 +23614,7 @@
           450,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          171
+          186
         ],
         [
           "hY03-005",
@@ -23390,7 +23630,7 @@
           140,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          172
+          187
         ],
         [
           "hY03-006",
@@ -23406,7 +23646,7 @@
           280,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          173
+          188
         ],
         [
           "hY03-007",
@@ -23422,7 +23662,7 @@
           140,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          174
+          189
         ],
         [
           "hY03-008",
@@ -23438,7 +23678,7 @@
           280,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          175
+          190
         ],
         [
           "hY03-011",
@@ -23454,7 +23694,7 @@
           350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          176
+          191
         ],
         [
           "hY03-012",
@@ -23470,7 +23710,7 @@
           280,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          177
+          192
         ],
         [
           "hY04-004",
@@ -23486,7 +23726,7 @@
           320,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          178
+          193
         ],
         [
           "hY04-009",
@@ -23502,7 +23742,7 @@
           350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          179
+          194
         ],
         [
           "hY05-007",
@@ -23518,7 +23758,7 @@
           180,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          180
+          195
         ],
         [
           "hY06-003",
@@ -23534,7 +23774,7 @@
           350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          181
+          196
         ],
         [
           "hY06-006",
@@ -23550,7 +23790,7 @@
           240,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
-          182
+          197
         ],
         [
           "hBD24-001",
@@ -28989,7 +29229,7 @@
           {
             "valueType": "IMAGE"
           },
-          40,
+          50,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP06",
           51
