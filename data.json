@@ -1435,7 +1435,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           90
@@ -4150,8 +4150,8 @@
           "hBP01",
           "OUR",
           3200,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -11531,7 +11531,7 @@
           {
             "valueType": "IMAGE"
           },
-          50,
+          40,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP03",
           109
@@ -14667,7 +14667,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           67
@@ -15339,7 +15339,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           109
@@ -15723,7 +15723,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           16
@@ -18715,7 +18715,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           95
@@ -29853,7 +29853,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP06",
           90
@@ -39949,7 +39949,7 @@
           {
             "valueType": "IMAGE"
           },
-          50,
+          40,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP03",
           109
@@ -43085,7 +43085,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          10,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP04",
           67
@@ -43757,7 +43757,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP04",
           109
@@ -44237,7 +44237,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP04",
           22
@@ -47133,7 +47133,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP05",
           95
