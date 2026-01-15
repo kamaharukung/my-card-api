@@ -2571,7 +2571,7 @@
           {
             "valueType": "IMAGE"
           },
-          170,
+          250,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           15
@@ -22358,8 +22358,8 @@
           "hPR",
           "P",
           145,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -22374,8 +22374,8 @@
           "hPR",
           "P",
           170,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -23478,8 +23478,8 @@
           "hPR",
           "P",
           105,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -31198,7 +31198,7 @@
           {
             "valueType": "IMAGE"
           },
-          170,
+          250,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP02",
           15
