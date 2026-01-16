@@ -91,7 +91,7 @@
           {
             "valueType": "IMAGE"
           },
-          220,
+          350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP01",
           6
@@ -1285,13 +1285,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-060_U.png",
           "hBP01",
           "U",
-          45,
+          55,
           12,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           61
@@ -5701,7 +5701,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-098_C.png",
           "hBP02",
           "C",
-          10,
+          15,
           22,
           "มีในคลัง",
           {
@@ -11781,7 +11781,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-020_C.png",
           "hBP04",
           "C",
-          20,
+          30,
           5,
           "มีในคลัง",
           {
@@ -15557,7 +15557,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-024_R.png",
           "hBP05",
           "R",
-          20,
+          30,
           15,
           "มีในคลัง",
           {
@@ -22437,13 +22437,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-043_P.png",
           "hPR",
           "P",
-          105,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           113
@@ -22795,7 +22795,7 @@
           {
             "valueType": "IMAGE"
           },
-          170,
+          200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           135
@@ -25483,7 +25483,7 @@
           {
             "valueType": "IMAGE"
           },
-          10,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD01",
           19
@@ -26091,7 +26091,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD04",
           8
@@ -28718,7 +28718,7 @@
           {
             "valueType": "IMAGE"
           },
-          220,
+          350,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP01",
           6
@@ -29752,13 +29752,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-060_U.png",
           "hBP01",
           "U",
-          45,
+          55,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP01",
           51
@@ -34328,7 +34328,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-098_C.png",
           "hBP02",
           "C",
-          10,
+          15,
           "",
           "หมด",
           {
@@ -41304,7 +41304,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-020_C.png",
           "hBP04",
           "C",
-          20,
+          30,
           "",
           "หมด",
           {
@@ -44056,7 +44056,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-024_R.png",
           "hBP05",
           "R",
-          20,
+          30,
           16,
           "มีในคลัง",
           {
@@ -51016,13 +51016,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-043_P.png",
           "hPR",
           "P",
-          105,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "PR",
           110
@@ -51294,7 +51294,7 @@
           {
             "valueType": "IMAGE"
           },
-          170,
+          200,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "PR",
           127
@@ -53774,7 +53774,7 @@
           {
             "valueType": "IMAGE"
           },
-          10,
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "SD01",
           19
@@ -54382,7 +54382,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "SD04",
           8
