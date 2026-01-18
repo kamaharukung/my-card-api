@@ -1046,7 +1046,7 @@
           "hBP01",
           "U",
           30,
-          5,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1078,7 +1078,7 @@
           "hBP01",
           "RR",
           45,
-          5,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -15558,7 +15558,7 @@
           "hBP05",
           "R",
           30,
-          15,
+          14,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -20998,7 +20998,7 @@
           "hPR",
           "P",
           245,
-          2,
+          1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -21014,8 +21014,8 @@
           "hPR",
           "P",
           195,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -22043,7 +22043,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           88
@@ -22886,7 +22886,7 @@
           "hPR",
           "P",
           1995,
-          2,
+          1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -25334,7 +25334,7 @@
           "hSD01",
           "U",
           15,
-          2,
+          1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -50622,7 +50622,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "PR",
           85
