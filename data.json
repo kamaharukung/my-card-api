@@ -1509,7 +1509,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-074_U.png",
           "hBP01",
           "U",
-          45,
+          55,
           10,
           "มีในคลัง",
           {
@@ -3317,13 +3317,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-015_S.png",
           "hBP02",
           "S",
-          80,
+          105,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           62
@@ -3435,7 +3435,7 @@
           {
             "valueType": "IMAGE"
           },
-          25,
+          30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           69
@@ -4155,7 +4155,7 @@
           {
             "valueType": "IMAGE"
           },
-          70,
+          60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP02",
           2
@@ -6763,7 +6763,7 @@
           {
             "valueType": "IMAGE"
           },
-          50,
+          40,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP03",
           63
@@ -11781,7 +11781,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-020_C.png",
           "hBP04",
           "C",
-          30,
+          20,
           5,
           "มีในคลัง",
           {
@@ -11867,7 +11867,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           27
@@ -14379,7 +14379,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           76
@@ -19083,7 +19083,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           19
@@ -29809,7 +29809,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-074_U.png",
           "hBP01",
           "U",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -31937,13 +31937,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-015_S.png",
           "hBP02",
           "S",
-          80,
+          105,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP02",
           62
@@ -32055,7 +32055,7 @@
           {
             "valueType": "IMAGE"
           },
-          25,
+          30,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP02",
           69
@@ -32775,7 +32775,7 @@
           {
             "valueType": "IMAGE"
           },
-          70,
+          60,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP02",
           2
@@ -35383,7 +35383,7 @@
           {
             "valueType": "IMAGE"
           },
-          50,
+          40,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP03",
           63
@@ -40215,7 +40215,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP04",
           10
@@ -41297,7 +41297,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-020_C.png",
           "hBP04",
           "C",
-          30,
+          20,
           "",
           "หมด",
           {
@@ -42999,7 +42999,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          35,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP05",
           76
@@ -47703,7 +47703,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP06",
           19
