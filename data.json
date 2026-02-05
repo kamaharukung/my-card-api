@@ -28183,11 +28183,55 @@
             "Houshou Marine",
             4200,
             "https://i.postimg.cc/sf9hsxZC/image.png",
-            1,
-            "มีในคลัง",
+            "",
+            "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Set พร้อมเล่น",
             5
+          ]
+        ]
+      },
+      "Copy of Set พร้อมเล่น": {
+        "headers": [
+          "ชื่อสินค้า",
+          "ราคา",
+          "รูปภาพ",
+          "จำนวนในคลัง",
+          "สถานะ",
+          "_ssId",
+          "_sheet",
+          "_row"
+        ],
+        "data": [
+          [
+            "SEC Takanashi Kiara",
+            9500,
+            "https://i.postimg.cc/4YmpzJVC/Frame-368.png",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Copy of Set พร้อมเล่น",
+            2
+          ],
+          [
+            "OUR Inugami Korone",
+            14000,
+            "https://i.postimg.cc/K1wBfdDv/Frame-412.png",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Copy of Set พร้อมเล่น",
+            3
+          ],
+          [
+            "OUR Hoshimachi Suisei & Nekomata Okayu",
+            15000,
+            "https://i.postimg.cc/VJpng3Ws/Frame-413.png",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Copy of Set พร้อมเล่น",
+            4
           ]
         ]
       },
@@ -28235,7 +28279,7 @@
           ],
           [
             "La+ Darknesss",
-            850,
+            700,
             "https://i.postimg.cc/t4Mry1d1/af147bb0_ac66_4fc3_82eb_9031565aafc2.jpg",
             1,
             "มีในคลัง",
@@ -28335,7 +28379,7 @@
           ],
           [
             "Ookami Mio",
-            650,
+            1100,
             "https://i.postimg.cc/cJtFJsTB/990a5f88_85db_4378_8ad2_910c28761c46.jpg",
             2,
             "มีในคลัง",
