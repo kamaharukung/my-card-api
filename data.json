@@ -9723,7 +9723,7 @@
           {
             "valueType": "IMAGE"
           },
-          450,
+          620,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           10
@@ -10875,7 +10875,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          80,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           82
@@ -16443,7 +16443,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP05",
           89
@@ -28160,16 +28160,6 @@
             2
           ],
           [
-            "Shirakami Fubuki",
-            3800,
-            "https://i.postimg.cc/W4H7m3wW/image.png",
-            1,
-            "มีในคลัง",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Set พร้อมเล่น",
-            3
-          ],
-          [
             "Omaru Polka",
             3000,
             "https://i.postimg.cc/mgd3RDJZ/image.png",
@@ -28177,7 +28167,7 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Set พร้อมเล่น",
-            4
+            3
           ],
           [
             "Houshou Marine",
@@ -28187,11 +28177,11 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Set พร้อมเล่น",
-            5
+            4
           ]
         ]
       },
-      "Copy of Set พร้อมเล่น": {
+      "Set หรูพร้อมเล่น": {
         "headers": [
           "ชื่อสินค้า",
           "ราคา",
@@ -28210,7 +28200,7 @@
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Copy of Set พร้อมเล่น",
+            "Set หรูพร้อมเล่น",
             2
           ],
           [
@@ -28220,17 +28210,17 @@
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Copy of Set พร้อมเล่น",
+            "Set หรูพร้อมเล่น",
             3
           ],
           [
             "OUR Hoshimachi Suisei & Nekomata Okayu",
             15000,
             "https://i.postimg.cc/VJpng3Ws/Frame-413.png",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Copy of Set พร้อมเล่น",
+            "Set หรูพร้อมเล่น",
             4
           ]
         ]
@@ -38483,7 +38473,7 @@
           {
             "valueType": "IMAGE"
           },
-          450,
+          620,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP04",
           10
@@ -39635,7 +39625,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          80,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP04",
           82
@@ -44835,7 +44825,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          10,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BP05",
           66
