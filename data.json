@@ -29561,6 +29561,150 @@
           ]
         ]
       },
+      "hololive Meet": {
+        "headers": [
+          "ชื่อสินค้า",
+          "ราคา",
+          "รูปภาพ",
+          "จำนวนในคลัง",
+          "สถานะ",
+          "_ssId",
+          "_sheet",
+          "_row"
+        ],
+        "data": [
+          [
+            "hololive Meet 2025 Acrylic Stand: ",
+            750,
+            "",
+            3,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            2
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            3
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            4
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            5
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            6
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            7
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            8
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            9
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            10
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            11
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            12
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            13
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "hololive Meet",
+            14
+          ]
+        ]
+      },
       "สินค้าอื่นๆ": {
         "headers": [
           "ชื่อสินค้า",
