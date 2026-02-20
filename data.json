@@ -5366,7 +5366,7 @@
           "hBP02",
           "C",
           20,
-          10,
+          9,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -20406,8 +20406,8 @@
           "hBP06",
           "U",
           80,
-          2,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -27403,7 +27403,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD10",
           2
@@ -28022,8 +28022,8 @@
           "hSD12",
           "U",
           105,
-          2,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -56731,7 +56731,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "SD10",
           2
