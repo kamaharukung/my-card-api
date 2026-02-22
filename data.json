@@ -29738,7 +29738,7 @@
         ],
         "data": [
           [
-            "Set Limited Edition",
+            "FUWAMOCO 2nd Anniversary Celebration: Set Limited Edition",
             7100,
             "https://lh3.googleusercontent.com/d/1fCvTRI0eDF3nDIpllvrIjHA-0vkMzeCK",
             1,
@@ -29748,7 +29748,7 @@
             2
           ],
           [
-            "Fluffy Fuzzy Adventure Mat",
+            "FUWAMOCO 2nd Anniversary Celebration: Fluffy Fuzzy Adventure Mat",
             1250,
             "https://lh3.googleusercontent.com/d/1jsnfTK3IgHZEJ10A6v4THb_8Rsvc3PFG",
             "",
@@ -29758,7 +29758,7 @@
             3
           ],
           [
-            "FUWAMOCO Ita-Shirt",
+            "FUWAMOCO 2nd Anniversary Celebration: FUWAMOCO Ita-Shirt",
             1800,
             "https://lh3.googleusercontent.com/d/1kEDV6q_bTtB4J7gSKd48TMHKrz9rKyJc",
             1,
@@ -29768,7 +29768,7 @@
             4
           ],
           [
-            "Pero on the Brain♡Cap",
+            "FUWAMOCO 2nd Anniversary Celebration: Pero on the Brain♡Cap",
             1500,
             "https://lh3.googleusercontent.com/d/1ccb7qfrlbw4vmlPW1ej0_HyPmWFSoL5J",
             1,
@@ -29778,7 +29778,7 @@
             5
           ],
           [
-            "FUWAMOCO Donut♡Cushion",
+            "FUWAMOCO 2nd Anniversary Celebration: FUWAMOCO Donut♡Cushion",
             2150,
             "https://lh3.googleusercontent.com/d/1pHKfZsm1xQdz-351bs2wM9i2eau05jtR",
             1,
@@ -29846,6 +29846,90 @@
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Anniversary Merch",
             12
+          ]
+        ]
+      },
+      " CD Merch": {
+        "headers": [
+          "ชื่อสินค้า",
+          "ราคา",
+          "รูปภาพ",
+          "จำนวนในคลัง",
+          "สถานะ",
+          "_ssId",
+          "_sheet",
+          "_row"
+        ],
+        "data": [
+          [
+            "Hoshimachi Suisei CD single \"Moonshot\" Limited Edition/Regular Edition Set (With Exclusive Bonus)",
+            2450,
+            "https://lh3.googleusercontent.com/d/1zPk0pn5X_nZXwMLR1Ay_kAOkoB8ln5Ne",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            2
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            3
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            4
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            5
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            6
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            7
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            " CD Merch",
+            8
           ]
         ]
       },
