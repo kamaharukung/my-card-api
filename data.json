@@ -51228,8 +51228,8 @@
           "hPR",
           "P",
           245,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -53633,7 +53633,7 @@
           {
             "valueType": "IMAGE"
           },
-          1050,
+          900,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "BD24",
           6
