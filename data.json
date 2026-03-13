@@ -37,7 +37,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-003_SEC.png",
           "hBP07",
           "SEC",
-          "",
+          29940,
           "",
           "หมด",
           {
@@ -481,6 +481,102 @@
           30
         ],
         [
+          "hY01-012",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hY01-012_SY.png",
+          "hBP07",
+          "SY",
+          745,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          150,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "ของหรู BP07",
+          31
+        ],
+        [
+          "hY02-010",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hY02-010_SY.png",
+          "hBP07",
+          "SY",
+          620,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          120,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "ของหรู BP07",
+          32
+        ],
+        [
+          "hY03-014",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hY03-014_SY.png",
+          "hBP07",
+          "SY",
+          745,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          150,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "ของหรู BP07",
+          33
+        ],
+        [
+          "hY04-011",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hY04-011_SY.png",
+          "hBP07",
+          "SY",
+          370,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          75,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "ของหรู BP07",
+          34
+        ],
+        [
+          "hY05-009",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hY05-009_SY.png",
+          "hBP07",
+          "SY",
+          620,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          120,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "ของหรู BP07",
+          35
+        ],
+        [
+          "hY06-009",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hY06-009_SY.png",
+          "hBP07",
+          "SY",
+          495,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          105,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "ของหรู BP07",
+          36
+        ],
+        [
           "hBP07-012",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-012_SR.png",
           "hBP07",
@@ -494,7 +590,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          31
+          37
         ],
         [
           "hBP07-014",
@@ -510,7 +606,7 @@
           90,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          32
+          38
         ],
         [
           "hBP07-019",
@@ -526,7 +622,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          33
+          39
         ],
         [
           "hBP07-021",
@@ -542,7 +638,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          34
+          40
         ],
         [
           "hBP07-022",
@@ -558,7 +654,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          35
+          41
         ],
         [
           "hBP07-027",
@@ -574,7 +670,7 @@
           120,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          36
+          42
         ],
         [
           "hBP07-029",
@@ -590,7 +686,7 @@
           75,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          37
+          43
         ],
         [
           "hBP07-030",
@@ -606,7 +702,7 @@
           75,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          38
+          44
         ],
         [
           "hBP07-031",
@@ -622,7 +718,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          39
+          45
         ],
         [
           "hBP07-034",
@@ -638,7 +734,7 @@
           105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          40
+          46
         ],
         [
           "hBP07-035",
@@ -654,7 +750,7 @@
           90,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          41
+          47
         ],
         [
           "hBP07-040",
@@ -670,7 +766,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          42
+          48
         ],
         [
           "hBP07-042",
@@ -686,7 +782,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          43
+          49
         ],
         [
           "hBP07-043",
@@ -702,7 +798,7 @@
           120,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          44
+          50
         ],
         [
           "hBP07-044",
@@ -718,7 +814,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          45
+          51
         ],
         [
           "hBP07-045",
@@ -734,7 +830,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          46
+          52
         ],
         [
           "hBP07-048",
@@ -750,7 +846,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          47
+          53
         ],
         [
           "hBP07-049",
@@ -766,7 +862,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          48
+          54
         ],
         [
           "hBP07-054",
@@ -782,7 +878,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          49
+          55
         ],
         [
           "hBP07-056",
@@ -798,7 +894,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          50
+          56
         ],
         [
           "hBP07-057",
@@ -814,7 +910,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          51
+          57
         ],
         [
           "hBP07-058",
@@ -830,7 +926,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          52
+          58
         ],
         [
           "hBP07-061",
@@ -846,7 +942,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          53
+          59
         ],
         [
           "hBP07-062",
@@ -862,7 +958,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          54
+          60
         ],
         [
           "hBP07-067",
@@ -878,7 +974,7 @@
           150,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          55
+          61
         ],
         [
           "hBP07-069",
@@ -894,7 +990,7 @@
           120,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          56
+          62
         ],
         [
           "hBP07-070",
@@ -910,7 +1006,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          57
+          63
         ],
         [
           "hBP07-073",
@@ -926,7 +1022,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          58
+          64
         ],
         [
           "hBP07-074",
@@ -942,7 +1038,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          59
+          65
         ],
         [
           "hBP07-075",
@@ -958,7 +1054,7 @@
           105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          60
+          66
         ],
         [
           "hBP07-076",
@@ -974,7 +1070,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          61
+          67
         ],
         [
           "hBP07-081",
@@ -990,7 +1086,7 @@
           45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          62
+          68
         ],
         [
           "hBP07-083",
@@ -1006,7 +1102,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          63
+          69
         ],
         [
           "hBP07-084",
@@ -1022,7 +1118,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          64
+          70
         ],
         [
           "hBP07-085",
@@ -1038,7 +1134,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          65
+          71
         ],
         [
           "hBP07-086",
@@ -1054,7 +1150,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          66
+          72
         ],
         [
           "hBP07-089",
@@ -1070,7 +1166,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          67
+          73
         ],
         [
           "hBP07-090",
@@ -1086,7 +1182,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          68
+          74
         ],
         [
           "hBP07-008",
@@ -1102,7 +1198,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          69
+          75
         ],
         [
           "hBP07-009",
@@ -1118,7 +1214,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          70
+          76
         ],
         [
           "hBP07-010",
@@ -1134,7 +1230,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          71
+          77
         ],
         [
           "hBP07-011",
@@ -1150,7 +1246,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          72
+          78
         ],
         [
           "hBP07-013",
@@ -1166,7 +1262,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          73
+          79
         ],
         [
           "hBP07-015",
@@ -1182,7 +1278,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          74
+          80
         ],
         [
           "hBP07-016",
@@ -1198,7 +1294,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          75
+          81
         ],
         [
           "hBP07-017",
@@ -1214,7 +1310,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          76
+          82
         ],
         [
           "hBP07-018",
@@ -1230,7 +1326,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          77
+          83
         ],
         [
           "hBP07-020",
@@ -1246,7 +1342,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          78
+          84
         ],
         [
           "hBP07-023",
@@ -1262,7 +1358,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          79
+          85
         ],
         [
           "hBP07-024",
@@ -1278,7 +1374,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          80
+          86
         ],
         [
           "hBP07-025",
@@ -1294,7 +1390,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          81
+          87
         ],
         [
           "hBP07-026",
@@ -1310,7 +1406,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          82
+          88
         ],
         [
           "hBP07-028",
@@ -1326,7 +1422,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          83
+          89
         ],
         [
           "hBP07-032",
@@ -1342,7 +1438,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          84
+          90
         ],
         [
           "hBP07-033",
@@ -1358,7 +1454,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          85
+          91
         ],
         [
           "hBP07-036",
@@ -1374,7 +1470,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          86
+          92
         ],
         [
           "hBP07-037",
@@ -1390,7 +1486,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          87
+          93
         ],
         [
           "hBP07-038",
@@ -1406,7 +1502,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          88
+          94
         ],
         [
           "hBP07-039",
@@ -1422,7 +1518,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          89
+          95
         ],
         [
           "hBP07-041",
@@ -1438,7 +1534,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          90
+          96
         ],
         [
           "hBP07-046",
@@ -1454,7 +1550,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          91
+          97
         ],
         [
           "hBP07-047",
@@ -1470,7 +1566,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          92
+          98
         ],
         [
           "hBP07-050",
@@ -1486,7 +1582,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          93
+          99
         ],
         [
           "hBP07-051",
@@ -1502,7 +1598,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          94
+          100
         ],
         [
           "hBP07-052",
@@ -1518,7 +1614,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          95
+          101
         ],
         [
           "hBP07-053",
@@ -1534,7 +1630,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          96
+          102
         ],
         [
           "hBP07-055",
@@ -1550,7 +1646,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          97
+          103
         ],
         [
           "hBP07-059",
@@ -1566,7 +1662,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          98
+          104
         ],
         [
           "hBP07-060",
@@ -1582,7 +1678,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          99
+          105
         ],
         [
           "hBP07-063",
@@ -1598,7 +1694,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          100
+          106
         ],
         [
           "hBP07-064",
@@ -1614,7 +1710,7 @@
           90,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          101
+          107
         ],
         [
           "hBP07-065",
@@ -1630,7 +1726,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          102
+          108
         ],
         [
           "hBP07-066",
@@ -1646,7 +1742,7 @@
           60,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          103
+          109
         ],
         [
           "hBP07-068",
@@ -1662,7 +1758,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          104
+          110
         ],
         [
           "hBP07-071",
@@ -1678,7 +1774,7 @@
           15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          105
+          111
         ],
         [
           "hBP07-072",
@@ -1694,7 +1790,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          106
+          112
         ],
         [
           "hBP07-077",
@@ -1710,7 +1806,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          107
+          113
         ],
         [
           "hBP07-078",
@@ -1726,7 +1822,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          108
+          114
         ],
         [
           "hBP07-079",
@@ -1742,7 +1838,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          109
+          115
         ],
         [
           "hBP07-080",
@@ -1758,7 +1854,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          110
+          116
         ],
         [
           "hBP07-082",
@@ -1774,7 +1870,7 @@
           20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          111
+          117
         ],
         [
           "hBP07-087",
@@ -1790,7 +1886,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          112
+          118
         ],
         [
           "hBP07-088",
@@ -1806,7 +1902,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          113
+          119
         ],
         [
           "hBP07-091",
@@ -1822,7 +1918,7 @@
           150,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          114
+          120
         ],
         [
           "hBP07-092",
@@ -1838,7 +1934,7 @@
           35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          115
+          121
         ],
         [
           "hBP07-093",
@@ -1854,7 +1950,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          116
+          122
         ],
         [
           "hBP07-094",
@@ -1870,7 +1966,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          117
+          123
         ],
         [
           "hBP07-095",
@@ -1886,7 +1982,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          118
+          124
         ],
         [
           "hBP07-096",
@@ -1902,7 +1998,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          119
+          125
         ],
         [
           "hBP07-097",
@@ -1918,7 +2014,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          120
+          126
         ],
         [
           "hBP07-098",
@@ -1934,7 +2030,7 @@
           30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          121
+          127
         ],
         [
           "hBP07-099",
@@ -1950,7 +2046,7 @@
           75,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          122
+          128
         ],
         [
           "hBP07-100",
@@ -1966,7 +2062,7 @@
           "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          123
+          129
         ],
         [
           "hBP07-101",
@@ -1982,7 +2078,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          124
+          130
         ],
         [
           "hBP07-102",
@@ -1998,7 +2094,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          125
+          131
         ],
         [
           "hBP07-103",
@@ -2014,7 +2110,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          126
+          132
         ],
         [
           "hBP07-104",
@@ -2030,7 +2126,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          127
+          133
         ],
         [
           "hBP07-105",
@@ -2046,7 +2142,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          128
+          134
         ],
         [
           "hBP07-106",
@@ -2062,7 +2158,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          129
+          135
         ],
         [
           "hBP07-107",
@@ -2078,7 +2174,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          130
+          136
         ],
         [
           "hBP07-108",
@@ -2094,7 +2190,7 @@
           5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          131
+          137
         ],
         [
           "hBP07-109",
@@ -2110,7 +2206,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          132
+          138
         ],
         [
           "hBP07-110",
@@ -2126,7 +2222,7 @@
           1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
-          133
+          139
         ],
         [
           "hBP07-001",
@@ -31637,7 +31733,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hBP04-050_02_C.png",
           "hSD12",
           "C",
-          20,
+          10,
           3,
           "มีในคลัง",
           {
@@ -35551,7 +35647,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-024_C.png",
           "hBP01",
           "C",
-          45,
+          15,
           "",
           "หมด",
           {
@@ -35695,7 +35791,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-044_C.png",
           "hBP01",
           "C",
-          70,
+          15,
           "",
           "หมด",
           {
@@ -36047,7 +36143,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-092_C.png",
           "hBP01",
           "C",
-          45,
+          15,
           "",
           "หมด",
           {
@@ -39231,7 +39327,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-024_C.png",
           "hBP02",
           "C",
-          30,
+          15,
           "",
           "หมด",
           {
@@ -43023,7 +43119,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-031_C.png",
           "hBP03",
           "C",
-          20,
+          15,
           "",
           "หมด",
           {
@@ -43247,7 +43343,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-067_C.png",
           "hBP03",
           "C",
-          30,
+          15,
           "",
           "หมด",
           {
@@ -46815,7 +46911,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-050_C.png",
           "hBP04",
           "C",
-          10,
+          15,
           "",
           "หมด",
           {
@@ -60847,7 +60943,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-002_C.png",
           "hSD10",
           "C",
-          30,
+          15,
           "",
           "หมด",
           {
@@ -61055,7 +61151,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-002_C.png",
           "hSD11",
           "C",
-          30,
+          15,
           "",
           "หมด",
           {
