@@ -987,7 +987,7 @@
           {
             "valueType": "IMAGE"
           },
-          120,
+          135,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           62
@@ -1478,8 +1478,8 @@
           "hBP07",
           "S",
           150,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -1494,8 +1494,8 @@
           "hBP07",
           "S",
           130,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -1510,8 +1510,8 @@
           "hBP07",
           "S",
           130,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -1526,8 +1526,8 @@
           "hBP07",
           "S",
           100,
-          2,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -2043,7 +2043,7 @@
           {
             "valueType": "IMAGE"
           },
-          120,
+          105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           128
@@ -10902,8 +10902,8 @@
           "hBP03",
           "S",
           45,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -10918,8 +10918,8 @@
           "hBP03",
           "S",
           105,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -12101,7 +12101,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-023_R.png",
           "hBP03",
           "R",
-          30,
+          45,
           "",
           "หมด",
           {
@@ -42463,7 +42463,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-023_R.png",
           "hBP03",
           "R",
-          30,
+          45,
           "",
           "หมด",
           {
