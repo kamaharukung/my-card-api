@@ -5254,7 +5254,7 @@
           "hBP01",
           "U",
           55,
-          8,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -6918,8 +6918,8 @@
           "hBP02",
           "SR",
           145,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -6934,8 +6934,8 @@
           "hBP02",
           "SR",
           195,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -8662,7 +8662,7 @@
           "hBP02",
           "C",
           105,
-          10,
+          3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -33319,7 +33319,7 @@
             "Sakamata Chloe",
             2900,
             "https://i.postimg.cc/3xcL7yjD/de4b93c8_2bbb_4c03_b0eb_402cea17e900.jpg",
-            2,
+            1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Set Complete",
