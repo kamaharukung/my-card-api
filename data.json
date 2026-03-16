@@ -3718,7 +3718,7 @@
           "hBP07",
           "U",
           205,
-          38,
+          36,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -3798,7 +3798,7 @@
           "hBP07",
           "C",
           15,
-          43,
+          39,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -7734,8 +7734,8 @@
           "hBP02",
           "S",
           195,
-          2,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -12278,8 +12278,8 @@
           "hBP03",
           "RR",
           55,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -33087,7 +33087,7 @@
             "[hBP07] Diva Fever [JP]\n(1 กล่อง)  ",
             1800,
             "https://lh3.googleusercontent.com/d/1_RRVyZR6RGt22d1U2lM0P1nX5uSkpEFC",
-            14,
+            12,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
