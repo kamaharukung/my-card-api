@@ -1835,7 +1835,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           115
@@ -10534,8 +10534,8 @@
           "hBP03",
           "SR",
           125,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -20037,7 +20037,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-056_RR.png",
           "hBP05",
           "RR",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -21973,7 +21973,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-025_S.png",
           "hBP06",
           "S",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -22021,13 +22021,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-034_S.png",
           "hBP06",
           "S",
-          55,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           91
@@ -49679,7 +49679,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-056_RR.png",
           "hBP05",
           "RR",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -52399,7 +52399,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-025_S.png",
           "hBP06",
           "S",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -52447,13 +52447,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-034_S.png",
           "hBP06",
           "S",
-          55,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1PZWr__p_HSYugMyEBpiJ18HQGYrLefJXi9Nfrtw4QQ4",
           "ของหรู BP06",
           91
