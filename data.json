@@ -5733,7 +5733,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-090_U.png",
           "hBP01",
           "U",
-          70,
+          55,
           7,
           "มีในคลัง",
           {
@@ -6683,7 +6683,7 @@
           {
             "valueType": "IMAGE"
           },
-          300,
+          225,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           24
@@ -9045,13 +9045,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-059_RR.png",
           "hBP02",
           "RR",
-          80,
+          55,
           4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP02",
           60
@@ -12437,13 +12437,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-044_R.png",
           "hBP03",
           "R",
-          45,
+          30,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           45
@@ -15499,7 +15499,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           6
@@ -15829,7 +15829,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-025_RR.png",
           "hBP04",
           "RR",
-          70,
+          55,
           "",
           "หมด",
           {
@@ -16197,13 +16197,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-048_RR.png",
           "hBP04",
           "RR",
-          80,
+          55,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           50
@@ -17387,7 +17387,7 @@
           {
             "valueType": "IMAGE"
           },
-          150,
+          120,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           16
@@ -26315,7 +26315,7 @@
           {
             "valueType": "IMAGE"
           },
-          1500,
+          1350,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           107
