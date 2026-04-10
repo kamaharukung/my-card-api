@@ -2069,7 +2069,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-101_S.png",
           "hBP07",
           "S",
-          100,
+          130,
           1,
           "มีในคลัง",
           {
@@ -3781,7 +3781,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-098_U.png",
           "hBP07",
           "U",
-          15,
+          25,
           37,
           "มีในคลัง",
           {
@@ -11365,13 +11365,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-090_S.png",
           "hBP03",
           "S",
-          105,
+          170,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          15,
+          35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP03",
           103
@@ -13173,13 +13173,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-090_U.png",
           "hBP03",
           "U",
-          20,
+          30,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           91
@@ -27845,7 +27845,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD09-007_P.png",
           "hPR",
           "P",
-          70,
+          80,
           "",
           "หมด",
           {
@@ -31589,13 +31589,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-007_C.png",
           "hSD09",
           "C",
-          20,
+          30,
           4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD09",
           8
@@ -32315,7 +32315,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD13",
           4
