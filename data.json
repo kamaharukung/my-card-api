@@ -373,7 +373,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-003_OSR.png",
           "hBP01",
           "OSR",
-          55,
+          45,
           2,
           "มีในคลัง",
           {
@@ -1995,7 +1995,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           105
@@ -3125,13 +3125,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-068_SR.png",
           "hBP02",
           "SR",
-          170,
+          195,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          30,
+          35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           50
@@ -11339,7 +11339,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           111
@@ -15429,7 +15429,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-016_RR.png",
           "hBP05",
           "RR",
-          70,
+          55,
           "",
           "หมด",
           {
@@ -20843,7 +20843,7 @@
           {
             "valueType": "IMAGE"
           },
-          900,
+          750,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           13
@@ -21179,7 +21179,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          75,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           34
@@ -21541,7 +21541,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-057_SR.png",
           "hBP07",
           "SR",
-          105,
+          80,
           2,
           "มีในคลัง",
           {
@@ -28427,7 +28427,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          480,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           14
@@ -30747,7 +30747,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD05",
           8
