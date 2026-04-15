@@ -13877,13 +13877,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-023_SR.png",
           "hBP05",
           "SR",
-          80,
+          105,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           45
@@ -26229,13 +26229,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-061_P.png",
           "hPR",
           "P",
-          125,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           102
@@ -27179,7 +27179,7 @@
           {
             "valueType": "IMAGE"
           },
-          210,
+          180,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           161
@@ -27195,7 +27195,7 @@
           {
             "valueType": "IMAGE"
           },
-          330,
+          270,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           162
@@ -29179,7 +29179,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          675,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           61
@@ -29227,7 +29227,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          675,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           64
