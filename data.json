@@ -5077,13 +5077,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-059_RR.png",
           "hBP02",
           "RR",
-          80,
+          55,
           4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP02",
           60
@@ -6395,7 +6395,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          90,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP03",
           40
@@ -12229,7 +12229,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-048_RR.png",
           "hBP04",
           "RR",
-          55,
+          45,
           "",
           "หมด",
           {
@@ -14181,13 +14181,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-060_SR.png",
           "hBP05",
           "SR",
-          105,
+          125,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           64
@@ -20085,7 +20085,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-070_RR.png",
           "hBP06",
           "RR",
-          45,
+          55,
           2,
           "มีในคลัง",
           {
@@ -20779,7 +20779,7 @@
           {
             "valueType": "IMAGE"
           },
-          540,
+          480,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           9
@@ -21227,7 +21227,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           37
@@ -22011,7 +22011,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           86
@@ -24683,7 +24683,7 @@
           {
             "valueType": "IMAGE"
           },
-          1125,
+          1500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           5
@@ -25947,7 +25947,7 @@
           {
             "valueType": "IMAGE"
           },
-          1350,
+          1200,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           84
@@ -26283,7 +26283,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           105
@@ -28091,7 +28091,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          270,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           218
@@ -28619,7 +28619,7 @@
           {
             "valueType": "IMAGE"
           },
-          750,
+          900,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           26
@@ -28795,7 +28795,7 @@
           {
             "valueType": "IMAGE"
           },
-          420,
+          480,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           37
@@ -28859,7 +28859,7 @@
           {
             "valueType": "IMAGE"
           },
-          420,
+          480,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           41
@@ -30811,7 +30811,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD05",
           12
