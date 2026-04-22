@@ -7109,13 +7109,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-059_S.png",
           "hBP03",
           "S",
-          370,
+          320,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          90,
+          75,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP03",
           85
@@ -22741,13 +22741,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-103_S.png",
           "hBP07",
           "S",
-          45,
+          55,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           132
@@ -23083,7 +23083,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP07",
           15
@@ -23621,7 +23621,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-048_R.png",
           "hBP07",
           "R",
-          30,
+          45,
           "",
           "หมด",
           {
@@ -31739,7 +31739,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD10",
           9
@@ -31947,7 +31947,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD11",
           9
@@ -32213,7 +32213,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-013_C.png",
           "hSD12",
           "C",
-          80,
+          70,
           2,
           "มีในคลัง",
           {
@@ -32229,13 +32229,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-014_C.png",
           "hSD12",
           "C",
-          105,
+          80,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD12",
           18
@@ -32421,7 +32421,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-010_C.png",
           "hSD13",
           "C",
-          15,
+          20,
           2,
           "มีในคลัง",
           {
