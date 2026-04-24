@@ -357,13 +357,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-002_OSR.png",
           "hBP01",
           "OSR",
-          70,
+          80,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           3
@@ -11579,7 +11579,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           9
@@ -15275,7 +15275,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP05",
           16
@@ -18981,13 +18981,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-001_OSR.png",
           "hBP06",
           "OSR",
-          55,
+          70,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           13
@@ -19061,13 +19061,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-006_OSR.png",
           "hBP06",
           "OSR",
-          55,
+          70,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           18
@@ -20459,7 +20459,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           105
@@ -22885,13 +22885,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-002_OSR.png",
           "hBP07",
           "OSR",
-          55,
+          70,
           3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP07",
           3
@@ -29643,7 +29643,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD01",
           2
