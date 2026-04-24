@@ -32737,6 +32737,22 @@
           12
         ],
         [
+          "hBP01-104",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hBP01-104_02_C.png",
+          "hSD14",
+          "C",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "SD14",
+          13
+        ],
+        [
           "hSD15-001",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-001_OC.png",
           "hSD15",
@@ -32897,6 +32913,22 @@
           11
         ],
         [
+          "hBP01-104",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hBP01-104_03_C.png",
+          "hSD15",
+          "C",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "SD15",
+          12
+        ],
+        [
           "hSD16-001",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-001_OC.png",
           "hSD16",
@@ -33039,6 +33071,22 @@
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD16",
           10
+        ],
+        [
+          "hBP01-104",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hBP01-104_04_C.png",
+          "hSD16",
+          "C",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "SD16",
+          11
         ],
         [
           "hSD17-001",
@@ -33201,6 +33249,22 @@
           11
         ],
         [
+          "hBP01-104",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hBP01-104_05_C.png",
+          "hSD17",
+          "C",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "SD17",
+          12
+        ],
+        [
           "hSD18-001",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-001_OC.png",
           "hSD18",
@@ -33343,6 +33407,22 @@
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD18",
           10
+        ],
+        [
+          "hBP01-104",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hBP01-104_06_C.png",
+          "hSD18",
+          "C",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "SD18",
+          11
         ],
         [
           "hSD19-001",
@@ -33503,6 +33583,22 @@
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD19",
           11
+        ],
+        [
+          "hBP01-104",
+          "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hBP01-104_07_C.png",
+          "hSD19",
+          "C",
+          125,
+          "",
+          "หมด",
+          {
+            "valueType": "IMAGE"
+          },
+          20,
+          "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
+          "SD19",
+          12
         ]
       ]
     },
