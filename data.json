@@ -1515,7 +1515,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           75
@@ -7867,7 +7867,7 @@
           {
             "valueType": "IMAGE"
           },
-          210,
+          180,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           7
@@ -8315,7 +8315,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           35
@@ -13973,13 +13973,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-034_SR.png",
           "hBP05",
           "SR",
-          125,
+          145,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           51
@@ -22667,7 +22667,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           127
@@ -23189,7 +23189,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-021_RR.png",
           "hBP07",
           "RR",
-          45,
+          30,
           5,
           "มีในคลัง",
           {
@@ -27045,7 +27045,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-035_P.png",
           "hPR",
           "P",
-          55,
+          70,
           8,
           "มีในคลัง",
           {
@@ -27445,7 +27445,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD02-014_P.png",
           "hPR",
           "P",
-          55,
+          80,
           1,
           "มีในคลัง",
           {
@@ -30619,7 +30619,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD04",
           14
