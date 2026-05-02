@@ -3915,7 +3915,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           99
@@ -4075,7 +4075,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           109
@@ -17035,7 +17035,7 @@
           {
             "valueType": "IMAGE"
           },
-          300,
+          420,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           27
@@ -18245,13 +18245,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-057_S.png",
           "hBP06",
           "S",
-          105,
+          125,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           103
@@ -34430,40 +34430,6 @@
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Starter Deck",
             14
-          ]
-        ]
-      },
-      "Set พร้อมเล่น": {
-        "headers": [
-          "ชื่อสินค้า",
-          "ราคา",
-          "รูปภาพ",
-          "จำนวนในคลัง",
-          "สถานะ",
-          "_ssId",
-          "_sheet",
-          "_row"
-        ],
-        "data": [
-          [
-            "Tsunomaki Watame",
-            3930,
-            "https://lh3.googleusercontent.com/d/1JD2GO-reAGdtT78bGLxK1NS8b1M7Fck_",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Set พร้อมเล่น",
-            2
-          ],
-          [
-            "Ouro Kronii",
-            3080,
-            "https://lh3.googleusercontent.com/d/1RQQ6aRaHNAktMLrUjXW0mJmdQgtArwhz",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Set พร้อมเล่น",
-            3
           ]
         ]
       },
