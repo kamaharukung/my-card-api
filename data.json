@@ -411,7 +411,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           6
@@ -470,7 +470,7 @@
           "hBP01",
           "C",
           20,
-          10,
+          23,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -486,8 +486,8 @@
           "hBP01",
           "U",
           70,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -518,8 +518,8 @@
           "hBP01",
           "U",
           45,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -534,8 +534,8 @@
           "hBP01",
           "R",
           20,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -566,8 +566,8 @@
           "hBP01",
           "C",
           20,
-          "",
-          "หมด",
+          5,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -582,7 +582,7 @@
           "hBP01",
           "U",
           30,
-          6,
+          11,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -630,7 +630,7 @@
           "hBP01",
           "U",
           45,
-          1,
+          9,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -646,8 +646,8 @@
           "hBP01",
           "R",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -774,8 +774,8 @@
           "hBP01",
           "C",
           45,
-          "",
-          "หมด",
+          7,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1030,8 +1030,8 @@
           "hBP01",
           "C",
           70,
-          "",
-          "หมด",
+          3,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1046,8 +1046,8 @@
           "hBP01",
           "U",
           45,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1062,7 +1062,7 @@
           "hBP01",
           "C",
           45,
-          1,
+          3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1206,8 +1206,8 @@
           "hBP01",
           "R",
           45,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1302,8 +1302,8 @@
           "hBP01",
           "R",
           70,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1318,8 +1318,8 @@
           "hBP01",
           "C",
           70,
-          "",
-          "หมด",
+          12,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1334,7 +1334,7 @@
           "hBP01",
           "U",
           20,
-          8,
+          12,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1446,8 +1446,8 @@
           "hBP01",
           "U",
           55,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1478,8 +1478,8 @@
           "hBP01",
           "C",
           20,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1510,8 +1510,8 @@
           "hBP01",
           "U",
           55,
-          "",
-          "หมด",
+          3,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1542,8 +1542,8 @@
           "hBP01",
           "C",
           45,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -1830,7 +1830,7 @@
           "hBP01",
           "U",
           195,
-          5,
+          2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1846,7 +1846,7 @@
           "hBP01",
           "R",
           70,
-          8,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1958,7 +1958,7 @@
           "hBP01",
           "U",
           30,
-          3,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1990,8 +1990,8 @@
           "hBP01",
           "C",
           125,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -2054,8 +2054,8 @@
           "hBP01",
           "U",
           70,
-          "",
-          "หมด",
+          5,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -2150,7 +2150,7 @@
           "hBP01",
           "C",
           45,
-          14,
+          22,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -2326,8 +2326,8 @@
           "hBP01",
           "C",
           30,
-          "",
-          "หมด",
+          5,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -2523,7 +2523,7 @@
           {
             "valueType": "IMAGE"
           },
-          1500,
+          1800,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           12
@@ -3173,7 +3173,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-071_SR.png",
           "hBP02",
           "SR",
-          80,
+          105,
           2,
           "มีในคลัง",
           {
@@ -3189,7 +3189,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-072_SR.png",
           "hBP02",
           "SR",
-          80,
+          105,
           2,
           "มีในคลัง",
           {
@@ -3499,7 +3499,7 @@
           {
             "valueType": "IMAGE"
           },
-          420,
+          300,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           73
@@ -4347,7 +4347,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP02",
           14
@@ -7787,7 +7787,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           2
@@ -7910,7 +7910,7 @@
           "hBP03",
           "C",
           20,
-          4,
+          17,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -7926,7 +7926,7 @@
           "hBP03",
           "U",
           10,
-          3,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -7942,7 +7942,7 @@
           "hBP03",
           "C",
           10,
-          10,
+          16,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -7958,7 +7958,7 @@
           "hBP03",
           "U",
           10,
-          6,
+          12,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -7974,7 +7974,7 @@
           "hBP03",
           "R",
           15,
-          4,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -7990,8 +7990,8 @@
           "hBP03",
           "RR",
           45,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8134,8 +8134,8 @@
           "hBP03",
           "R",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8150,7 +8150,7 @@
           "hBP03",
           "RR",
           45,
-          1,
+          2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8166,7 +8166,7 @@
           "hBP03",
           "C",
           45,
-          3,
+          5,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8262,7 +8262,7 @@
           "hBP03",
           "C",
           20,
-          10,
+          7,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8294,7 +8294,7 @@
           "hBP03",
           "U",
           10,
-          11,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8326,7 +8326,7 @@
           "hBP03",
           "R",
           15,
-          1,
+          2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8342,7 +8342,7 @@
           "hBP03",
           "R",
           15,
-          2,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8358,7 +8358,7 @@
           "hBP03",
           "C",
           20,
-          3,
+          5,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8470,8 +8470,8 @@
           "hBP03",
           "R",
           45,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8486,7 +8486,7 @@
           "hBP03",
           "R",
           15,
-          2,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8550,8 +8550,8 @@
           "hBP03",
           "R",
           15,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8566,7 +8566,7 @@
           "hBP03",
           "R",
           30,
-          2,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8582,8 +8582,8 @@
           "hBP03",
           "C",
           30,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8630,8 +8630,8 @@
           "hBP03",
           "U",
           10,
-          "",
-          "หมด",
+          3,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8678,7 +8678,7 @@
           "hBP03",
           "C",
           20,
-          1,
+          9,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8694,7 +8694,7 @@
           "hBP03",
           "C",
           10,
-          3,
+          11,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8710,7 +8710,7 @@
           "hBP03",
           "U",
           45,
-          1,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8726,7 +8726,7 @@
           "hBP03",
           "R",
           20,
-          1,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8886,8 +8886,8 @@
           "hBP03",
           "U",
           30,
-          "",
-          "หมด",
+          7,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -8902,7 +8902,7 @@
           "hBP03",
           "R",
           15,
-          1,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8918,7 +8918,7 @@
           "hBP03",
           "RR",
           105,
-          4,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8934,7 +8934,7 @@
           "hBP03",
           "C",
           30,
-          1,
+          15,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8950,7 +8950,7 @@
           "hBP03",
           "U",
           10,
-          4,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8982,7 +8982,7 @@
           "hBP03",
           "U",
           15,
-          4,
+          12,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -8998,7 +8998,7 @@
           "hBP03",
           "R",
           15,
-          4,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9014,7 +9014,7 @@
           "hBP03",
           "RR",
           30,
-          2,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9046,7 +9046,7 @@
           "hBP03",
           "C",
           20,
-          2,
+          5,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9062,7 +9062,7 @@
           "hBP03",
           "C",
           10,
-          8,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9078,7 +9078,7 @@
           "hBP03",
           "U",
           10,
-          2,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9094,7 +9094,7 @@
           "hBP03",
           "R",
           15,
-          3,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9174,8 +9174,8 @@
           "hBP03",
           "U",
           105,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -9675,7 +9675,7 @@
           {
             "valueType": "IMAGE"
           },
-          2250,
+          3000,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           7
@@ -9723,7 +9723,7 @@
           {
             "valueType": "IMAGE"
           },
-          1050,
+          900,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           10
@@ -9771,7 +9771,7 @@
           {
             "valueType": "IMAGE"
           },
-          525,
+          750,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           13
@@ -9947,7 +9947,7 @@
           {
             "valueType": "IMAGE"
           },
-          180,
+          270,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           24
@@ -10405,13 +10405,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-061_SR.png",
           "hBP04",
           "SR",
-          80,
+          105,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           53
@@ -10667,7 +10667,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           69
@@ -11461,9 +11461,9 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP02-084_02_U.png",
           "hBP04",
           "U",
-          30,
-          "",
-          "หมด",
+          45,
+          3,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -11766,8 +11766,8 @@
           "hBP04",
           "R",
           30,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -11787,7 +11787,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP04",
           22
@@ -11862,8 +11862,8 @@
           "hBP04",
           "RR",
           70,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -11878,8 +11878,8 @@
           "hBP04",
           "R",
           20,
-          "",
-          "หมด",
+          8,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -11942,7 +11942,7 @@
           "hBP04",
           "U",
           15,
-          4,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -11958,8 +11958,8 @@
           "hBP04",
           "R",
           15,
-          "",
-          "หมด",
+          5,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12086,7 +12086,7 @@
           "hBP04",
           "C",
           10,
-          4,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12118,7 +12118,7 @@
           "hBP04",
           "U",
           15,
-          4,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12134,8 +12134,8 @@
           "hBP04",
           "RR",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12230,8 +12230,8 @@
           "hBP04",
           "RR",
           45,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12246,7 +12246,7 @@
           "hBP04",
           "R",
           15,
-          3,
+          7,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12294,8 +12294,8 @@
           "hBP04",
           "U",
           15,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12406,8 +12406,8 @@
           "hBP04",
           "RR",
           105,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12422,8 +12422,8 @@
           "hBP04",
           "R",
           15,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12438,7 +12438,7 @@
           "hBP04",
           "R",
           15,
-          1,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12454,7 +12454,7 @@
           "hBP04",
           "R",
           15,
-          3,
+          7,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12470,8 +12470,8 @@
           "hBP04",
           "C",
           15,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12502,8 +12502,8 @@
           "hBP04",
           "U",
           20,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12630,7 +12630,7 @@
           "hBP04",
           "C",
           15,
-          6,
+          10,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12646,7 +12646,7 @@
           "hBP04",
           "U",
           15,
-          4,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12678,7 +12678,7 @@
           "hBP04",
           "U",
           15,
-          6,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12694,7 +12694,7 @@
           "hBP04",
           "R",
           15,
-          5,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12710,8 +12710,8 @@
           "hBP04",
           "RR",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12774,8 +12774,8 @@
           "hBP04",
           "RR",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12790,7 +12790,7 @@
           "hBP04",
           "C",
           15,
-          3,
+          14,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12822,7 +12822,7 @@
           "hBP04",
           "U",
           30,
-          3,
+          7,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -12838,8 +12838,8 @@
           "hBP04",
           "RR",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -12998,8 +12998,8 @@
           "hBP04",
           "U",
           15,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -13046,7 +13046,7 @@
           "hBP04",
           "U",
           15,
-          4,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -13158,7 +13158,7 @@
           "hBP04",
           "U",
           15,
-          1,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -13174,8 +13174,8 @@
           "hBP04",
           "C",
           30,
-          "",
-          "หมด",
+          5,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -13227,7 +13227,7 @@
           {
             "valueType": "IMAGE"
           },
-          2250,
+          3750,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           4
@@ -13435,7 +13435,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           17
@@ -13467,7 +13467,7 @@
           {
             "valueType": "IMAGE"
           },
-          1050,
+          900,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           19
@@ -13659,7 +13659,7 @@
           {
             "valueType": "IMAGE"
           },
-          600,
+          900,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           31
@@ -13877,13 +13877,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-023_SR.png",
           "hBP05",
           "SR",
-          80,
+          105,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           45
@@ -13931,7 +13931,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           48
@@ -14805,7 +14805,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-068_S.png",
           "hBP05",
           "S",
-          45,
+          55,
           2,
           "มีในคลัง",
           {
@@ -15211,7 +15211,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP05",
           12
@@ -15366,7 +15366,7 @@
           "hBP05",
           "RR",
           45,
-          4,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -15430,8 +15430,8 @@
           "hBP05",
           "RR",
           70,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -15542,7 +15542,7 @@
           "hBP05",
           "RR",
           30,
-          4,
+          7,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -15606,7 +15606,7 @@
           "hBP05",
           "RR",
           45,
-          2,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -15718,7 +15718,7 @@
           "hBP05",
           "RR",
           45,
-          1,
+          3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -15878,7 +15878,7 @@
           "hBP05",
           "R",
           30,
-          5,
+          8,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -15894,8 +15894,8 @@
           "hBP05",
           "RR",
           55,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -15958,8 +15958,8 @@
           "hBP05",
           "RR",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -16070,8 +16070,8 @@
           "hBP05",
           "RR",
           30,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -16358,12 +16358,12 @@
           "hBP05",
           "C",
           80,
-          2,
+          31,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP05",
           84
@@ -16438,8 +16438,8 @@
           "hBP05",
           "U",
           55,
-          "",
-          "หมด",
+          3,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -16454,8 +16454,8 @@
           "hBP05",
           "U",
           445,
-          "",
-          "หมด",
+          5,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -16683,7 +16683,7 @@
           {
             "valueType": "IMAGE"
           },
-          3750,
+          5250,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           5
@@ -16987,7 +16987,7 @@
           {
             "valueType": "IMAGE"
           },
-          900,
+          1050,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           24
@@ -17179,7 +17179,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           36
@@ -17259,7 +17259,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           41
@@ -17493,13 +17493,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-046_SR.png",
           "hBP06",
           "SR",
-          80,
+          105,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           56
@@ -17531,7 +17531,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           58
@@ -17563,7 +17563,7 @@
           {
             "valueType": "IMAGE"
           },
-          35,
+          30,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           60
@@ -17723,7 +17723,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           70
@@ -18571,7 +18571,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           123
@@ -18843,7 +18843,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           16
@@ -20219,7 +20219,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           102
@@ -20475,7 +20475,7 @@
           {
             "valueType": "IMAGE"
           },
-          2250,
+          3750,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           2
@@ -20939,7 +20939,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           31
@@ -21157,13 +21157,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-031_SR.png",
           "hBP07",
           "SR",
-          80,
+          105,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           45
@@ -21573,13 +21573,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-085_SR.png",
           "hBP07",
           "SR",
-          105,
+          80,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           71
@@ -22069,13 +22069,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-066_S.png",
           "hBP07",
           "S",
-          125,
+          145,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           102
@@ -22139,7 +22139,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           106
@@ -23094,7 +23094,7 @@
           "hBP07",
           "C",
           10,
-          38,
+          37,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -23110,7 +23110,7 @@
           "hBP07",
           "R",
           15,
-          8,
+          5,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -23974,7 +23974,7 @@
           "hBP07",
           "U",
           70,
-          21,
+          17,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -24006,7 +24006,7 @@
           "hBP07",
           "U",
           15,
-          28,
+          27,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -24683,7 +24683,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           29
@@ -24731,7 +24731,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          105,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           32
@@ -25787,7 +25787,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           98
@@ -25915,7 +25915,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           106
@@ -26923,7 +26923,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          90,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           169
@@ -27531,7 +27531,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           207
@@ -28555,7 +28555,7 @@
           {
             "valueType": "IMAGE"
           },
-          525,
+          750,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BD24",
           46
@@ -29019,7 +29019,7 @@
           {
             "valueType": "IMAGE"
           },
-          300,
+          210,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "Speacial",
           8
@@ -29301,13 +29301,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-011_RR.png",
           "hSD01",
           "RR",
-          30,
+          45,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD01",
           5
@@ -29477,7 +29477,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-012_C.png",
           "hSD01",
           "C",
-          30,
+          45,
           "",
           "หมด",
           {
@@ -29494,7 +29494,7 @@
           "hSD01",
           "C",
           55,
-          1,
+          60,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -29510,7 +29510,7 @@
           "hSD01",
           "C",
           20,
-          4,
+          22,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -29542,7 +29542,7 @@
           "hSD01",
           "C",
           15,
-          3,
+          17,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -29558,7 +29558,7 @@
           "hSD01",
           "C",
           20,
-          13,
+          2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -31755,7 +31755,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD12",
           12
@@ -31797,7 +31797,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-011_RR.png",
           "hSD12",
           "RR",
-          45,
+          55,
           3,
           "มีในคลัง",
           {
@@ -32363,7 +32363,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "SD14",
           13
@@ -32853,7 +32853,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-010_C.png",
           "hSD17",
           "C",
-          70,
+          55,
           "",
           "หมด",
           {
@@ -34319,8 +34319,8 @@
             "#งานโดจิน SP Marker: Shirakami Fubuki\n(1 ชิ้น)",
             230,
             "https://lh3.googleusercontent.com/d/17XNAKzltnZ1Lndgps-9z9uarJw-Mvraq",
-            1,
-            "มีในคลัง",
+            "",
+            "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "สินค้าเสริมการเล่น",
             6
@@ -34607,7 +34607,7 @@
           ]
         ]
       },
-      "hololive English 3rd Concert -All for One-": {
+      "เข็มกลัด": {
         "headers": [
           "ชื่อสินค้า",
           "ราคา",
@@ -34620,124 +34620,634 @@
         ],
         "data": [
           [
-            "Button Badge: Mori Calliope",
+            "hololive English 3rd Concert -All for One-: Mori Calliope",
             250,
             "https://lh3.googleusercontent.com/d/1ZExH3qn2wOZ3HluYltkG2t8HrClfR56d",
             2,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             2
           ],
           [
-            "Button Badge: Ninomae Ina’nis",
+            "hololive English 3rd Concert -All for One-: Ninomae Ina’nis",
             250,
             "https://lh3.googleusercontent.com/d/1DFvWrl1i2iso-exwuJa7MPS5SpvAhuSh",
             "",
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             3
           ],
           [
-            "Button Badge: IRyS",
+            "hololive English 3rd Concert -All for One-: IRyS",
             250,
             "https://lh3.googleusercontent.com/d/1tUsCXRIsINDBAg5LbQryxMmfgAJrz87T",
             2,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             4
           ],
           [
-            "Button Badge: Ouro Kronii",
+            "hololive English 3rd Concert -All for One-: Ouro Kronii",
             250,
             "https://lh3.googleusercontent.com/d/1OmTQEVwDC7ek1bbbPcQ4oijHJsece0cX",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             5
           ],
           [
-            "Button Badge: Hakos Baelz",
+            "hololive English 3rd Concert -All for One-: Hakos Baelz",
             250,
             "https://lh3.googleusercontent.com/d/1-3G6zmk6V-KI4f13DRjUuVklOcy0R-AK",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             6
           ],
           [
-            "Button Badge: Shiori Novella",
+            "hololive English 3rd Concert -All for One-: Shiori Novella",
             250,
             "https://lh3.googleusercontent.com/d/118BOcFXFxDzUnLGpJn4ls6Z4cQhJTE2y",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             7
           ],
           [
-            "Button Badge: Koseki Bijou",
+            "hololive English 3rd Concert -All for One-: Koseki Bijou",
             250,
             "https://lh3.googleusercontent.com/d/1yhBJ6byDTHuSDUUVhRjCnY1lVs4HImG0",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             8
           ],
           [
-            "Button Badge: Nerissa Ravencroft",
+            "hololive English 3rd Concert -All for One-: Nerissa Ravencroft",
             250,
             "https://lh3.googleusercontent.com/d/10nSKN4bj2vp_rloWjk6orW9eIe0-fzgM",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             9
           ],
           [
-            "Button Badge: Gigi Murin",
+            "hololive English 3rd Concert -All for One-: Gigi Murin",
             250,
             "https://lh3.googleusercontent.com/d/1_xqq-tCX_VE4UvYGagnsdlycaXluQSFh",
             2,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             10
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "หมด",
+            "hololive TRAVEL Vol.3: Kureiji Ollie",
+            80,
+            "https://lh3.googleusercontent.com/d/1wzPKJ84loKnrbXMbRJBfuBpM0y6LTI47",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             11
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "หมด",
+            "hololive TRAVEL Vol.3: Gigi Murin",
+            150,
+            "https://lh3.googleusercontent.com/d/1rSh5TMrDldc6tF84aqMX-F_SGsDBTrLG",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             12
           ],
           [
-            "",
-            "",
-            "",
-            "",
-            "หมด",
+            "hololive TRAVEL Vol.3: Natsuiro Matsuri",
+            150,
+            "https://lh3.googleusercontent.com/d/1i2v873fuw1JW73GRu_Udqk_YkGGjxtlq",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
+            "เข็มกลัด",
             13
+          ],
+          [
+            "hololive TRAVEL Vol.3: Takane Lui",
+            150,
+            "https://lh3.googleusercontent.com/d/1nVmP8Ka7MmhXvVT5_HVhk1yJc7XrlMgU",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            14
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Hoshimachi Suisei",
+            250,
+            "https://lh3.googleusercontent.com/d/1_wzM4lBaleY8XLwdsToEOmcIRIiWY_GQ",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            15
+          ],
+          [
+            "hololive Can Badge Snack vol.1: AZKi",
+            250,
+            "https://lh3.googleusercontent.com/d/1VXL_DeCIKbi_9t2Sum-jvQXJs7IwweJY",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            16
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Tokino Sora",
+            100,
+            "https://lh3.googleusercontent.com/d/1VA0ylnke7NzhlQljvsbajjN7bCoiIX1X",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            17
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Robocosan",
+            100,
+            "https://lh3.googleusercontent.com/d/1WUt6HmBXi4J_A1IxjoGsGi0dTd07LpD7",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            18
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Sakura Miko",
+            250,
+            "https://lh3.googleusercontent.com/d/1BpUpqYtBqYRAGmB-keqNHryuNUAWmaXt",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            19
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Aki Rosenthal",
+            100,
+            "https://lh3.googleusercontent.com/d/1kdZ9hVf4m98PwYWI2aHJjZ5ZPfDTvIy1",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            20
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Inugami Korone",
+            150,
+            "https://lh3.googleusercontent.com/d/10QAeA8pr2ByKTPSkOK6IKR3mgzt33rrE",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            21
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Houshou Marine",
+            250,
+            "https://lh3.googleusercontent.com/d/1keIyMPjghiCvMHHP9avryTeS5VNn8e_K",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            22
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Tsunomaki Watame",
+            150,
+            "https://lh3.googleusercontent.com/d/16h6nrJ_GT5s96hSzFZDXFJO2WOjNfOdd",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            23
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Tokoyami Towa",
+            250,
+            "https://lh3.googleusercontent.com/d/1Dx3nMeUjPxxjljEiOVxjzn_nH40L9wLP",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            24
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Yukihana Lamy",
+            250,
+            "https://lh3.googleusercontent.com/d/1jwP5Elas_0W60oUyoZXCrhQcdxJxzACr",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            25
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Omaru Polka",
+            100,
+            "https://lh3.googleusercontent.com/d/1qobmlFn3QDMIUATD5VgtoZ0oKR20RKpY",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            26
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Shishiro Botan",
+            150,
+            "https://lh3.googleusercontent.com/d/12VnYtznoRa9_fYI2-J4giuCTWBoIQzEK",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            27
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Momosuzu Nene",
+            150,
+            "https://lh3.googleusercontent.com/d/1LFPZSJCv2fGrmfUHviG2TcfwaR0wAP03",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            28
+          ],
+          [
+            "hololive Can Badge Snack vol.1: La+ Darknesss",
+            100,
+            "https://lh3.googleusercontent.com/d/1rAXdpB7xsrjP6eb_ycT113Ljl-JpzNnr",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            29
+          ],
+          [
+            "hololive Can Badge Snack vol.1: Takane Lui",
+            100,
+            "https://lh3.googleusercontent.com/d/1V3wuXDGKhx8JnslWBIJlK7kkrcfbbuK6",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            30
+          ],
+          [
+            "hololive SUPER EXPO 2026: Hoshimachi Suisei",
+            450,
+            "https://lh3.googleusercontent.com/d/1XxuFtZjr1-ywrKkNPti4gI2iabkfUubf",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            31
+          ],
+          [
+            "hololive SUPER EXPO 2026: Sakura Miko",
+            400,
+            "https://lh3.googleusercontent.com/d/1FeaPMHPfToACEEv51gjchMqmyCw7n-J3",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            32
+          ],
+          [
+            "hololive SUPER EXPO 2026: AZKi",
+            300,
+            "https://lh3.googleusercontent.com/d/1hvamA5vVvaPvoRi1c8F8sTOgC-WGMJgI",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            33
+          ],
+          [
+            "hololive SUPER EXPO 2026: Oozora Subaru",
+            250,
+            "https://lh3.googleusercontent.com/d/1t_skir-sBCQf7gvdrafudN7zpfdcj08A",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            34
+          ],
+          [
+            "hololive SUPER EXPO 2026: Koseki Bijou",
+            350,
+            "https://lh3.googleusercontent.com/d/1-lMAu_LG7OiKsnwS_LdjyUHM4d_omIzm",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            35
+          ],
+          [
+            "hololive SUPER EXPO 2026: Nerissa Ravencroft",
+            300,
+            "https://lh3.googleusercontent.com/d/1VaG8_Ne86K5587pSGyBF6b2rbbdbAjW4",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            36
+          ],
+          [
+            "hololive SUPER EXPO 2026: Fuwawa Abyssgard",
+            350,
+            "https://lh3.googleusercontent.com/d/1Xn5IcSJfIW5R8OfflqKS5o0ITscWQI5g",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            37
+          ],
+          [
+            "hololive SUPER EXPO 2026: Mococo Abyssgard",
+            250,
+            "https://lh3.googleusercontent.com/d/1Qfdej8FfP6oX58IcT53MN_0rwrd17eW5",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            38
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Houshou Marine",
+            450,
+            "https://lh3.googleusercontent.com/d/1EfZ9huZy06qSluDBCxdrILwfTtu-agem",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            39
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Momosuzu Nene",
+            350,
+            "https://lh3.googleusercontent.com/d/1_K1WwRT9yNyvkbBZlSRR0zL-S0b71Knb",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            40
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: La+ Darknesss",
+            300,
+            "https://lh3.googleusercontent.com/d/1Xo829HpGa7KnKTUaAJ2Qohx17W2NoCst",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            41
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Anya Melfissa",
+            150,
+            "https://lh3.googleusercontent.com/d/1oAvCfwlM2GPKS4VrZShtueoSfbfGwHuF",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            42
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Takanashi Kiara",
+            200,
+            "https://lh3.googleusercontent.com/d/1UOE2wplwliw7jJ3CZGwQEsEZniGpqFzq",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            43
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Koseki Bijou",
+            350,
+            "https://lh3.googleusercontent.com/d/1ZLG9aLzY1B6cWVH1Yxv6tSS8438-z0Jv",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            44
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Nerissa Ravencroft",
+            250,
+            "https://lh3.googleusercontent.com/d/1U4svw1JkCx6HYbzzD6gtSEkZrCa2fXc_",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            45
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Elizabeth Rose Bloodflame",
+            300,
+            "https://lh3.googleusercontent.com/d/1K14LzeNtJv61mWMmvirzfwO4Q5TF56Oh",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            46
+          ],
+          [
+            "hololive 7th fes. Ridin' on Dreams: Juufuutei Raden",
+            350,
+            "https://lh3.googleusercontent.com/d/12Z8j8BaE7N5eDKNdg4iDC_brObjuameq",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            47
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Hoshimachi Suisei",
+            300,
+            "https://lh3.googleusercontent.com/d/1AKjnnHLYI55wo6M72m4titfs21kPniYT",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            48
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Hoshimachi Suisei",
+            300,
+            "https://lh3.googleusercontent.com/d/1eum9ImQHS6rrhvlJwanqDZyAelVoRt06",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            49
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Natsuiro Matsuri",
+            150,
+            "https://lh3.googleusercontent.com/d/1-8RorRqRL5VmfBWGSMmtUSRfC065ilGm",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            50
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Natsuiro Matsuri",
+            150,
+            "https://lh3.googleusercontent.com/d/1egNsCbZ2m09_8PgE0e3ZmtOlgUfTrBp7",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            51
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Houshou Marine",
+            300,
+            "https://lh3.googleusercontent.com/d/10o8ObbYEKstwa9lhFEu3srfh7FJYREgc",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            52
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Houshou Marine",
+            300,
+            "https://lh3.googleusercontent.com/d/1mOu7kXhbRg2sup_4yBRD6Fmpp35pIGLi",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            53
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Ninomae Ina’nis",
+            250,
+            "https://lh3.googleusercontent.com/d/1kyc9e02wOG7ouWOfxyDAXU6jYCDzXffi",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            54
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Ninomae Ina’nis",
+            250,
+            "https://lh3.googleusercontent.com/d/1GvYoONTuRERUBMh19EyQcGt1qecpMicc",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            55
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Hakos Baelz",
+            250,
+            "https://lh3.googleusercontent.com/d/1yxeq-dcbLYRCLPi0MVzZC_4_lBBBdWdk",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            56
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Hakos Baelz",
+            250,
+            "https://lh3.googleusercontent.com/d/18-Ravyqh-SJtLiAqop6pD4ZqqUEXHq7H",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            57
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Ichijou Ririka",
+            200,
+            "https://lh3.googleusercontent.com/d/1R_5SpKiMzcRDaJBeMbsc8Qku9HVrNkgz",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            58
+          ],
+          [
+            "hololive SUPER EXPO 2025 after party ~Bonus stages~: Ichijou Ririka",
+            200,
+            "https://lh3.googleusercontent.com/d/1aXQk6buKLeuiG8vVw72ySNzhEpM1kufO",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            59
+          ],
+          [
+            "hololive GAMERS fes. Super Super Super Gamers 2: Shirakami Fubuki",
+            200,
+            "https://lh3.googleusercontent.com/d/1erey9VP-6t-k5wQM0X_tuj8M7XkD1NMt",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            60
+          ],
+          [
+            "hololive GAMERS fes. Super Super Super Gamers 2: Ookami Mio",
+            200,
+            "https://lh3.googleusercontent.com/d/1Sez9H4GNo8-UedjBQuatEKeNsu_Yojyq",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            61
+          ],
+          [
+            "hololive GAMERS fes. Super Super Super Gamers 2: Nekomata Okayu",
+            200,
+            "https://lh3.googleusercontent.com/d/13PutcEultlaBhmW82ocDimHeLCxy59Fc",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            62
+          ],
+          [
+            "hololive GAMERS fes. Super Super Super Gamers 2: Inugami Korone",
+            200,
+            "https://lh3.googleusercontent.com/d/163Z12eLORdYwZG07Zglqg1ad2CziEsB6",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            63
+          ],
+          [
+            "hololive GAMERS fes. Super Super Super Gamers 2: GAMERS",
+            200,
+            "https://lh3.googleusercontent.com/d/1qzCWl3EH6puJ2yA24l8MeQBSHiK2QQ8V",
+            1,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "เข็มกลัด",
+            64
           ],
           [
             "",
@@ -34746,8 +35256,8 @@
             "",
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "hololive English 3rd Concert -All for One-",
-            14
+            "เข็มกลัด",
+            65
           ]
         ]
       },
