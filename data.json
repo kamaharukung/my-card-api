@@ -411,7 +411,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           6
@@ -427,7 +427,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP01",
           7
@@ -2373,13 +2373,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-003_SEC.png",
           "hBP02",
           "SEC",
-          24950,
+          22450,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          7500,
+          6750,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP02",
           3
@@ -4155,7 +4155,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          90,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP02",
           2
@@ -7819,7 +7819,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          75,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           4
@@ -7851,7 +7851,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP03",
           6
@@ -8661,7 +8661,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-056_RR.png",
           "hBP03",
           "RR",
-          45,
+          30,
           "",
           "หมด",
           {
@@ -9589,13 +9589,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-001_SEC.png",
           "hBP04",
           "SEC",
-          24950,
+          22450,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          10500,
+          9300,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           2
@@ -9605,13 +9605,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_SEC.png",
           "hBP04",
           "SEC",
-          27000,
+          24950,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          11250,
+          10500,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           3
@@ -9797,13 +9797,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-037_UR.png",
           "hBP04",
           "UR",
-          1245,
+          995,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          255,
+          210,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           15
@@ -9947,7 +9947,7 @@
           {
             "valueType": "IMAGE"
           },
-          270,
+          180,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP04",
           24
@@ -13931,7 +13931,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP05",
           48
@@ -16645,13 +16645,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-003_SEC.png",
           "hBP06",
           "SEC",
-          37000,
+          34500,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          9750,
+          9000,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           3
@@ -16747,7 +16747,7 @@
           {
             "valueType": "IMAGE"
           },
-          525,
+          330,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           9
@@ -17019,7 +17019,7 @@
           {
             "valueType": "IMAGE"
           },
-          150,
+          135,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP06",
           26
@@ -18827,7 +18827,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          45,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP06",
           15
@@ -20539,7 +20539,7 @@
           {
             "valueType": "IMAGE"
           },
-          405,
+          360,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           6
@@ -20635,7 +20635,7 @@
           {
             "valueType": "IMAGE"
           },
-          1500,
+          1050,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           12
@@ -20869,13 +20869,13 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-069_UR.png",
           "hBP07",
           "UR",
-          3700,
+          3200,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1125,
+          975,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           27
@@ -21531,7 +21531,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          35,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           68
@@ -21915,7 +21915,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           92
@@ -22139,7 +22139,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "ของหรู BP07",
           106
@@ -23141,7 +23141,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-042_RR.png",
           "hBP07",
           "RR",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -23195,7 +23195,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP07",
           46
@@ -23371,7 +23371,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "BP07",
           57
@@ -23573,7 +23573,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-069_RR.png",
           "hBP07",
           "RR",
-          55,
+          105,
           "",
           "หมด",
           {
@@ -26587,7 +26587,7 @@
           {
             "valueType": "IMAGE"
           },
-          270,
+          180,
           "1lvQYUwHRmXs4YL1SN_K5D_j6nYL5uVqKQPMFSK_hkGQ",
           "PR",
           148
@@ -34601,8 +34601,8 @@
             "hololive OFFICIAL CARD GAME Official Sleeve vol.22: Koganei Niko",
             400,
             "https://lh3.googleusercontent.com/d/1DPfLN8iN1gFpGJW3_nyNwxdhu8v3Zald",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             23
@@ -34611,8 +34611,8 @@
             "hololive OFFICIAL CARD GAME Official Sleeve vol.23: Rindo Chihaya",
             400,
             "https://lh3.googleusercontent.com/d/1kyX4fMaCadi9u4vAbjj-U9oS2F9fopQa",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             24
@@ -34621,8 +34621,8 @@
             "hololive OFFICIAL CARD GAME Official Sleeve vol.24: Brand Logo (Green)",
             400,
             "https://lh3.googleusercontent.com/d/1OTB7I7b6RnIuxoeESvdHLZ75EBOwSrAD",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             25
@@ -34631,8 +34631,8 @@
             "hololive OFFICIAL CARD GAME Official Sleeve vol.25: Brand Logo (Yellow)",
             400,
             "https://lh3.googleusercontent.com/d/1WBNuAS5gygLbU7XEHatCOgwv269YvJJ2",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             26
@@ -34701,8 +34701,8 @@
             "hololive OFFICIAL CARD GAME Official Sleeve vol.32: Koseki Bijou",
             400,
             "https://lh3.googleusercontent.com/d/1KLNCSNOL7Z5_6cJomz31xjz1ZrJCnU_1",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             33
@@ -34821,7 +34821,7 @@
             "hololive 1st Generation Anniversary Parade",
             550,
             "https://lh3.googleusercontent.com/d/14ndMNfNjWSu9am_X2JG2BrsdE4HzoxBM",
-            3,
+            4,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
@@ -34831,7 +34831,7 @@
             "hololive 3rd Generation Anniversary Parade",
             550,
             "https://lh3.googleusercontent.com/d/192HYnMzwC_7HEaTkXM497uL8RBeXNZSc",
-            3,
+            4,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
@@ -34841,8 +34841,8 @@
             "NePoLaBo Anniversary Parade",
             550,
             "https://lh3.googleusercontent.com/d/1UqzjoJwnSmyxyW20xAcs33A5uL1sXWyX",
-            "",
-            "หมด",
+            1,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             47
@@ -34851,8 +34851,8 @@
             "hololive Generation 0 Anniversary Parade",
             550,
             "https://lh3.googleusercontent.com/d/1tBsACl2FpNpnJAQtagrqIjueVmzvl57X",
-            "",
-            "หมด",
+            3,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             48
@@ -34861,8 +34861,8 @@
             "hololive 2nd Generation Anniversary Parade",
             550,
             "https://lh3.googleusercontent.com/d/1EWEqQAfVX64q0Cu9o06rLecL4wSV2NYG",
-            "",
-            "หมด",
+            3,
+            "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Sleeves Official",
             49
