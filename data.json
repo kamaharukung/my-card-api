@@ -3532,13 +3532,13 @@
           "hBP02-041",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-041_SR.png",
           "SR",
-          170,
+          195,
           3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          20,
+          30,
           "hBP02-041",
           412,
           "hBP02",
@@ -19846,7 +19846,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          35,
           "hBP06-032",
           1630,
           "hBP06",
@@ -28090,7 +28090,7 @@
           {
             "valueType": "IMAGE"
           },
-          180,
+          270,
           "hBP02-013",
           1175,
           "hCS01",
