@@ -1,0 +1,4247 @@
+[
+  {
+    "card_number": "hBP01-001",
+    "name": "天音かなた",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ぎゅっぎゅっ",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]相手のセンターホロメンの残りHPを50にする。",
+    "skill_sp_name": "握りつぶしちゃうぞ",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]このターンの間、自分のホロメン1人のアーツ+50。そのホロメンの色が白の時、さらに、そのアーツ+50。",
+    "variations": [
+      {
+        "web_id": "22",
+        "card_number": "hBP01-001",
+        "rarity": "OSR",
+        "illustrator": "Hiroko",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-001_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "23",
+        "card_number": "hBP01-001",
+        "rarity": "OUR",
+        "illustrator": "Hiroko",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-001_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-002",
+    "name": "七詩ムメイ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "文明の守護者",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]相手のターンで、自分の#Promiseを持つホロメンが相手からダメージを受ける時に使える:そのホロメン1人が受けるダメージ-50。",
+    "skill_sp_name": "アメイジング・ドローイング",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、イベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "24",
+        "card_number": "hBP01-002",
+        "rarity": "OSR",
+        "illustrator": "Hiroko",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-002_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "25",
+        "card_number": "hBP01-002",
+        "rarity": "OUR",
+        "illustrator": "Hiroko",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-002_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-003",
+    "name": "アキ・ローゼンタール",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "サバイバルパワー",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから、〈石の斧〉1枚を公開し、自分の緑ホロメンに付ける。そしてデッキをシャッフルする。",
+    "skill_sp_name": "大地の唄",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の緑センターホロメンのHPすべて回復。",
+    "variations": [
+      {
+        "web_id": "26",
+        "card_number": "hBP01-003",
+        "rarity": "OSR",
+        "illustrator": "Hiroko",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-003_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "27",
+        "card_number": "hBP01-003",
+        "rarity": "OUR",
+        "illustrator": "Hiroko",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-003_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-004",
+    "name": "兎田ぺこら",
+    "color": "緑",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "野兎たち～",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]相手のターンで、自分のホロメンがダウンした時に使える:自分のダウンしたホロメン1人の緑エールすべてを、自分の他のホロメンに割り振って付け替える。",
+    "skill_sp_name": "幸運兎",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]このターンの間、自分のサイコロの目の数すべてを6として扱う。",
+    "variations": [
+      {
+        "web_id": "28",
+        "card_number": "hBP01-004",
+        "rarity": "OSR",
+        "illustrator": "神奈ぺろん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-004_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "29",
+        "card_number": "hBP01-004",
+        "rarity": "OUR",
+        "illustrator": "神奈ぺろん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-004_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "484",
+        "card_number": "hBP01-004",
+        "rarity": "P",
+        "illustrator": "チェリ子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-004_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-005",
+    "name": "鷹嶺ルイ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "女幹部の采配",
+    "skill_oshi": "[ホロパワー:-X] [ターンに1回]自分の赤ホロメンの能力で手札をアーカイブする時に使える:アーカイブする手札1枚につき自分のホロパワー1枚を、かわりにアーカイブできる。",
+    "skill_sp_name": "ホークアイ",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]次の相手のターンの間、相手のセンターホロメンとコラボホロメンは、バトンタッチ、移動、交代できない。",
+    "variations": [
+      {
+        "web_id": "30",
+        "card_number": "hBP01-005",
+        "rarity": "OSR",
+        "illustrator": "須王 彩",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-005_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "31",
+        "card_number": "hBP01-005",
+        "rarity": "OUR",
+        "illustrator": "須王 彩",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-005_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-006",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "フェニックステール",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のアーカイブのホロメン1枚を手札に戻す。",
+    "skill_sp_name": "Rise from the ashes",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のターンで、自分の赤ホロメンがダウンした時に使える:自分の減るライフ-1。さらに、ダウンした1人を選び、そのホロメンを含め重なっているホロメンすべてを手札に戻す。",
+    "variations": [
+      {
+        "web_id": "32",
+        "card_number": "hBP01-006",
+        "rarity": "OSR",
+        "illustrator": "水鈴",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-006_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "33",
+        "card_number": "hBP01-006",
+        "rarity": "OUR",
+        "illustrator": "水鈴",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-006_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "34",
+        "card_number": "hBP01-006",
+        "rarity": "SEC",
+        "illustrator": "水鈴",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-006_SEC.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-007",
+    "name": "星街すいせい",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ほうき星",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]この推しホロメンか自分の青ホロメンが相手のバックホロメンにダメージを与えた時に使える:その相手のバックホロメン1人に特殊ダメージ50を与える。",
+    "skill_sp_name": "シューティングスター",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の青ホロメンが相手のセンターホロメンかコラボホロメンにダメージを与えた時に使える:相手のバックホロメン1人にそれと同じ数値の特殊ダメージを与える。",
+    "variations": [
+      {
+        "web_id": "35",
+        "card_number": "hBP01-007",
+        "rarity": "OSR",
+        "illustrator": "水鈴",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-007_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "36",
+        "card_number": "hBP01-007",
+        "rarity": "OUR",
+        "illustrator": "水鈴",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-007_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "37",
+        "card_number": "hBP01-007",
+        "rarity": "SEC",
+        "illustrator": "水鈴",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-007_SEC.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "1445",
+        "card_number": "hBP01-007",
+        "rarity": "P",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_01.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1446",
+        "card_number": "hBP01-007",
+        "rarity": "P",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_02.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1447",
+        "card_number": "hBP01-007",
+        "rarity": "P",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_03.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1448",
+        "card_number": "hBP01-007",
+        "rarity": "P",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-007_P_04.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP01-008",
+    "name": "こぼ・かなえる",
+    "color": "青",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レイン・シャーマニズム",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分の青ホロメンの能力でエールをアーカイブした時に使える:相手のホロメン1人に特殊ダメージ20を与える。",
+    "skill_sp_name": "雨乞い",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のアーカイブのエール1～5枚を、自分の#IDを持つホロメンに割り振って送る。",
+    "variations": [
+      {
+        "web_id": "38",
+        "card_number": "hBP01-008",
+        "rarity": "OSR",
+        "illustrator": "タスキブ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-008_OSR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "39",
+        "card_number": "hBP01-008",
+        "rarity": "OUR",
+        "illustrator": "タスキブ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-008_OUR.png",
+        "expansion_id": "hBP01",
+        "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-001",
+    "name": "白上フブキ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "マスコット創造",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから、マスコット1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "フブキングダム",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の白ホロメンが相手のホロメンをダウンさせた時、自分のステージのマスコット2枚につき、サイコロを1回振れる:奇数が1回以上出たなら、相手のライフ-1。",
+    "variations": [
+      {
+        "web_id": "268",
+        "card_number": "hBP02-001",
+        "rarity": "OSR",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-001_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "370",
+        "card_number": "hBP02-001",
+        "rarity": "OUR",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-001_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "371",
+        "card_number": "hBP02-001",
+        "rarity": "SEC",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-001_SEC.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-002",
+    "name": "パヴォリア・レイネ",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "HALU",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のホロメンの緑エール1枚をアーカイブすることで、自分のエールデッキから、エール1枚を公開し、自分のホロメンに送る。そしてエールデッキをシャッフルする。",
+    "skill_sp_name": "極彩色の宴",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]このターンの間、自分のステージの#ID2期生を持つホロメン全員は、そのホロメンのエール1色につき、アーツ+20。",
+    "variations": [
+      {
+        "web_id": "269",
+        "card_number": "hBP02-002",
+        "rarity": "OSR",
+        "illustrator": "すなれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-002_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "372",
+        "card_number": "hBP02-002",
+        "rarity": "OUR",
+        "illustrator": "すなれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-002_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-003",
+    "name": "宝鐘マリン",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Ahoy!",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のこのターンにBloomした#3期生を持つホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomさせる。",
+    "skill_sp_name": "出航～！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のセンターホロメンかコラボホロメンどちらかに、自分のセンターホロメンの〈宝鐘マリン〉に重なっているホロメン1枚につき、特殊ダメージ50を与える。",
+    "variations": [
+      {
+        "web_id": "270",
+        "card_number": "hBP02-003",
+        "rarity": "OSR",
+        "illustrator": "NOMISAKI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-003_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "373",
+        "card_number": "hBP02-003",
+        "rarity": "OUR",
+        "illustrator": "NOMISAKI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-003_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "374",
+        "card_number": "hBP02-003",
+        "rarity": "SEC",
+        "illustrator": "NOMISAKI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-003_SEC.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-004",
+    "name": "沙花叉クロヱ",
+    "color": "青",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ぽえぽえぽえ～",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のセンターホロメンが〈沙花叉クロヱ〉の時に使える:自分のデッキの上から3枚を見る。そのカードすべてを、アーカイブするか、好きな順でデッキの上に戻す。",
+    "skill_sp_name": "人生リセットボタン",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分の手札を数えて、自分の[手札すべてとアーカイブのホロメンすべて]をデッキに戻してシャッフルする。そして手札からデッキに戻したカード1枚につき、自分のデッキを1枚引く。",
+    "variations": [
+      {
+        "web_id": "271",
+        "card_number": "hBP02-004",
+        "rarity": "OSR",
+        "illustrator": "江田島電気",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-004_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "375",
+        "card_number": "hBP02-004",
+        "rarity": "OUR",
+        "illustrator": "江田島電気",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-004_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "376",
+        "card_number": "hBP02-004",
+        "rarity": "SEC",
+        "illustrator": "江田島電気",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-004_SEC.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-005",
+    "name": "紫咲シオン",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ねえ゛え゛え゛え゛え゛え゛え゛",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分の〈紫咲シオン〉の能力でサイコロを振った時に使える:サイコロを1回振り直す。",
+    "skill_sp_name": "シオンのすごい魔法",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の紫センターホロメンがアーツを使った時に使える:相手のセンターホロメンに、相手のセンターホロメンのエール1枚につき、特殊ダメージ50を与える。",
+    "variations": [
+      {
+        "web_id": "272",
+        "card_number": "hBP02-005",
+        "rarity": "OSR",
+        "illustrator": "雨ノ坂のの",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-005_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "377",
+        "card_number": "hBP02-005",
+        "rarity": "OUR",
+        "illustrator": "雨ノ坂のの",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-005_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-006",
+    "name": "クレイジー・オリー",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ゾンビ戦術",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の#ID2期生を持つホロメン1人を、自分のアーカイブのホロメンを使ってBloomさせる。",
+    "skill_sp_name": "蘇るオリー",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキを4枚引いた後、手札2枚をアーカイブする。その後、自分のホロメン1人を、自分のアーカイブのホロメンを使ってBloomできる。",
+    "variations": [
+      {
+        "web_id": "273",
+        "card_number": "hBP02-006",
+        "rarity": "OSR",
+        "illustrator": "soriya",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-006_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "378",
+        "card_number": "hBP02-006",
+        "rarity": "OUR",
+        "illustrator": "soriya",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-006_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-007",
+    "name": "森カリオペ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "サンプリング",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の手札2枚をアーカイブすることで、アーカイブの#ENを持つホロメン2枚を手札に戻す。",
+    "skill_sp_name": "死神ラップ",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のセンターホロメンが〈森カリオペ〉の時に使える:このターンの間、自分の〈森カリオペ〉1人は、アーツを使った後、同じアーツをもう1回使う。",
+    "variations": [
+      {
+        "web_id": "274",
+        "card_number": "hBP02-007",
+        "rarity": "OSR",
+        "illustrator": "夕城",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-007_OSR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "379",
+        "card_number": "hBP02-007",
+        "rarity": "OUR",
+        "illustrator": "夕城",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-007_OUR.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-001",
+    "name": "姫森ルーナ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パソコンならわかるのら",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから、カード名に「パソコン」を含むアイテム1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "ルーナイト集合",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のセンターホロメンが〈姫森ルーナ〉の時に使える:自分のデッキから、〈ルーナイト〉1～4枚を公開し、自分のホロメンに割り振って付ける。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "565",
+        "card_number": "hBP03-001",
+        "rarity": "OSR",
+        "illustrator": "gaha",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-001_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "678",
+        "card_number": "hBP03-001",
+        "rarity": "OUR",
+        "illustrator": "gaha",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-001_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-002",
+    "name": "獅白ぼたん",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "poi",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のアーカイブのエール1枚を、自分のバックホロメンの〈獅白ぼたん〉に送る。",
+    "skill_sp_name": "狙撃",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のセンターホロメンの色が緑の時に使える:相手のDebut以外のセンターホロメンに特殊ダメージ100を与える。",
+    "variations": [
+      {
+        "web_id": "566",
+        "card_number": "hBP03-002",
+        "rarity": "OSR",
+        "illustrator": "すなれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-002_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "679",
+        "card_number": "hBP03-002",
+        "rarity": "OUR",
+        "illustrator": "すなれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-002_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "680",
+        "card_number": "hBP03-002",
+        "rarity": "SEC",
+        "illustrator": "すなれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-002_SEC.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-003",
+    "name": "さくらみこ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "35P帰ってくるのかッ！？って！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]サイコロを1回振れる:1か2か4か6の時、自分のアーカイブの〈35P〉1枚を手札に戻す。3か5の時、自分のアーカイブの〈35P〉2枚を手札に戻す。",
+    "skill_sp_name": "あきらめない心にぇ",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のセンターホロメンの色が赤の時に使える:自分の手札を好きな枚数選んで好きな順でデッキの下に戻す。そして手札が5枚になるまで、自分のデッキを引く。",
+    "variations": [
+      {
+        "web_id": "567",
+        "card_number": "hBP03-003",
+        "rarity": "OSR",
+        "illustrator": "kobuta",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-003_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "681",
+        "card_number": "hBP03-003",
+        "rarity": "OUR",
+        "illustrator": "kobuta",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-003_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "682",
+        "card_number": "hBP03-003",
+        "rarity": "SEC",
+        "illustrator": "kobuta",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-003_SEC.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-004",
+    "name": "FUWAMOCO",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "モコちゃん！",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のエールデッキの上から1枚を、自分の1stホロメンの〈モココ・アビスガード〉に送る。",
+    "skill_sp_name": "BAU BAU!",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の#Adventを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツは、相手のバックホロメンも対象にできる。",
+    "variations": [
+      {
+        "web_id": "568",
+        "card_number": "hBP03-004",
+        "rarity": "OSR",
+        "illustrator": "みゃーこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-004_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "683",
+        "card_number": "hBP03-004",
+        "rarity": "OUR",
+        "illustrator": "みゃーこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-004_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-005",
+    "name": "常闇トワ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "デビルズヴォイス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の#歌を持つ[センターホロメンとコラボホロメン]のアーツ+20。",
+    "skill_sp_name": "悪魔的所業",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のターンで、自分の〈常闇トワ〉がダウンした時に使える:相手のセンターホロメンとコラボホロメンのエール2枚ずつを好きな順でエールデッキの下に戻す。",
+    "variations": [
+      {
+        "web_id": "569",
+        "card_number": "hBP03-005",
+        "rarity": "OSR",
+        "illustrator": "夕城",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-005_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "684",
+        "card_number": "hBP03-005",
+        "rarity": "OUR",
+        "illustrator": "夕城",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-005_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "685",
+        "card_number": "hBP03-005",
+        "rarity": "SEC",
+        "illustrator": "夕城",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-005_SEC.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-006",
+    "name": "戌神ころね",
+    "color": "黄",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "無限の体力",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のお休みしている〈戌神ころね〉1人をアクティブにする。",
+    "skill_sp_name": "ウォウウォウウォウウォウ",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分の黄ホロメンがダウンした時に使える:そのホロメンのエール1枚を自分の他のホロメンに付け替え、そのダウンしたホロメンを含め重なっているホロメンの中から1枚を手札に戻す。",
+    "variations": [
+      {
+        "web_id": "570",
+        "card_number": "hBP03-006",
+        "rarity": "OSR",
+        "illustrator": "nima",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-006_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "686",
+        "card_number": "hBP03-006",
+        "rarity": "OUR",
+        "illustrator": "nima",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-006_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "835",
+        "card_number": "hBP03-006",
+        "rarity": "P",
+        "illustrator": "黒川ひゅい.",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-006_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-007",
+    "name": "角巻わため",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Member sheep いらっしゃい！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから、ファン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "わためは悪くないよねぇ？",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のエールデッキの上から2枚を、自分の〈角巻わため〉1人に送る。",
+    "variations": [
+      {
+        "web_id": "571",
+        "card_number": "hBP03-007",
+        "rarity": "OSR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-007_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "687",
+        "card_number": "hBP03-007",
+        "rarity": "OUR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-007_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "688",
+        "card_number": "hBP03-007",
+        "rarity": "SEC",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-007_SEC.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-008",
+    "name": "アユンダ・リス",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホロライブID一家",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の#ID1期生を持つホロメンがダウンした時に使える:自分のデッキを1枚引く。",
+    "skill_sp_name": "がんばり～リス！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]このターンの間、自分のステージの〈アユンダ・リス〉全員のアーツ+50。",
+    "variations": [
+      {
+        "web_id": "572",
+        "card_number": "hBP03-008",
+        "rarity": "OSR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-008_OSR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "689",
+        "card_number": "hBP03-008",
+        "rarity": "OUR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-008_OUR.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-001",
+    "name": "博衣こより",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "こより実験中",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の#こよラボを持つサポートカードが付いている〈博衣こより〉1人のアーツ+30。",
+    "skill_sp_name": "助手くん、んーまっ！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のターンで、自分の〈こよりの助手くん〉が付いている〈博衣こより〉が相手からダメージを受ける時に使える:そのホロメン1人が受けるダメージ-100。",
+    "variations": [
+      {
+        "web_id": "861",
+        "card_number": "hBP04-001",
+        "rarity": "OSR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-001_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "971",
+        "card_number": "hBP04-001",
+        "rarity": "OUR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-001_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1078",
+        "card_number": "hBP04-001",
+        "rarity": "SEC",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-001_SEC.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-002",
+    "name": "儒烏風亭らでん",
+    "color": "緑",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ReGLOSSの風流人",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のアーカイブのエール1枚を、自分の#ReGLOSSを持つホロメンに送る。",
+    "skill_sp_name": "余った時間でぐるぐる",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブの#きのこを持つイベント1～4枚を手札に戻す。そして手札に戻したカード2枚につき、自分のデッキを1枚引く。",
+    "variations": [
+      {
+        "web_id": "862",
+        "card_number": "hBP04-002",
+        "rarity": "OSR",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-002_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "972",
+        "card_number": "hBP04-002",
+        "rarity": "OUR",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-002_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1444",
+        "card_number": "hBP04-002",
+        "rarity": "P",
+        "illustrator": "つなかわ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-002_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-003",
+    "name": "一条莉々華",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Reach the top！",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のセンターホロメンが#ReGLOSSを持つ時、相手のコラボホロメンに特殊ダメージ50を与える。",
+    "skill_sp_name": "かわいい！ ポジティブ！ ジーニアス！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]相手のターンで、自分の〈一条莉々華〉がダウンした時に使える:自分のデッキから、[〈一条莉々華〉と〈限界飯〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "863",
+        "card_number": "hBP04-003",
+        "rarity": "OSR",
+        "illustrator": "ゆぅ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-003_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "973",
+        "card_number": "hBP04-003",
+        "rarity": "OUR",
+        "illustrator": "ゆぅ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-003_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1103",
+        "card_number": "hBP04-003",
+        "rarity": "P",
+        "illustrator": "はまなし",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP04-003_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-004",
+    "name": "雪花ラミィ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "愛してる",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]相手のターンで、自分のホロメンがダウンした時に使える:そのホロメンに付いているファン1枚を手札に戻す。",
+    "skill_sp_name": "ぶーん、バリバリバリバリ",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分の〈雪花ラミィ〉1人を選ぶ。このターンの間、選んだホロメンが、相手のホロメン1人に与える特殊ダメージ+100し、選んだホロメンが相手のホロメンをダウンさせた時、自分のデッキを2枚引く。",
+    "variations": [
+      {
+        "web_id": "864",
+        "card_number": "hBP04-004",
+        "rarity": "OSR",
+        "illustrator": "がり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "974",
+        "card_number": "hBP04-004",
+        "rarity": "OUR",
+        "illustrator": "がり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1079",
+        "card_number": "hBP04-004",
+        "rarity": "SEC",
+        "illustrator": "がり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-004_SEC.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-005",
+    "name": "ラプラス・ダークネス",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "総帥のお仕事",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分のホロメンの能力でサイコロを1度に3回振る時、そのサイコロの目の数すべてを5として扱う。",
+    "skill_sp_name": "我ら秘密結社holoX！",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分の#秘密結社holoXを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツは、エールを必要とせずに使える。",
+    "variations": [
+      {
+        "web_id": "865",
+        "card_number": "hBP04-005",
+        "rarity": "OSR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-005_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "975",
+        "card_number": "hBP04-005",
+        "rarity": "OUR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-005_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1080",
+        "card_number": "hBP04-005",
+        "rarity": "SEC",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-005_SEC.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-006",
+    "name": "大空スバル",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "メンタル！ フィジカル！ パッション！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]相手のターンで、自分の〈大空スバル〉が相手からダメージを受ける時に使える:自分の〈大空スバル〉全員が受けるダメージ-30。",
+    "skill_sp_name": "リアクション芸",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のライフが3以下の時に使える:このターンの間、自分のセンターホロメンの〈大空スバル〉のアーツ+100。",
+    "variations": [
+      {
+        "web_id": "866",
+        "card_number": "hBP04-006",
+        "rarity": "OSR",
+        "illustrator": "ふじさわ犬一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-006_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "976",
+        "card_number": "hBP04-006",
+        "rarity": "OUR",
+        "illustrator": "ふじさわ犬一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-006_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1081",
+        "card_number": "hBP04-006",
+        "rarity": "SEC",
+        "illustrator": "ふじさわ犬一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-006_SEC.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-007",
+    "name": "アーニャ・メルフィッサ",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "神秘の儀式",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから、〈古代武器〉1枚を公開し、自分のホロメンに付ける。そしてデッキをシャッフルする。",
+    "skill_sp_name": "人生のこと考えていた方が勝てる",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブのエールを、自分の〈古代武器〉が付いているホロメン全員に1枚ずつ送る。",
+    "variations": [
+      {
+        "web_id": "867",
+        "card_number": "hBP04-007",
+        "rarity": "OSR",
+        "illustrator": "81",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-007_OSR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "977",
+        "card_number": "hBP04-007",
+        "rarity": "OUR",
+        "illustrator": "81",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-007_OUR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-001",
+    "name": "白銀ノエル",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "白銀の騎士達",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のホロメンが相手のホロメンをダウンさせた時に使える:自分のデッキから、#3期生を持つホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "スーパーまずった太郎",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のターンで、自分の#3期生を持つホロメンがダウンした時に使える:自分の減るライフ-1。その後、そのホロメンがBuzzホロメンか2ndホロメンなら、自分のデッキを2枚引く。",
+    "variations": [
+      {
+        "web_id": "1179",
+        "card_number": "hBP05-001",
+        "rarity": "OSR",
+        "illustrator": "pon",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-001_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1280",
+        "card_number": "hBP05-001",
+        "rarity": "OUR",
+        "illustrator": "pon",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-001_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-002",
+    "name": "アイラニ・イオフィフティーン",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "IOFORIA~!",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]相手のターンで、自分の#ID1期生を持つホロメンが相手からダメージを受ける時に使える:そのホロメンのエール1枚を自分の他の#ID1期生を持つホロメンに付け替える。",
+    "skill_sp_name": "Kekuatan Iofi",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のステージのエール2枚をアーカイブすることで、自分のデッキから、#ID1期生を持つホロメン2枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1180",
+        "card_number": "hBP05-002",
+        "rarity": "OSR",
+        "illustrator": "カロクチトセ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-002_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1281",
+        "card_number": "hBP05-002",
+        "rarity": "OUR",
+        "illustrator": "カロクチトセ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-002_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1282",
+        "card_number": "hBP05-002",
+        "rarity": "SEC",
+        "illustrator": "カロクチトセ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-002_SEC.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-003",
+    "name": "尾丸ポルカ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ポルカの伝説",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の手札が自分のステージの〈座員〉の枚数と同じになるまで、自分のデッキを引く。ただし、引ける枚数は4枚まで。",
+    "skill_sp_name": "成功体験－！！！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキの上から7枚を見る。その中から、[〈尾丸ポルカ〉とスタッフ]1枚ずつを公開し、公開した[〈尾丸ポルカ〉とスタッフ]を手札に加える。そして残ったカードをアーカイブする。",
+    "variations": [
+      {
+        "web_id": "1181",
+        "card_number": "hBP05-003",
+        "rarity": "OSR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-003_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1283",
+        "card_number": "hBP05-003",
+        "rarity": "OUR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-003_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1284",
+        "card_number": "hBP05-003",
+        "rarity": "SEC",
+        "illustrator": "こうましろ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-003_SEC.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-004",
+    "name": "猫又おかゆ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "いっくよー",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のセンターホロメンが〈猫又おかゆ〉なら使える:相手のホロメン1人に特殊ダメージ10を与える。",
+    "skill_sp_name": "ウマウマ！",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]相手のセンターホロメンとHPが減っているバックホロメン1人を交代できる。その後、自分のセンターホロメンが〈猫又おかゆ〉なら、自分のデッキを3枚引く。",
+    "variations": [
+      {
+        "web_id": "1182",
+        "card_number": "hBP05-004",
+        "rarity": "OSR",
+        "illustrator": "ふじさわ犬一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-004_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1285",
+        "card_number": "hBP05-004",
+        "rarity": "OUR",
+        "illustrator": "ふじさわ犬一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-004_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-005",
+    "name": "癒月ちょこ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ちょこまみれになっちゃえっ！",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のデッキから、#食べ物を持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "ちょこっとクッキング",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブの#食べ物を持つイベント1～4枚を手札に戻す。その後、このターンの間、自分のステージの#料理を持つホロメン全員のアーツ+40。",
+    "variations": [
+      {
+        "web_id": "1183",
+        "card_number": "hBP05-005",
+        "rarity": "OSR",
+        "illustrator": "unieef",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-005_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1286",
+        "card_number": "hBP05-005",
+        "rarity": "OUR",
+        "illustrator": "unieef",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-005_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1287",
+        "card_number": "hBP05-005",
+        "rarity": "SEC",
+        "illustrator": "unieef",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-005_SEC.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-006",
+    "name": "ネリッサ・レイヴンクロフト",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Liebesträume",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]このターンの間、自分の#歌を持つ[センターホロメンとコラボホロメン]のアーツ+10。",
+    "skill_sp_name": "Shoot for the Moon",
+    "skill_sp": "[ホロパワー:-4] [ゲームに1回]このゲームの間、自分の〈ネリッサ・レイヴンクロフト〉全員のアーツに必要な無色-1。",
+    "variations": [
+      {
+        "web_id": "1184",
+        "card_number": "hBP05-006",
+        "rarity": "OSR",
+        "illustrator": "Jeze",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-006_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1288",
+        "card_number": "hBP05-006",
+        "rarity": "OUR",
+        "illustrator": "Jeze",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-006_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-007",
+    "name": "不知火フレア",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "キミの力になりたいから",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のコラボポジションの[Debutホロメンか1stホロメンかSpotホロメン]と、バックホロメンの〈不知火フレア〉1人を交代させる。",
+    "skill_sp_name": "みんなで盛り上がろう！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のステージのエール1～5枚を自分の〈不知火フレア〉1人に付け替えられる。その後、このターンの間、自分のセンターホロメンのエール1枚につき、自分のステージのホロメン全員のアーツ+10。",
+    "variations": [
+      {
+        "web_id": "1185",
+        "card_number": "hBP05-007",
+        "rarity": "OSR",
+        "illustrator": "兎未枝",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-007_OSR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1289",
+        "card_number": "hBP05-007",
+        "rarity": "OUR",
+        "illustrator": "兎未枝",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-007_OUR.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-001",
+    "name": "ラオーラ・パンテーラ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "BIG CAT means…",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のセンターホロメンが〈ラオーラ・パンテーラ〉なら、自分のデッキから、自分のコラボホロメンと同じカード名のホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "BIG TROUBLE!!",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]このゲームの間、自分の〈ラオーラ・パンテーラ〉全員は、リセットステップでお休みしない。",
+    "variations": [
+      {
+        "web_id": "1478",
+        "card_number": "hBP06-001",
+        "rarity": "OSR",
+        "illustrator": "玉子鼠",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-001_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1594",
+        "card_number": "hBP06-001",
+        "rarity": "OUR",
+        "illustrator": "玉子鼠",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-001_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1602",
+        "card_number": "hBP06-001",
+        "rarity": "SEC",
+        "illustrator": "玉子鼠",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-001_SEC.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-002",
+    "name": "響咲リオナ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "やりたいように、私は私らしく",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、このターンの間、自分の#FLOW GLOWを持つ[センターホロメンとコラボホロメン]のアーツ+20。",
+    "skill_sp_name": "生き抜いていくんです！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のデッキの枚数が5枚以下で、自分の#FLOW GLOWを持つホロメンが相手のセンターホロメンをダウンさせた時に使える:相手のライフ-1。",
+    "variations": [
+      {
+        "web_id": "1479",
+        "card_number": "hBP06-002",
+        "rarity": "OSR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-002_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1595",
+        "card_number": "hBP06-002",
+        "rarity": "OUR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-002_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-003",
+    "name": "風真いろは",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "迷ったらまず実行！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のエールデッキの上から1枚を自分の[BuzzホロメンかBuzzホロメンからBloomしている〈風真いろは〉]に送る。",
+    "skill_sp_name": "アルティメットつよつよござる",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]このターンの間、自分のステージのエール1枚につき、自分のステージの〈風真いろは〉全員のアーツ+10。その後、自分のステージにBuzzホロメンがいるなら、自分のデッキを3枚引く。",
+    "variations": [
+      {
+        "web_id": "1480",
+        "card_number": "hBP06-003",
+        "rarity": "OSR",
+        "illustrator": "江田藤",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-003_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1596",
+        "card_number": "hBP06-003",
+        "rarity": "OUR",
+        "illustrator": "江田藤",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-003_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1603",
+        "card_number": "hBP06-003",
+        "rarity": "SEC",
+        "illustrator": "江田藤",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-003_SEC.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-004",
+    "name": "百鬼あやめ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "鬼閻魔",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のエールデッキの上から1～2枚をアーカイブする:アーカイブしたエール1枚につき、自分のデッキを1枚引く。",
+    "skill_sp_name": "二刀一閃！ 鬼神斬り",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のセンターホロメンかコラボホロメンどちらかに、自分のアーカイブの赤エール1枚につき、特殊ダメージ20を与える。",
+    "variations": [
+      {
+        "web_id": "1481",
+        "card_number": "hBP06-004",
+        "rarity": "OSR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-004_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1597",
+        "card_number": "hBP06-004",
+        "rarity": "OUR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-004_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1604",
+        "card_number": "hBP06-004",
+        "rarity": "SEC",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-004_SEC.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-005",
+    "name": "ハコス・ベールズ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "混沌の化身",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]このゲーム中に、自分のSP推しスキルを使っていたなら、サイコロを1回振る。自分の手札が出た目の数と同じになるまで、自分のデッキを引く。",
+    "skill_sp_name": "🎲ƎNOZ N∩Ⅎ ƎH⊥ O⊥ ƎWOϽ˥ƎM🎲",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]サイコロを1回振る。出た目の数1につき、自分の手札1枚をアーカイブする。",
+    "variations": [
+      {
+        "web_id": "1482",
+        "card_number": "hBP06-005",
+        "rarity": "OSR",
+        "illustrator": "株式会社ジーアングル",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-005_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1598",
+        "card_number": "hBP06-005",
+        "rarity": "OUR",
+        "illustrator": "株式会社ジーアングル",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-005_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-006",
+    "name": "ムーナ・ホシノヴァ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "満月の輝き",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]相手のホロメン1人に特殊ダメージを与えた時に使える:相手のセンターホロメンとコラボホロメンに特殊ダメージ20を与える。",
+    "skill_sp_name": "双月の斉唱",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]お互いのステージのエールが合計6枚以上あるなら、自分のエールデッキから、エール1～3枚を公開し、自分の#ID1期生を持つホロメンに割り振って送る。そしてエールデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1483",
+        "card_number": "hBP06-006",
+        "rarity": "OSR",
+        "illustrator": "絢芽",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-006_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1599",
+        "card_number": "hBP06-006",
+        "rarity": "OUR",
+        "illustrator": "絢芽",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-006_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-007",
+    "name": "ロボ子さん",
+    "color": "紫",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "PONじゃないもん！！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]相手のターンで、自分の〈ロボ子さん〉がダウンした時に使える:自分のデッキの上から2枚をアーカイブする。その後、自分のアーカイブの〈ロボ子さん〉1枚を手札に戻す。",
+    "skill_sp_name": "ボクの『高性能っぷり』を堪能してよね♡",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のデッキを2枚引いた後、手札2枚をアーカイブする。その後、自分のアーカイブの〈ろぼさー〉を好きな枚数選び、自分の〈ロボ子さん〉に割り振って付けられる。",
+    "variations": [
+      {
+        "web_id": "1484",
+        "card_number": "hBP06-007",
+        "rarity": "OSR",
+        "illustrator": "ちひろ綺華",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-007_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1600",
+        "card_number": "hBP06-007",
+        "rarity": "OUR",
+        "illustrator": "ちひろ綺華",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-007_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP06-008",
+    "name": "夏色まつり",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "おまつりわっしょーい！！！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]サイコロを1回振る。出た目の数が自分のライフ以上なら、自分のデッキから、カード1枚を手札に加える。そしてデッキをシャッフルする。出た目の数が自分のライフ以下なら、自分のデッキの上から1枚をホロパワーにする。",
+    "skill_sp_name": "絶対勝ちたい！！！！！！！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のセンターホロメンが〈夏色まつり〉なら、このターンの間、自分が使えるLIMITEDのサポートカードの枚数は2枚になる。",
+    "variations": [
+      {
+        "web_id": "1485",
+        "card_number": "hBP06-008",
+        "rarity": "OSR",
+        "illustrator": "薫る石",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-008_OSR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1601",
+        "card_number": "hBP06-008",
+        "rarity": "OUR",
+        "illustrator": "gaha",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-008_OUR.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "1605",
+        "card_number": "hBP06-008",
+        "rarity": "SEC",
+        "illustrator": "gaha",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-008_SEC.png",
+        "expansion_id": "hBP06",
+        "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-001",
+    "name": "角巻わため",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "ドドドライブ",
+    "skill_stage": "自分の〈角巻わため〉がアーツを使った時、自分のデッキの上から1枚をホロパワーにする。",
+    "skill_oshi_name": "角ドリルしたろか？",
+    "skill_oshi": "[ホロパワー:-6] [ターンに1回]このターンの間、自分のステージの〈角巻わため〉全員のアーツ+100。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "1787",
+        "card_number": "hBP07-001",
+        "rarity": "OSR",
+        "illustrator": "桶乃かもく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-001_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1908",
+        "card_number": "hBP07-001",
+        "rarity": "OUR",
+        "illustrator": "桶乃かもく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-001_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2143",
+        "card_number": "hBP07-001",
+        "rarity": "P",
+        "illustrator": "葉丸",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-001_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-002",
+    "name": "ベスティア・ゼータ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Good Luck, holoh3ro!",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。そのホロメンが#ID3期生を持つBuzzホロメンなら、かわりに、そのホロメンのアーツ+80。",
+    "skill_sp_name": "不可能なんてないんだから！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブの[マスコットとファン]を好きな枚数選び、自分の#ID3期生を持つホロメン1人に付ける。3枚以上付けたなら、このターンの間、そのホロメンのアーツ+100。",
+    "variations": [
+      {
+        "web_id": "1788",
+        "card_number": "hBP07-002",
+        "rarity": "OSR",
+        "illustrator": "楠ハルイ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-002_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1909",
+        "card_number": "hBP07-002",
+        "rarity": "OUR",
+        "illustrator": "楠ハルイ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-002_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1910",
+        "card_number": "hBP07-002",
+        "rarity": "SEC",
+        "illustrator": "楠ハルイ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-002_SEC.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-003",
+    "name": "大神ミオ",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "神札の導き",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のデッキの上から2枚を見る。その中から、カード1枚を手札に加える。そして残ったカードをデッキの上に戻す。",
+    "skill_sp_name": "みんなのママ",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキの上から6枚を見る。その中から、カード3枚を手札に加える。そして残ったカードを好きな順でデッキの上に戻す。その後、自分のホロメン全員のHP50回復。",
+    "variations": [
+      {
+        "web_id": "1789",
+        "card_number": "hBP07-003",
+        "rarity": "OSR",
+        "illustrator": "灯子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-003_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1911",
+        "card_number": "hBP07-003",
+        "rarity": "OUR",
+        "illustrator": "灯子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-003_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1912",
+        "card_number": "hBP07-003",
+        "rarity": "SEC",
+        "illustrator": "灯子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-003_SEC.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-004",
+    "name": "赤井はあと",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "はあちゃまなう",
+    "skill_stage": "[ターンに1回]自分のターンで、自分の〈赤井はあと〉が自分の能力でステージからデッキに戻った時、自分のデッキを2枚引く。",
+    "skill_oshi_name": "ワールドワイドな最強アイドル！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のバックポジションのDebutホロメンの〈赤井はあと〉1人をデッキの下に戻す。その後、自分のステージの〈赤井はあと〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "1790",
+        "card_number": "hBP07-004",
+        "rarity": "OSR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-004_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1913",
+        "card_number": "hBP07-004",
+        "rarity": "OUR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-004_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-005",
+    "name": "オーロ・クロニー",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "忘却の輪の上で",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキを下から2枚引いた後、手札1枚をアーカイブする。",
+    "skill_sp_name": "時間の典獄",
+    "skill_sp": "[ホロパワー:-4] [ゲームに1回]自分のセンターホロメンが2ndの〈オーロ・クロニー〉なら、このターンの後に、もう1回自分のターンを開始する。",
+    "variations": [
+      {
+        "web_id": "1791",
+        "card_number": "hBP07-005",
+        "rarity": "OSR",
+        "illustrator": "ニジハヤシ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-005_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1914",
+        "card_number": "hBP07-005",
+        "rarity": "OUR",
+        "illustrator": "ニジハヤシ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-005_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-006",
+    "name": "AZKi",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "ETERNiTY FRONTiER",
+    "skill_stage": "自分のホロパワー1枚につき、自分のセンターホロメンの〈AZKi〉のアーツ+20。",
+    "skill_oshi_name": "行くよ、開拓者。",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]直前の相手のターンに自分のホロメンがダウンしていたなら、自分のデッキから、イベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "1792",
+        "card_number": "hBP07-006",
+        "rarity": "OSR",
+        "illustrator": "竹花ノート",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-006_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1915",
+        "card_number": "hBP07-006",
+        "rarity": "OUR",
+        "illustrator": "竹花ノート",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-006_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1916",
+        "card_number": "hBP07-006",
+        "rarity": "SEC",
+        "illustrator": "竹花ノート",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-006_SEC.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP07-007",
+    "name": "桃鈴ねね",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "スーパーねぽらぼエナジー",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のアーカイブのエールを自分の#5期生を持つ2ndホロメン全員に1枚ずつ送る。",
+    "skill_sp_name": "ねねちの大・暴・走！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のデッキから、Debutホロメンの〈桃鈴ねね〉1～4枚を公開し、ステージに出す。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1793",
+        "card_number": "hBP07-007",
+        "rarity": "OSR",
+        "illustrator": "イルディ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-007_OSR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1917",
+        "card_number": "hBP07-007",
+        "rarity": "OUR",
+        "illustrator": "イルディ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-007_OUR.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "1918",
+        "card_number": "hBP07-007",
+        "rarity": "SEC",
+        "illustrator": "イルディ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-007_SEC.png",
+        "expansion_id": "hBP07",
+        "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-004",
+    "name": "白上フブキ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "810",
+        "card_number": "hBD24-004",
+        "rarity": "P",
+        "illustrator": "げぜるん。",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-004_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-005",
+    "name": "姫森ルーナ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "825",
+        "card_number": "hBD24-005",
+        "rarity": "P",
+        "illustrator": "かんざきひろ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-005_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-008",
+    "name": "ベスティア・ゼータ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "830",
+        "card_number": "hBD24-008",
+        "rarity": "P",
+        "illustrator": "あるてら",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-008_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-012",
+    "name": "白銀ノエル",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "846",
+        "card_number": "hBD24-012",
+        "rarity": "P",
+        "illustrator": "MyungYi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-012_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-032",
+    "name": "博衣こより",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1127",
+        "card_number": "hBD24-032",
+        "rarity": "P",
+        "illustrator": "ももこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-032_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-033",
+    "name": "IRyS",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1166",
+        "card_number": "hBD24-033",
+        "rarity": "P",
+        "illustrator": "ぴ助",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-033_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-040",
+    "name": "天音かなた",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1173",
+        "card_number": "hBD24-040",
+        "rarity": "P",
+        "illustrator": "猫屋敷ぷしお",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-040_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-043",
+    "name": "ラオーラ・パンテーラ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1415",
+        "card_number": "hBD24-043",
+        "rarity": "P",
+        "illustrator": "ラオーラ・パンテーラ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-043_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-045",
+    "name": "ときのそら",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1417",
+        "card_number": "hBD24-045",
+        "rarity": "P",
+        "illustrator": "おるだん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-045_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-049",
+    "name": "響咲リオナ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1421",
+        "card_number": "hBD24-049",
+        "rarity": "P",
+        "illustrator": "TTOSOM",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-049_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-051",
+    "name": "轟はじめ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～White～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、白ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1423",
+        "card_number": "hBD24-051",
+        "rarity": "P",
+        "illustrator": "Aちき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-051_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-001",
+    "name": "パヴォリア・レイネ",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "199",
+        "card_number": "hBD24-001",
+        "rarity": "P",
+        "illustrator": "飯田ぽち。",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-001_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-002",
+    "name": "獅白ぼたん",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "564",
+        "card_number": "hBD24-002",
+        "rarity": "P",
+        "illustrator": "大暮維人",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-002_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-009",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "826",
+        "card_number": "hBD24-009",
+        "rarity": "P",
+        "illustrator": "ilion",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-009_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-017",
+    "name": "兎田ぺこら",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1090",
+        "card_number": "hBD24-017",
+        "rarity": "P",
+        "illustrator": "憂姫はぐれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-017_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-022",
+    "name": "儒烏風亭らでん",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1095",
+        "card_number": "hBD24-022",
+        "rarity": "P",
+        "illustrator": "みつきさなぎ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-022_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-025",
+    "name": "アキ・ローゼンタール",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1122",
+        "card_number": "hBD24-025",
+        "rarity": "P",
+        "illustrator": "雪子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-025_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-054",
+    "name": "風真いろは",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1426",
+        "card_number": "hBD24-054",
+        "rarity": "P",
+        "illustrator": "Nardack",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-054_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-055",
+    "name": "AZKi",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1427",
+        "card_number": "hBD24-055",
+        "rarity": "P",
+        "illustrator": "D福",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-055_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-058",
+    "name": "輪堂千速",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1430",
+        "card_number": "hBD24-058",
+        "rarity": "P",
+        "illustrator": "トリダモノ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-058_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-059",
+    "name": "アイラニ・イオフィフティーン",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1431",
+        "card_number": "hBD24-059",
+        "rarity": "P",
+        "illustrator": "夜ノみつき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-059_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-064",
+    "name": "大神ミオ",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Green～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、緑ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1436",
+        "card_number": "hBD24-064",
+        "rarity": "P",
+        "illustrator": "泉彩",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-064_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-015",
+    "name": "百鬼あやめ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "847",
+        "card_number": "hBD24-015",
+        "rarity": "P",
+        "illustrator": "Tiv",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-015_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-019",
+    "name": "尾丸ポルカ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1092",
+        "card_number": "hBD24-019",
+        "rarity": "P",
+        "illustrator": "茨木春",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-019_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-021",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1094",
+        "card_number": "hBD24-021",
+        "rarity": "P",
+        "illustrator": "イコモチ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-021_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-028",
+    "name": "ハコス・ベールズ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1098",
+        "card_number": "hBD24-028",
+        "rarity": "P",
+        "illustrator": "Mika Pikazo",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-028_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-029",
+    "name": "さくらみこ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1124",
+        "card_number": "hBD24-029",
+        "rarity": "P",
+        "illustrator": "おるだん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-029_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-041",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1413",
+        "card_number": "hBD24-041",
+        "rarity": "P",
+        "illustrator": "ye_jji",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-041_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-044",
+    "name": "一条莉々華",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1416",
+        "card_number": "hBD24-044",
+        "rarity": "P",
+        "illustrator": "トマリ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-044_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-052",
+    "name": "鷹嶺ルイ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1424",
+        "card_number": "hBD24-052",
+        "rarity": "P",
+        "illustrator": "石原竜也",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-052_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-057",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1429",
+        "card_number": "hBD24-057",
+        "rarity": "P",
+        "illustrator": "DOTORI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-057_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-061",
+    "name": "宝鐘マリン",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1433",
+        "card_number": "hBD24-061",
+        "rarity": "P",
+        "illustrator": "あかさあい",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-061_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-063",
+    "name": "赤井はあと",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1435",
+        "card_number": "hBD24-063",
+        "rarity": "P",
+        "illustrator": "MISSILE228",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-063_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-066",
+    "name": "カエラ・コヴァルスキア",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Red～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、赤ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1438",
+        "card_number": "hBD24-066",
+        "rarity": "P",
+        "illustrator": "もちみこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-066_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-010",
+    "name": "雪花ラミィ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "827",
+        "card_number": "hBD24-010",
+        "rarity": "P",
+        "illustrator": "リン☆ユウ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-010_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-014",
+    "name": "こぼ・かなえる",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "832",
+        "card_number": "hBD24-014",
+        "rarity": "P",
+        "illustrator": "ふわり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-014_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-016",
+    "name": "沙花叉クロヱ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Anniversary Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "848",
+        "card_number": "hBD24-016",
+        "rarity": "P",
+        "illustrator": "パセリ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-016_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-020",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1093",
+        "card_number": "hBD24-020",
+        "rarity": "P",
+        "illustrator": "イコモチ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-020_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-024",
+    "name": "ムーナ・ホシノヴァ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1096",
+        "card_number": "hBD24-024",
+        "rarity": "P",
+        "illustrator": "により",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-024_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-026",
+    "name": "猫又おかゆ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1123",
+        "card_number": "hBD24-026",
+        "rarity": "P",
+        "illustrator": "神岡ちろる",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-026_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-027",
+    "name": "火威青",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1097",
+        "card_number": "hBD24-027",
+        "rarity": "P",
+        "illustrator": "むっしゅ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-027_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-031",
+    "name": "オーロ・クロニー",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1126",
+        "card_number": "hBD24-031",
+        "rarity": "P",
+        "illustrator": "chyan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-031_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-034",
+    "name": "星街すいせい",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1167",
+        "card_number": "hBD24-034",
+        "rarity": "P",
+        "illustrator": "hitokoto",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-034_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-042",
+    "name": "シオリ・ノヴェラ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1414",
+        "card_number": "hBD24-042",
+        "rarity": "P",
+        "illustrator": "Nebradisk",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-042_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-053",
+    "name": "水宮枢",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Blue～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、青ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1425",
+        "card_number": "hBD24-053",
+        "rarity": "P",
+        "illustrator": "みすみ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-053_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-006",
+    "name": "クレイジー・オリー",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "200",
+        "card_number": "hBD24-006",
+        "rarity": "P",
+        "illustrator": "生ハミ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-006_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-011",
+    "name": "ネリッサ・レイヴンクロフト",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "828",
+        "card_number": "hBD24-011",
+        "rarity": "P",
+        "illustrator": "EB十",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-011_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-013",
+    "name": "紫咲シオン",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "831",
+        "card_number": "hBD24-013",
+        "rarity": "P",
+        "illustrator": "りいちゅ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-013_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-023",
+    "name": "癒月ちょこ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1121",
+        "card_number": "hBD24-023",
+        "rarity": "P",
+        "illustrator": "Nardack",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-023_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-037",
+    "name": "森カリオペ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1170",
+        "card_number": "hBD24-037",
+        "rarity": "P",
+        "illustrator": "久乃のらり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-037_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-038",
+    "name": "古石ビジュー",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1171",
+        "card_number": "hBD24-038",
+        "rarity": "P",
+        "illustrator": "北田 藻",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-038_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-046",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1418",
+        "card_number": "hBD24-046",
+        "rarity": "P",
+        "illustrator": "chibi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-046_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-047",
+    "name": "ロボ子さん",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1419",
+        "card_number": "hBD24-047",
+        "rarity": "P",
+        "illustrator": "SYAGAMU",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-047_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-048",
+    "name": "ラプラス・ダークネス",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1420",
+        "card_number": "hBD24-048",
+        "rarity": "P",
+        "illustrator": "ちょぼらうにょぽみ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-048_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-062",
+    "name": "常闇トワ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1434",
+        "card_number": "hBD24-062",
+        "rarity": "P",
+        "illustrator": "rurudo",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-062_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-065",
+    "name": "綺々羅々ヴィヴィ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Purple～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、紫ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1437",
+        "card_number": "hBD24-065",
+        "rarity": "P",
+        "illustrator": "nonco",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-065_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-003",
+    "name": "戌神ころね",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "809",
+        "card_number": "hBD24-003",
+        "rarity": "P",
+        "illustrator": "Hyde",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-003_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-007",
+    "name": "ジジ・ムリン",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "563",
+        "card_number": "hBD24-007",
+        "rarity": "P",
+        "illustrator": "林けゐ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-007_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-018",
+    "name": "アユンダ・リス",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1091",
+        "card_number": "hBD24-018",
+        "rarity": "P",
+        "illustrator": "Nestvirgo",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-018_P_02.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-030",
+    "name": "アーニャ・メルフィッサ",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1125",
+        "card_number": "hBD24-030",
+        "rarity": "P",
+        "illustrator": "SOLANI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-030_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-035",
+    "name": "桃鈴ねね",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1168",
+        "card_number": "hBD24-035",
+        "rarity": "P",
+        "illustrator": "りいちゅ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-035_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-036",
+    "name": "不知火フレア",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1169",
+        "card_number": "hBD24-036",
+        "rarity": "P",
+        "illustrator": "さえきやひろ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-036_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-039",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1172",
+        "card_number": "hBD24-039",
+        "rarity": "P",
+        "illustrator": "gomzi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-039_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-050",
+    "name": "角巻わため",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1422",
+        "card_number": "hBD24-050",
+        "rarity": "P",
+        "illustrator": "ふーみ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-050_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-056",
+    "name": "大空スバル",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1428",
+        "card_number": "hBD24-056",
+        "rarity": "P",
+        "illustrator": "しぐれうい",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-056_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-060",
+    "name": "虎金妃笑虎",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "1432",
+        "card_number": "hBD24-060",
+        "rarity": "P",
+        "illustrator": "鉄一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-060_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBD24-067",
+    "name": "夏色まつり",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローエンハンス",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄ホロメン1人のアーツ+20。",
+    "skill_sp_name": "Birthday Gift ～Yellow～",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、黄ホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "2130",
+        "card_number": "hBD24-067",
+        "rarity": "P",
+        "illustrator": "えく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBD24-067_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD01-001",
+    "name": "ときのそら",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "リプレイスメント",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のステージのエール1枚を、自分のホロメンに付け替える。",
+    "skill_sp_name": "じゃあ敵だね？",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のセンターホロメンとバックホロメン1人を交代させる。その後、このターンの間、自分の白センターホロメンのアーツ+50。",
+    "variations": [
+      {
+        "web_id": "1",
+        "card_number": "hSD01-001",
+        "rarity": "OSR",
+        "illustrator": "でいりー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-001_OSR.png",
+        "expansion_id": "hSD01",
+        "expansion_name": "スタートデッキ「ときのそら＆AZKi」"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD01-002",
+    "name": "AZKi",
+    "color": "緑",
+    "life": "6",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "左手に地図",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のホロメンの能力でサイコロを振る時に使える:サイコロの目の数１つを宣言し、次に出る目の数を宣言した目として扱う。",
+    "skill_sp_name": "右手にマイク",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のアーカイブのエールを自分の緑ホロメン1人に好きな枚数送る。",
+    "variations": [
+      {
+        "web_id": "2",
+        "card_number": "hSD01-002",
+        "rarity": "OSR",
+        "illustrator": "Hachi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-002_OSR.png",
+        "expansion_id": "hSD01",
+        "expansion_name": "スタートデッキ「ときのそら＆AZKi」"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD02-001",
+    "name": "百鬼あやめ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤センターホロメンのアーツ+20。",
+    "skill_sp_name": "さあ！もう一度！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のアーカイブの赤ホロメン1枚を手札に戻す。",
+    "variations": [
+      {
+        "web_id": "225",
+        "card_number": "hSD02-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD02/hSD02-001_OC.png",
+        "expansion_id": "hSD02",
+        "expansion_name": "スタートデッキ 赤 百鬼あやめ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD03-001",
+    "name": "猫又おかゆ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青センターホロメンのアーツ+20。",
+    "skill_sp_name": "バックショット",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のステージのホロメンが相手のバックホロメンにダメージを与えた時に使える:その相手のバックホロメン1人に特殊ダメージ50を与える。",
+    "variations": [
+      {
+        "web_id": "239",
+        "card_number": "hSD03-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD03/hSD03-001_OC.png",
+        "expansion_id": "hSD03",
+        "expansion_name": "スタートデッキ 青 猫又おかゆ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD04-001",
+    "name": "癒月ちょこ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "パープルマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の紫センターホロメンのアーツ+20。",
+    "skill_sp_name": "カードチェンジ",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のデッキを2枚引いた後、手札1枚をアーカイブする。",
+    "variations": [
+      {
+        "web_id": "253",
+        "card_number": "hSD04-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD04/hSD04-001_OC.png",
+        "expansion_id": "hSD04",
+        "expansion_name": "スタートデッキ 紫 癒月ちょこ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD05-001",
+    "name": "轟はじめ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白センターホロメンのアーツ+20。",
+    "skill_sp_name": "クイックガード",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]相手のターンで、自分の白ホロメンが相手からダメージを受ける時に使える:そのホロメン1人が受けるダメージ-20。",
+    "variations": [
+      {
+        "web_id": "517",
+        "card_number": "hSD05-001",
+        "rarity": "OC",
+        "illustrator": "おぐち",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD05/hSD05-001_OC.png",
+        "expansion_id": "hSD05",
+        "expansion_name": "スタートデッキ 白 轟はじめ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD06-001",
+    "name": "風真いろは",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑センターホロメンのアーツ+20。",
+    "skill_sp_name": "みんな頑張ろー！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分の緑ホロメン全員のHP20回復。",
+    "variations": [
+      {
+        "web_id": "532",
+        "card_number": "hSD06-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD06/hSD06-001_OC.png",
+        "expansion_id": "hSD06",
+        "expansion_name": "スタートデッキ 緑 風真いろは"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD07-001",
+    "name": "不知火フレア",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "イエローマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の黄センターホロメンのアーツ+20。",
+    "skill_sp_name": "後は引き受けた！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のセンターホロメンとお休みしていないバックホロメン1人を交代させる。さらに、バックポジションに移動したホロメンのHP30回復。",
+    "variations": [
+      {
+        "web_id": "546",
+        "card_number": "hSD07-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD07/hSD07-001_OC.png",
+        "expansion_id": "hSD07",
+        "expansion_name": "スタートデッキ 黄 不知火フレア"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD08-001",
+    "name": "天音かなた",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白センターホロメンのアーツ+20。",
+    "skill_sp_name": "クイックガード",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]相手のターンで、自分の白ホロメンが相手からダメージを受ける時に使える:そのホロメン1人が受けるダメージ-20。",
+    "variations": [
+      {
+        "web_id": "1138",
+        "card_number": "hSD08-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD08-001_OC.png",
+        "expansion_id": "hSD08",
+        "expansion_name": "スタートデッキ 白 天音かなた"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD09-001",
+    "name": "宝鐘マリン",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドマイク",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤センターホロメンのアーツ+20。",
+    "skill_sp_name": "さあ！もう一度！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のアーカイブの赤ホロメン1枚を手札に戻す。",
+    "variations": [
+      {
+        "web_id": "1147",
+        "card_number": "hSD09-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-001_OC.png",
+        "expansion_id": "hSD09",
+        "expansion_name": "スタートデッキ 赤 宝鐘マリン"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD10-001",
+    "name": "輪堂千速",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "エンジン全開！レッツゴー！",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの#FLOW GLOWを持つホロメン1人のアーツ+30。",
+    "skill_sp_name": "向こう側の景色を見に行かない？",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。その後、自分の#FLOW GLOWを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+20。",
+    "variations": [
+      {
+        "web_id": "1456",
+        "card_number": "hSD10-001",
+        "rarity": "OSR",
+        "illustrator": "株式会社スタジオヴィガ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-001_OSR.png",
+        "expansion_id": "hSD10",
+        "expansion_name": "スタートデッキ FLOW GLOW 推し 輪堂千速"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD11-001",
+    "name": "虎金妃笑虎",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "虎視眈々",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のアーカイブのエール1～2枚を自分のエールが付いていない#FLOW GLOWを持つホロメン1人に送る。",
+    "skill_sp_name": "ニコたんの名を呼ぶがいいさ！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の#FLOW GLOWを持つホロメンの能力でエールをアーカイブした時に使える:相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたエール1枚につき、特殊ダメージ30を与える。",
+    "variations": [
+      {
+        "web_id": "1469",
+        "card_number": "hSD11-001",
+        "rarity": "OSR",
+        "illustrator": "トマル",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-001_OSR.png",
+        "expansion_id": "hSD11",
+        "expansion_name": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD12-001",
+    "name": "シオリ・ノヴェラ",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "収集家",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のデッキの上から3枚を見る。その中から、サポートカード1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。",
+    "skill_sp_name": "リベリオン",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]相手のDebut以外のバックホロメン1人に、自分のアーカイブのサポートカード1枚につき、特殊ダメージ10を与える。",
+    "variations": [
+      {
+        "web_id": "1750",
+        "card_number": "hSD12-001",
+        "rarity": "OSR",
+        "illustrator": "村カルキ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-001_OSR.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD12-002",
+    "name": "古石ビジュー",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Biboo Tax",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]お互いのエールデッキの上から1枚をアーカイブする。アーカイブしたエール1色につき、自分のデッキを1枚引く。",
+    "skill_sp_name": "古代魔石の輝き",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のセンターホロメンに、自分のアーカイブの[#Adventを持つホロメンとエール]1枚につき、特殊ダメージ10を与える。",
+    "variations": [
+      {
+        "web_id": "1751",
+        "card_number": "hSD12-002",
+        "rarity": "OSR",
+        "illustrator": "茶椿",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-002_OSR.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD13-001",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "秩序の先駆者",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のホロメン1人が相手からアーツダメージを受ける時、自分のステージの[Buzzか2nd]の赤ホロメン1人を選べる:そのダメージを、選んだホロメンがかわりに受ける。",
+    "skill_sp_name": "JUST LIKE THAT",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のアーカイブの#Justiceを持つホロメン1枚をステージに出す。その後、自分のアーカイブのエール1～5枚をそのホロメンに送る。",
+    "variations": [
+      {
+        "web_id": "1769",
+        "card_number": "hSD13-001",
+        "rarity": "OSR",
+        "illustrator": "絢芽",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-001_OSR.png",
+        "expansion_id": "hSD13",
+        "expansion_name": "スタートデッキ 推し Justice"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD13-002",
+    "name": "ジジ・ムリン",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "Boat Goes Binted",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]相手のセンターポジションとコラボポジションのホロメンを入れ替える。",
+    "skill_sp_name": "自由奔放な『追跡者』",
+    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のデッキから、2ndホロメンの〈ジジ・ムリン〉2枚を公開し、ステージに出す。そしてデッキをシャッフルする。その後、自分のアーカイブのエールを自分のホロメン全員に1枚ずつ送る。",
+    "variations": [
+      {
+        "web_id": "1770",
+        "card_number": "hSD13-002",
+        "rarity": "OSR",
+        "illustrator": "BISAI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-002_OSR.png",
+        "expansion_id": "hSD13",
+        "expansion_name": "スタートデッキ 推し Justice"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD14-001",
+    "name": "白上フブキ",
+    "color": "白",
+    "life": "4",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "みんな一緒にいくぞぉおっ",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のマスコットが付いている〈白上フブキ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。",
+    "skill_sp_name": "マスコッツ、アッセンブル!!",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、マスコット1～2枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "2065",
+        "card_number": "hSD14-001",
+        "rarity": "OC",
+        "illustrator": "もも寝子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-001_OC.png",
+        "expansion_id": "hSD14",
+        "expansion_name": "ライブスタートデッキ 白上フブキ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD15-001",
+    "name": "儒烏風亭らでん",
+    "color": "緑",
+    "life": "4",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ちょっとまつたけ～♪",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから#きのこを持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "skill_sp_name": "あなたの世界を広げに行こう",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のエールデッキの上から1枚を自分の〈儒烏風亭らでん〉に送る。その後、自分のアーカイブの#きのこを持つイベント1枚を手札に戻す。",
+    "variations": [
+      {
+        "web_id": "2077",
+        "card_number": "hSD15-001",
+        "rarity": "OC",
+        "illustrator": "古弥月",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-001_OC.png",
+        "expansion_id": "hSD15",
+        "expansion_name": "ライブスタートデッキ 儒烏風亭らでん"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD16-001",
+    "name": "さくらみこ",
+    "color": "赤",
+    "life": "4",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "35Pこっちこっちー",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の〈35P〉が付いているホロメンがいるなら、自分のデッキを1枚引く。",
+    "skill_sp_name": "35Pいくぞー！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のファンが付いている〈さくらみこ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。",
+    "variations": [
+      {
+        "web_id": "2088",
+        "card_number": "hSD16-001",
+        "rarity": "OC",
+        "illustrator": "古弥月",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-001_OC.png",
+        "expansion_id": "hSD16",
+        "expansion_name": "ライブスタートデッキ さくらみこ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD17-001",
+    "name": "星街すいせい",
+    "color": "青",
+    "life": "4",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "張り切ってがんばろーー!!!",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。",
+    "skill_sp_name": "流れ星",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のセンターホロメンが〈星街すいせい〉なら、相手のバックホロメン1人に特殊ダメージ50を与える。",
+    "variations": [
+      {
+        "web_id": "2098",
+        "card_number": "hSD17-001",
+        "rarity": "OC",
+        "illustrator": "玲汰",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-001_OC.png",
+        "expansion_id": "hSD17",
+        "expansion_name": "ライブスタートデッキ 星街すいせい"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD18-001",
+    "name": "森カリオペ",
+    "color": "紫",
+    "life": "4",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ライミング",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、自分のデッキを1枚引く。",
+    "skill_sp_name": "世界を繋げるラップ",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブにホロメンが6枚以上あるなら、このターンの間、自分のステージの〈森カリオペ〉全員のアーツ+30。",
+    "variations": [
+      {
+        "web_id": "2109",
+        "card_number": "hSD18-001",
+        "rarity": "OC",
+        "illustrator": "古弥月",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-001_OC.png",
+        "expansion_id": "hSD18",
+        "expansion_name": "ライブスタートデッキ 森カリオペ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD19-001",
+    "name": "大空スバル",
+    "color": "黄",
+    "life": "4",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ごめんｹﾄﾞ",
+    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のアーカイブのホロメン1枚を手札に戻す。",
+    "skill_sp_name": "おさんぽスバル",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブのエールを自分の〈大空スバル〉1～2人に1枚ずつ送る。",
+    "variations": [
+      {
+        "web_id": "2119",
+        "card_number": "hSD19-001",
+        "rarity": "OC",
+        "illustrator": "GIN",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-001_OC.png",
+        "expansion_id": "hSD19",
+        "expansion_name": "ライブスタートデッキ 大空スバル"
+      }
+    ]
+  },
+  {
+    "card_number": "hYS01-001",
+    "name": "七詩ムメイ",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ホワイトバトン",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の白コラボホロメンのアーツ+20。",
+    "skill_sp_name": "クイックガード",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]相手のターンで、自分の白ホロメンが相手からダメージを受ける時に使える:そのホロメン1人が受けるダメージ-20。",
+    "variations": [
+      {
+        "web_id": "172",
+        "card_number": "hYS01-001",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hY01/hYS01-001_OC.png",
+        "expansion_id": "hYS01",
+        "expansion_name": "スタートエールセット"
+      }
+    ]
+  },
+  {
+    "card_number": "hYS01-002",
+    "name": "兎田ぺこら",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "グリーンバトン",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の緑コラボホロメンのアーツ+20。",
+    "skill_sp_name": "みんな頑張ろー！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分の緑ホロメン全員のHP20回復。",
+    "variations": [
+      {
+        "web_id": "173",
+        "card_number": "hYS01-002",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hY01/hYS01-002_OC.png",
+        "expansion_id": "hYS01",
+        "expansion_name": "スタートエールセット"
+      }
+    ]
+  },
+  {
+    "card_number": "hYS01-003",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "レッドバトン",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の赤コラボホロメンのアーツ+20。",
+    "skill_sp_name": "さあ！もう一度！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のアーカイブの赤ホロメン1枚を手札に戻す。",
+    "variations": [
+      {
+        "web_id": "174",
+        "card_number": "hYS01-003",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hY01/hYS01-003_OC.png",
+        "expansion_id": "hYS01",
+        "expansion_name": "スタートエールセット"
+      }
+    ]
+  },
+  {
+    "card_number": "hYS01-004",
+    "name": "星街すいせい",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ブルーバトン",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンの間、自分の青コラボホロメンのアーツ+20。",
+    "skill_sp_name": "バックショット",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のホロメンが相手のバックホロメンにダメージを与えた時に使える:その相手のバックホロメン1人に特殊ダメージ50を与える。",
+    "variations": [
+      {
+        "web_id": "175",
+        "card_number": "hYS01-004",
+        "rarity": "OC",
+        "illustrator": "松尾 省吾",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hY01/hYS01-004_OC.png",
+        "expansion_id": "hYS01",
+        "expansion_name": "スタートエールセット"
+      }
+    ]
+  }
+]
