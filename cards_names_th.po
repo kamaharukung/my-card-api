@@ -1,0 +1,6689 @@
+# Hololive Card Game — Names / Tags / Extra
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+
+#. holomem:hBP01-027:tags
+#. holomem:hBP01-024:tags
+#. holomem:hBP01-025:tags
+#. ... and 24 more
+msgid "#ID3期生"
+msgstr "#ID3期生"
+
+#. holomem:hBP01-027:name
+#. holomem:hBP01-024:name
+#. holomem:hBP01-025:name
+#. ... and 11 more
+msgid "ベスティア・ゼータ"
+msgstr "ベスティア・ゼータ"
+
+#. holomem:hBP01-027:card_type
+#. holomem:hBP01-051:card_type
+#. holomem:hBP01-071:card_type
+#. ... and 48 more
+msgid "Buzzホロメン"
+msgstr "Buzzホロメン"
+
+#. holomem:hBP01-027:keyword_type
+#. holomem:hBP01-045:keyword_type
+#. holomem:hBP01-050:keyword_type
+#. ... and 98 more
+msgid "ギフト"
+msgstr "ギフト"
+
+#. holomem:hBP01-027:arts_1_name
+msgid "アクセスコード:ID"
+msgstr "アクセスコード:ID"
+
+#. holomem:hBP01-027:extra
+#. holomem:hBP01-051:extra
+#. holomem:hBP01-071:extra
+#. ... and 48 more
+msgid "このホロメンがダウンした時、自分のライフ-2"
+msgstr "このホロメンがダウンした時、自分のライフ-2"
+
+#. holomem:hBP01-051:tags
+#. holomem:hBP01-048:tags
+#. holomem:hBP01-049:tags
+#. ... and 56 more
+msgid "#秘密結社holoX"
+msgstr "#秘密結社holoX"
+
+#. holomem:hBP01-051:name
+#. holomem:hBP01-048:name
+#. holomem:hBP01-049:name
+#. ... and 18 more
+msgid "風真いろは"
+msgstr "風真いろは"
+
+#. holomem:hBP01-051:arts_1_name
+msgid "エールを束ねて"
+msgstr "エールを束ねて"
+
+#. holomem:hBP01-051:arts_2_name
+msgid "風華の輝き"
+msgstr "風華の輝き"
+
+#. holomem:hBP01-071:tags
+#. holomem:hBP01-068:tags
+#. holomem:hBP01-069:tags
+#. ... and 34 more
+msgid "#5期生"
+msgstr "#5期生"
+
+#. holomem:hBP01-071:tags
+#. holomem:hBP01-038:tags
+#. holomem:hBP01-039:tags
+#. ... and 154 more
+msgid "#ケモミミ"
+msgstr "#ケモミミ"
+
+#. holomem:hBP01-071:name
+#. holomem:hBP01-068:name
+#. holomem:hBP01-069:name
+#. ... and 10 more
+msgid "尾丸ポルカ"
+msgstr "尾丸ポルカ"
+
+#. holomem:hBP01-071:keyword_type
+#. holomem:hBP01-012:keyword_type
+#. holomem:hBP01-019:keyword_type
+#. ... and 161 more
+msgid "ブルームエフェクト"
+msgstr "ブルームエフェクト"
+
+#. holomem:hBP01-071:keyword_name
+msgid "ポルカイリュージョン"
+msgstr "ポルカイリュージョン"
+
+#. holomem:hBP01-071:arts_1_name
+msgid "ポルカサーカス"
+msgstr "ポルカサーカス"
+
+#. holomem:hBP01-091:tags
+#. holomem:hBP01-052:tags
+#. holomem:hBP01-053:tags
+#. ... and 26 more
+msgid "#ID1期生"
+msgstr "#ID1期生"
+
+#. holomem:hBP01-091:tags
+#. holomem:hBP01-010:tags
+#. holomem:hBP01-012:tags
+#. ... and 162 more
+msgid "#歌"
+msgstr "#歌"
+
+#. holomem:hBP01-091:name
+#. holomem:hBP01-088:name
+#. holomem:hBP01-089:name
+#. ... and 10 more
+msgid "ムーナ・ホシノヴァ"
+msgstr "ムーナ・ホシノヴァ"
+
+#. holomem:hBP01-091:arts_1_name
+msgid "月は夜に。"
+msgstr "月は夜に。"
+
+#. holomem:hBP01-091:arts_2_name
+msgid "ムーンナイトディーバ"
+msgstr "ムーンナイトディーバ"
+
+#. holomem:hBP01-010:tags
+#. holomem:hBP01-012:tags
+#. holomem:hBP01-014:tags
+#. ... and 46 more
+msgid "#4期生"
+msgstr "#4期生"
+
+#. holomem:hBP01-010:name
+#. holomem:hBP01-012:name
+#. holomem:hBP01-014:name
+#. ... and 10 more
+msgid "天音かなた"
+msgstr "天音かなた"
+
+#. holomem:hBP01-010:card_type
+#. holomem:hBP01-012:card_type
+#. holomem:hBP01-014:card_type
+#. ... and 666 more
+msgid "ホロメン"
+msgstr "ホロメン"
+
+#. holomem:hBP01-010:keyword_type
+#. holomem:hBP01-014:keyword_type
+#. holomem:hBP01-016:keyword_type
+#. ... and 192 more
+msgid "コラボエフェクト"
+msgstr "コラボエフェクト"
+
+#. holomem:hBP01-010:keyword_name
+msgid "お出かけ天使"
+msgstr "お出かけ天使"
+
+#. holomem:hBP01-010:arts_1_name
+msgid "行ってきまーす"
+msgstr "行ってきまーす"
+
+#. holomem:hBP01-012:keyword_name
+msgid "アイドルかなたそを"
+msgstr "アイドルかなたそを"
+
+#. holomem:hBP01-012:arts_1_name
+msgid "い～っぱい応援して！"
+msgstr "い～っぱい応援して！"
+
+#. holomem:hBP01-014:keyword_name
+msgid "堕ちた天使"
+msgstr "堕ちた天使"
+
+#. holomem:hBP01-014:arts_1_name
+msgid "♰漆黒の翼♰"
+msgstr "♰漆黒の翼♰"
+
+#. holomem:hBP01-015:tags
+#. holomem:hBP01-016:tags
+#. holomem:hBP01-017:tags
+#. ... and 56 more
+msgid "#トリ"
+msgstr "#トリ"
+
+#. holomem:hBP01-015:tags
+#. holomem:hBP01-016:tags
+#. holomem:hBP01-017:tags
+#. ... and 83 more
+msgid "#絵"
+msgstr "#絵"
+
+#. holomem:hBP01-015:name
+#. holomem:hBP01-016:name
+#. holomem:hBP01-017:name
+#. ... and 5 more
+msgid "七詩ムメイ"
+msgstr "七詩ムメイ"
+
+#. holomem:hBP01-015:extra
+#. holomem:hBP01-021:extra
+#. holomem:hBP01-024:extra
+#. ... and 65 more
+msgid "このホロメンはデッキに何枚でも入れられる"
+msgstr "このホロメンはデッキに何枚でも入れられる"
+
+#. holomem:hBP01-016:keyword_name
+msgid "白いキャンバス"
+msgstr "白いキャンバス"
+
+#. holomem:hBP01-016:arts_1_name
+msgid "リラックスタイム"
+msgstr "リラックスタイム"
+
+#. holomem:hBP01-017:arts_1_name
+msgid "一緒にお出かけ"
+msgstr "一緒にお出かけ"
+
+#. holomem:hBP01-017:arts_2_name
+msgid "コーヒーブレイク"
+msgstr "コーヒーブレイク"
+
+#. holomem:hBP01-018:arts_1_name
+msgid "思い出の欠片"
+msgstr "思い出の欠片"
+
+#. holomem:hBP01-019:keyword_name
+msgid "みんなと歌って踊りたい！"
+msgstr "みんなと歌って踊りたい！"
+
+#. holomem:hBP01-019:arts_1_name
+msgid "いつも応援してくれてありがとう！"
+msgstr "いつも応援してくれてありがとう！"
+
+#. holomem:hBP01-020:keyword_name
+msgid "あの日の約束"
+msgstr "あの日の約束"
+
+#. holomem:hBP01-020:arts_1_name
+msgid "みんな一緒に"
+msgstr "みんな一緒に"
+
+#. holomem:hBP01-021:tags
+#. holomem:hBP01-022:tags
+#. holomem:hBP01-023:tags
+#. ... and 70 more
+msgid "#0期生"
+msgstr "#0期生"
+
+#. holomem:hBP01-021:name
+#. holomem:hBP01-022:name
+#. holomem:hBP01-023:name
+#. ... and 7 more
+msgid "ときのそら"
+msgstr "ときのそら"
+
+#. holomem:hBP01-021:arts_1_name
+msgid "みんな～こんそめ～"
+msgstr "みんな～こんそめ～"
+
+#. holomem:hBP01-022:keyword_name
+msgid "楽しむ準備はできてる！？"
+msgstr "楽しむ準備はできてる！？"
+
+#. holomem:hBP01-022:arts_1_name
+msgid "最高の一日にしようね♪"
+msgstr "最高の一日にしようね♪"
+
+#. holomem:hBP01-023:keyword_name
+msgid "私たちは前に向かって…！"
+msgstr "私たちは前に向かって…！"
+
+#. holomem:hBP01-023:arts_1_name
+msgid "止まらねえぞ"
+msgstr "止まらねえぞ"
+
+#. holomem:hBP01-024:arts_1_name
+msgid "ミッションスタート"
+msgstr "ミッションスタート"
+
+#. holomem:hBP01-025:arts_1_name
+msgid "温泉は飲まないでね！"
+msgstr "温泉は飲まないでね！"
+
+#. holomem:hBP01-025:arts_2_name
+msgid "温泉でくつろぐ一日を"
+msgstr "温泉でくつろぐ一日を"
+
+#. holomem:hBP01-026:keyword_name
+msgid "新たな運命"
+msgstr "新たな運命"
+
+#. holomem:hBP01-026:arts_1_name
+msgid "ステージみんな「私のもの」"
+msgstr "ステージみんな「私のもの」"
+
+#. holomem:hBP01-028:arts_1_name
+msgid "ハイRyS！"
+msgstr "ハイRyS！"
+
+#. holomem:hBP01-029:arts_1_name
+msgid "清楚なネフィリムです！"
+msgstr "清楚なネフィリムです！"
+
+#. holomem:hBP01-030:keyword_name
+msgid "ステージを希望で包もう！"
+msgstr "ステージを希望で包もう！"
+
+#. holomem:hBP01-030:arts_1_name
+msgid "一生懸命歌うから見ててね！"
+msgstr "一生懸命歌うから見ててね！"
+
+#. holomem:hBP01-031:keyword_name
+msgid "希望の庭園"
+msgstr "希望の庭園"
+
+#. holomem:hBP01-031:arts_1_name
+msgid "約束の力"
+msgstr "約束の力"
+
+#. holomem:hBP01-009:arts_1_name
+msgid "こんかなた～"
+msgstr "こんかなた～"
+
+#. holomem:hBP01-011:arts_1_name
+msgid "塩対応かなたそ"
+msgstr "塩対応かなたそ"
+
+#. holomem:hBP01-013:keyword_name
+msgid "天使のお仕事"
+msgstr "天使のお仕事"
+
+#. holomem:hBP01-013:arts_1_name
+msgid "エンジェルステージ"
+msgstr "エンジェルステージ"
+
+#. holomem:hBP01-032:tags
+#. holomem:hBP01-033:tags
+#. holomem:hBP01-034:tags
+#. ... and 48 more
+msgid "#1期生"
+msgstr "#1期生"
+
+#. holomem:hBP01-032:tags
+#. holomem:hBP01-033:tags
+#. holomem:hBP01-034:tags
+#. ... and 32 more
+msgid "#ハーフエルフ"
+msgstr "#ハーフエルフ"
+
+#. holomem:hBP01-032:tags
+#. holomem:hBP01-033:tags
+#. holomem:hBP01-034:tags
+#. ... and 56 more
+msgid "#お酒"
+msgstr "#お酒"
+
+#. holomem:hBP01-032:name
+#. holomem:hBP01-033:name
+#. holomem:hBP01-034:name
+#. ... and 9 more
+msgid "アキ・ローゼンタール"
+msgstr "アキ・ローゼンタール"
+
+#. holomem:hBP01-032:arts_1_name
+msgid "アロ～ナ！"
+msgstr "アロ～ナ！"
+
+#. holomem:hBP01-033:keyword_name
+msgid "ヒーリングランウェイ"
+msgstr "ヒーリングランウェイ"
+
+#. holomem:hBP01-033:arts_1_name
+msgid "アフターパーティー"
+msgstr "アフターパーティー"
+
+#. holomem:hBP01-034:arts_1_name
+msgid "あらあら"
+msgstr "あらあら"
+
+#. holomem:hBP01-034:arts_2_name
+msgid "むぎゅむぎゅ雑談"
+msgstr "むぎゅむぎゅ雑談"
+
+#. holomem:hBP01-035:keyword_name
+msgid "ブレーメンの音楽祭"
+msgstr "ブレーメンの音楽祭"
+
+#. holomem:hBP01-035:arts_1_name
+msgid "アキロゼ幻想曲"
+msgstr "アキロゼ幻想曲"
+
+#. holomem:hBP01-036:keyword_name
+msgid "ロゼ隊のみんな応援しててね！"
+msgstr "ロゼ隊のみんな応援しててね！"
+
+#. holomem:hBP01-036:arts_1_name
+msgid "今日もがんばローゼ！"
+msgstr "今日もがんばローゼ！"
+
+#. holomem:hBP01-037:keyword_name
+msgid "ゴシックドール"
+msgstr "ゴシックドール"
+
+#. holomem:hBP01-037:arts_1_name
+msgid "秘密の合鍵"
+msgstr "秘密の合鍵"
+
+#. holomem:hBP01-038:tags
+#. holomem:hBP01-039:tags
+#. holomem:hBP01-040:tags
+#. ... and 51 more
+msgid "#3期生"
+msgstr "#3期生"
+
+#. holomem:hBP01-038:name
+#. holomem:hBP01-039:name
+#. holomem:hBP01-040:name
+#. ... and 12 more
+msgid "兎田ぺこら"
+msgstr "兎田ぺこら"
+
+#. holomem:hBP01-038:arts_1_name
+msgid "こんぺこー！"
+msgstr "こんぺこー！"
+
+#. holomem:hBP01-039:keyword_name
+msgid "ギャラクシーアイドル"
+msgstr "ギャラクシーアイドル"
+
+#. holomem:hBP01-039:arts_1_name
+msgid "無重力ジャンプ！"
+msgstr "無重力ジャンプ！"
+
+#. holomem:hBP01-040:arts_1_name
+msgid "おつぺこでした"
+msgstr "おつぺこでした"
+
+#. holomem:hBP01-041:keyword_name
+msgid "成長した兎田ぺこらを"
+msgstr "成長した兎田ぺこらを"
+
+#. holomem:hBP01-041:arts_1_name
+msgid "見逃しちゃだめぺこだよ！"
+msgstr "見逃しちゃだめぺこだよ！"
+
+#. holomem:hBP01-042:arts_1_name
+msgid "白い砂浜と兎少女"
+msgstr "白い砂浜と兎少女"
+
+#. holomem:hBP01-042:arts_2_name
+msgid "きｔらあああ"
+msgstr "きｔらあああ"
+
+#. holomem:hBP01-043:keyword_name
+msgid "プリンセスドレス"
+msgstr "プリンセスドレス"
+
+#. holomem:hBP01-043:arts_1_name
+msgid "全人類兎化計画"
+msgstr "全人類兎化計画"
+
+#. holomem:hBP01-044:arts_1_name
+msgid "こんあずき～"
+msgstr "こんあずき～"
+
+#. holomem:hBP01-045:arts_1_name
+msgid "海辺の街できみと"
+msgstr "海辺の街できみと"
+
+#. holomem:hBP01-046:keyword_name
+msgid "開拓者のみんながいたから"
+msgstr "開拓者のみんながいたから"
+
+#. holomem:hBP01-046:arts_1_name
+msgid "こんな素敵な世界に来れました！"
+msgstr "こんな素敵な世界に来れました！"
+
+#. holomem:hBP01-047:keyword_name
+msgid "いのちの軌跡"
+msgstr "いのちの軌跡"
+
+#. holomem:hBP01-047:arts_1_name
+msgid "新たな地図"
+msgstr "新たな地図"
+
+#. holomem:hBP01-048:arts_1_name
+msgid "皆殿、風真いろはでござる～"
+msgstr "皆殿、風真いろはでござる～"
+
+#. holomem:hBP01-049:arts_1_name
+msgid "とれたてナス"
+msgstr "とれたてナス"
+
+#. holomem:hBP01-049:arts_2_name
+msgid "おひとついかがでござるか？"
+msgstr "おひとついかがでござるか？"
+
+#. holomem:hBP01-050:keyword_name
+msgid "用心棒"
+msgstr "用心棒"
+
+#. holomem:hBP01-050:arts_1_name
+msgid "元気を全力でお届けします！"
+msgstr "元気を全力でお届けします！"
+
+#. holomem:hBP01-052:name
+#. holomem:hBP01-053:name
+#. holomem:hBP01-054:name
+#. ... and 10 more
+msgid "アイラニ・イオフィフティーン"
+msgstr "アイラニ・イオフィフティーン"
+
+#. holomem:hBP01-052:arts_1_name
+msgid "スラマッパギ！"
+msgstr "スラマッパギ！"
+
+#. holomem:hBP01-053:arts_1_name
+msgid "あなたの愛しの宇宙人"
+msgstr "あなたの愛しの宇宙人"
+
+#. holomem:hBP01-054:keyword_name
+msgid "緑の光が広がる海"
+msgstr "緑の光が広がる海"
+
+#. holomem:hBP01-054:arts_1_name
+msgid "楽しみにしてるよ！"
+msgstr "楽しみにしてるよ！"
+
+#. holomem:hBP01-055:arts_1_name
+msgid "リレーションスカイ"
+msgstr "リレーションスカイ"
+
+#. holomem:hBP01-056:name
+#. holomem:hBP01-057:name
+#. holomem:hBP01-058:name
+#. ... and 8 more
+msgid "鷹嶺ルイ"
+msgstr "鷹嶺ルイ"
+
+#. holomem:hBP01-056:arts_1_name
+msgid "皆さん、待っ鷹ね？"
+msgstr "皆さん、待っ鷹ね？"
+
+#. holomem:hBP01-057:keyword_name
+msgid "アポイント"
+msgstr "アポイント"
+
+#. holomem:hBP01-057:arts_1_name
+msgid "漆黒の翼で誘おう"
+msgstr "漆黒の翼で誘おう"
+
+#. holomem:hBP01-058:arts_1_name
+msgid "こんルイルイ"
+msgstr "こんルイルイ"
+
+#. holomem:hBP01-058:arts_2_name
+msgid "おつルイルイ"
+msgstr "おつルイルイ"
+
+#. holomem:hBP01-059:arts_1_name
+msgid "パーティーへようこそ"
+msgstr "パーティーへようこそ"
+
+#. holomem:hBP01-060:keyword_name
+msgid "本当にみんなのおかげ！！"
+msgstr "本当にみんなのおかげ！！"
+
+#. holomem:hBP01-060:arts_1_name
+msgid "しっかりついてきてよね！"
+msgstr "しっかりついてきてよね！"
+
+#. holomem:hBP01-061:keyword_name
+msgid "組織の司令塔"
+msgstr "組織の司令塔"
+
+#. holomem:hBP01-061:arts_1_name
+msgid "ホークレイヴ"
+msgstr "ホークレイヴ"
+
+#. holomem:hBP01-062:name
+#. holomem:hBP01-063:name
+#. holomem:hBP01-064:name
+#. ... and 7 more
+msgid "小鳥遊キアラ"
+msgstr "小鳥遊キアラ"
+
+#. holomem:hBP01-062:arts_1_name
+msgid "キッケリキー！"
+msgstr "キッケリキー！"
+
+#. holomem:hBP01-063:keyword_name
+msgid "きわわの魔法"
+msgstr "きわわの魔法"
+
+#. holomem:hBP01-063:arts_1_name
+msgid "もふもふタイム"
+msgstr "もふもふタイム"
+
+#. holomem:hBP01-065:arts_1_name
+msgid "盛り上げたいとおもいます！"
+msgstr "盛り上げたいとおもいます！"
+
+#. holomem:hBP01-066:arts_1_name
+msgid "不死鳥の剣姫"
+msgstr "不死鳥の剣姫"
+
+#. holomem:hBP01-066:arts_2_name
+msgid "跪きなさい。"
+msgstr "跪きなさい。"
+
+#. holomem:hBP01-067:arts_1_name
+msgid "焔色の導き"
+msgstr "焔色の導き"
+
+#. holomem:hBP01-067:arts_2_name
+msgid "マジェスティック・フェニックス"
+msgstr "マジェスティック・フェニックス"
+
+#. holomem:hBP01-068:arts_1_name
+msgid "ポルカおるよ！"
+msgstr "ポルカおるよ！"
+
+#. holomem:hBP01-069:arts_1_name
+msgid "おはぽる"
+msgstr "おはぽる"
+
+#. holomem:hBP01-069:arts_2_name
+msgid "おそぽる"
+msgstr "おそぽる"
+
+#. holomem:hBP01-070:keyword_name
+msgid "宴の始まりだ！"
+msgstr "宴の始まりだ！"
+
+#. holomem:hBP01-070:arts_1_name
+msgid "共依存"
+msgstr "共依存"
+
+#. holomem:hBP01-072:name
+#. holomem:hBP01-073:name
+#. holomem:hBP01-074:name
+#. ... and 10 more
+msgid "ハコス・ベールズ"
+msgstr "ハコス・ベールズ"
+
+#. holomem:hBP01-074:keyword_name
+msgid "ネズミアイドルがいよいよ登場！"
+msgstr "ネズミアイドルがいよいよ登場！"
+
+#. holomem:hBP01-074:arts_1_name
+msgid "楽しい時間の始まりだ！"
+msgstr "楽しい時間の始まりだ！"
+
+#. holomem:hBP01-075:keyword_name
+msgid "カオスシャッフル"
+msgstr "カオスシャッフル"
+
+#. holomem:hBP01-076:name
+#. holomem:hBP01-077:name
+#. holomem:hBP01-078:name
+#. ... and 19 more
+msgid "星街すいせい"
+msgstr "星街すいせい"
+
+#. holomem:hBP01-076:arts_1_name
+msgid "スターの原石"
+msgstr "スターの原石"
+
+#. holomem:hBP01-077:keyword_name
+msgid "煌きのワードローブ"
+msgstr "煌きのワードローブ"
+
+#. holomem:hBP01-077:arts_1_name
+msgid "新しい衣装"
+msgstr "新しい衣装"
+
+#. holomem:hBP01-078:arts_1_name
+msgid "ストリートスナップ"
+msgstr "ストリートスナップ"
+
+#. holomem:hBP01-078:arts_2_name
+msgid "木漏れ日のひと時"
+msgstr "木漏れ日のひと時"
+
+#. holomem:hBP01-079:keyword_name
+msgid "あっと驚かせるから見逃さないでね！"
+msgstr "あっと驚かせるから見逃さないでね！"
+
+#. holomem:hBP01-079:arts_1_name
+msgid "すいちゃんはーー今日もかわいいーー！！"
+msgstr "すいちゃんはーー今日もかわいいーー！！"
+
+#. holomem:hBP01-080:keyword_name
+msgid "雪山の記憶"
+msgstr "雪山の記憶"
+
+#. holomem:hBP01-080:arts_1_name
+msgid "戦うメイドさん"
+msgstr "戦うメイドさん"
+
+#. holomem:hBP01-081:keyword_name
+msgid "空を駆ける光"
+msgstr "空を駆ける光"
+
+#. holomem:hBP01-081:arts_1_name
+msgid "輝く彗星"
+msgstr "輝く彗星"
+
+#. holomem:hBP01-082:name
+#. holomem:hBP01-083:name
+#. holomem:hBP01-084:name
+#. ... and 10 more
+msgid "こぼ・かなえる"
+msgstr "こぼ・かなえる"
+
+#. holomem:hBP01-082:arts_1_name
+msgid "ぼこぼこぼこぼ"
+msgstr "ぼこぼこぼこぼ"
+
+#. holomem:hBP01-083:keyword_name
+msgid "こぼを海に連れて！"
+msgstr "こぼを海に連れて！"
+
+#. holomem:hBP01-083:arts_1_name
+msgid "波だ～！　泳げ～！"
+msgstr "波だ～！　泳げ～！"
+
+#. holomem:hBP01-084:arts_1_name
+msgid "猫になる～"
+msgstr "猫になる～"
+
+#. holomem:hBP01-085:arts_2_name
+msgid "レインドロップス"
+msgstr "レインドロップス"
+
+#. holomem:hBP01-086:keyword_name
+msgid "バーチャルマーケティング"
+msgstr "バーチャルマーケティング"
+
+#. holomem:hBP01-087:arts_1_name
+msgid "雨のマントラ"
+msgstr "雨のマントラ"
+
+#. holomem:hBP01-087:arts_2_name
+msgid "波のマントラ"
+msgstr "波のマントラ"
+
+#. holomem:hBP01-088:arts_1_name
+msgid "ムーン　ムーン　ムーナだよ！"
+msgstr "ムーン　ムーン　ムーナだよ！"
+
+#. holomem:hBP01-089:arts_1_name
+msgid "おつムーナ"
+msgstr "おつムーナ"
+
+#. holomem:hBP01-090:keyword_name
+msgid "ラピスラズリ"
+msgstr "ラピスラズリ"
+
+#. holomem:hBP01-090:arts_1_name
+msgid "楽しみにしてて！！"
+msgstr "楽しみにしてて！！"
+
+#. holomem:hBP01-092:name
+#. holomem:hBP01-093:name
+#. holomem:hBP01-094:name
+#. ... and 10 more
+msgid "オーロ・クロニー"
+msgstr "オーロ・クロニー"
+
+#. holomem:hBP01-092:arts_1_name
+msgid "クロにちは～"
+msgstr "クロにちは～"
+
+#. holomem:hBP01-093:arts_1_name
+msgid "クロやすみ～"
+msgstr "クロやすみ～"
+
+#. holomem:hBP01-093:arts_2_name
+msgid "お休みクロタイム"
+msgstr "お休みクロタイム"
+
+#. holomem:hBP01-094:keyword_name
+msgid "クロにちは！"
+msgstr "クロにちは！"
+
+#. holomem:hBP01-094:arts_1_name
+msgid "忘れられないfesにしよう！"
+msgstr "忘れられないfesにしよう！"
+
+#. holomem:hBP01-095:keyword_name
+msgid "巻き戻し"
+msgstr "巻き戻し"
+
+#. holomem:hBP01-095:arts_1_name
+msgid "早送り"
+msgstr "早送り"
+
+#. holomem:hBP01-096:keyword_name
+msgid "それは「冒険」"
+msgstr "それは「冒険」"
+
+#. holomem:hBP01-096:arts_1_name
+msgid "ぺこら～扉の向こう側へ～"
+msgstr "ぺこら～扉の向こう側へ～"
+
+#. holomem:hBP01-096:extra
+#. holomem:hBP01-097:extra
+#. holomem:hBP01-098:extra
+#. ... and 24 more
+msgid "このホロメンはBloomできない"
+msgstr "このホロメンはBloomできない"
+
+#. holomem:hBP01-097:name
+#. holomem:hBP03-079:name
+#. holomem:hSD07-009:name
+#. ... and 17 more
+msgid "不知火フレア"
+msgstr "不知火フレア"
+
+#. holomem:hBP01-097:keyword_name
+msgid "それは「愛と絆の物語」"
+msgstr "それは「愛と絆の物語」"
+
+#. holomem:hBP01-097:arts_1_name
+msgid "フレア～扉の向こう側へ～"
+msgstr "フレア～扉の向こう側へ～"
+
+#. holomem:hBP01-098:name
+#. holomem:hBP02-017:name
+#. holomem:hBP02-014:name
+#. ... and 12 more
+msgid "白銀ノエル"
+msgstr "白銀ノエル"
+
+#. holomem:hBP01-098:keyword_name
+msgid "それは「俺」"
+msgstr "それは「俺」"
+
+#. holomem:hBP01-098:arts_1_name
+msgid "ノエル～扉の向こう側へ～"
+msgstr "ノエル～扉の向こう側へ～"
+
+#. holomem:hBP01-099:tags
+#. holomem:hBP02-064:tags
+#. holomem:hBP02-029:tags
+#. ... and 20 more
+msgid "#海"
+msgstr "#海"
+
+#. holomem:hBP01-099:name
+#. holomem:hBP02-029:name
+#. holomem:hBP02-030:name
+#. ... and 11 more
+msgid "宝鐘マリン"
+msgstr "宝鐘マリン"
+
+#. holomem:hBP01-099:keyword_name
+msgid "それは「エジンバラ城」"
+msgstr "それは「エジンバラ城」"
+
+#. holomem:hBP01-099:arts_1_name
+msgid "マリン～扉の向こう側へ～"
+msgstr "マリン～扉の向こう側へ～"
+
+#. holomem:hBP01-100:name
+#. holomem:hBP02-054:name
+#. holomem:hBP02-055:name
+#. ... and 20 more
+msgid "森カリオペ"
+msgstr "森カリオペ"
+
+#. holomem:hBP01-100:keyword_name
+msgid "ソウル収穫"
+msgstr "ソウル収穫"
+
+#. holomem:hBP01-100:arts_1_name
+msgid "ソウルご案内"
+msgstr "ソウルご案内"
+
+#. holomem:hBP01-101:name
+msgid "ワトソン・アメリア"
+msgstr "ワトソン・アメリア"
+
+#. holomem:hBP01-101:keyword_name
+msgid "手がかり発見"
+msgstr "手がかり発見"
+
+#. holomem:hBP01-101:arts_1_name
+msgid "初歩的なことなんでしょう？"
+msgstr "初歩的なことなんでしょう？"
+
+#. holomem:hBP02-017:arts_1_name
+msgid "ゆるふわ脳筋女騎士"
+msgstr "ゆるふわ脳筋女騎士"
+
+#. holomem:hBP02-017:arts_2_name
+msgid "3期生ぱわー"
+msgstr "3期生ぱわー"
+
+#. holomem:hBP02-027:tags
+#. holomem:hBP02-041:tags
+#. holomem:hBP02-008:tags
+#. ... and 56 more
+msgid "#ゲーマーズ"
+msgstr "#ゲーマーズ"
+
+#. holomem:hBP02-027:tags
+#. holomem:hBP02-060:tags
+#. holomem:hBP02-024:tags
+#. ... and 45 more
+msgid "#料理"
+msgstr "#料理"
+
+#. holomem:hBP02-027:name
+#. holomem:hBP02-024:name
+#. holomem:hBP02-025:name
+#. ... and 12 more
+msgid "大神ミオ"
+msgstr "大神ミオ"
+
+#. holomem:hBP02-027:arts_1_name
+msgid "タロットの導き"
+msgstr "タロットの導き"
+
+#. holomem:hBP02-034:tags
+#. holomem:hBP02-060:tags
+#. holomem:hSD02-009:tags
+#. ... and 55 more
+msgid "#2期生"
+msgstr "#2期生"
+
+#. holomem:hBP02-034:tags
+#. holomem:hSD02-009:tags
+#. holomem:hBP03-016:tags
+#. ... and 61 more
+msgid "#シューター"
+msgstr "#シューター"
+
+#. holomem:hBP02-034:name
+#. holomem:hSD02-009:name
+#. holomem:hBP06-034:name
+#. ... and 15 more
+msgid "百鬼あやめ"
+msgstr "百鬼あやめ"
+
+#. holomem:hBP02-034:arts_1_name
+msgid "余は草"
+msgstr "余は草"
+
+#. holomem:hBP02-034:arts_2_name
+msgid "オーガニックショット"
+msgstr "オーガニックショット"
+
+#. holomem:hBP02-041:name
+#. holomem:hSD03-009:name
+#. holomem:hBP05-041:name
+#. ... and 15 more
+msgid "猫又おかゆ"
+msgstr "猫又おかゆ"
+
+#. holomem:hBP02-041:keyword_name
+msgid "毒の愛"
+msgstr "毒の愛"
+
+#. holomem:hBP02-041:arts_1_name
+msgid "ぽいずん猫"
+msgstr "ぽいずん猫"
+
+#. holomem:hBP02-060:name
+#. holomem:hSD04-009:name
+#. holomem:hBP05-052:name
+#. ... and 15 more
+msgid "癒月ちょこ"
+msgstr "癒月ちょこ"
+
+#. holomem:hBP02-060:keyword_name
+msgid "誘惑の視線"
+msgstr "誘惑の視線"
+
+#. holomem:hBP02-060:arts_1_name
+msgid "隠しきれない魅力"
+msgstr "隠しきれない魅力"
+
+#. holomem:hBP02-064:name
+#. holomem:hBP02-061:name
+#. holomem:hBP02-062:name
+#. ... and 2 more
+msgid "一伊那尓栖"
+msgstr "一伊那尓栖"
+
+#. holomem:hBP02-064:arts_1_name
+msgid "アルカイックスマイル"
+msgstr "アルカイックスマイル"
+
+#. holomem:hBP02-008:name
+#. holomem:hBP02-009:name
+#. holomem:hBP02-010:name
+#. ... and 19 more
+msgid "白上フブキ"
+msgstr "白上フブキ"
+
+#. holomem:hBP02-008:arts_1_name
+msgid "こんこんきーつね！"
+msgstr "こんこんきーつね！"
+
+#. holomem:hBP02-009:keyword_name
+msgid "おはこんきーつね！"
+msgstr "おはこんきーつね！"
+
+#. holomem:hBP02-009:arts_1_name
+msgid "おつこーんでしたー"
+msgstr "おつこーんでしたー"
+
+#. holomem:hBP02-010:arts_1_name
+msgid "キンモクセイの花フブキ"
+msgstr "キンモクセイの花フブキ"
+
+#. holomem:hBP02-011:keyword_name
+msgid "白上から目をそらしちゃ"
+msgstr "白上から目をそらしちゃ"
+
+#. holomem:hBP02-011:arts_1_name
+msgid "ダメですよっ！"
+msgstr "ダメですよっ！"
+
+#. holomem:hBP02-012:keyword_name
+msgid "ちょっと動かしますね"
+msgstr "ちょっと動かしますね"
+
+#. holomem:hBP02-012:arts_1_name
+msgid "力をかしてくださいね"
+msgstr "力をかしてくださいね"
+
+#. holomem:hBP02-013:keyword_name
+msgid "みんなと一緒！"
+msgstr "みんなと一緒！"
+
+#. holomem:hBP02-013:arts_1_name
+msgid "マスコットたちの饗宴"
+msgstr "マスコットたちの饗宴"
+
+#. holomem:hBP02-014:arts_1_name
+msgid "こんまっする～！"
+msgstr "こんまっする～！"
+
+#. holomem:hBP02-015:arts_1_name
+msgid "おはまっする～！"
+msgstr "おはまっする～！"
+
+#. holomem:hBP02-015:arts_2_name
+msgid "おつまっする～"
+msgstr "おつまっする～"
+
+#. holomem:hBP02-016:keyword_name
+msgid "ノエちゃんの勇姿……"
+msgstr "ノエちゃんの勇姿……"
+
+#. holomem:hBP02-016:arts_1_name
+msgid "目に焼き付けるんだゾ♡"
+msgstr "目に焼き付けるんだゾ♡"
+
+#. holomem:hBP02-018:tags
+#. holomem:hBP02-019:tags
+#. holomem:hBP02-020:tags
+#. ... and 18 more
+msgid "#ID2期生"
+msgstr "#ID2期生"
+
+#. holomem:hBP02-018:name
+#. holomem:hBP02-019:name
+#. holomem:hBP02-020:name
+#. ... and 6 more
+msgid "パヴォリア・レイネ"
+msgstr "パヴォリア・レイネ"
+
+#. holomem:hBP02-018:arts_1_name
+msgid "ペルハティアン！"
+msgstr "ペルハティアン！"
+
+#. holomem:hBP02-019:keyword_name
+msgid "友達をHALUにさせる方法"
+msgstr "友達をHALUにさせる方法"
+
+#. holomem:hBP02-021:keyword_name
+msgid "心を込めて歌って、踊ります。"
+msgstr "心を込めて歌って、踊ります。"
+
+#. holomem:hBP02-021:arts_1_name
+msgid "だから見ててね！大好き！"
+msgstr "だから見ててね！大好き！"
+
+#. holomem:hBP02-023:arts_1_name
+msgid "孔雀の舞"
+msgstr "孔雀の舞"
+
+#. holomem:hBP02-024:arts_1_name
+msgid "うちうち、うちだよ～大神ミオだよ～"
+msgstr "うちうち、うちだよ～大神ミオだよ～"
+
+#. holomem:hBP02-025:arts_1_name
+msgid "おはみぉーん"
+msgstr "おはみぉーん"
+
+#. holomem:hBP02-025:arts_2_name
+msgid "おつみぉーん"
+msgstr "おつみぉーん"
+
+#. holomem:hBP02-026:keyword_name
+msgid "アイドルとして成長した姿"
+msgstr "アイドルとして成長した姿"
+
+#. holomem:hBP02-026:arts_1_name
+msgid "今年も見守っててね！"
+msgstr "今年も見守っててね！"
+
+#. holomem:hBP02-029:keyword_name
+msgid "マリンと宅飲み"
+msgstr "マリンと宅飲み"
+
+#. holomem:hBP02-029:arts_1_name
+msgid "マリン“船長”だろぉぉん！？"
+msgstr "マリン“船長”だろぉぉん！？"
+
+#. holomem:hBP02-030:arts_1_name
+msgid "船長、何されちゃうのかな？"
+msgstr "船長、何されちゃうのかな？"
+
+#. holomem:hBP02-030:arts_2_name
+msgid "もう、どスケベ♥"
+msgstr "もう、どスケベ♥"
+
+#. holomem:hBP02-031:keyword_name
+msgid "キミたちの声が船長の支えです！"
+msgstr "キミたちの声が船長の支えです！"
+
+#. holomem:hBP02-031:arts_1_name
+msgid "いっしょに出航しましょう！（健全）"
+msgstr "いっしょに出航しましょう！（健全）"
+
+#. holomem:hBP02-032:keyword_name
+msgid "宝鐘の海賊団"
+msgstr "宝鐘の海賊団"
+
+#. holomem:hBP02-032:arts_1_name
+msgid "ヨーソロー"
+msgstr "ヨーソロー"
+
+#. holomem:hBP02-033:keyword_name
+msgid "ゴシッククィーン"
+msgstr "ゴシッククィーン"
+
+#. holomem:hBP02-033:arts_1_name
+msgid "キミたち～？　船長、かわいい？"
+msgstr "キミたち～？　船長、かわいい？"
+
+#. holomem:hSD02-009:arts_1_name
+msgid "あやふぶみの「あや」担当"
+msgstr "あやふぶみの「あや」担当"
+
+#. holomem:hSD02-009:arts_2_name
+msgid "余ーだ余"
+msgstr "余ーだ余"
+
+#. holomem:hBP02-028:arts_1_name
+msgid "宝鐘海賊団船長の宝鐘マリンですぅー！"
+msgstr "宝鐘海賊団船長の宝鐘マリンですぅー！"
+
+#. holomem:hBP02-035:name
+#. holomem:hBP02-036:name
+#. holomem:hBP02-037:name
+#. ... and 7 more
+msgid "沙花叉クロヱ"
+msgstr "沙花叉クロヱ"
+
+#. holomem:hBP02-035:arts_1_name
+msgid "ばっくばっくばく～ん"
+msgstr "ばっくばっくばく～ん"
+
+#. holomem:hBP02-036:keyword_name
+msgid "掃除屋でインターン"
+msgstr "掃除屋でインターン"
+
+#. holomem:hBP02-036:arts_1_name
+msgid "吐いて捨てるような現実を！"
+msgstr "吐いて捨てるような現実を！"
+
+#. holomem:hBP02-037:arts_1_name
+msgid "ふたりじめビーチ"
+msgstr "ふたりじめビーチ"
+
+#. holomem:hBP02-038:keyword_name
+msgid "君の心をばっくばっくばく～んしちゃうぞ♡"
+msgstr "君の心をばっくばっくばく～んしちゃうぞ♡"
+
+#. holomem:hBP02-038:arts_1_name
+msgid "（ここ喜ぶ所です）"
+msgstr "（ここ喜ぶ所です）"
+
+#. holomem:hBP02-039:keyword_name
+msgid "ぷいぷいぷい～"
+msgstr "ぷいぷいぷい～"
+
+#. holomem:hBP02-039:arts_1_name
+#. holomem:hBP02-040:arts_1_name
+msgid "ホロックスロット"
+msgstr "ホロックスロット"
+
+#. holomem:hBP02-040:keyword_name
+msgid "最高に激アツ～"
+msgstr "最高に激アツ～"
+
+#. holomem:hSD03-009:arts_2_name
+msgid "おかゆ～"
+msgstr "おかゆ～"
+
+#. holomem:hBP02-042:name
+#. holomem:hBP02-043:name
+#. holomem:hBP02-044:name
+#. ... and 6 more
+msgid "紫咲シオン"
+msgstr "紫咲シオン"
+
+#. holomem:hBP02-042:arts_1_name
+msgid "どうも～"
+msgstr "どうも～"
+
+#. holomem:hBP02-043:keyword_name
+msgid "魔法見せてあげる"
+msgstr "魔法見せてあげる"
+
+#. holomem:hBP02-043:arts_1_name
+msgid "一緒に行こう"
+msgstr "一緒に行こう"
+
+#. holomem:hBP02-044:arts_1_name
+msgid "照れくさ"
+msgstr "照れくさ"
+
+#. holomem:hBP02-044:arts_2_name
+msgid "やだ、もー"
+msgstr "やだ、もー"
+
+#. holomem:hBP02-045:keyword_name
+msgid "久しぶりの全体ライブーっ！！"
+msgstr "久しぶりの全体ライブーっ！！"
+
+#. holomem:hBP02-045:arts_1_name
+msgid "最高にハッピーです！！"
+msgstr "最高にハッピーです！！"
+
+#. holomem:hBP02-046:keyword_name
+msgid "入れ替えの魔法"
+msgstr "入れ替えの魔法"
+
+#. holomem:hBP02-046:arts_1_name
+msgid "チェンジ・ザ・エール"
+msgstr "チェンジ・ザ・エール"
+
+#. holomem:hBP02-047:keyword_name
+msgid "いたずらの魔法"
+msgstr "いたずらの魔法"
+
+#. holomem:hBP02-047:arts_1_name
+msgid "ヴァイオレットマジック"
+msgstr "ヴァイオレットマジック"
+
+#. holomem:hBP02-048:tags
+#. holomem:hBP02-049:tags
+#. holomem:hBP02-050:tags
+#. ... and 25 more
+msgid "#語学"
+msgstr "#語学"
+
+#. holomem:hBP02-048:name
+#. holomem:hBP02-049:name
+#. holomem:hBP02-050:name
+#. ... and 6 more
+msgid "クレイジー・オリー"
+msgstr "クレイジー・オリー"
+
+#. holomem:hBP02-048:arts_1_name
+msgid "ゾンばんは！"
+msgstr "ゾンばんは！"
+
+#. holomem:hBP02-049:keyword_name
+msgid "オリーがいつも見てるよ"
+msgstr "オリーがいつも見てるよ"
+
+#. holomem:hBP02-049:arts_1_name
+msgid "おつクレイジー！"
+msgstr "おつクレイジー！"
+
+#. holomem:hBP02-050:arts_1_name
+msgid "君を大好きな後輩"
+msgstr "君を大好きな後輩"
+
+#. holomem:hBP02-050:arts_2_name
+msgid "きゃ～！先輩ごめ～ん！"
+msgstr "きゃ～！先輩ごめ～ん！"
+
+#. holomem:hBP02-051:keyword_name
+msgid "限界化！！"
+msgstr "限界化！！"
+
+#. holomem:hBP02-051:arts_1_name
+msgid "推しを見て叫びまくるぞ！！"
+msgstr "推しを見て叫びまくるぞ！！"
+
+#. holomem:hBP02-052:keyword_name
+msgid "真実一路"
+msgstr "真実一路"
+
+#. holomem:hBP02-052:arts_1_name
+msgid "正義の名の下に、儂は"
+msgstr "正義の名の下に、儂は"
+
+#. holomem:hBP02-053:keyword_name
+msgid "蘇りしゾンビ"
+msgstr "蘇りしゾンビ"
+
+#. holomem:hBP02-053:arts_1_name
+msgid "計算された戦術"
+msgstr "計算された戦術"
+
+#. holomem:hBP02-054:arts_1_name
+msgid "グリム・リーパーの第一弟子"
+msgstr "グリム・リーパーの第一弟子"
+
+#. holomem:hBP02-055:keyword_name
+msgid "ショータイム"
+msgstr "ショータイム"
+
+#. holomem:hBP02-055:arts_1_name
+msgid "マイステージ"
+msgstr "マイステージ"
+
+#. holomem:hBP02-057:keyword_name
+msgid "みんなで作る最高のfes"
+msgstr "みんなで作る最高のfes"
+
+#. holomem:hBP02-057:arts_1_name
+msgid "一緒にブチアガろうぜ！"
+msgstr "一緒にブチアガろうぜ！"
+
+#. holomem:hBP02-062:arts_1_name
+msgid "君とタコグラム"
+msgstr "君とタコグラム"
+
+#. holomem:hBP02-063:keyword_name
+msgid "みんな「WAH」の準備はいいかー！"
+msgstr "みんな「WAH」の準備はいいかー！"
+
+#. holomem:hBP02-063:arts_1_name
+msgid "楽しんでいこう！！！"
+msgstr "楽しんでいこう！！！"
+
+#. holomem:hBP02-065:name
+#. holomem:hBP02-066:name
+#. holomem:hBP02-067:name
+#. ... and 10 more
+msgid "ネリッサ・レイヴンクロフト"
+msgstr "ネリッサ・レイヴンクロフト"
+
+#. holomem:hBP02-066:arts_1_name
+msgid "良い響きですね"
+msgstr "良い響きですね"
+
+#. holomem:hBP02-066:arts_2_name
+msgid "アイドルソングというものは"
+msgstr "アイドルソングというものは"
+
+#. holomem:hBP02-067:keyword_name
+msgid "ネリッサとお茶会"
+msgstr "ネリッサとお茶会"
+
+#. holomem:hBP02-067:arts_1_name
+msgid "コーヒーよりも紅茶です"
+msgstr "コーヒーよりも紅茶です"
+
+#. holomem:hBP02-068:keyword_name
+msgid "音の魔人"
+msgstr "音の魔人"
+
+#. holomem:hBP02-068:arts_1_name
+msgid "歌に宿りし愛情"
+msgstr "歌に宿りし愛情"
+
+#. holomem:hSD04-009:arts_1_name
+msgid "33… 22… 11…"
+msgstr "33… 22… 11…"
+
+#. holomem:hSD04-009:arts_2_name
+msgid "あくとっ"
+msgstr "あくとっ"
+
+#. holomem:hBP02-069:tags
+#. holomem:hBP02-070:tags
+#. holomem:hBP02-071:tags
+#. ... and 3 more
+msgid "#ホロウィッチ"
+msgstr "#ホロウィッチ"
+
+#. holomem:hBP02-069:tags
+#. holomem:hBP02-070:tags
+#. holomem:hBP02-071:tags
+#. ... and 6 more
+msgid "#魔法"
+msgstr "#魔法"
+
+#. holomem:hBP02-069:name
+msgid "魔法少女みこ"
+msgstr "魔法少女みこ"
+
+#. holomem:hBP02-069:keyword_name
+msgid "みんなの願いを咲かせる祈り！"
+msgstr "みんなの願いを咲かせる祈り！"
+
+#. holomem:hBP02-069:arts_1_name
+msgid "『巫女』の『ホロ』！"
+msgstr "『巫女』の『ホロ』！"
+
+#. holomem:hBP02-070:name
+msgid "魔法少女かなた"
+msgstr "魔法少女かなた"
+
+#. holomem:hBP02-070:keyword_name
+msgid "この手を差し伸べ、つかんで握る！"
+msgstr "この手を差し伸べ、つかんで握る！"
+
+#. holomem:hBP02-070:arts_1_name
+msgid "『天使』の『ホロ』！"
+msgstr "『天使』の『ホロ』！"
+
+#. holomem:hBP02-071:name
+msgid "魔法少女ルーナ"
+msgstr "魔法少女ルーナ"
+
+#. holomem:hBP02-071:keyword_name
+msgid "甘～い幸せ、おすそわけ！"
+msgstr "甘～い幸せ、おすそわけ！"
+
+#. holomem:hBP02-071:arts_1_name
+msgid "『姫』の『ホロ』！"
+msgstr "『姫』の『ホロ』！"
+
+#. holomem:hBP02-072:name
+msgid "魔法少女シオン"
+msgstr "魔法少女シオン"
+
+#. holomem:hBP02-072:keyword_name
+msgid "眠れる神秘を我が物に！"
+msgstr "眠れる神秘を我が物に！"
+
+#. holomem:hBP02-072:arts_1_name
+msgid "『魔女』の『ホロ』！"
+msgstr "『魔女』の『ホロ』！"
+
+#. holomem:hBP02-073:name
+msgid "魔法少女マリン"
+msgstr "魔法少女マリン"
+
+#. holomem:hBP02-073:keyword_name
+msgid "きらめくお宝、ロックオン！"
+msgstr "きらめくお宝、ロックオン！"
+
+#. holomem:hBP02-073:arts_1_name
+msgid "『海賊』の『ホロ』！"
+msgstr "『海賊』の『ホロ』！"
+
+#. holomem:hBP02-074:name
+msgid "魔法少女クロヱ"
+msgstr "魔法少女クロヱ"
+
+#. holomem:hBP02-074:keyword_name
+msgid "荒波をゆく奔放の牙！"
+msgstr "荒波をゆく奔放の牙！"
+
+#. holomem:hBP02-074:arts_1_name
+msgid "『シャチ』の『ホロ』！"
+msgstr "『シャチ』の『ホロ』！"
+
+#. holomem:hBP03-022:keyword_name
+msgid "異国の世界の姿"
+msgstr "異国の世界の姿"
+
+#. holomem:hBP03-022:arts_1_name
+msgid "情熱のベリーダンサー"
+msgstr "情熱のベリーダンサー"
+
+#. holomem:hBP03-023:keyword_name
+msgid "あんたたちぃ"
+msgstr "あんたたちぃ"
+
+#. holomem:hBP03-023:arts_1_name
+msgid "カードするぺこ"
+msgstr "カードするぺこ"
+
+#. holomem:hBP03-034:name
+#. holomem:hBP03-031:name
+#. holomem:hBP03-032:name
+#. ... and 10 more
+msgid "赤井はあと"
+msgstr "赤井はあと"
+
+#. holomem:hBP03-034:keyword_name
+msgid "もう1人のはあと"
+msgstr "もう1人のはあと"
+
+#. holomem:hBP03-034:arts_1_name
+msgid "レッド オア ルージュ"
+msgstr "レッド オア ルージュ"
+
+#. holomem:hBP03-039:name
+#. holomem:hBP03-037:name
+#. holomem:hBP03-038:name
+#. ... and 3 more
+msgid "モココ・アビスガード"
+msgstr "モココ・アビスガード"
+
+#. holomem:hBP03-039:keyword_name
+msgid "魔界乃番犬の暴れん坊"
+msgstr "魔界乃番犬の暴れん坊"
+
+#. holomem:hBP03-039:arts_1_name
+msgid "もこもこしてる方"
+msgstr "もこもこしてる方"
+
+#. holomem:hBP03-045:keyword_name
+msgid "ブルーレイン"
+msgstr "ブルーレイン"
+
+#. holomem:hBP03-045:arts_1_name
+msgid "元気いっぱい！"
+msgstr "元気いっぱい！"
+
+#. holomem:hBP03-049:name
+#. holomem:hBP03-046:name
+#. holomem:hBP03-047:name
+#. ... and 4 more
+msgid "火威青"
+msgstr "火威青"
+
+#. holomem:hBP03-049:keyword_name
+msgid "困ったお姫様たちだね"
+msgstr "困ったお姫様たちだね"
+
+#. holomem:hBP03-049:arts_1_name
+msgid "イケメンにお任せを"
+msgstr "イケメンにお任せを"
+
+#. holomem:hBP03-079:keyword_name
+msgid "今日はステキな日"
+msgstr "今日はステキな日"
+
+#. holomem:hBP03-079:arts_1_name
+msgid "サンライズエール"
+msgstr "サンライズエール"
+
+#. holomem:hBP03-083:name
+#. holomem:hBP03-080:name
+#. holomem:hBP03-081:name
+#. ... and 3 more
+msgid "音乃瀬奏"
+msgstr "音乃瀬奏"
+
+#. holomem:hBP03-083:keyword_name
+msgid "なんちゅーこった"
+msgstr "なんちゅーこった"
+
+#. holomem:hBP03-083:arts_1_name
+msgid "歌姫 音乃瀬奏さん"
+msgstr "歌姫 音乃瀬奏さん"
+
+#. holomem:hBP03-009:tags
+#. holomem:hBP03-010:tags
+#. holomem:hBP03-011:tags
+#. ... and 45 more
+msgid "#ベイビー"
+msgstr "#ベイビー"
+
+#. holomem:hBP03-009:name
+#. holomem:hBP03-010:name
+#. holomem:hBP03-011:name
+#. ... and 12 more
+msgid "姫森ルーナ"
+msgstr "姫森ルーナ"
+
+#. holomem:hBP03-009:arts_1_name
+msgid "みんな～、おりゅ～？"
+msgstr "みんな～、おりゅ～？"
+
+#. holomem:hBP03-010:keyword_name
+msgid "お菓子の国のお姫様"
+msgstr "お菓子の国のお姫様"
+
+#. holomem:hBP03-010:arts_1_name
+msgid "お菓子たべるのら？"
+msgstr "お菓子たべるのら？"
+
+#. holomem:hBP03-011:arts_1_name
+msgid "おつルーナ"
+msgstr "おつルーナ"
+
+#. holomem:hBP03-011:arts_2_name
+msgid "ぐっどないと～"
+msgstr "ぐっどないと～"
+
+#. holomem:hBP03-012:keyword_name
+msgid "一緒に最高のライブにしようね"
+msgstr "一緒に最高のライブにしようね"
+
+#. holomem:hBP03-012:arts_1_name
+msgid "約束なのら！"
+msgstr "約束なのら！"
+
+#. holomem:hBP03-013:keyword_name
+msgid "んなたんと一緒に、宇宙に行くのら～！"
+msgstr "んなたんと一緒に、宇宙に行くのら～！"
+
+#. holomem:hBP03-013:arts_1_name
+msgid "ムーンギャラクシー"
+msgstr "ムーンギャラクシー"
+
+#. holomem:hBP03-014:keyword_name
+msgid "ルーナについてくるのら～"
+msgstr "ルーナについてくるのら～"
+
+#. holomem:hBP03-014:arts_1_name
+msgid "お疲れ様なのらね"
+msgstr "お疲れ様なのらね"
+
+#. holomem:hBP03-015:name
+#. holomem:hSD05-009:name
+#. holomem:hSD05-002:name
+#. ... and 8 more
+msgid "轟はじめ"
+msgstr "轟はじめ"
+
+#. holomem:hBP03-015:keyword_name
+msgid "メランコリャック"
+msgstr "メランコリャック"
+
+#. holomem:hBP03-015:arts_1_name
+msgid "これが番長の実力ってやつよ"
+msgstr "これが番長の実力ってやつよ"
+
+#. holomem:hSD05-009:keyword_name
+msgid "ダンスでこの世界に彩を！"
+msgstr "ダンスでこの世界に彩を！"
+
+#. holomem:hSD05-009:arts_1_name
+msgid "滅紫の雷"
+msgstr "滅紫の雷"
+
+#. holomem:hBP03-016:name
+#. holomem:hBP03-017:name
+#. holomem:hBP03-018:name
+#. ... and 6 more
+msgid "獅白ぼたん"
+msgstr "獅白ぼたん"
+
+#. holomem:hBP03-016:arts_1_name
+msgid "ららーいおん♪"
+msgstr "ららーいおん♪"
+
+#. holomem:hBP03-017:keyword_name
+msgid "プリペア"
+msgstr "プリペア"
+
+#. holomem:hBP03-017:arts_1_name
+msgid "ぼ。"
+msgstr "ぼ。"
+
+#. holomem:hBP03-018:arts_1_name
+msgid "ぼたんがアイドルになったら…"
+msgstr "ぼたんがアイドルになったら…"
+
+#. holomem:hBP03-018:arts_2_name
+msgid "絶対、ドキドキさせるから"
+msgstr "絶対、ドキドキさせるから"
+
+#. holomem:hBP03-019:keyword_name
+msgid "歌う事は楽しい事"
+msgstr "歌う事は楽しい事"
+
+#. holomem:hBP03-019:arts_1_name
+msgid "じゅるり"
+msgstr "じゅるり"
+
+#. holomem:hBP03-020:arts_1_name
+msgid "ショッピングカートで来た"
+msgstr "ショッピングカートで来た"
+
+#. holomem:hBP03-021:keyword_name
+msgid "なんとかしてくれる獅白ぼたん"
+msgstr "なんとかしてくれる獅白ぼたん"
+
+#. holomem:hBP03-021:arts_1_name
+msgid "神エイム"
+msgstr "神エイム"
+
+#. holomem:hBP03-024:keyword_name
+msgid "風真が護る"
+msgstr "風真が護る"
+
+#. holomem:hBP03-024:arts_1_name
+msgid "風真が斬る"
+msgstr "風真が斬る"
+
+#. holomem:hSD06-007:keyword_name
+msgid "元気をお届け"
+msgstr "元気をお届け"
+
+#. holomem:hSD06-007:arts_1_name
+msgid "天才では？"
+msgstr "天才では？"
+
+#. holomem:hBP03-050:arts_1_name
+msgid "魔界乃番犬シスターズ"
+msgstr "魔界乃番犬シスターズ"
+
+#. holomem:hBP03-050:arts_2_name
+msgid "2人揃ってFUWAMOCOです！"
+msgstr "2人揃ってFUWAMOCOです！"
+
+#. holomem:hBP03-050:extra
+msgid "このホロメンは〈フワワ・アビスガード〉〈モココ・アビスガード〉としても扱う"
+msgstr "このホロメンは〈フワワ・アビスガード〉〈モココ・アビスガード〉としても扱う"
+
+#. holomem:hBP03-025:name
+#. holomem:hBP03-026:name
+#. holomem:hBP03-027:name
+#. ... and 18 more
+msgid "さくらみこ"
+msgstr "さくらみこ"
+
+#. holomem:hBP03-025:arts_1_name
+msgid "にゃっはろ～"
+msgstr "にゃっはろ～"
+
+#. holomem:hBP03-026:keyword_name
+msgid "君と待ち合わせ"
+msgstr "君と待ち合わせ"
+
+#. holomem:hBP03-026:arts_1_name
+msgid "さくらの季節"
+msgstr "さくらの季節"
+
+#. holomem:hBP03-027:arts_1_name
+msgid "エリートな水着"
+msgstr "エリートな水着"
+
+#. holomem:hBP03-027:arts_2_name
+msgid "ぷにち"
+msgstr "ぷにち"
+
+#. holomem:hBP03-028:arts_1_name
+msgid "応援頼んだぞ"
+msgstr "応援頼んだぞ"
+
+#. holomem:hBP03-028:arts_2_name
+msgid "みこぴー！(｀・ω・´)🌸"
+msgstr "みこぴー！(｀・ω・´)🌸"
+
+#. holomem:hBP03-029:keyword_name
+msgid "にぇ"
+msgstr "にぇ"
+
+#. holomem:hBP03-029:arts_1_name
+msgid "35Pと記念写真"
+msgstr "35Pと記念写真"
+
+#. holomem:hBP03-030:keyword_name
+msgid "エリートギャンブル"
+msgstr "エリートギャンブル"
+
+#. holomem:hBP03-030:arts_1_name
+msgid "エリート巫女"
+msgstr "エリート巫女"
+
+#. holomem:hBP03-031:arts_1_name
+msgid "おはるーじゅ！"
+msgstr "おはるーじゅ！"
+
+#. holomem:hBP03-032:arts_1_name
+msgid "おつるーじゅ！"
+msgstr "おつるーじゅ！"
+
+#. holomem:hBP03-033:keyword_name
+msgid "全力でいくぞおおお！"
+msgstr "全力でいくぞおおお！"
+
+#. holomem:hBP03-033:arts_1_name
+msgid "はあちゃまっちゃま～！"
+msgstr "はあちゃまっちゃま～！"
+
+#. holomem:hBP03-036:keyword_name
+msgid "ハッピータイム"
+msgstr "ハッピータイム"
+
+#. holomem:hBP03-036:arts_1_name
+msgid "鋼の翼"
+msgstr "鋼の翼"
+
+#. holomem:hBP03-037:arts_1_name
+msgid "フワワじゃないよ、モココだよ"
+msgstr "フワワじゃないよ、モココだよ"
+
+#. holomem:hBP03-038:keyword_name
+msgid "遊びの時間だー！"
+msgstr "遊びの時間だー！"
+
+#. holomem:hBP03-038:arts_1_name
+msgid "モココとドーナツクッキング"
+msgstr "モココとドーナツクッキング"
+
+#. holomem:hBP03-040:name
+#. holomem:hBP03-041:name
+#. holomem:hBP03-042:name
+#. ... and 4 more
+msgid "フワワ・アビスガード"
+msgstr "フワワ・アビスガード"
+
+#. holomem:hBP03-040:arts_1_name
+msgid "チワワじゃないよ、フワワだよ"
+msgstr "チワワじゃないよ、フワワだよ"
+
+#. holomem:hBP03-041:arts_1_name
+msgid "魔界乃番犬のまとめ役"
+msgstr "魔界乃番犬のまとめ役"
+
+#. holomem:hBP03-041:arts_2_name
+msgid "ふわふわしてる方"
+msgstr "ふわふわしてる方"
+
+#. holomem:hBP03-042:keyword_name
+msgid "フワ花流水"
+msgstr "フワ花流水"
+
+#. holomem:hBP03-042:arts_1_name
+msgid "フワワと森のお散歩"
+msgstr "フワワと森のお散歩"
+
+#. holomem:hBP03-043:arts_1_name
+msgid "ドーナツ大好き"
+msgstr "ドーナツ大好き"
+
+#. holomem:hBP03-043:arts_2_name
+msgid "一緒に食べる？"
+msgstr "一緒に食べる？"
+
+#. holomem:hBP03-044:keyword_name
+msgid "プラネットステージ"
+msgstr "プラネットステージ"
+
+#. holomem:hBP03-044:arts_1_name
+msgid "バーチャルゴースト"
+msgstr "バーチャルゴースト"
+
+#. holomem:hBP03-046:arts_1_name
+msgid "可愛い女の子かと思った？"
+msgstr "可愛い女の子かと思った？"
+
+#. holomem:hBP03-046:arts_2_name
+msgid "じゃじゃーん！ 青くんでした。"
+msgstr "じゃじゃーん！ 青くんでした。"
+
+#. holomem:hBP03-047:arts_1_name
+msgid "アフタヌーンティーデートのその後に…"
+msgstr "アフタヌーンティーデートのその後に…"
+
+#. holomem:hBP03-048:arts_1_name
+msgid "僕、カッコいいでしょ？"
+msgstr "僕、カッコいいでしょ？"
+
+#. holomem:hBP03-048:arts_2_name
+msgid "ReGLOSSのボーイッシュ担当"
+msgstr "ReGLOSSのボーイッシュ担当"
+
+#. holomem:hBP03-051:name
+#. holomem:hBP03-052:name
+#. holomem:hBP03-053:name
+#. ... and 7 more
+msgid "常闇トワ"
+msgstr "常闇トワ"
+
+#. holomem:hBP03-051:arts_1_name
+msgid "こんやっぴー"
+msgstr "こんやっぴー"
+
+#. holomem:hBP03-052:arts_1_name
+msgid "そういう感じなんだ"
+msgstr "そういう感じなんだ"
+
+#. holomem:hBP03-053:arts_1_name
+msgid "おつやっぴー"
+msgstr "おつやっぴー"
+
+#. holomem:hBP03-053:arts_2_name
+msgid "きゅりん"
+msgstr "きゅりん"
+
+#. holomem:hBP03-054:keyword_name
+msgid "トワにしか出せない色"
+msgstr "トワにしか出せない色"
+
+#. holomem:hBP03-054:arts_1_name
+msgid "大爆発させちゃうぜ！"
+msgstr "大爆発させちゃうぜ！"
+
+#. holomem:hBP03-055:arts_1_name
+msgid "トワとお家デートしたっていい"
+msgstr "トワとお家デートしたっていい"
+
+#. holomem:hBP03-055:arts_2_name
+msgid "てんQ"
+msgstr "てんQ"
+
+#. holomem:hBP03-056:arts_1_name
+msgid "私を縛る固定概念を壊せ"
+msgstr "私を縛る固定概念を壊せ"
+
+#. holomem:hBP03-057:name
+#. holomem:hBP03-058:name
+#. holomem:hBP03-059:name
+#. ... and 9 more
+msgid "ロボ子さん"
+msgstr "ロボ子さん"
+
+#. holomem:hBP03-057:arts_1_name
+msgid "はろーぼー！"
+msgstr "はろーぼー！"
+
+#. holomem:hBP03-058:arts_1_name
+msgid "おつろぼー"
+msgstr "おつろぼー"
+
+#. holomem:hBP03-058:arts_2_name
+msgid "いちゃあま彼女"
+msgstr "いちゃあま彼女"
+
+#. holomem:hBP03-059:keyword_name
+msgid "PONしたらその分"
+msgstr "PONしたらその分"
+
+#. holomem:hBP03-059:arts_1_name
+msgid "笑顔になーーれっ"
+msgstr "笑顔になーーれっ"
+
+#. holomem:hBP03-060:arts_1_name
+msgid "自称【高性能】"
+msgstr "自称【高性能】"
+
+#. holomem:hBP03-061:name
+#. holomem:hBP03-062:name
+#. holomem:hBP03-063:name
+#. ... and 11 more
+msgid "戌神ころね"
+msgstr "戌神ころね"
+
+#. holomem:hBP03-061:arts_1_name
+msgid "ぉぁよ～"
+msgstr "ぉぁよ～"
+
+#. holomem:hBP03-061:arts_2_name
+msgid "ゆびゆび～"
+msgstr "ゆびゆび～"
+
+#. holomem:hBP03-062:keyword_name
+msgid "ころねダイナー"
+msgstr "ころねダイナー"
+
+#. holomem:hBP03-062:arts_1_name
+msgid "ご注文はこれだでな"
+msgstr "ご注文はこれだでな"
+
+#. holomem:hBP03-063:arts_1_name
+msgid "おつころ～ん"
+msgstr "おつころ～ん"
+
+#. holomem:hBP03-064:arts_1_name
+msgid "ぶるぁあああああ!!!!!!!!!!!!!!"
+msgstr "ぶるぁあああああ!!!!!!!!!!!!!!"
+
+#. holomem:hBP03-064:arts_2_name
+msgid "おーしぇーい"
+msgstr "おーしぇーい"
+
+#. holomem:hBP03-065:keyword_name
+msgid "ボクシングスタイル"
+msgstr "ボクシングスタイル"
+
+#. holomem:hBP03-065:arts_1_name
+msgid "ほらよ～"
+msgstr "ほらよ～"
+
+#. holomem:hBP03-066:keyword_name
+msgid "わんだふぉ～♡"
+msgstr "わんだふぉ～♡"
+
+#. holomem:hBP03-066:arts_1_name
+msgid "最凶天災"
+msgstr "最凶天災"
+
+#. holomem:hBP03-067:name
+#. holomem:hBP03-068:name
+#. holomem:hBP03-069:name
+#. ... and 15 more
+msgid "角巻わため"
+msgstr "角巻わため"
+
+#. holomem:hBP03-067:arts_1_name
+msgid "こんばんドドド～！"
+msgstr "こんばんドドド～！"
+
+#. holomem:hBP03-068:arts_1_name
+msgid "わためのうた"
+msgstr "わためのうた"
+
+#. holomem:hBP03-069:arts_1_name
+msgid "癒しのひととき"
+msgstr "癒しのひととき"
+
+#. holomem:hBP03-069:arts_2_name
+msgid "応援してくれるよねぇ？"
+msgstr "応援してくれるよねぇ？"
+
+#. holomem:hBP03-070:keyword_name
+msgid "めいっぱい歌って踊ります！"
+msgstr "めいっぱい歌って踊ります！"
+
+#. holomem:hBP03-070:arts_1_name
+msgid "最後まで見ててね、わためいと！"
+msgstr "最後まで見ててね、わためいと！"
+
+#. holomem:hBP03-071:keyword_name
+msgid "Member sheep おかえり～"
+msgstr "Member sheep おかえり～"
+
+#. holomem:hBP03-071:arts_1_name
+msgid "つのまきじゃんけん"
+msgstr "つのまきじゃんけん"
+
+#. holomem:hBP03-072:keyword_name
+msgid "まだまだいくよー！"
+msgstr "まだまだいくよー！"
+
+#. holomem:hBP03-072:arts_1_name
+msgid "わためぇ Night Fever!!"
+msgstr "わためぇ Night Fever!!"
+
+#. holomem:hBP03-073:name
+#. holomem:hBP03-074:name
+#. holomem:hBP03-075:name
+#. ... and 6 more
+msgid "アユンダ・リス"
+msgstr "アユンダ・リス"
+
+#. holomem:hBP03-073:arts_1_name
+msgid "こんリス"
+msgstr "こんリス"
+
+#. holomem:hBP03-073:arts_2_name
+msgid "ぷるぷる～"
+msgstr "ぷるぷる～"
+
+#. holomem:hBP03-074:arts_1_name
+msgid "繋がる願い"
+msgstr "繋がる願い"
+
+#. holomem:hBP03-075:arts_1_name
+msgid "おつリスー"
+msgstr "おつリスー"
+
+#. holomem:hBP03-075:arts_2_name
+msgid "おやすみの思い出"
+msgstr "おやすみの思い出"
+
+#. holomem:hBP03-076:keyword_name
+msgid "いやっほー！ みんな元気？"
+msgstr "いやっほー！ みんな元気？"
+
+#. holomem:hBP03-076:arts_1_name
+msgid "ぷるぷる、おつリス！！！"
+msgstr "ぷるぷる、おつリス！！！"
+
+#. holomem:hBP03-077:keyword_name
+msgid "同期の絆"
+msgstr "同期の絆"
+
+#. holomem:hBP03-077:arts_1_name
+msgid "ナッツ"
+msgstr "ナッツ"
+
+#. holomem:hBP03-078:keyword_name
+msgid "マジカルサポート"
+msgstr "マジカルサポート"
+
+#. holomem:hBP03-078:arts_1_name
+msgid "魔法の森のリスの女の子"
+msgstr "魔法の森のリスの女の子"
+
+#. holomem:hBP03-080:arts_1_name
+msgid "ドレミファソラシド～！"
+msgstr "ドレミファソラシド～！"
+
+#. holomem:hBP03-080:arts_2_name
+msgid "音楽家の卵！ 音乃瀬～奏で～～～す！"
+msgstr "音楽家の卵！ 音乃瀬～奏で～～～す！"
+
+#. holomem:hBP03-081:arts_1_name
+msgid "明日は月曜日～っ♪"
+msgstr "明日は月曜日～っ♪"
+
+#. holomem:hBP03-082:keyword_name
+msgid "ここが私のステージだから！"
+msgstr "ここが私のステージだから！"
+
+#. holomem:hBP03-082:arts_1_name
+msgid "ぷにぷにじゃないっ"
+msgstr "ぷにぷにじゃないっ"
+
+#. holomem:hSD07-009:keyword_name
+msgid "疲れ知らず"
+msgstr "疲れ知らず"
+
+#. holomem:hSD07-009:arts_1_name
+msgid "情熱ステージ"
+msgstr "情熱ステージ"
+
+#. holomem:hBP04-042:name
+#. holomem:hBP04-039:name
+#. holomem:hBP04-040:name
+#. ... and 2 more
+msgid "カエラ・コヴァルスキア"
+msgstr "カエラ・コヴァルスキア"
+
+#. holomem:hBP04-042:arts_2_name
+msgid "お墨付きの一品"
+msgstr "お墨付きの一品"
+
+#. holomem:hBP04-053:name
+#. holomem:hBP04-050:name
+#. holomem:hBP04-051:name
+#. ... and 12 more
+msgid "シオリ・ノヴェラ"
+msgstr "シオリ・ノヴェラ"
+
+#. holomem:hBP04-053:keyword_name
+msgid "禁断の知識"
+msgstr "禁断の知識"
+
+#. holomem:hBP04-053:arts_1_name
+msgid "思い出の栞"
+msgstr "思い出の栞"
+
+#. holomem:hBP04-060:keyword_name
+msgid "エールリバース"
+msgstr "エールリバース"
+
+#. holomem:hBP04-060:arts_1_name
+msgid "ゲーム配信中"
+msgstr "ゲーム配信中"
+
+#. holomem:hBP04-062:keyword_name
+msgid "永遠の休息"
+msgstr "永遠の休息"
+
+#. holomem:hBP04-062:arts_1_name
+msgid "最期の一杯"
+msgstr "最期の一杯"
+
+#. holomem:hBP04-008:name
+#. holomem:hBP04-009:name
+#. holomem:hBP04-010:name
+#. ... and 8 more
+msgid "博衣こより"
+msgstr "博衣こより"
+
+#. holomem:hBP04-008:arts_1_name
+msgid "こんこよ～"
+msgstr "こんこよ～"
+
+#. holomem:hBP04-009:arts_1_name
+msgid "終わりなき輪廻に迷いし子らよ"
+msgstr "終わりなき輪廻に迷いし子らよ"
+
+#. holomem:hBP04-010:arts_1_name
+msgid "助手く～ん、なんかお疲れっぽい？"
+msgstr "助手く～ん、なんかお疲れっぽい？"
+
+#. holomem:hBP04-010:arts_2_name
+msgid "こよに添い寝される？"
+msgstr "こよに添い寝される？"
+
+#. holomem:hBP04-011:arts_1_name
+msgid "助手くんっ見ててね！"
+msgstr "助手くんっ見ててね！"
+
+#. holomem:hBP04-012:keyword_name
+msgid "はい！ はい！ はい！ はい！"
+msgstr "はい！ はい！ はい！ はい！"
+
+#. holomem:hBP04-012:arts_1_name
+msgid "助手くんとこよはずっと一緒だよ！"
+msgstr "助手くんとこよはずっと一緒だよ！"
+
+#. holomem:hBP04-013:keyword_name
+msgid "絶対諦めない！"
+msgstr "絶対諦めない！"
+
+#. holomem:hBP04-013:arts_1_name
+msgid "かくせいのこより"
+msgstr "かくせいのこより"
+
+#. holomem:hBP04-014:keyword_name
+msgid "戻っておいで"
+msgstr "戻っておいで"
+
+#. holomem:hBP04-014:arts_1_name
+msgid "私の大切な人"
+msgstr "私の大切な人"
+
+#. holomem:hBP04-016:name
+#. holomem:hBP04-017:name
+#. holomem:hBP04-018:name
+#. ... and 10 more
+msgid "ラオーラ・パンテーラ"
+msgstr "ラオーラ・パンテーラ"
+
+#. holomem:hBP04-016:arts_1_name
+msgid "チアオーラ"
+msgstr "チアオーラ"
+
+#. holomem:hBP04-017:arts_1_name
+msgid "正義のピンクパンサー"
+msgstr "正義のピンクパンサー"
+
+#. holomem:hBP04-018:keyword_name
+msgid "神眼の描き手"
+msgstr "神眼の描き手"
+
+#. holomem:hBP04-018:arts_1_name
+msgid "情報収集はお手の物"
+msgstr "情報収集はお手の物"
+
+#. holomem:hBP04-019:keyword_name
+msgid "只今、情報収集中"
+msgstr "只今、情報収集中"
+
+#. holomem:hBP04-020:name
+#. holomem:hBP04-021:name
+#. holomem:hBP04-022:name
+#. ... and 17 more
+msgid "儒烏風亭らでん"
+msgstr "儒烏風亭らでん"
+
+#. holomem:hBP04-020:arts_1_name
+msgid "儒烏風亭一門は前座見習い！"
+msgstr "儒烏風亭一門は前座見習い！"
+
+#. holomem:hBP04-020:arts_2_name
+msgid "儒烏風亭らでんでございます！"
+msgstr "儒烏風亭らでんでございます！"
+
+#. holomem:hBP04-021:keyword_name
+msgid "あなたに学びと面白いをお届け"
+msgstr "あなたに学びと面白いをお届け"
+
+#. holomem:hBP04-021:arts_1_name
+msgid "らでんスタンバイ"
+msgstr "らでんスタンバイ"
+
+#. holomem:hBP04-022:arts_1_name
+msgid "博識ツッコミ"
+msgstr "博識ツッコミ"
+
+#. holomem:hBP04-022:arts_2_name
+msgid "まぁそんなとこですな"
+msgstr "まぁそんなとこですな"
+
+#. holomem:hBP04-023:keyword_name
+msgid "ReGLOSSの賑やかし"
+msgstr "ReGLOSSの賑やかし"
+
+#. holomem:hBP04-023:arts_1_name
+msgid "ネタ枠担当"
+msgstr "ネタ枠担当"
+
+#. holomem:hBP04-024:keyword_name
+msgid "冷静沈着"
+msgstr "冷静沈着"
+
+#. holomem:hBP04-024:arts_1_name
+msgid "喝采反芻"
+msgstr "喝采反芻"
+
+#. holomem:hBP04-025:keyword_name
+msgid "伝統と革新"
+msgstr "伝統と革新"
+
+#. holomem:hBP04-025:arts_1_name
+msgid "御後がよろしいようで"
+msgstr "御後がよろしいようで"
+
+#. holomem:hBP04-026:keyword_name
+msgid "フブキは特別な存在"
+msgstr "フブキは特別な存在"
+
+#. holomem:hBP04-026:arts_1_name
+msgid "うちってフブキのものだったの？"
+msgstr "うちってフブキのものだったの？"
+
+#. holomem:hBP04-028:name
+#. holomem:hBP04-029:name
+#. holomem:hBP04-030:name
+#. ... and 4 more
+msgid "セシリア・イマーグリーン"
+msgstr "セシリア・イマーグリーン"
+
+#. holomem:hBP04-028:arts_1_name
+msgid "正義の調べ"
+msgstr "正義の調べ"
+
+#. holomem:hBP04-029:arts_1_name
+msgid "『古代自動人形』"
+msgstr "『古代自動人形』"
+
+#. holomem:hBP04-030:keyword_name
+msgid "こんな旋律思いついたの"
+msgstr "こんな旋律思いついたの"
+
+#. holomem:hBP04-030:arts_1_name
+msgid "聞いてくれる？"
+msgstr "聞いてくれる？"
+
+#. holomem:hBP04-031:keyword_name
+msgid "海を越えたお茶会"
+msgstr "海を越えたお茶会"
+
+#. holomem:hBP04-031:arts_1_name
+msgid "マルチリンガル"
+msgstr "マルチリンガル"
+
+#. holomem:hBP04-032:name
+#. holomem:hBP04-033:name
+#. holomem:hBP04-034:name
+#. ... and 8 more
+msgid "一条莉々華"
+msgstr "一条莉々華"
+
+#. holomem:hBP04-032:arts_1_name
+msgid "こんりり"
+msgstr "こんりり"
+
+#. holomem:hBP04-033:arts_1_name
+msgid "莉々華スタンバイ"
+msgstr "莉々華スタンバイ"
+
+#. holomem:hBP04-033:arts_2_name
+msgid "リミットオーバー"
+msgstr "リミットオーバー"
+
+#. holomem:hBP04-035:keyword_name
+msgid "限界飯料理人"
+msgstr "限界飯料理人"
+
+#. holomem:hBP04-035:arts_1_name
+msgid "社長パンチ"
+msgstr "社長パンチ"
+
+#. holomem:hBP04-036:keyword_name
+msgid "おいしいもの独り占め"
+msgstr "おいしいもの独り占め"
+
+#. holomem:hBP04-036:arts_1_name
+msgid "いひひっ"
+msgstr "いひひっ"
+
+#. holomem:hBP04-037:arts_1_name
+msgid "お？　喧嘩する？"
+msgstr "お？　喧嘩する？"
+
+#. holomem:hBP04-038:keyword_name
+msgid "どこ見ちゃってるのかな～！！♥♡"
+msgstr "どこ見ちゃってるのかな～！！♥♡"
+
+#. holomem:hBP04-038:arts_1_name
+msgid "えっち♥♥"
+msgstr "えっち♥♥"
+
+#. holomem:hBP04-039:arts_1_name
+msgid "おはエラ"
+msgstr "おはエラ"
+
+#. holomem:hBP04-041:arts_1_name
+msgid "サイレント笑い"
+msgstr "サイレント笑い"
+
+#. holomem:hBP04-043:name
+#. holomem:hBP04-044:name
+#. holomem:hBP04-045:name
+#. ... and 7 more
+msgid "雪花ラミィ"
+msgstr "雪花ラミィ"
+
+#. holomem:hBP04-043:arts_1_name
+msgid "こんらみ～"
+msgstr "こんらみ～"
+
+#. holomem:hBP04-044:arts_1_name
+msgid "うぅ…"
+msgstr "うぅ…"
+
+#. holomem:hBP04-045:arts_1_name
+msgid "おつらみ"
+msgstr "おつらみ"
+
+#. holomem:hBP04-045:arts_2_name
+msgid "ボスが攻略できな～い"
+msgstr "ボスが攻略できな～い"
+
+#. holomem:hBP04-046:arts_1_name
+msgid "いっぱい頑張るよ！"
+msgstr "いっぱい頑張るよ！"
+
+#. holomem:hBP04-047:arts_1_name
+msgid "雪が煌く花束"
+msgstr "雪が煌く花束"
+
+#. holomem:hBP04-048:keyword_name
+msgid "ユニーリアの令嬢"
+msgstr "ユニーリアの令嬢"
+
+#. holomem:hBP04-048:arts_1_name
+msgid "今日も祝福がありますように"
+msgstr "今日も祝福がありますように"
+
+#. holomem:hBP04-049:arts_1_name
+msgid "月と星のステージ"
+msgstr "月と星のステージ"
+
+#. holomem:hBP04-050:arts_1_name
+msgid "しおり～ん！"
+msgstr "しおり～ん！"
+
+#. holomem:hBP04-051:arts_1_name
+msgid "それって素敵な物語だと思わない？"
+msgstr "それって素敵な物語だと思わない？"
+
+#. holomem:hBP04-051:arts_2_name
+msgid "尽きない知識欲"
+msgstr "尽きない知識欲"
+
+#. holomem:hBP04-052:keyword_name
+msgid "脱獄計画"
+msgstr "脱獄計画"
+
+#. holomem:hBP04-052:arts_1_name
+msgid "魅力的な物語"
+msgstr "魅力的な物語"
+
+#. holomem:hBP04-054:name
+#. holomem:hBP04-055:name
+#. holomem:hBP04-056:name
+#. ... and 12 more
+msgid "ラプラス・ダークネス"
+msgstr "ラプラス・ダークネス"
+
+#. holomem:hBP04-054:arts_1_name
+msgid "貴様ら、刮目せよ！！"
+msgstr "貴様ら、刮目せよ！！"
+
+#. holomem:hBP04-055:keyword_name
+msgid "そこに跪け！"
+msgstr "そこに跪け！"
+
+#. holomem:hBP04-055:arts_1_name
+msgid "我ら、エデンの星を統べる者！"
+msgstr "我ら、エデンの星を統べる者！"
+
+#. holomem:hBP04-056:arts_1_name
+msgid "いちごだいすき！"
+msgstr "いちごだいすき！"
+
+#. holomem:hBP04-056:arts_2_name
+msgid "ぷらすめいと諸君いつもありがとう"
+msgstr "ぷらすめいと諸君いつもありがとう"
+
+#. holomem:hBP04-057:keyword_name
+msgid "holoX集合"
+msgstr "holoX集合"
+
+#. holomem:hBP04-057:arts_1_name
+msgid "最高のステージ魅せてやるからな！！"
+msgstr "最高のステージ魅せてやるからな！！"
+
+#. holomem:hBP04-058:keyword_name
+msgid "貴様の運命試してみるか？"
+msgstr "貴様の運命試してみるか？"
+
+#. holomem:hBP04-058:arts_1_name
+msgid "吾輩に勝つつもりか？"
+msgstr "吾輩に勝つつもりか？"
+
+#. holomem:hBP04-059:keyword_name
+msgid "Yes My Dark！"
+msgstr "Yes My Dark！"
+
+#. holomem:hBP04-059:arts_1_name
+msgid "吾輩最強伝説"
+msgstr "吾輩最強伝説"
+
+#. holomem:hBP04-061:keyword_name
+msgid "オリーを見てください！"
+msgstr "オリーを見てください！"
+
+#. holomem:hBP04-061:arts_1_name
+msgid "HOLOROの魂"
+msgstr "HOLOROの魂"
+
+#. holomem:hBP04-063:name
+#. holomem:hBP04-064:name
+#. holomem:hBP04-065:name
+#. ... and 8 more
+msgid "古石ビジュー"
+msgstr "古石ビジュー"
+
+#. holomem:hBP04-063:keyword_name
+msgid "キラキラ コセキ！"
+msgstr "キラキラ コセキ！"
+
+#. holomem:hBP04-063:arts_1_name
+msgid "ボンビジュー！"
+msgstr "ボンビジュー！"
+
+#. holomem:hBP04-064:arts_1_name
+msgid "煌く宝石"
+msgstr "煌く宝石"
+
+#. holomem:hBP04-065:keyword_name
+msgid "絶世の輝き"
+msgstr "絶世の輝き"
+
+#. holomem:hBP04-065:arts_1_name
+msgid "鉱石と採掘者"
+msgstr "鉱石と採掘者"
+
+#. holomem:hBP04-066:keyword_name
+msgid "『感情結晶体』"
+msgstr "『感情結晶体』"
+
+#. holomem:hBP04-066:arts_1_name
+msgid "この輝きが、伝わればいいな"
+msgstr "この輝きが、伝わればいいな"
+
+#. holomem:hBP04-067:name
+#. holomem:hBP04-068:name
+#. holomem:hBP04-069:name
+#. ... and 19 more
+msgid "大空スバル"
+msgstr "大空スバル"
+
+#. holomem:hBP04-067:arts_1_name
+msgid "あじまる！ あじまる！"
+msgstr "あじまる！ あじまる！"
+
+#. holomem:hBP04-067:arts_2_name
+msgid "ちわーす！ ホロライブ2期生 大空スバルっス!!"
+msgstr "ちわーす！ ホロライブ2期生 大空スバルっス!!"
+
+#. holomem:hBP04-068:keyword_name
+msgid "大空スバル盛り合わせセット"
+msgstr "大空スバル盛り合わせセット"
+
+#. holomem:hBP04-068:arts_1_name
+msgid "スバルからきみへ！"
+msgstr "スバルからきみへ！"
+
+#. holomem:hBP04-069:arts_1_name
+msgid "おはようスバル"
+msgstr "おはようスバル"
+
+#. holomem:hBP04-069:arts_2_name
+msgid "眠いんデスケド"
+msgstr "眠いんデスケド"
+
+#. holomem:hBP04-070:keyword_name
+msgid "全力で頑張るから"
+msgstr "全力で頑張るから"
+
+#. holomem:hBP04-070:arts_1_name
+msgid "いっぱい応援して、楽しんでね！"
+msgstr "いっぱい応援して、楽しんでね！"
+
+#. holomem:hBP04-071:arts_1_name
+msgid "しゅばっ！"
+msgstr "しゅばっ！"
+
+#. holomem:hBP04-071:arts_2_name
+msgid "最強で楽しい毎日"
+msgstr "最強で楽しい毎日"
+
+#. holomem:hBP04-072:keyword_name
+msgid "サンライトステージ"
+msgstr "サンライトステージ"
+
+#. holomem:hBP04-072:arts_1_name
+msgid "太陽少女"
+msgstr "太陽少女"
+
+#. holomem:hBP04-073:name
+#. holomem:hBP04-074:name
+#. holomem:hBP04-075:name
+#. ... and 6 more
+msgid "アーニャ・メルフィッサ"
+msgstr "アーニャ・メルフィッサ"
+
+#. holomem:hBP04-073:arts_1_name
+msgid "おはよー！"
+msgstr "おはよー！"
+
+#. holomem:hBP04-074:arts_1_name
+msgid "隣座りますか？"
+msgstr "隣座りますか？"
+
+#. holomem:hBP04-075:arts_1_name
+msgid "悪魔の招待"
+msgstr "悪魔の招待"
+
+#. holomem:hBP04-075:arts_2_name
+msgid "悪魔の囁き"
+msgstr "悪魔の囁き"
+
+#. holomem:hBP04-076:keyword_name
+msgid "私から皆さんへの歌"
+msgstr "私から皆さんへの歌"
+
+#. holomem:hBP04-076:arts_1_name
+msgid "応援、よろしくね！"
+msgstr "応援、よろしくね！"
+
+#. holomem:hBP04-077:keyword_name
+msgid "ガラス越しの庭園"
+msgstr "ガラス越しの庭園"
+
+#. holomem:hBP04-077:arts_1_name
+msgid "黄色い薔薇"
+msgstr "黄色い薔薇"
+
+#. holomem:hBP04-078:keyword_name
+msgid "宝物みつけた"
+msgstr "宝物みつけた"
+
+#. holomem:hBP04-078:arts_1_name
+msgid "ダンジョンアドベンチャー"
+msgstr "ダンジョンアドベンチャー"
+
+#. holomem:hBP04-079:name
+#. holomem:hBP04-080:name
+#. holomem:hBP04-081:name
+#. ... and 10 more
+msgid "夏色まつり"
+msgstr "夏色まつり"
+
+#. holomem:hBP04-079:keyword_name
+msgid "わっしょ～い！"
+msgstr "わっしょ～い！"
+
+#. holomem:hBP04-079:arts_1_name
+msgid "ホロライブの清楚担当"
+msgstr "ホロライブの清楚担当"
+
+#. holomem:hBP04-080:arts_1_name
+msgid "夏色応援団"
+msgstr "夏色応援団"
+
+#. holomem:hBP04-080:arts_2_name
+msgid "戦え！ 血を血で洗え！"
+msgstr "戦え！ 血を血で洗え！"
+
+#. holomem:hBP04-081:keyword_name
+msgid "大好きな君に届くように"
+msgstr "大好きな君に届くように"
+
+#. holomem:hBP04-081:arts_1_name
+msgid "全力で歌うよッ！！"
+msgstr "全力で歌うよッ！！"
+
+#. holomem:hBP04-082:keyword_name
+msgid "レッツ ショッピング"
+msgstr "レッツ ショッピング"
+
+#. holomem:hBP04-082:arts_1_name
+msgid "お気に入りみつけた"
+msgstr "お気に入りみつけた"
+
+#. holomem:hBP04-083:name
+#. holomem:hBP04-084:name
+#. holomem:hBP04-085:name
+#. ... and 10 more
+msgid "桃鈴ねね"
+msgstr "桃鈴ねね"
+
+#. holomem:hBP04-083:arts_1_name
+msgid "こんねね～"
+msgstr "こんねね～"
+
+#. holomem:hBP04-084:arts_1_name
+msgid "はぁ～ん"
+msgstr "はぁ～ん"
+
+#. holomem:hBP04-084:arts_2_name
+msgid "またねね"
+msgstr "またねね"
+
+#. holomem:hBP04-085:keyword_name
+msgid "最高の気分!!!!!!!!!!!!!!"
+msgstr "最高の気分!!!!!!!!!!!!!!"
+
+#. holomem:hBP04-085:arts_1_name
+msgid "いっぱいがんばるぞい!!!!!"
+msgstr "いっぱいがんばるぞい!!!!!"
+
+#. holomem:hBP04-086:arts_1_name
+msgid "ハズバンドいっぱい"
+msgstr "ハズバンドいっぱい"
+
+#. holomem:hBP04-086:arts_2_name
+msgid "ギラギラパワー"
+msgstr "ギラギラパワー"
+
+#. holomem:hBP04-087:name
+#. holomem:hBP07-048:name
+#. holomem:hBP07-046:name
+#. ... and 9 more
+msgid "エリザベス・ローズ・ブラッドフレイム"
+msgstr "エリザベス・ローズ・ブラッドフレイム"
+
+#. holomem:hBP04-087:keyword_name
+msgid "『緋色の女王』"
+msgstr "『緋色の女王』"
+
+#. holomem:hBP04-088:name
+#. holomem:hBP07-086:name
+#. holomem:hSD13-008:name
+#. ... and 7 more
+msgid "ジジ・ムリン"
+msgstr "ジジ・ムリン"
+
+#. holomem:hBP04-088:keyword_name
+msgid "え？ でも面白かったじゃん！"
+msgstr "え？ でも面白かったじゃん！"
+
+#. holomem:hBP04-088:arts_1_name
+msgid "怒らないでよ！"
+msgstr "怒らないでよ！"
+
+#. holomem:hBP05-017:arts_1_name
+msgid "レトロロマン"
+msgstr "レトロロマン"
+
+#. holomem:hBP05-017:arts_2_name
+msgid "ぱくぱく"
+msgstr "ぱくぱく"
+
+#. holomem:hBP05-024:arts_1_name
+msgid "あずきんちでゆっくりしよ"
+msgstr "あずきんちでゆっくりしよ"
+
+#. holomem:hBP05-024:arts_2_name
+msgid "帰っちゃうの？"
+msgstr "帰っちゃうの？"
+
+#. holomem:hBP05-028:keyword_name
+msgid "ちょっと頑張りました"
+msgstr "ちょっと頑張りました"
+
+#. holomem:hBP05-028:arts_1_name
+msgid "ここからが俺たちのスタートだ"
+msgstr "ここからが俺たちのスタートだ"
+
+#. holomem:hBP05-029:arts_1_name
+msgid "誰かの為に生きてきたけど"
+msgstr "誰かの為に生きてきたけど"
+
+#. holomem:hBP05-029:arts_2_name
+msgid "漸く自分の人生を生きてる"
+msgstr "漸く自分の人生を生きてる"
+
+#. holomem:hBP05-039:arts_1_name
+msgid "人生に手遅れとかないから"
+msgstr "人生に手遅れとかないから"
+
+#. holomem:hBP05-039:arts_2_name
+msgid "いつでも軌道修正できる"
+msgstr "いつでも軌道修正できる"
+
+#. holomem:hBP05-050:keyword_name
+msgid "モゴジャ～～ン！！！"
+msgstr "モゴジャ～～ン！！！"
+
+#. holomem:hBP05-050:arts_1_name
+msgid "キーボードクラッシャー"
+msgstr "キーボードクラッシャー"
+
+#. holomem:hBP05-072:arts_1_name
+msgid "君と色違いのリュック"
+msgstr "君と色違いのリュック"
+
+#. holomem:hBP05-072:arts_2_name
+msgid "わためと海辺デート"
+msgstr "わためと海辺デート"
+
+#. holomem:hBP05-008:keyword_name
+msgid "まっするまっする"
+msgstr "まっするまっする"
+
+#. holomem:hBP05-008:arts_1_name
+msgid "楽しく！"
+msgstr "楽しく！"
+
+#. holomem:hBP05-009:keyword_name
+msgid "夏深し"
+msgstr "夏深し"
+
+#. holomem:hBP05-009:arts_1_name
+msgid "夏の思い出"
+msgstr "夏の思い出"
+
+#. holomem:hBP05-010:keyword_name
+msgid "闘う団長"
+msgstr "闘う団長"
+
+#. holomem:hBP05-010:arts_1_name
+msgid "生きる力"
+msgstr "生きる力"
+
+#. holomem:hBP05-011:keyword_name
+msgid "みんなが居てくれて"
+msgstr "みんなが居てくれて"
+
+#. holomem:hBP05-011:arts_1_name
+msgid "団長幸せだよ"
+msgstr "団長幸せだよ"
+
+#. holomem:hBP05-012:arts_1_name
+msgid "騎士団の道"
+msgstr "騎士団の道"
+
+#. holomem:hBP05-012:arts_2_name
+msgid "慈悲の一撃"
+msgstr "慈悲の一撃"
+
+#. holomem:hBP05-013:arts_1_name
+msgid "7周年いえーい✩°｡⋆⸜(*╹꒳ ╹* )⸝"
+msgstr "7周年いえーい✩°｡⋆⸜(*╹꒳ ╹* )⸝"
+
+#. holomem:hBP05-014:arts_1_name
+msgid "かわいいぺこか？"
+msgstr "かわいいぺこか？"
+
+#. holomem:hBP05-015:arts_1_name
+msgid "にんじん…"
+msgstr "にんじん…"
+
+#. holomem:hBP05-015:arts_2_name
+msgid "いらないぺこ？"
+msgstr "いらないぺこ？"
+
+#. holomem:hBP05-016:keyword_name
+msgid "最強女神"
+msgstr "最強女神"
+
+#. holomem:hBP05-016:arts_1_name
+msgid "ウーサペコラを崇めるぺこ"
+msgstr "ウーサペコラを崇めるぺこ"
+
+#. holomem:hBP05-018:arts_1_name
+msgid "海に行こう！"
+msgstr "海に行こう！"
+
+#. holomem:hBP05-019:keyword_name
+msgid "イオフィとおでかけ"
+msgstr "イオフィとおでかけ"
+
+#. holomem:hBP05-019:arts_1_name
+msgid "君といる時間"
+msgstr "君といる時間"
+
+#. holomem:hBP05-020:keyword_name
+msgid "過去・今・未来の私と君へ"
+msgstr "過去・今・未来の私と君へ"
+
+#. holomem:hBP05-020:arts_1_name
+msgid "君となら"
+msgstr "君となら"
+
+#. holomem:hBP05-021:arts_1_name
+msgid "抹茶めっちゃ好き ( ´ڡ`*   )"
+msgstr "抹茶めっちゃ好き ( ´ڡ`*   )"
+
+#. holomem:hBP05-022:keyword_name
+msgid "落日に染まる"
+msgstr "落日に染まる"
+
+#. holomem:hBP05-023:keyword_name
+msgid "宇宙人のお姫様"
+msgstr "宇宙人のお姫様"
+
+#. holomem:hBP05-023:arts_1_name
+msgid "リレーションガーデン"
+msgstr "リレーションガーデン"
+
+#. holomem:hBP05-025:arts_1_name
+msgid "新たな旅を始めよう"
+msgstr "新たな旅を始めよう"
+
+#. holomem:hBP05-026:keyword_name
+msgid "トワイライトリゾート"
+msgstr "トワイライトリゾート"
+
+#. holomem:hBP05-026:arts_1_name
+msgid "暮れなずむひととき"
+msgstr "暮れなずむひととき"
+
+#. holomem:hBP05-027:keyword_name
+msgid "ゲーム？ スポーティー？ キャンプ？！"
+msgstr "ゲーム？ スポーティー？ キャンプ？！"
+
+#. holomem:hBP05-027:arts_1_name
+msgid "ワンフォーオール"
+msgstr "ワンフォーオール"
+
+#. holomem:hBP05-040:keyword_name
+msgid "ビジネスフレンド"
+msgstr "ビジネスフレンド"
+
+#. holomem:hBP05-040:arts_1_name
+msgid "ビジネスパートナー"
+msgstr "ビジネスパートナー"
+
+#. holomem:hBP05-040:extra
+msgid "このホロメンは〈さくらみこ〉〈星街すいせい〉としても扱う"
+msgstr "このホロメンは〈さくらみこ〉〈星街すいせい〉としても扱う"
+
+#. holomem:hBP05-030:keyword_name
+msgid "まばゆい日常を君と"
+msgstr "まばゆい日常を君と"
+
+#. holomem:hBP05-030:arts_1_name
+msgid "うたたねの記念日"
+msgstr "うたたねの記念日"
+
+#. holomem:hBP05-031:arts_1_name
+msgid "あゝ素晴らしきアイドル人生かな"
+msgstr "あゝ素晴らしきアイドル人生かな"
+
+#. holomem:hBP05-032:keyword_name
+msgid "ポルカとのなんでもない休日"
+msgstr "ポルカとのなんでもない休日"
+
+#. holomem:hBP05-032:arts_1_name
+msgid "朝のポルカ ※若干のフィクション"
+msgstr "朝のポルカ ※若干のフィクション"
+
+#. holomem:hBP05-033:arts_1_name
+msgid "すごいね、桜！"
+msgstr "すごいね、桜！"
+
+#. holomem:hBP05-033:arts_2_name
+msgid "来年も君と見に来たいな"
+msgstr "来年も君と見に来たいな"
+
+#. holomem:hBP05-034:keyword_name
+msgid "おまたせ～！"
+msgstr "おまたせ～！"
+
+#. holomem:hBP05-034:arts_1_name
+msgid "Are you ready？"
+msgstr "Are you ready？"
+
+#. holomem:hBP05-035:keyword_name
+msgid "今のはちょっとね、練習で…"
+msgstr "今のはちょっとね、練習で…"
+
+#. holomem:hBP05-035:arts_1_name
+msgid "あえんびえん"
+msgstr "あえんびえん"
+
+#. holomem:hBP05-036:arts_1_name
+msgid "声出し最高！"
+msgstr "声出し最高！"
+
+#. holomem:hBP05-038:keyword_name
+msgid "モココェ"
+msgstr "モココェ"
+
+#. holomem:hBP05-038:arts_1_name
+msgid "ノーーーーーーエ！"
+msgstr "ノーーーーーーエ！"
+
+#. holomem:hBP05-041:arts_1_name
+msgid "ぐるぐる～"
+msgstr "ぐるぐる～"
+
+#. holomem:hBP05-042:keyword_name
+msgid "一緒に入ろ～！"
+msgstr "一緒に入ろ～！"
+
+#. holomem:hBP05-042:arts_1_name
+msgid "ずうっと一緒だよ"
+msgstr "ずうっと一緒だよ"
+
+#. holomem:hBP05-043:keyword_name
+msgid "僕でよくな～い？"
+msgstr "僕でよくな～い？"
+
+#. holomem:hBP05-043:arts_1_name
+msgid "まだまだ遊べるよね～？"
+msgstr "まだまだ遊べるよね～？"
+
+#. holomem:hBP05-044:keyword_name
+msgid "お弁当タイム…？"
+msgstr "お弁当タイム…？"
+
+#. holomem:hBP05-044:arts_1_name
+msgid "ドンストップゲーミング！"
+msgstr "ドンストップゲーミング！"
+
+#. holomem:hBP05-045:keyword_name
+msgid "自分らしく居られる場所"
+msgstr "自分らしく居られる場所"
+
+#. holomem:hBP05-045:arts_1_name
+msgid "僕のコト、大好きになってみない？"
+msgstr "僕のコト、大好きになってみない？"
+
+#. holomem:hBP05-046:keyword_name
+msgid "ラミィちゃんしか～？"
+msgstr "ラミィちゃんしか～？"
+
+#. holomem:hBP05-046:arts_1_name
+msgid "愛せな～い！"
+msgstr "愛せな～い！"
+
+#. holomem:hBP05-047:arts_1_name
+msgid "アットユアサービス！"
+msgstr "アットユアサービス！"
+
+#. holomem:hBP05-048:keyword_name
+msgid "幼馴染のドキドキ膝枕"
+msgstr "幼馴染のドキドキ膝枕"
+
+#. holomem:hBP05-048:arts_1_name
+msgid "キミが元気になれるように"
+msgstr "キミが元気になれるように"
+
+#. holomem:hBP05-049:arts_1_name
+msgid "雨跡をなぞる"
+msgstr "雨跡をなぞる"
+
+#. holomem:hBP05-049:arts_2_name
+msgid "残響する雨音"
+msgstr "残響する雨音"
+
+#. holomem:hBP05-051:keyword_name
+msgid "僕の目だけ見て"
+msgstr "僕の目だけ見て"
+
+#. holomem:hBP05-051:arts_1_name
+msgid "シャンパンシャンパン！"
+msgstr "シャンパンシャンパン！"
+
+#. holomem:hSD03-002:arts_1_name
+msgid "もぐもぐ～おかゆ～"
+msgstr "もぐもぐ～おかゆ～"
+
+#. holomem:hBP05-052:keyword_name
+msgid "秘密の保健室"
+msgstr "秘密の保健室"
+
+#. holomem:hBP05-052:arts_1_name
+msgid "膝枕とかどうですか？"
+msgstr "膝枕とかどうですか？"
+
+#. holomem:hBP05-053:keyword_name
+msgid "すうすう…"
+msgstr "すうすう…"
+
+#. holomem:hBP05-053:arts_1_name
+msgid "ぎゅーってして？"
+msgstr "ぎゅーってして？"
+
+#. holomem:hBP05-054:arts_1_name
+msgid "ガァチィ？"
+msgstr "ガァチィ？"
+
+#. holomem:hBP05-055:keyword_name
+msgid "寝坊助悪魔"
+msgstr "寝坊助悪魔"
+
+#. holomem:hBP05-055:arts_1_name
+msgid "ｱﾞｱﾞｱﾞｱﾞｱﾞ"
+msgstr "ｱﾞｱﾞｱﾞｱﾞｱﾞ"
+
+#. holomem:hBP05-056:arts_1_name
+msgid "愛を込めて"
+msgstr "愛を込めて"
+
+#. holomem:hBP05-056:arts_2_name
+msgid "夜に寄り添う"
+msgstr "夜に寄り添う"
+
+#. holomem:hBP05-059:arts_1_name
+msgid "ワンアンドオンリー"
+msgstr "ワンアンドオンリー"
+
+#. holomem:hBP05-059:arts_2_name
+msgid "ツノに触らないで！"
+msgstr "ツノに触らないで！"
+
+#. holomem:hBP05-060:keyword_name
+msgid "月の光"
+msgstr "月の光"
+
+#. holomem:hBP05-060:arts_1_name
+msgid "艶なる宴"
+msgstr "艶なる宴"
+
+#. holomem:hBP05-062:keyword_name
+msgid "友達がいっぱい増えたよ"
+msgstr "友達がいっぱい増えたよ"
+
+#. holomem:hBP05-062:arts_1_name
+msgid "ありがとうみんな"
+msgstr "ありがとうみんな"
+
+#. holomem:hSD04-002:arts_1_name
+msgid "魔界の保健医"
+msgstr "魔界の保健医"
+
+#. holomem:hBP05-063:keyword_name
+msgid "おうちでまったり"
+msgstr "おうちでまったり"
+
+#. holomem:hBP05-063:arts_1_name
+msgid "キミも一緒にゲームしない？"
+msgstr "キミも一緒にゲームしない？"
+
+#. holomem:hBP05-064:arts_1_name
+msgid "幸せの場所"
+msgstr "幸せの場所"
+
+#. holomem:hBP05-065:keyword_name
+msgid "幸運の石"
+msgstr "幸運の石"
+
+#. holomem:hBP05-065:arts_1_name
+msgid "それは嘘じゃん！"
+msgstr "それは嘘じゃん！"
+
+#. holomem:hBP05-066:keyword_name
+msgid "冬の旅"
+msgstr "冬の旅"
+
+#. holomem:hBP05-066:arts_1_name
+msgid "氷姿雪魄"
+msgstr "氷姿雪魄"
+
+#. holomem:hBP05-067:keyword_name
+msgid "カラフルストリーム"
+msgstr "カラフルストリーム"
+
+#. holomem:hBP05-067:arts_1_name
+msgid "みんなに笑っててほしいから"
+msgstr "みんなに笑っててほしいから"
+
+#. holomem:hBP05-068:keyword_name
+msgid "ゆるゆる休養日"
+msgstr "ゆるゆる休養日"
+
+#. holomem:hBP05-068:arts_1_name
+msgid "おやつ食べてゲーム最高！"
+msgstr "おやつ食べてゲーム最高！"
+
+#. holomem:hBP05-069:keyword_name
+msgid "とびきりの笑顔"
+msgstr "とびきりの笑顔"
+
+#. holomem:hBP05-069:arts_1_name
+msgid "満点じゃい！"
+msgstr "満点じゃい！"
+
+#. holomem:hBP05-070:arts_1_name
+msgid "フブキカフェにようこそ"
+msgstr "フブキカフェにようこそ"
+
+#. holomem:hBP05-070:arts_2_name
+msgid "国王兼喫茶経営者"
+msgstr "国王兼喫茶経営者"
+
+#. holomem:hBP05-071:keyword_name
+msgid "戌神族"
+msgstr "戌神族"
+
+#. holomem:hSD07-002:arts_1_name
+msgid "こんぬいー！"
+msgstr "こんぬいー！"
+
+#. holomem:hSD07-002:arts_2_name
+msgid "不知火フレアだよ！"
+msgstr "不知火フレアだよ！"
+
+#. holomem:hBP06-013:arts_1_name
+msgid "一緒に世界を征服しよう！"
+msgstr "一緒に世界を征服しよう！"
+
+#. holomem:hBP06-026:keyword_name
+msgid "元気をお届け！"
+msgstr "元気をお届け！"
+
+#. holomem:hBP06-026:arts_1_name
+msgid "喜んでもらえたらいいな"
+msgstr "喜んでもらえたらいいな"
+
+#. holomem:hBP06-052:keyword_name
+msgid "新月"
+msgstr "新月"
+
+#. holomem:hBP06-052:arts_1_name
+msgid "下弦の月"
+msgstr "下弦の月"
+
+#. holomem:hBP06-065:keyword_name
+msgid "一言芳恩"
+msgstr "一言芳恩"
+
+#. holomem:hBP06-065:arts_1_name
+msgid "かけがえのない日々"
+msgstr "かけがえのない日々"
+
+#. holomem:hBP06-076:keyword_name
+msgid "レッツパフォーミング"
+msgstr "レッツパフォーミング"
+
+#. holomem:hBP06-076:arts_1_name
+msgid "まつりちゃんにメロメロになれよ❤︎"
+msgstr "まつりちゃんにメロメロになれよ❤︎"
+
+#. holomem:hBP06-010:keyword_name
+msgid "夢みたいな最高のチーム"
+msgstr "夢みたいな最高のチーム"
+
+#. holomem:hBP06-010:arts_1_name
+msgid "みんな素晴らしい友達だよ！"
+msgstr "みんな素晴らしい友達だよ！"
+
+#. holomem:hBP06-014:keyword_name
+msgid "夢紡ぎのアトリエ"
+msgstr "夢紡ぎのアトリエ"
+
+#. holomem:hBP06-014:arts_1_name
+msgid "色彩のリナシメント"
+msgstr "色彩のリナシメント"
+
+#. holomem:hBP06-015:name
+#. holomem:hBP06-016:name
+#. holomem:hBP06-017:name
+#. ... and 6 more
+msgid "響咲リオナ"
+msgstr "響咲リオナ"
+
+#. holomem:hBP06-015:arts_1_name
+msgid "おかえりおな～"
+msgstr "おかえりおな～"
+
+#. holomem:hBP06-016:keyword_name
+msgid "一緒に共闘しよ"
+msgstr "一緒に共闘しよ"
+
+#. holomem:hBP06-016:arts_1_name
+msgid "おつりおなああああ！"
+msgstr "おつりおなああああ！"
+
+#. holomem:hBP06-017:arts_1_name
+msgid "夢はアリーナでするライブ"
+msgstr "夢はアリーナでするライブ"
+
+#. holomem:hBP06-017:arts_2_name
+msgid "タイフーン起こすこのホロライブ"
+msgstr "タイフーン起こすこのホロライブ"
+
+#. holomem:hBP06-018:keyword_name
+msgid "FLOW GLOWのリーダー"
+msgstr "FLOW GLOWのリーダー"
+
+#. holomem:hBP06-019:keyword_name
+msgid "ストイック負けず嫌い王"
+msgstr "ストイック負けず嫌い王"
+
+#. holomem:hBP06-019:arts_1_name
+msgid "意外と熱血タイプ？"
+msgstr "意外と熱血タイプ？"
+
+#. holomem:hBP06-020:keyword_name
+msgid "意志の指揮者"
+msgstr "意志の指揮者"
+
+#. holomem:hBP06-020:arts_1_name
+msgid "レゾナンスロア"
+msgstr "レゾナンスロア"
+
+#. holomem:hBP06-021:keyword_name
+msgid "君に届けっ"
+msgstr "君に届けっ"
+
+#. holomem:hBP06-021:arts_1_name
+msgid "青春の１ページ"
+msgstr "青春の１ページ"
+
+#. holomem:hBP06-022:arts_1_name
+msgid "手作りのお守り"
+msgstr "手作りのお守り"
+
+#. holomem:hBP06-023:keyword_name
+msgid "ホップすてっぷジャンプ！"
+msgstr "ホップすてっぷジャンプ！"
+
+#. holomem:hBP06-024:arts_1_name
+msgid "まじかる☆ござるの元気の出る魔法"
+msgstr "まじかる☆ござるの元気の出る魔法"
+
+#. holomem:hBP06-025:keyword_name
+msgid "のんびり過ごす記念日"
+msgstr "のんびり過ごす記念日"
+
+#. holomem:hBP06-025:arts_1_name
+msgid "ツンツンツン…"
+msgstr "ツンツンツン…"
+
+#. holomem:hBP06-027:keyword_name
+msgid "伝えたい想い"
+msgstr "伝えたい想い"
+
+#. holomem:hBP06-027:arts_1_name
+msgid "一緒にすてっぷ"
+msgstr "一緒にすてっぷ"
+
+#. holomem:hBP06-028:arts_1_name
+msgid "んなあああああい"
+msgstr "んなあああああい"
+
+#. holomem:hBP06-029:arts_1_name
+msgid "祝祭"
+msgstr "祝祭"
+
+#. holomem:hBP06-029:arts_2_name
+msgid "ロイヤル・フラワーブーケ"
+msgstr "ロイヤル・フラワーブーケ"
+
+#. holomem:hBP06-030:keyword_name
+msgid "みんなへ感謝の気持ち"
+msgstr "みんなへ感謝の気持ち"
+
+#. holomem:hBP06-030:arts_1_name
+msgid "届けたいのら！"
+msgstr "届けたいのら！"
+
+#. holomem:hBP06-031:keyword_name
+msgid "んなっしょい！"
+msgstr "んなっしょい！"
+
+#. holomem:hBP06-031:arts_1_name
+msgid "ずっと一緒なのらね"
+msgstr "ずっと一緒なのらね"
+
+#. holomem:hBP06-032:arts_1_name
+msgid "春の思い出"
+msgstr "春の思い出"
+
+#. holomem:hBP06-033:keyword_name
+msgid "濡羽色のほころび"
+msgstr "濡羽色のほころび"
+
+#. holomem:hBP06-033:arts_1_name
+msgid "茸 （くさびら）"
+msgstr "茸 （くさびら）"
+
+#. holomem:hBP06-034:arts_1_name
+msgid "夏の海でドキドキデート"
+msgstr "夏の海でドキドキデート"
+
+#. holomem:hBP06-035:keyword_name
+msgid "かわ余"
+msgstr "かわ余"
+
+#. holomem:hBP06-035:arts_1_name
+msgid "…二度寝する(:3_ヽ)_"
+msgstr "…二度寝する(:3_ヽ)_"
+
+#. holomem:hBP06-036:keyword_name
+msgid "まったり夜桜温泉デート"
+msgstr "まったり夜桜温泉デート"
+
+#. holomem:hBP06-036:arts_1_name
+msgid "お風呂上がりの幸せな時間"
+msgstr "お風呂上がりの幸せな時間"
+
+#. holomem:hBP06-037:keyword_name
+msgid "お参りデート"
+msgstr "お参りデート"
+
+#. holomem:hBP06-037:arts_1_name
+msgid "ずっと元気でいられますように…"
+msgstr "ずっと元気でいられますように…"
+
+#. holomem:hBP06-038:keyword_name
+msgid "たまに増える余"
+msgstr "たまに増える余"
+
+#. holomem:hBP06-038:arts_1_name
+msgid "では参る！"
+msgstr "では参る！"
+
+#. holomem:hBP06-039:keyword_name
+msgid "余、なんも聞いとらんかった。"
+msgstr "余、なんも聞いとらんかった。"
+
+#. holomem:hBP06-039:arts_1_name
+msgid "百鬼乱舞 -朧月-"
+msgstr "百鬼乱舞 -朧月-"
+
+#. holomem:hBP06-042:arts_1_name
+msgid "イチゴで彩る誕生日"
+msgstr "イチゴで彩る誕生日"
+
+#. holomem:hBP06-044:arts_1_name
+msgid "ホイールオブフォーチュン"
+msgstr "ホイールオブフォーチュン"
+
+#. holomem:hBP06-044:arts_2_name
+msgid "ありがチュー！"
+msgstr "ありがチュー！"
+
+#. holomem:hBP06-045:arts_1_name
+msgid "カオスリローデッド"
+msgstr "カオスリローデッド"
+
+#. holomem:hBP06-046:keyword_name
+msgid "間違っているぞ！"
+msgstr "間違っているぞ！"
+
+#. holomem:hBP06-046:arts_1_name
+msgid "永久不滅の絆"
+msgstr "永久不滅の絆"
+
+#. holomem:hBP06-047:keyword_name
+msgid "家にあるもの限界飯"
+msgstr "家にあるもの限界飯"
+
+#. holomem:hBP06-047:arts_1_name
+msgid "ガチでなんもない。タスケテ。"
+msgstr "ガチでなんもない。タスケテ。"
+
+#. holomem:hSD02-002:arts_1_name
+msgid "こんなきり～"
+msgstr "こんなきり～"
+
+#. holomem:hBP06-048:arts_1_name
+msgid "ムーンペース"
+msgstr "ムーンペース"
+
+#. holomem:hBP06-049:keyword_name
+msgid "青い琥珀"
+msgstr "青い琥珀"
+
+#. holomem:hBP06-049:arts_1_name
+msgid "星々の踊り"
+msgstr "星々の踊り"
+
+#. holomem:hBP06-051:arts_1_name
+msgid "スプリングパーティー"
+msgstr "スプリングパーティー"
+
+#. holomem:hBP06-051:arts_2_name
+msgid "親愛の情"
+msgstr "親愛の情"
+
+#. holomem:hBP06-053:keyword_name
+msgid "星の運命"
+msgstr "星の運命"
+
+#. holomem:hBP06-054:keyword_name
+msgid "有言実行！！"
+msgstr "有言実行！！"
+
+#. holomem:hBP06-054:arts_1_name
+msgid "暖かい誕生日とその先へ"
+msgstr "暖かい誕生日とその先へ"
+
+#. holomem:hBP06-055:keyword_name
+msgid "ワンワーーン！！！"
+msgstr "ワンワーーン！！！"
+
+#. holomem:hBP06-055:arts_1_name
+msgid "二人で紡いだ魔法"
+msgstr "二人で紡いだ魔法"
+
+#. holomem:hBP06-056:keyword_name
+msgid "ギャル叉と登校"
+msgstr "ギャル叉と登校"
+
+#. holomem:hBP06-056:arts_1_name
+msgid "沙花叉と青春しよ？"
+msgstr "沙花叉と青春しよ？"
+
+#. holomem:hBP06-059:keyword_name
+msgid "お泊りパーリナイ!"
+msgstr "お泊りパーリナイ!"
+
+#. holomem:hBP06-059:arts_1_name
+msgid "まどろみの中で"
+msgstr "まどろみの中で"
+
+#. holomem:hBP06-061:arts_1_name
+msgid "ボクと過ごす甘いひと時"
+msgstr "ボクと過ごす甘いひと時"
+
+#. holomem:hBP06-062:keyword_name
+msgid "ロボ子と一緒にあそぼ"
+msgstr "ロボ子と一緒にあそぼ"
+
+#. holomem:hBP06-062:arts_1_name
+msgid "ひとりじゃないよ"
+msgstr "ひとりじゃないよ"
+
+#. holomem:hBP06-063:keyword_name
+msgid "プリンとお子様オムライス"
+msgstr "プリンとお子様オムライス"
+
+#. holomem:hBP06-063:arts_1_name
+msgid "んーーーおいしい[๑´ڡ`๑]♡"
+msgstr "んーーーおいしい[๑´ڡ`๑]♡"
+
+#. holomem:hBP06-064:keyword_name
+msgid "いたずらしちゃうぞ～！"
+msgstr "いたずらしちゃうぞ～！"
+
+#. holomem:hBP06-064:arts_1_name
+msgid "がおー！！......ビックリした？"
+msgstr "がおー！！......ビックリした？"
+
+#. holomem:hBP06-066:keyword_name
+msgid "どり～む_コネクト.zero"
+msgstr "どり～む_コネクト.zero"
+
+#. holomem:hBP06-066:arts_1_name
+msgid "＜封印＞ ダークブライダル"
+msgstr "＜封印＞ ダークブライダル"
+
+#. holomem:hBP06-067:keyword_name
+msgid "ホロライブの狂犬"
+msgstr "ホロライブの狂犬"
+
+#. holomem:hBP06-067:arts_1_name
+msgid "指一本くれや！"
+msgstr "指一本くれや！"
+
+#. holomem:hBP06-068:keyword_name
+msgid "まかしなー"
+msgstr "まかしなー"
+
+#. holomem:hBP06-068:arts_1_name
+msgid "おめでとうをありがとう！"
+msgstr "おめでとうをありがとう！"
+
+#. holomem:hBP06-069:keyword_name
+msgid "こぉねのことだけ見ててね？♡"
+msgstr "こぉねのことだけ見ててね？♡"
+
+#. holomem:hBP06-069:arts_1_name
+msgid "しばきあげパンチング"
+msgstr "しばきあげパンチング"
+
+#. holomem:hBP06-070:keyword_name
+msgid "ワンダーヴァイキング"
+msgstr "ワンダーヴァイキング"
+
+#. holomem:hBP06-070:arts_1_name
+msgid "終焉のウォウウォウアックス"
+msgstr "終焉のウォウウォウアックス"
+
+#. holomem:hBP06-071:arts_1_name
+msgid "らぷらすといっしょ！"
+msgstr "らぷらすといっしょ！"
+
+#. holomem:hBP06-071:arts_2_name
+msgid "みんなかつもくせよ！"
+msgstr "みんなかつもくせよ！"
+
+#. holomem:hBP06-072:keyword_name
+msgid "勝てると思った？"
+msgstr "勝てると思った？"
+
+#. holomem:hBP06-072:arts_1_name
+msgid "ざんね～ん"
+msgstr "ざんね～ん"
+
+#. holomem:hBP06-073:keyword_name
+msgid "いっしょに居てくれる…？"
+msgstr "いっしょに居てくれる…？"
+
+#. holomem:hBP06-073:arts_1_name
+msgid "ありがとっ"
+msgstr "ありがとっ"
+
+#. holomem:hBP06-074:keyword_name
+msgid "天使界隈"
+msgstr "天使界隈"
+
+#. holomem:hBP06-075:arts_1_name
+msgid "今夜はdance the night!"
+msgstr "今夜はdance the night!"
+
+#. holomem:hBP06-075:arts_2_name
+msgid "ダンスレッスン頑張るぞ！"
+msgstr "ダンスレッスン頑張るぞ！"
+
+#. holomem:hBP06-077:arts_1_name
+msgid "Never give up!! 夏色魂"
+msgstr "Never give up!! 夏色魂"
+
+#. holomem:hBP06-078:keyword_name
+msgid "地球&テラ"
+msgstr "地球&テラ"
+
+#. holomem:hBP06-078:arts_1_name
+msgid "取り敢えずPOWERで頑張るっす！！！！"
+msgstr "取り敢えずPOWERで頑張るっす！！！！"
+
+#. holomem:hBP06-079:arts_1_name
+msgid "さ゛さ゛な゛み゛の゛音゛"
+msgstr "さ゛さ゛な゛み゛の゛音゛"
+
+#. holomem:hBP06-080:keyword_name
+msgid "手を繋ごう"
+msgstr "手を繋ごう"
+
+#. holomem:hBP06-080:arts_1_name
+msgid "どこへだって行ける"
+msgstr "どこへだって行ける"
+
+#. holomem:hBP06-081:keyword_name
+msgid "出動！ ドタバタ大空警察!!"
+msgstr "出動！ ドタバタ大空警察!!"
+
+#. holomem:hBP06-082:keyword_name
+msgid "眠らない街"
+msgstr "眠らない街"
+
+#. holomem:hBP06-082:arts_1_name
+msgid "奇妙な来客"
+msgstr "奇妙な来客"
+
+#. holomem:hBP06-083:name
+msgid "ラムダック"
+msgstr "ラムダック"
+
+#. holomem:hBP06-083:keyword_name
+msgid "おしまいのあじまり"
+msgstr "おしまいのあじまり"
+
+#. holomem:hBP06-083:arts_1_name
+msgid "I am スバル＆わため！ Yeah！！"
+msgstr "I am スバル＆わため！ Yeah！！"
+
+#. holomem:hBP06-083:extra
+msgid "このホロメンは〈角巻わため〉〈大空スバル〉としても扱う"
+msgstr "このホロメンは〈角巻わため〉〈大空スバル〉としても扱う"
+
+#. holomem:hSD07-007:keyword_name
+msgid "また一つ成長した私を"
+msgstr "また一つ成長した私を"
+
+#. holomem:hSD07-007:arts_1_name
+msgid "キミに見てほしいな！"
+msgstr "キミに見てほしいな！"
+
+#. holomem:hBP06-084:name
+msgid "AIこより"
+msgstr "AIこより"
+
+#. holomem:hBP06-084:keyword_name
+msgid "「こんこよ」、古くなっちゃったかな？"
+msgstr "「こんこよ」、古くなっちゃったかな？"
+
+#. holomem:hBP06-084:arts_1_name
+msgid "「ハッピーリーフ！」"
+msgstr "「ハッピーリーフ！」"
+
+#. holomem:hBP07-019:keyword_name
+msgid "準備万端！"
+msgstr "準備万端！"
+
+#. holomem:hBP07-019:arts_1_name
+msgid "ホロライブID初代ダンスクイーン"
+msgstr "ホロライブID初代ダンスクイーン"
+
+#. holomem:hBP07-031:keyword_name
+msgid "この輝きが私達！"
+msgstr "この輝きが私達！"
+
+#. holomem:hBP07-031:arts_1_name
+msgid "ひとつになる声"
+msgstr "ひとつになる声"
+
+#. holomem:hBP07-045:keyword_name
+msgid "テンション上がってきた！"
+msgstr "テンション上がってきた！"
+
+#. holomem:hBP07-045:arts_1_name
+msgid "キミがいないと楽しくないもん"
+msgstr "キミがいないと楽しくないもん"
+
+#. holomem:hBP07-054:arts_1_name
+msgid "I'm pretty shy…uwu"
+msgstr "I'm pretty shy…uwu"
+
+#. holomem:hBP07-076:arts_1_name
+msgid "あら、捕まえられちゃった！"
+msgstr "あら、捕まえられちゃった！"
+
+#. holomem:hBP07-008:keyword_name
+msgid "もういっぺぇ"
+msgstr "もういっぺぇ"
+
+#. holomem:hBP07-008:arts_1_name
+msgid "スプリングシープ"
+msgstr "スプリングシープ"
+
+#. holomem:hBP07-009:arts_1_name
+msgid "ガブガブ！"
+msgstr "ガブガブ！"
+
+#. holomem:hBP07-010:keyword_name
+msgid "みんなー！ 楽しむぞおおー！！！！！"
+msgstr "みんなー！ 楽しむぞおおー！！！！！"
+
+#. holomem:hBP07-010:arts_1_name
+msgid "みんなの声聞けるかなー？？？？？？？"
+msgstr "みんなの声聞けるかなー？？？？？？？"
+
+#. holomem:hBP07-011:keyword_name
+msgid "グルグルシープ"
+msgstr "グルグルシープ"
+
+#. holomem:hBP07-011:arts_1_name
+msgid "これボタン弾けちゃうよぉ"
+msgstr "これボタン弾けちゃうよぉ"
+
+#. holomem:hBP07-012:keyword_name
+msgid "わたビーーーーーーーム！！！！！！"
+msgstr "わたビーーーーーーーム！！！！！！"
+
+#. holomem:hBP07-012:arts_1_name
+msgid "わたキャノンもだ！"
+msgstr "わたキャノンもだ！"
+
+#. holomem:hBP07-013:keyword_name
+msgid "はばないすでーい！！！"
+msgstr "はばないすでーい！！！"
+
+#. holomem:hBP07-013:arts_1_name
+msgid "センキューオーバーシープ！"
+msgstr "センキューオーバーシープ！"
+
+#. holomem:hBP07-014:keyword_name
+msgid "キュートセクシー"
+msgstr "キュートセクシー"
+
+#. holomem:hBP07-014:arts_1_name
+msgid "脳天直撃わためハンマー！"
+msgstr "脳天直撃わためハンマー！"
+
+#. holomem:hBP07-015:keyword_name
+msgid "Adopt Me？"
+msgstr "Adopt Me？"
+
+#. holomem:hBP07-015:arts_1_name
+msgid "ノラネコ見つけた~"
+msgstr "ノラネコ見つけた~"
+
+#. holomem:hBP07-017:arts_1_name
+msgid "みんなと一緒にいる時間が好き"
+msgstr "みんなと一緒にいる時間が好き"
+
+#. holomem:hBP07-018:arts_1_name
+msgid "うまみ～うまみ～♪"
+msgstr "うまみ～うまみ～♪"
+
+#. holomem:hBP07-020:arts_1_name
+msgid "もっとパフォーマンスしたい！"
+msgstr "もっとパフォーマンスしたい！"
+
+#. holomem:hBP07-021:keyword_name
+msgid "任務手伝ってくれる？"
+msgstr "任務手伝ってくれる？"
+
+#. holomem:hBP07-021:arts_1_name
+msgid "最高のシークレットエージェント"
+msgstr "最高のシークレットエージェント"
+
+#. holomem:hBP07-022:keyword_name
+msgid "筋肉は裏切らない！"
+msgstr "筋肉は裏切らない！"
+
+#. holomem:hBP07-022:arts_1_name
+msgid "元気もりもりさんでーまっする"
+msgstr "元気もりもりさんでーまっする"
+
+#. holomem:hBP07-023:keyword_name
+msgid "占いパワー注入！"
+msgstr "占いパワー注入！"
+
+#. holomem:hBP07-024:keyword_name
+msgid "ウチの大切な家族"
+msgstr "ウチの大切な家族"
+
+#. holomem:hBP07-024:arts_1_name
+msgid "今日もいっぱい笑っていこう"
+msgstr "今日もいっぱい笑っていこう"
+
+#. holomem:hBP07-025:keyword_name
+msgid "抹茶パフェ～！きゅんです"
+msgstr "抹茶パフェ～！きゅんです"
+
+#. holomem:hBP07-025:arts_1_name
+msgid "ゲーマーズカフェへようこそ"
+msgstr "ゲーマーズカフェへようこそ"
+
+#. holomem:hBP07-026:keyword_name
+msgid "早く来ないかな…"
+msgstr "早く来ないかな…"
+
+#. holomem:hBP07-026:arts_1_name
+msgid "ちょっとお洒落な感じでしょ？"
+msgstr "ちょっとお洒落な感じでしょ？"
+
+#. holomem:hBP07-027:keyword_name
+msgid "ハートの女王の采配"
+msgstr "ハートの女王の采配"
+
+#. holomem:hBP07-027:arts_1_name
+msgid "女王陛下と呼びなさい"
+msgstr "女王陛下と呼びなさい"
+
+#. holomem:hBP07-028:keyword_name
+msgid "金瞳の綺羅星"
+msgstr "金瞳の綺羅星"
+
+#. holomem:hBP07-028:arts_1_name
+msgid "天まで届け、みんなの願い"
+msgstr "天まで届け、みんなの願い"
+
+#. holomem:hBP07-029:keyword_name
+msgid "緑の地母神"
+msgstr "緑の地母神"
+
+#. holomem:hBP07-030:keyword_name
+msgid "holoRêve -いろは-"
+msgstr "holoRêve -いろは-"
+
+#. holomem:hBP07-030:arts_1_name
+msgid "たくさんの宝物"
+msgstr "たくさんの宝物"
+
+#. holomem:hBP07-032:name
+#. holomem:hBP07-033:name
+#. holomem:hBP07-034:name
+#. ... and 8 more
+msgid "輪堂千速"
+msgstr "輪堂千速"
+
+#. holomem:hBP07-032:keyword_name
+msgid "ドライブ行こうよ"
+msgstr "ドライブ行こうよ"
+
+#. holomem:hBP07-032:arts_1_name
+msgid "一陣の夜風"
+msgstr "一陣の夜風"
+
+#. holomem:hBP07-033:keyword_name
+msgid "ティールマーメイド"
+msgstr "ティールマーメイド"
+
+#. holomem:hBP07-033:arts_1_name
+msgid "～Something blue～ 千速"
+msgstr "～Something blue～ 千速"
+
+#. holomem:hBP07-034:keyword_name
+msgid "ぶいぶい走らせるぞ！！！"
+msgstr "ぶいぶい走らせるぞ！！！"
+
+#. holomem:hBP07-034:arts_1_name
+msgid "どっちが速いｶﾅ？！？！？！"
+msgstr "どっちが速いｶﾅ？！？！？！"
+
+#. holomem:hBP07-035:arts_1_name
+msgid "サージングエキゾースト"
+msgstr "サージングエキゾースト"
+
+#. holomem:hSD10-002:arts_1_name
+msgid "はじまりんど～～～！"
+msgstr "はじまりんど～～～！"
+
+#. holomem:hBP07-036:arts_1_name
+msgid "どちらがお好き？♡"
+msgstr "どちらがお好き？♡"
+
+#. holomem:hBP07-037:keyword_name
+msgid "ちゃまと旅する！"
+msgstr "ちゃまと旅する！"
+
+#. holomem:hBP07-037:arts_1_name
+msgid "旅はまだ、始まったばかり。"
+msgstr "旅はまだ、始まったばかり。"
+
+#. holomem:hBP07-038:keyword_name
+msgid "幻獣グルメハンター"
+msgstr "幻獣グルメハンター"
+
+#. holomem:hBP07-039:keyword_name
+msgid "血ゃ舞ってる奴いる！？"
+msgstr "血ゃ舞ってる奴いる！？"
+
+#. holomem:hBP07-039:arts_1_name
+msgid "俺の名は〝ちゃまお〟漢の中の漢だ！"
+msgstr "俺の名は〝ちゃまお〟漢の中の漢だ！"
+
+#. holomem:hBP07-040:arts_1_name
+msgid "当店自慢のはあとんバーガー！"
+msgstr "当店自慢のはあとんバーガー！"
+
+#. holomem:hBP07-041:arts_1_name
+msgid "万物に愛されちゃま計画"
+msgstr "万物に愛されちゃま計画"
+
+#. holomem:hBP07-042:arts_1_name
+msgid "純心タランテラ"
+msgstr "純心タランテラ"
+
+#. holomem:hBP07-042:arts_2_name
+msgid "幸せへの旅路"
+msgstr "幸せへの旅路"
+
+#. holomem:hBP07-043:keyword_name
+msgid "holoRêve -みこ-"
+msgstr "holoRêve -みこ-"
+
+#. holomem:hBP07-043:arts_1_name
+msgid "桜は花に顕る"
+msgstr "桜は花に顕る"
+
+#. holomem:hBP07-044:arts_1_name
+msgid "スタッフファーストです！"
+msgstr "スタッフファーストです！"
+
+#. holomem:hBP07-046:keyword_name
+msgid "後の先を取る！"
+msgstr "後の先を取る！"
+
+#. holomem:hBP07-047:keyword_name
+msgid "…Very well."
+msgstr "…Very well."
+
+#. holomem:hBP07-047:arts_1_name
+msgid "さあ、かかってくるといい"
+msgstr "さあ、かかってくるといい"
+
+#. holomem:hBP07-049:keyword_name
+msgid "絢爛のアインザッツ"
+msgstr "絢爛のアインザッツ"
+
+#. holomem:hBP07-049:arts_1_name
+msgid "不撓のコンチェルタート"
+msgstr "不撓のコンチェルタート"
+
+#. holomem:hBP07-050:keyword_name
+msgid "この日が来た！"
+msgstr "この日が来た！"
+
+#. holomem:hBP07-050:arts_1_name
+msgid "金色のルアー"
+msgstr "金色のルアー"
+
+#. holomem:hBP07-052:keyword_name
+msgid "お時間ですわ！"
+msgstr "お時間ですわ！"
+
+#. holomem:hBP07-052:arts_1_name
+msgid "私の新キャッチフレーズ。どうだい？"
+msgstr "私の新キャッチフレーズ。どうだい？"
+
+#. holomem:hBP07-053:keyword_name
+msgid "時を超えた約束"
+msgstr "時を超えた約束"
+
+#. holomem:hBP07-055:keyword_name
+msgid "約束の未来へ"
+msgstr "約束の未来へ"
+
+#. holomem:hBP07-056:keyword_name
+msgid "時界を統べし者"
+msgstr "時界を統べし者"
+
+#. holomem:hBP07-057:keyword_name
+msgid "君と遊ぶとドキドキしちゃう…"
+msgstr "君と遊ぶとドキドキしちゃう…"
+
+#. holomem:hBP07-057:arts_1_name
+msgid "おりゃー！！油断したでしょ～"
+msgstr "おりゃー！！油断したでしょ～"
+
+#. holomem:hBP07-060:arts_1_name
+msgid "食料解剖"
+msgstr "食料解剖"
+
+#. holomem:hBP07-061:arts_1_name
+msgid "逃がす訳がないでしょう？"
+msgstr "逃がす訳がないでしょう？"
+
+#. holomem:hBP07-062:arts_1_name
+msgid "解き放たれた禁断の知識"
+msgstr "解き放たれた禁断の知識"
+
+#. holomem:hBP07-063:keyword_name
+msgid "ドキドキ夜キャンプ…"
+msgstr "ドキドキ夜キャンプ…"
+
+#. holomem:hBP07-063:arts_1_name
+msgid "君とぴったり密着空間"
+msgstr "君とぴったり密着空間"
+
+#. holomem:hBP07-064:arts_1_name
+msgid "ゆっくりしにおいで♡"
+msgstr "ゆっくりしにおいで♡"
+
+#. holomem:hBP07-065:arts_1_name
+msgid "盛り上がっていこう！"
+msgstr "盛り上がっていこう！"
+
+#. holomem:hBP07-065:arts_2_name
+msgid "みんなの声聞かせてええええええ！！！"
+msgstr "みんなの声聞かせてええええええ！！！"
+
+#. holomem:hBP07-066:keyword_name
+msgid "仮想世界の伴走する歌姫"
+msgstr "仮想世界の伴走する歌姫"
+
+#. holomem:hBP07-066:arts_1_name
+msgid "音楽と歌うことが大好き！"
+msgstr "音楽と歌うことが大好き！"
+
+#. holomem:hBP07-067:arts_1_name
+msgid "君と二人きりの夜"
+msgstr "君と二人きりの夜"
+
+#. holomem:hBP07-068:keyword_name
+msgid "共に歩んできた軌跡"
+msgstr "共に歩んできた軌跡"
+
+#. holomem:hBP07-068:arts_1_name
+msgid "ホワイトデーのお返し、待ってるね"
+msgstr "ホワイトデーのお返し、待ってるね"
+
+#. holomem:hBP07-069:arts_1_name
+msgid "君と新たな開拓の地へ"
+msgstr "君と新たな開拓の地へ"
+
+#. holomem:hBP07-069:arts_2_name
+msgid "紡いだ軌跡 すべてに捧ぐ歌"
+msgstr "紡いだ軌跡 すべてに捧ぐ歌"
+
+#. holomem:hBP07-070:keyword_name
+msgid "今日のご飯、何がいーい？"
+msgstr "今日のご飯、何がいーい？"
+
+#. holomem:hBP07-070:arts_1_name
+msgid "がんばって美味しいの作るね♡"
+msgstr "がんばって美味しいの作るね♡"
+
+#. holomem:hBP07-071:keyword_name
+msgid "おい、お前"
+msgstr "おい、お前"
+
+#. holomem:hBP07-071:arts_1_name
+msgid "手作りの朝ごはんを要求する"
+msgstr "手作りの朝ごはんを要求する"
+
+#. holomem:hBP07-072:arts_1_name
+msgid "吾輩との秘密だぞ"
+msgstr "吾輩との秘密だぞ"
+
+#. holomem:hBP07-073:keyword_name
+msgid "ライブだー！！！！！！！！！"
+msgstr "ライブだー！！！！！！！！！"
+
+#. holomem:hBP07-073:arts_1_name
+msgid "吾輩の歌聴いてくれる奴いるううう！？！？"
+msgstr "吾輩の歌聴いてくれる奴いるううう！？！？"
+
+#. holomem:hBP07-074:keyword_name
+msgid "ラッシュ行きます"
+msgstr "ラッシュ行きます"
+
+#. holomem:hBP07-074:arts_1_name
+msgid "吾輩の歌を聴けえええええええ！！！！"
+msgstr "吾輩の歌を聴けえええええええ！！！！"
+
+#. holomem:hBP07-075:keyword_name
+msgid "闇夜のハンター"
+msgstr "闇夜のハンター"
+
+#. holomem:hBP07-077:keyword_name
+msgid "あぱぱ"
+msgstr "あぱぱ"
+
+#. holomem:hBP07-077:arts_1_name
+msgid "ねね、酔っちゃった～"
+msgstr "ねね、酔っちゃった～"
+
+#. holomem:hBP07-078:keyword_name
+msgid "君もこっちにおいで～！"
+msgstr "君もこっちにおいで～！"
+
+#. holomem:hBP07-078:arts_1_name
+msgid "ねねと一緒に楽しもう！！"
+msgstr "ねねと一緒に楽しもう！！"
+
+#. holomem:hBP07-079:keyword_name
+msgid "ねねちライブスタート！"
+msgstr "ねねちライブスタート！"
+
+#. holomem:hBP07-079:arts_1_name
+msgid "ご自由にお使いください！"
+msgstr "ご自由にお使いください！"
+
+#. holomem:hBP07-080:keyword_name
+msgid "オレンジアイドル！"
+msgstr "オレンジアイドル！"
+
+#. holomem:hBP07-080:arts_1_name
+msgid "さいくーにくぅわいい"
+msgstr "さいくーにくぅわいい"
+
+#. holomem:hBP07-081:keyword_name
+msgid "桃鈴ねねは昆虫博士になる！"
+msgstr "桃鈴ねねは昆虫博士になる！"
+
+#. holomem:hBP07-081:arts_1_name
+msgid "君のハートをブルロック！"
+msgstr "君のハートをブルロック！"
+
+#. holomem:hBP07-082:keyword_name
+msgid "ねぽらぼが最強です！！！！！！！！！！！！！"
+msgstr "ねぽらぼが最強です！！！！！！！！！！！！！"
+
+#. holomem:hBP07-082:arts_1_name
+msgid "アチョ～～～！"
+msgstr "アチョ～～～！"
+
+#. holomem:hBP07-083:keyword_name
+msgid "みんなのエナジードリンク"
+msgstr "みんなのエナジードリンク"
+
+#. holomem:hBP07-083:arts_1_name
+msgid "オーバーチアリーディング"
+msgstr "オーバーチアリーディング"
+
+#. holomem:hBP07-084:keyword_name
+msgid "一緒にゲームしよ"
+msgstr "一緒にゲームしよ"
+
+#. holomem:hBP07-084:arts_1_name
+msgid "やっぱり、FPSとか？"
+msgstr "やっぱり、FPSとか？"
+
+#. holomem:hBP07-085:keyword_name
+msgid "私のとっておき！"
+msgstr "私のとっておき！"
+
+#. holomem:hBP07-085:arts_1_name
+msgid "元気いっぱいカラフルパフェ"
+msgstr "元気いっぱいカラフルパフェ"
+
+#. holomem:hBP07-086:keyword_name
+msgid "執念のチェイサー"
+msgstr "執念のチェイサー"
+
+#. holomem:hBP07-086:arts_1_name
+msgid "追撃のライオット"
+msgstr "追撃のライオット"
+
+#. holomem:hBP07-087:name
+#. holomem:hBP07-088:name
+#. holomem:hBP07-089:name
+#. ... and 8 more
+msgid "虎金妃笑虎"
+msgstr "虎金妃笑虎"
+
+#. holomem:hBP07-087:keyword_name
+msgid "ニコたん出動！"
+msgstr "ニコたん出動！"
+
+#. holomem:hBP07-087:arts_1_name
+msgid "現行犯逮捕だ"
+msgstr "現行犯逮捕だ"
+
+#. holomem:hBP07-088:keyword_name
+msgid "虎の威"
+msgstr "虎の威"
+
+#. holomem:hBP07-088:arts_1_name
+msgid "みんなが居るから幸せだ！"
+msgstr "みんなが居るから幸せだ！"
+
+#. holomem:hBP07-089:keyword_name
+msgid "っしゃ反撃抜刀"
+msgstr "っしゃ反撃抜刀"
+
+#. holomem:hBP07-089:arts_1_name
+msgid "スッゲーワクワクするしょ！！"
+msgstr "スッゲーワクワクするしょ！！"
+
+#. holomem:hBP07-090:keyword_name
+msgid "ここで終わっちゃう虎じゃないんだ！"
+msgstr "ここで終わっちゃう虎じゃないんだ！"
+
+#. holomem:hBP07-090:arts_1_name
+msgid "ぶち上げる気合いだ！"
+msgstr "ぶち上げる気合いだ！"
+
+#. holomem:hSD11-002:arts_1_name
+msgid "ニコたんが～来たァー！"
+msgstr "ニコたんが～来たァー！"
+
+#. holomem:hSD01-006:arts_1_name
+msgid "ドリームライブ"
+msgstr "ドリームライブ"
+
+#. holomem:hSD01-006:arts_2_name
+msgid "SorAZ シンパシー"
+msgstr "SorAZ シンパシー"
+
+#. holomem:hSD06-006:keyword_name
+msgid "サムライ少女"
+msgstr "サムライ少女"
+
+#. holomem:hSD06-006:arts_1_name
+msgid "刀の錆になるでござる！"
+msgstr "刀の錆になるでござる！"
+
+#. holomem:hSD01-013:arts_1_name
+msgid "越えたい未来"
+msgstr "越えたい未来"
+
+#. holomem:hSD01-013:extra
+msgid "このホロメンは〈ときのそら〉〈AZKi〉としても扱う"
+msgstr "このホロメンは〈ときのそら〉〈AZKi〉としても扱う"
+
+#. holomem:hSD01-004:keyword_name
+msgid "レッツダンス！"
+msgstr "レッツダンス！"
+
+#. holomem:hSD01-004:arts_1_name
+msgid "オンステージ！"
+msgstr "オンステージ！"
+
+#. holomem:hSD01-007:arts_1_name
+msgid "希望の化身"
+msgstr "希望の化身"
+
+#. holomem:hSD05-002:arts_1_name
+msgid "ぶんぶんぶーん！"
+msgstr "ぶんぶんぶーん！"
+
+#. holomem:hSD06-008:keyword_name
+msgid "ずのー！"
+msgstr "ずのー！"
+
+#. holomem:hSD06-008:arts_1_name
+msgid "どやぁ"
+msgstr "どやぁ"
+
+#. holomem:hSD08-002:tags
+#. holomem:hSD08-005:tags
+#. holomem:hSD09-005:tags
+#. ... and 5 more
+msgid "#サマー"
+msgstr "#サマー"
+
+#. holomem:hSD08-002:keyword_name
+#. holomem:hSD09-002:keyword_name
+msgid "ホロサマー"
+msgstr "ホロサマー"
+
+#. holomem:hSD08-002:arts_1_name
+msgid "浴衣似合うでしょ"
+msgstr "浴衣似合うでしょ"
+
+#. holomem:hSD08-004:keyword_name
+msgid "エンジェルウィンド"
+msgstr "エンジェルウィンド"
+
+#. holomem:hSD08-004:arts_1_name
+msgid "きみの背中に追いつけるように"
+msgstr "きみの背中に追いつけるように"
+
+#. holomem:hSD08-005:keyword_name
+msgid "なんでも入る巾着"
+msgstr "なんでも入る巾着"
+
+#. holomem:hSD08-005:arts_1_name
+msgid "お祭りなのら"
+msgstr "お祭りなのら"
+
+#. holomem:hSD09-005:keyword_name
+msgid "3期生の海の家"
+msgstr "3期生の海の家"
+
+#. holomem:hSD09-005:arts_1_name
+msgid "夏が来たぞー！"
+msgstr "夏が来たぞー！"
+
+#. holomem:hSD01-009:keyword_name
+msgid "広がる地図"
+msgstr "広がる地図"
+
+#. holomem:hSD01-009:arts_1_name
+msgid "ほいでほいで"
+msgstr "ほいでほいで"
+
+#. holomem:hSD01-011:arts_1_name
+msgid "SorAZ グラビティ"
+msgstr "SorAZ グラビティ"
+
+#. holomem:hSD01-011:arts_2_name
+msgid "デスティニーソング"
+msgstr "デスティニーソング"
+
+#. holomem:hSD01-012:keyword_name
+msgid "一緒にお絵かき！"
+msgstr "一緒にお絵かき！"
+
+#. holomem:hSD01-012:arts_1_name
+msgid "お絵かきたのしー！"
+msgstr "お絵かきたのしー！"
+
+#. holomem:hSD06-005:keyword_name
+msgid "かざまとおでかけ"
+msgstr "かざまとおでかけ"
+
+#. holomem:hSD06-005:arts_1_name
+msgid "かざまといっしょ！"
+msgstr "かざまといっしょ！"
+
+#. holomem:hSD09-006:keyword_name
+msgid "あんたたち働くぺこー！"
+msgstr "あんたたち働くぺこー！"
+
+#. holomem:hSD09-006:arts_1_name
+msgid "ご注文のかき氷ぺこ！"
+msgstr "ご注文のかき氷ぺこ！"
+
+#. holomem:hSD10-006:arts_1_name
+msgid "鼓動の操縦者"
+msgstr "鼓動の操縦者"
+
+#. holomem:hSD10-006:arts_2_name
+msgid "アクセラビートブレイズ"
+msgstr "アクセラビートブレイズ"
+
+#. holomem:hSD02-007:keyword_name
+msgid "どーっちどっち♪"
+msgstr "どーっちどっち♪"
+
+#. holomem:hSD02-007:arts_1_name
+msgid "輝いた余を見逃さないでね～～！！"
+msgstr "輝いた余を見逃さないでね～～！！"
+
+#. holomem:hSD05-011:keyword_name
+msgid "任せておきなさい！"
+msgstr "任せておきなさい！"
+
+#. holomem:hSD05-011:arts_1_name
+msgid "社長の推し事"
+msgstr "社長の推し事"
+
+#. holomem:hSD09-002:arts_1_name
+msgid "船長も一緒にい・か・が？"
+msgstr "船長も一緒にい・か・が？"
+
+#. holomem:hSD09-004:arts_1_name
+msgid "3期生の絆"
+msgstr "3期生の絆"
+
+#. holomem:hSD09-004:arts_2_name
+msgid "キミたちと水平線の向こう側へ"
+msgstr "キミたちと水平線の向こう側へ"
+
+#. holomem:hSD13-003:arts_1_name
+msgid "オーッホッホッホッ！"
+msgstr "オーッホッホッホッ！"
+
+#. holomem:hSD13-007:keyword_name
+msgid "猛炎のウォークライ"
+msgstr "猛炎のウォークライ"
+
+#. holomem:hSD13-007:arts_1_name
+msgid "悪斬りのカデンツァ"
+msgstr "悪斬りのカデンツァ"
+
+#. holomem:hSD03-003:keyword_name
+msgid "お家にお邪魔します…！"
+msgstr "お家にお邪魔します…！"
+
+#. holomem:hSD03-003:arts_1_name
+msgid "僕をお家に入れてください"
+msgstr "僕をお家に入れてください"
+
+#. holomem:hSD03-007:keyword_name
+msgid "また、たくさん笑ってよね！"
+msgstr "また、たくさん笑ってよね！"
+
+#. holomem:hSD03-007:arts_1_name
+msgid "全力で僕なりの歌、お届けします！"
+msgstr "全力で僕なりの歌、お届けします！"
+
+#. holomem:hSD11-007:name
+#. holomem:hSD11-008:name
+#. holomem:hSD11-009:name
+#. ... and 1 more
+msgid "水宮枢"
+msgstr "水宮枢"
+
+#. holomem:hSD11-007:arts_1_name
+msgid "しゅぴしゅわー"
+msgstr "しゅぴしゅわー"
+
+#. holomem:hSD11-008:keyword_name
+msgid "FLOW GLOWのえらい宣伝担当"
+msgstr "FLOW GLOWのえらい宣伝担当"
+
+#. holomem:hSD11-008:arts_1_name
+msgid "愛は時間ですよ"
+msgstr "愛は時間ですよ"
+
+#. holomem:hSD11-009:keyword_name
+msgid "感情の伝令者"
+msgstr "感情の伝令者"
+
+#. holomem:hSD11-009:arts_1_name
+msgid "スゥイートオブセッション"
+msgstr "スゥイートオブセッション"
+
+#. holomem:hSD12-003:keyword_name
+msgid "パレ・モンローズのお話をお聞きになったことは？"
+msgstr "パレ・モンローズのお話をお聞きになったことは？"
+
+#. holomem:hSD12-003:arts_1_name
+msgid "アデュー、親愛なる聞き手様"
+msgstr "アデュー、親愛なる聞き手様"
+
+#. holomem:hSD12-007:keyword_name
+msgid "どんな知識が得られるかしら"
+msgstr "どんな知識が得られるかしら"
+
+#. holomem:hSD12-007:arts_1_name
+msgid "私達を見くびらないで貰える？"
+msgstr "私達を見くびらないで貰える？"
+
+#. holomem:hSD04-007:keyword_name
+msgid "ちょっこーん！"
+msgstr "ちょっこーん！"
+
+#. holomem:hSD04-007:arts_1_name
+msgid "大好き！ちゅっ♡"
+msgstr "大好き！ちゅっ♡"
+
+#. holomem:hSD08-006:keyword_name
+msgid "花火見ていく？"
+msgstr "花火見ていく？"
+
+#. holomem:hSD08-006:arts_1_name
+msgid "トワに見惚れちゃった？"
+msgstr "トワに見惚れちゃった？"
+
+#. holomem:hSD10-007:name
+#. holomem:hSD10-009:name
+#. holomem:hSD10-008:name
+#. ... and 1 more
+msgid "綺々羅々ヴィヴィ"
+msgstr "綺々羅々ヴィヴィ"
+
+#. holomem:hSD10-007:arts_1_name
+msgid "ん〜〜〜〜〜ッヴィヴィ〜！"
+msgstr "ん〜〜〜〜〜ッヴィヴィ〜！"
+
+#. holomem:hSD10-009:keyword_name
+msgid "美の求道者"
+msgstr "美の求道者"
+
+#. holomem:hSD10-009:arts_1_name
+msgid "ヴィジランスヴィーナス"
+msgstr "ヴィジランスヴィーナス"
+
+#. holomem:hSD12-008:keyword_name
+msgid "花売りの少女"
+msgstr "花売りの少女"
+
+#. holomem:hSD12-008:arts_1_name
+msgid "私……この頃よく夢を見るの。"
+msgstr "私……この頃よく夢を見るの。"
+
+#. holomem:hSD12-011:keyword_name
+msgid "ビブーと遊んでいかない？"
+msgstr "ビブーと遊んでいかない？"
+
+#. holomem:hSD12-011:arts_1_name
+msgid "キラキラぜーんぶ受け止めて！"
+msgstr "キラキラぜーんぶ受け止めて！"
+
+#. holomem:hSD08-007:keyword_name
+msgid "みんなと夏祭り"
+msgstr "みんなと夏祭り"
+
+#. holomem:hSD08-007:arts_1_name
+msgid "わたあめおいしいねぇ"
+msgstr "わたあめおいしいねぇ"
+
+#. holomem:hSD09-007:keyword_name
+msgid "クールダウンしよ"
+msgstr "クールダウンしよ"
+
+#. holomem:hSD09-007:arts_1_name
+msgid "冷たいものお待ちどうさま♪"
+msgstr "冷たいものお待ちどうさま♪"
+
+#. holomem:hSD11-006:keyword_name
+msgid "戯笑の使者"
+msgstr "戯笑の使者"
+
+#. holomem:hSD11-006:arts_1_name
+msgid "虎嘯風生"
+msgstr "虎嘯風生"
+
+#. holomem:hSD13-013:keyword_name
+msgid "再起のストレングス"
+msgstr "再起のストレングス"
+
+#. holomem:hSD13-013:arts_1_name
+msgid "殻破りのライオット"
+msgstr "殻破りのライオット"
+
+#. holomem:hPR-001:keyword_name
+msgid "誰かの芽吹きになれたら"
+msgstr "誰かの芽吹きになれたら"
+
+#. holomem:hSD10-010:keyword_name
+msgid "私の元においで～っ"
+msgstr "私の元においで～っ"
+
+#. holomem:hSD01-003:arts_1_name
+msgid "(๑╹ᆺ╹)ぬんぬん"
+msgstr "(๑╹ᆺ╹)ぬんぬん"
+
+#. holomem:hSD01-005:arts_1_name
+msgid "ぬんぬんしよう"
+msgstr "ぬんぬんしよう"
+
+#. holomem:hSD01-005:arts_2_name
+msgid "あなたの心は…くもりのち晴れ！"
+msgstr "あなたの心は…くもりのち晴れ！"
+
+#. holomem:hSD01-008:arts_1_name
+msgid "がんばれてえらい！"
+msgstr "がんばれてえらい！"
+
+#. holomem:hSD01-010:arts_1_name
+msgid "きみとあてのない旅"
+msgstr "きみとあてのない旅"
+
+#. holomem:hSD01-014:arts_1_name
+msgid "へい"
+msgstr "へい"
+
+#. holomem:hSD01-015:arts_1_name
+msgid "ピュアピュアピュア～"
+msgstr "ピュアピュアピュア～"
+
+#. holomem:hSD02-008:arts_1_name
+msgid "ファンシーバースデー"
+msgstr "ファンシーバースデー"
+
+#. holomem:hSD02-008:arts_2_name
+msgid "プレゼント何かな？"
+msgstr "プレゼント何かな？"
+
+#. holomem:hSD02-003:keyword_name
+msgid "業"
+msgstr "業"
+
+#. holomem:hSD02-003:arts_1_name
+msgid "不知火"
+msgstr "不知火"
+
+#. holomem:hSD02-004:keyword_name
+msgid "あやめのひととせ"
+msgstr "あやめのひととせ"
+
+#. holomem:hSD02-004:arts_1_name
+msgid "おだんごおいしい余"
+msgstr "おだんごおいしい余"
+
+#. holomem:hSD02-005:arts_1_name
+msgid "寝る余～"
+msgstr "寝る余～"
+
+#. holomem:hSD02-005:arts_2_name
+msgid "おつなきりー"
+msgstr "おつなきりー"
+
+#. holomem:hSD02-006:keyword_name
+msgid "お誕生日会"
+msgstr "お誕生日会"
+
+#. holomem:hSD02-006:arts_1_name
+msgid "一緒にお祝い"
+msgstr "一緒にお祝い"
+
+#. holomem:hSD02-010:keyword_name
+msgid "帰ってきなさーい"
+msgstr "帰ってきなさーい"
+
+#. holomem:hSD02-010:arts_1_name
+msgid "あやふぶみの「ふぶ」担当"
+msgstr "あやふぶみの「ふぶ」担当"
+
+#. holomem:hSD02-011:keyword_name
+msgid "おにけもの会"
+msgstr "おにけもの会"
+
+#. holomem:hSD02-011:arts_1_name
+msgid "あやふぶみの「み」担当"
+msgstr "あやふぶみの「み」担当"
+
+#. holomem:hSD03-008:keyword_name
+msgid "泥棒建設代表取締役 CEO"
+msgstr "泥棒建設代表取締役 CEO"
+
+#. holomem:hSD03-008:arts_1_name
+msgid "いちばんえらい猫又おかゆ～"
+msgstr "いちばんえらい猫又おかゆ～"
+
+#. holomem:hSD03-004:keyword_name
+msgid "僕と登校しよう…？"
+msgstr "僕と登校しよう…？"
+
+#. holomem:hSD03-004:arts_1_name
+msgid "学生猫"
+msgstr "学生猫"
+
+#. holomem:hSD03-005:arts_1_name
+msgid "ぎゅ～ってしてよね♡"
+msgstr "ぎゅ～ってしてよね♡"
+
+#. holomem:hSD03-005:arts_2_name
+msgid "えへへないたずら"
+msgstr "えへへないたずら"
+
+#. holomem:hSD03-006:arts_1_name
+msgid "猫かぶり"
+msgstr "猫かぶり"
+
+#. holomem:hSD03-006:arts_2_name
+msgid "しゃー"
+msgstr "しゃー"
+
+#. holomem:hSD03-010:keyword_name
+msgid "泥棒建設インターン"
+msgstr "泥棒建設インターン"
+
+#. holomem:hSD03-010:arts_1_name
+msgid "おらよ～"
+msgstr "おらよ～"
+
+#. holomem:hSD03-011:arts_1_name
+msgid "泥棒建設農業大臣"
+msgstr "泥棒建設農業大臣"
+
+#. holomem:hSD03-011:arts_2_name
+msgid "絶対、食わせてみせるわ"
+msgstr "絶対、食わせてみせるわ"
+
+#. holomem:hSD04-008:arts_1_name
+msgid "がんばってつくったよ"
+msgstr "がんばってつくったよ"
+
+#. holomem:hSD04-008:arts_2_name
+msgid "召し上がれ"
+msgstr "召し上がれ"
+
+#. holomem:hSD04-003:keyword_name
+msgid "グッイブニ～ング"
+msgstr "グッイブニ～ング"
+
+#. holomem:hSD04-003:arts_1_name
+msgid "マイキュ～トスチュ～デ～ンツ"
+msgstr "マイキュ～トスチュ～デ～ンツ"
+
+#. holomem:hSD04-004:keyword_name
+msgid "地獄盛りごはん"
+msgstr "地獄盛りごはん"
+
+#. holomem:hSD04-004:arts_1_name
+msgid "いっぱい食べてね♡"
+msgstr "いっぱい食べてね♡"
+
+#. holomem:hSD04-005:arts_1_name
+msgid "おつかれいと……"
+msgstr "おつかれいと……"
+
+#. holomem:hSD04-005:arts_2_name
+msgid "あ～む（ﾁｭｯ）"
+msgstr "あ～む（ﾁｭｯ）"
+
+#. holomem:hSD04-006:arts_1_name
+msgid "禁断のキッス"
+msgstr "禁断のキッス"
+
+#. holomem:hSD04-010:keyword_name
+msgid "ちよこーーッ！！"
+msgstr "ちよこーーッ！！"
+
+#. holomem:hSD04-010:arts_1_name
+msgid "地獄くじ引き、引かせるぞっ"
+msgstr "地獄くじ引き、引かせるぞっ"
+
+#. holomem:hSD04-011:keyword_name
+msgid "ちょこてんて～"
+msgstr "ちょこてんて～"
+
+#. holomem:hSD04-011:arts_1_name
+msgid "んな～～～～～～～～"
+msgstr "んな～～～～～～～～"
+
+#. holomem:hSD05-008:arts_1_name
+msgid "……なんか、番長っぽくなってきたかも！"
+msgstr "……なんか、番長っぽくなってきたかも！"
+
+#. holomem:hSD05-003:keyword_name
+msgid "こんちくわ"
+msgstr "こんちくわ"
+
+#. holomem:hSD05-003:arts_1_name
+msgid "お洒落番長"
+msgstr "お洒落番長"
+
+#. holomem:hSD05-004:arts_1_name
+msgid "ReGLOSSの番長"
+msgstr "ReGLOSSの番長"
+
+#. holomem:hSD05-005:arts_1_name
+msgid "夜路紫駆！"
+msgstr "夜路紫駆！"
+
+#. holomem:hSD05-005:arts_2_name
+msgid "うぃー！"
+msgstr "うぃー！"
+
+#. holomem:hSD05-006:arts_1_name
+msgid "足取り軽め、轟はじめ"
+msgstr "足取り軽め、轟はじめ"
+
+#. holomem:hSD05-006:arts_2_name
+msgid "ありあとりゃあすっ"
+msgstr "ありあとりゃあすっ"
+
+#. holomem:hSD05-007:keyword_name
+msgid "宇宙一の番長を目指すなんでも屋"
+msgstr "宇宙一の番長を目指すなんでも屋"
+
+#. holomem:hSD05-007:arts_1_name
+msgid "度胸、愛嬌、最強"
+msgstr "度胸、愛嬌、最強"
+
+#. holomem:hSD05-010:arts_1_name
+msgid "ちょいと一席"
+msgstr "ちょいと一席"
+
+#. holomem:hSD05-012:keyword_name
+msgid "ドーンッ！"
+msgstr "ドーンッ！"
+
+#. holomem:hSD05-012:arts_1_name
+msgid "世界一かわいいよ"
+msgstr "世界一かわいいよ"
+
+#. holomem:hSD05-013:keyword_name
+msgid "クレッシェンドな日々"
+msgstr "クレッシェンドな日々"
+
+#. holomem:hSD05-013:arts_1_name
+msgid "ガハw"
+msgstr "ガハw"
+
+#. holomem:hSD06-002:keyword_name
+msgid "のっと！ﾆﾝﾆﾝ！！"
+msgstr "のっと！ﾆﾝﾆﾝ！！"
+
+#. holomem:hSD06-002:arts_1_name
+msgid "いえす！ｼﾞｬｷﾝｼﾞｬｷﾝ！！"
+msgstr "いえす！ｼﾞｬｷﾝｼﾞｬｷﾝ！！"
+
+#. holomem:hSD06-003:arts_1_name
+msgid "一刀両断叩き斬る"
+msgstr "一刀両断叩き斬る"
+
+#. holomem:hSD06-004:arts_1_name
+msgid "照れ屋な用心棒"
+msgstr "照れ屋な用心棒"
+
+#. holomem:hSD06-009:arts_1_name
+msgid "頼れる女幹部"
+msgstr "頼れる女幹部"
+
+#. holomem:hSD06-010:arts_1_name
+msgid "狂気の宴"
+msgstr "狂気の宴"
+
+#. holomem:hSD07-008:arts_1_name
+msgid "エルフレパーティー"
+msgstr "エルフレパーティー"
+
+#. holomem:hSD07-010:keyword_name
+msgid "大物の確証"
+msgstr "大物の確証"
+
+#. holomem:hSD07-010:arts_1_name
+msgid "いっぱい建築したいです"
+msgstr "いっぱい建築したいです"
+
+#. holomem:hSD07-011:keyword_name
+msgid "バーニン♪ バーニン♪"
+msgstr "バーニン♪ バーニン♪"
+
+#. holomem:hSD07-011:arts_1_name
+msgid "魔王軍は無くなりました"
+msgstr "魔王軍は無くなりました"
+
+#. holomem:hSD07-012:keyword_name
+msgid "僕らに水を"
+msgstr "僕らに水を"
+
+#. holomem:hSD07-012:arts_1_name
+msgid "骨を埋める覚悟"
+msgstr "骨を埋める覚悟"
+
+#. holomem:hSD07-013:keyword_name
+msgid "ご飯が底をつきそう……"
+msgstr "ご飯が底をつきそう……"
+
+#. holomem:hSD07-013:arts_1_name
+msgid "雇ってください‼"
+msgstr "雇ってください‼"
+
+#. holomem:hSD07-003:keyword_name
+msgid "大切な仲間たちと"
+msgstr "大切な仲間たちと"
+
+#. holomem:hSD07-003:arts_1_name
+msgid "キミといっしょにお出かけ"
+msgstr "キミといっしょにお出かけ"
+
+#. holomem:hSD07-004:arts_1_name
+msgid "ワンダフルライフ"
+msgstr "ワンダフルライフ"
+
+#. holomem:hSD07-005:arts_1_name
+msgid "私からキミへ"
+msgstr "私からキミへ"
+
+#. holomem:hSD07-005:arts_2_name
+msgid "キミとティータイム"
+msgstr "キミとティータイム"
+
+#. holomem:hSD07-006:keyword_name
+msgid "エルフレンドのさえずり"
+msgstr "エルフレンドのさえずり"
+
+#. holomem:hSD07-006:arts_1_name
+msgid "キミを1番好きなのはわたしぃ～♡"
+msgstr "キミを1番好きなのはわたしぃ～♡"
+
+#. holomem:hSD08-003:keyword_name
+msgid "相談のるよ"
+msgstr "相談のるよ"
+
+#. holomem:hSD08-003:arts_1_name
+msgid "みんなのスパダリ"
+msgstr "みんなのスパダリ"
+
+#. holomem:hSD09-003:keyword_name
+msgid "みんな優勝するぞ"
+msgstr "みんな優勝するぞ"
+
+#. holomem:hSD09-003:arts_1_name
+msgid "マリンに任せろってマジで"
+msgstr "マリンに任せろってマジで"
+
+#. holomem:hSD10-003:arts_1_name
+msgid "エンジン全開 演じない自然体"
+msgstr "エンジン全開 演じない自然体"
+
+#. holomem:hSD10-003:arts_2_name
+msgid "全身全霊 越えてく限界"
+msgstr "全身全霊 越えてく限界"
+
+#. holomem:hSD10-004:keyword_name
+msgid "300馬力だよ！"
+msgstr "300馬力だよ！"
+
+#. holomem:hSD10-004:arts_1_name
+msgid "パワフルな運転手だよ！"
+msgstr "パワフルな運転手だよ！"
+
+#. holomem:hSD10-005:keyword_name
+msgid "FLOW GLOWのDJ兼運転手担当"
+msgstr "FLOW GLOWのDJ兼運転手担当"
+
+#. holomem:hSD10-005:arts_1_name
+msgid "行きます！！！！"
+msgstr "行きます！！！！"
+
+#. holomem:hSD10-008:keyword_name
+msgid "FLOW GLOWのメイク担当"
+msgstr "FLOW GLOWのメイク担当"
+
+#. holomem:hSD10-008:arts_1_name
+msgid "そこに愛はあるんや！"
+msgstr "そこに愛はあるんや！"
+
+#. holomem:hSD11-003:arts_1_name
+msgid "にこと出会えたの何かのキセキ"
+msgstr "にこと出会えたの何かのキセキ"
+
+#. holomem:hSD11-003:arts_2_name
+msgid "期待せよ 牙で噛まれちゃうシゲキ"
+msgstr "期待せよ 牙で噛まれちゃうシゲキ"
+
+#. holomem:hSD11-004:keyword_name
+msgid "人を笑顔にするためならば"
+msgstr "人を笑顔にするためならば"
+
+#. holomem:hSD11-004:arts_1_name
+msgid "自分の人生すらも捧げられる"
+msgstr "自分の人生すらも捧げられる"
+
+#. holomem:hSD11-005:keyword_name
+msgid "FLOW GLOWのお笑い担当"
+msgstr "FLOW GLOWのお笑い担当"
+
+#. holomem:hSD11-005:arts_1_name
+msgid "百折不撓"
+msgstr "百折不撓"
+
+#. holomem:hSD12-006:arts_1_name
+msgid "初歩的なことよ"
+msgstr "初歩的なことよ"
+
+#. holomem:hSD12-013:keyword_name
+msgid "ハッピー☆パピー -MOCOCO-"
+msgstr "ハッピー☆パピー -MOCOCO-"
+
+#. holomem:hSD12-013:arts_1_name
+msgid "ほんまにほんま～！！"
+msgstr "ほんまにほんま～！！"
+
+#. holomem:hSD12-004:arts_1_name
+msgid "不穏な忠告"
+msgstr "不穏な忠告"
+
+#. holomem:hSD12-005:keyword_name
+msgid "『異世界への旅立ちと幸せ』"
+msgstr "『異世界への旅立ちと幸せ』"
+
+#. holomem:hSD12-005:arts_1_name
+msgid "車窓から見える星がとてもきれいよ"
+msgstr "車窓から見える星がとてもきれいよ"
+
+#. holomem:hSD12-014:keyword_name
+msgid "ハッピー☆パピー -FUWAWA-"
+msgstr "ハッピー☆パピー -FUWAWA-"
+
+#. holomem:hSD12-014:arts_1_name
+msgid "ほんまにほんまだよ！"
+msgstr "ほんまにほんまだよ！"
+
+#. holomem:hSD12-009:keyword_name
+msgid "賑やかな家族"
+msgstr "賑やかな家族"
+
+#. holomem:hSD12-009:arts_1_name
+msgid "とっても感謝してるの"
+msgstr "とっても感謝してるの"
+
+#. holomem:hSD12-010:arts_1_name
+msgid "滲んでいく輝き"
+msgstr "滲んでいく輝き"
+
+#. holomem:hSD12-012:arts_1_name
+msgid "綾なす想いは、儚きブルー"
+msgstr "綾なす想いは、儚きブルー"
+
+#. holomem:hSD13-004:arts_1_name
+msgid "薔薇は赤い"
+msgstr "薔薇は赤い"
+
+#. holomem:hSD13-004:arts_2_name
+msgid "私の心の炎は青い"
+msgstr "私の心の炎は青い"
+
+#. holomem:hSD13-006:arts_1_name
+msgid "守護るべきもの"
+msgstr "守護るべきもの"
+
+#. holomem:hSD13-009:keyword_name
+msgid "イタズラ増殖！"
+msgstr "イタズラ増殖！"
+
+#. holomem:hSD13-010:arts_1_name
+msgid "周囲の頭痛の種"
+msgstr "周囲の頭痛の種"
+
+#. holomem:hSD13-010:arts_2_name
+msgid "悪戯好きのグレムリン"
+msgstr "悪戯好きのグレムリン"
+
+#. holomem:hSD13-011:arts_1_name
+msgid "すべての意味を追い求めて"
+msgstr "すべての意味を追い求めて"
+
+#. holomem:hSD13-012:keyword_name
+msgid "ご苦労さん！"
+msgstr "ご苦労さん！"
+
+#. holomem:hSD13-012:arts_1_name
+msgid "負けるわけにはいかない"
+msgstr "負けるわけにはいかない"
+
+#. holomem:hSD13-014:keyword_name
+msgid "正義の旋律"
+msgstr "正義の旋律"
+
+#. holomem:hSD13-014:arts_1_name
+msgid "紅茶をどうぞ！"
+msgstr "紅茶をどうぞ！"
+
+#. holomem:hSD13-015:keyword_name
+msgid "正義の諧調"
+msgstr "正義の諧調"
+
+#. holomem:hSD13-015:arts_1_name
+msgid "コーヒーをどうぞ！"
+msgstr "コーヒーをどうぞ！"
+
+#. holomem:hSD14-002:arts_1_name
+msgid "はじまんぼう！"
+msgstr "はじまんぼう！"
+
+#. holomem:hSD14-003:arts_1_name
+msgid "今日もあなたのそばに -フブキ-"
+msgstr "今日もあなたのそばに -フブキ-"
+
+#. holomem:hSD14-004:keyword_name
+msgid "白上のとこにおいでー"
+msgstr "白上のとこにおいでー"
+
+#. holomem:hSD14-004:arts_1_name
+msgid "ハイ　フレンズ！"
+msgstr "ハイ　フレンズ！"
+
+#. holomem:hSD14-005:keyword_name
+msgid "いっちにー、さんしー"
+msgstr "いっちにー、さんしー"
+
+#. holomem:hSD14-005:arts_1_name
+msgid "いつでもいけるよ！"
+msgstr "いつでもいけるよ！"
+
+#. holomem:hSD14-006:arts_1_name
+msgid "ようやくキミに会えた！！！"
+msgstr "ようやくキミに会えた！！！"
+
+#. holomem:hSD14-006:arts_2_name
+msgid "キラキラなきーつね！"
+msgstr "キラキラなきーつね！"
+
+#. holomem:hSD14-007:keyword_name
+msgid "Message for You -フブキ-"
+msgstr "Message for You -フブキ-"
+
+#. holomem:hSD14-007:arts_1_name
+msgid "あーまいーこのきーもちー"
+msgstr "あーまいーこのきーもちー"
+
+#. holomem:hSD14-008:keyword_name
+msgid "大丈夫ですよ！"
+msgstr "大丈夫ですよ！"
+
+#. holomem:hSD14-008:arts_1_name
+msgid "一緒に行こう(??????)??"
+msgstr "一緒に行こう(??????)??"
+
+#. holomem:hSD14-009:keyword_name
+msgid "私は倒れちゃいけないな"
+msgstr "私は倒れちゃいけないな"
+
+#. holomem:hSD14-009:arts_1_name
+msgid "胸を張って歌い続けるよ"
+msgstr "胸を張って歌い続けるよ"
+
+#. holomem:hSD15-002:arts_1_name
+msgid "寄ってらっしゃい見てらっしゃい"
+msgstr "寄ってらっしゃい見てらっしゃい"
+
+#. holomem:hSD15-003:arts_1_name
+msgid "今日もあなたのそばに -らでん-"
+msgstr "今日もあなたのそばに -らでん-"
+
+#. holomem:hSD15-004:keyword_name
+msgid "一服朝っぱらでん"
+msgstr "一服朝っぱらでん"
+
+#. holomem:hSD15-004:arts_1_name
+msgid "散歩でもいかがですかな？"
+msgstr "散歩でもいかがですかな？"
+
+#. holomem:hSD15-005:keyword_name
+msgid "体力作り頑張るぞー！！！！！"
+msgstr "体力作り頑張るぞー！！！！！"
+
+#. holomem:hSD15-005:arts_1_name
+msgid "そろそろ始めちゃいますか"
+msgstr "そろそろ始めちゃいますか"
+
+#. holomem:hSD15-006:arts_1_name
+msgid "世界を彩る -らでん-"
+msgstr "世界を彩る -らでん-"
+
+#. holomem:hSD15-006:arts_2_name
+msgid "ちょいと一席付き合ってみませんか？"
+msgstr "ちょいと一席付き合ってみませんか？"
+
+#. holomem:hSD15-007:keyword_name
+msgid "旅の前日"
+msgstr "旅の前日"
+
+#. holomem:hSD15-007:arts_1_name
+msgid "この博物館おもしろそう！"
+msgstr "この博物館おもしろそう！"
+
+#. holomem:hSD15-008:keyword_name
+msgid "薄明"
+msgstr "薄明"
+
+#. holomem:hSD15-008:arts_1_name
+msgid "きのこ狩り"
+msgstr "きのこ狩り"
+
+#. holomem:hSD15-009:keyword_name
+msgid "ザ・破天荒"
+msgstr "ザ・破天荒"
+
+#. holomem:hSD15-009:arts_1_name
+msgid "伝統と革新をあなたに"
+msgstr "伝統と革新をあなたに"
+
+#. holomem:hSD16-002:arts_1_name
+msgid "さくらみこだよ～"
+msgstr "さくらみこだよ～"
+
+#. holomem:hSD16-003:arts_1_name
+msgid "エリート巫女アイドル！ さくらみこだよ～"
+msgstr "エリート巫女アイドル！ さくらみこだよ～"
+
+#. holomem:hSD16-004:keyword_name
+msgid "後攻なんですｹｰﾄﾞ"
+msgstr "後攻なんですｹｰﾄﾞ"
+
+#. holomem:hSD16-004:arts_1_name
+msgid "でゃまれ！"
+msgstr "でゃまれ！"
+
+#. holomem:hSD16-005:arts_1_name
+msgid "桜風ランニング"
+msgstr "桜風ランニング"
+
+#. holomem:hSD16-006:arts_1_name
+msgid "みんなみててにぇ"
+msgstr "みんなみててにぇ"
+
+#. holomem:hSD16-006:arts_2_name
+msgid "いっくぞぉおおおお"
+msgstr "いっくぞぉおおおお"
+
+#. holomem:hSD16-007:keyword_name
+msgid "みこの膝にごろーんってして"
+msgstr "みこの膝にごろーんってして"
+
+#. holomem:hSD16-007:arts_1_name
+msgid "みこの耳かきスキルに蕩けちゃえ"
+msgstr "みこの耳かきスキルに蕩けちゃえ"
+
+#. holomem:hSD16-008:keyword_name
+msgid "待ってたにぇ"
+msgstr "待ってたにぇ"
+
+#. holomem:hSD16-008:arts_1_name
+msgid "いっぱい遊ぼっ"
+msgstr "いっぱい遊ぼっ"
+
+#. holomem:hSD16-009:keyword_name
+msgid "35P、ありがとうだよー！"
+msgstr "35P、ありがとうだよー！"
+
+#. holomem:hSD16-009:arts_1_name
+msgid "この瞬間を見せてあげたいなって"
+msgstr "この瞬間を見せてあげたいなって"
+
+#. holomem:hSD17-002:arts_1_name
+msgid "バーチャルアイドル・星街すいせい"
+msgstr "バーチャルアイドル・星街すいせい"
+
+#. holomem:hSD17-003:arts_1_name
+msgid "今日もあなたのそばに -すいせい-"
+msgstr "今日もあなたのそばに -すいせい-"
+
+#. holomem:hSD17-004:keyword_name
+msgid "ファーストスター"
+msgstr "ファーストスター"
+
+#. holomem:hSD17-004:arts_1_name
+msgid "私だけの輝き"
+msgstr "私だけの輝き"
+
+#. holomem:hSD17-005:arts_1_name
+msgid "よーし、レッスン開始だー！"
+msgstr "よーし、レッスン開始だー！"
+
+#. holomem:hSD17-006:arts_1_name
+msgid "そろそろ始まるよ！"
+msgstr "そろそろ始まるよ！"
+
+#. holomem:hSD17-006:arts_2_name
+msgid "みんな準備はできてる？"
+msgstr "みんな準備はできてる？"
+
+#. holomem:hSD17-007:keyword_name
+msgid "Message for You -すいせい-"
+msgstr "Message for You -すいせい-"
+
+#. holomem:hSD17-007:arts_1_name
+msgid "バレンタイン……か……"
+msgstr "バレンタイン……か……"
+
+#. holomem:hSD17-008:keyword_name
+msgid "明日への歌"
+msgstr "明日への歌"
+
+#. holomem:hSD17-008:arts_1_name
+msgid "あなたの一番星"
+msgstr "あなたの一番星"
+
+#. holomem:hSD17-009:keyword_name
+msgid "踊ったもん勝ち！"
+msgstr "踊ったもん勝ち！"
+
+#. holomem:hSD17-009:arts_1_name
+msgid "キラキラの向こう側へ"
+msgstr "キラキラの向こう側へ"
+
+#. holomem:hSD18-003:arts_1_name
+msgid "今日もあなたのそばに -カリオペ-"
+msgstr "今日もあなたのそばに -カリオペ-"
+
+#. holomem:hSD18-004:keyword_name
+msgid "みーなさんっ"
+msgstr "みーなさんっ"
+
+#. holomem:hSD18-004:arts_1_name
+msgid "あたためて貰えますか…？"
+msgstr "あたためて貰えますか…？"
+
+#. holomem:hSD18-005:keyword_name
+msgid "死神式ストレッチ"
+msgstr "死神式ストレッチ"
+
+#. holomem:hSD18-005:arts_1_name
+msgid "一緒に、どう？"
+msgstr "一緒に、どう？"
+
+#. holomem:hSD18-006:arts_1_name
+msgid "これから、頑張る。"
+msgstr "これから、頑張る。"
+
+#. holomem:hSD18-006:arts_2_name
+msgid "負けない。諦めない。"
+msgstr "負けない。諦めない。"
+
+#. holomem:hSD18-007:keyword_name
+msgid "ちょっとした特別なプレゼント"
+msgstr "ちょっとした特別なプレゼント"
+
+#. holomem:hSD18-007:arts_1_name
+msgid "手伝ってもらって助かるよ"
+msgstr "手伝ってもらって助かるよ"
+
+#. holomem:hSD18-008:keyword_name
+msgid "ロックンロールリッパー"
+msgstr "ロックンロールリッパー"
+
+#. holomem:hSD18-008:arts_1_name
+msgid "OK、もう一曲行こう！"
+msgstr "OK、もう一曲行こう！"
+
+#. holomem:hSD18-009:keyword_name
+msgid "ペイルライダー"
+msgstr "ペイルライダー"
+
+#. holomem:hSD18-009:arts_1_name
+msgid "刻むぞ冥界のビート"
+msgstr "刻むぞ冥界のビート"
+
+#. holomem:hSD19-002:arts_1_name
+msgid "あじまるあじまる～"
+msgstr "あじまるあじまる～"
+
+#. holomem:hSD19-003:arts_1_name
+msgid "今日もあなたのそばに -スバル-"
+msgstr "今日もあなたのそばに -スバル-"
+
+#. holomem:hSD19-004:keyword_name
+msgid "大空スマイル"
+msgstr "大空スマイル"
+
+#. holomem:hSD19-004:arts_1_name
+msgid "しゅばぁ"
+msgstr "しゅばぁ"
+
+#. holomem:hSD19-005:keyword_name
+msgid "ダンスレッスンなんですｹｰﾄﾞ"
+msgstr "ダンスレッスンなんですｹｰﾄﾞ"
+
+#. holomem:hSD19-005:arts_1_name
+msgid "いっちにー、ホワッ、ホワッ！"
+msgstr "いっちにー、ホワッ、ホワッ！"
+
+#. holomem:hSD19-006:arts_1_name
+msgid "いっぱい頑張る！"
+msgstr "いっぱい頑張る！"
+
+#. holomem:hSD19-006:arts_2_name
+msgid "いっぱい楽しむ！"
+msgstr "いっぱい楽しむ！"
+
+#. holomem:hSD19-007:keyword_name
+msgid "青春エール"
+msgstr "青春エール"
+
+#. holomem:hSD19-007:arts_1_name
+msgid "忘れてなんかやるもんか"
+msgstr "忘れてなんかやるもんか"
+
+#. holomem:hSD19-008:arts_1_name
+msgid "萌え萌えギュン"
+msgstr "萌え萌えギュン"
+
+#. holomem:hSD19-009:arts_1_name
+msgid "ダンシング・プレアデス"
+msgstr "ダンシング・プレアデス"
+
+#. oshi:hBP01-001:skill_oshi_name
+msgid "ぎゅっぎゅっ"
+msgstr "ぎゅっぎゅっ"
+
+#. oshi:hBP01-001:skill_sp_name
+msgid "握りつぶしちゃうぞ"
+msgstr "握りつぶしちゃうぞ"
+
+#. oshi:hBP01-002:skill_oshi_name
+msgid "文明の守護者"
+msgstr "文明の守護者"
+
+#. oshi:hBP01-002:skill_sp_name
+msgid "アメイジング・ドローイング"
+msgstr "アメイジング・ドローイング"
+
+#. oshi:hBP01-003:skill_oshi_name
+msgid "サバイバルパワー"
+msgstr "サバイバルパワー"
+
+#. oshi:hBP01-003:skill_sp_name
+msgid "大地の唄"
+msgstr "大地の唄"
+
+#. oshi:hBP01-004:skill_oshi_name
+msgid "野兎たち～"
+msgstr "野兎たち～"
+
+#. oshi:hBP01-004:skill_sp_name
+msgid "幸運兎"
+msgstr "幸運兎"
+
+#. oshi:hBP01-005:skill_oshi_name
+msgid "女幹部の采配"
+msgstr "女幹部の采配"
+
+#. oshi:hBP01-005:skill_sp_name
+msgid "ホークアイ"
+msgstr "ホークアイ"
+
+#. oshi:hBP01-006:skill_oshi_name
+msgid "フェニックステール"
+msgstr "フェニックステール"
+
+#. oshi:hBP01-007:skill_oshi_name
+msgid "ほうき星"
+msgstr "ほうき星"
+
+#. oshi:hBP01-007:skill_sp_name
+msgid "シューティングスター"
+msgstr "シューティングスター"
+
+#. oshi:hBP01-008:skill_oshi_name
+msgid "レイン・シャーマニズム"
+msgstr "レイン・シャーマニズム"
+
+#. oshi:hBP01-008:skill_sp_name
+msgid "雨乞い"
+msgstr "雨乞い"
+
+#. oshi:hBP02-001:skill_oshi_name
+msgid "マスコット創造"
+msgstr "マスコット創造"
+
+#. oshi:hBP02-001:skill_sp_name
+msgid "フブキングダム"
+msgstr "フブキングダム"
+
+#. oshi:hBP02-002:skill_sp_name
+msgid "極彩色の宴"
+msgstr "極彩色の宴"
+
+#. oshi:hBP02-003:skill_sp_name
+msgid "出航～！"
+msgstr "出航～！"
+
+#. oshi:hBP02-004:skill_oshi_name
+msgid "ぽえぽえぽえ～"
+msgstr "ぽえぽえぽえ～"
+
+#. oshi:hBP02-004:skill_sp_name
+msgid "人生リセットボタン"
+msgstr "人生リセットボタン"
+
+#. oshi:hBP02-005:skill_oshi_name
+msgid "ねえ゛え゛え゛え゛え゛え゛え゛"
+msgstr "ねえ゛え゛え゛え゛え゛え゛え゛"
+
+#. oshi:hBP02-005:skill_sp_name
+msgid "シオンのすごい魔法"
+msgstr "シオンのすごい魔法"
+
+#. oshi:hBP02-006:skill_oshi_name
+msgid "ゾンビ戦術"
+msgstr "ゾンビ戦術"
+
+#. oshi:hBP02-006:skill_sp_name
+msgid "蘇るオリー"
+msgstr "蘇るオリー"
+
+#. oshi:hBP02-007:skill_oshi_name
+msgid "サンプリング"
+msgstr "サンプリング"
+
+#. oshi:hBP02-007:skill_sp_name
+msgid "死神ラップ"
+msgstr "死神ラップ"
+
+#. oshi:hBP03-001:skill_oshi_name
+msgid "パソコンならわかるのら"
+msgstr "パソコンならわかるのら"
+
+#. oshi:hBP03-001:skill_sp_name
+msgid "ルーナイト集合"
+msgstr "ルーナイト集合"
+
+#. oshi:hBP03-002:skill_sp_name
+msgid "狙撃"
+msgstr "狙撃"
+
+#. oshi:hBP03-003:skill_oshi_name
+msgid "35P帰ってくるのかッ！？って！"
+msgstr "35P帰ってくるのかッ！？って！"
+
+#. oshi:hBP03-003:skill_sp_name
+msgid "あきらめない心にぇ"
+msgstr "あきらめない心にぇ"
+
+#. oshi:hBP03-004:skill_oshi_name
+msgid "モコちゃん！"
+msgstr "モコちゃん！"
+
+#. oshi:hBP03-005:skill_oshi_name
+msgid "デビルズヴォイス"
+msgstr "デビルズヴォイス"
+
+#. oshi:hBP03-005:skill_sp_name
+msgid "悪魔的所業"
+msgstr "悪魔的所業"
+
+#. oshi:hBP03-006:skill_oshi_name
+msgid "無限の体力"
+msgstr "無限の体力"
+
+#. oshi:hBP03-006:skill_sp_name
+msgid "ウォウウォウウォウウォウ"
+msgstr "ウォウウォウウォウウォウ"
+
+#. oshi:hBP03-007:skill_oshi_name
+msgid "Member sheep いらっしゃい！"
+msgstr "Member sheep いらっしゃい！"
+
+#. oshi:hBP03-007:skill_sp_name
+msgid "わためは悪くないよねぇ？"
+msgstr "わためは悪くないよねぇ？"
+
+#. oshi:hBP03-008:skill_oshi_name
+msgid "ホロライブID一家"
+msgstr "ホロライブID一家"
+
+#. oshi:hBP03-008:skill_sp_name
+msgid "がんばり～リス！"
+msgstr "がんばり～リス！"
+
+#. oshi:hBP04-001:skill_oshi_name
+msgid "こより実験中"
+msgstr "こより実験中"
+
+#. oshi:hBP04-001:skill_sp_name
+msgid "助手くん、んーまっ！"
+msgstr "助手くん、んーまっ！"
+
+#. oshi:hBP04-002:skill_oshi_name
+msgid "ReGLOSSの風流人"
+msgstr "ReGLOSSの風流人"
+
+#. oshi:hBP04-002:skill_sp_name
+msgid "余った時間でぐるぐる"
+msgstr "余った時間でぐるぐる"
+
+#. oshi:hBP04-003:skill_oshi_name
+msgid "Reach the top！"
+msgstr "Reach the top！"
+
+#. oshi:hBP04-003:skill_sp_name
+msgid "かわいい！ ポジティブ！ ジーニアス！"
+msgstr "かわいい！ ポジティブ！ ジーニアス！"
+
+#. oshi:hBP04-004:skill_oshi_name
+msgid "愛してる"
+msgstr "愛してる"
+
+#. oshi:hBP04-004:skill_sp_name
+msgid "ぶーん、バリバリバリバリ"
+msgstr "ぶーん、バリバリバリバリ"
+
+#. oshi:hBP04-005:skill_oshi_name
+msgid "総帥のお仕事"
+msgstr "総帥のお仕事"
+
+#. oshi:hBP04-005:skill_sp_name
+msgid "我ら秘密結社holoX！"
+msgstr "我ら秘密結社holoX！"
+
+#. oshi:hBP04-006:skill_oshi_name
+msgid "メンタル！ フィジカル！ パッション！"
+msgstr "メンタル！ フィジカル！ パッション！"
+
+#. oshi:hBP04-006:skill_sp_name
+msgid "リアクション芸"
+msgstr "リアクション芸"
+
+#. oshi:hBP04-007:skill_oshi_name
+msgid "神秘の儀式"
+msgstr "神秘の儀式"
+
+#. oshi:hBP04-007:skill_sp_name
+msgid "人生のこと考えていた方が勝てる"
+msgstr "人生のこと考えていた方が勝てる"
+
+#. oshi:hBP05-001:skill_oshi_name
+msgid "白銀の騎士達"
+msgstr "白銀の騎士達"
+
+#. oshi:hBP05-001:skill_sp_name
+msgid "スーパーまずった太郎"
+msgstr "スーパーまずった太郎"
+
+#. oshi:hBP05-003:skill_oshi_name
+msgid "ポルカの伝説"
+msgstr "ポルカの伝説"
+
+#. oshi:hBP05-003:skill_sp_name
+msgid "成功体験－！！！"
+msgstr "成功体験－！！！"
+
+#. oshi:hBP05-004:skill_oshi_name
+msgid "いっくよー"
+msgstr "いっくよー"
+
+#. oshi:hBP05-004:skill_sp_name
+msgid "ウマウマ！"
+msgstr "ウマウマ！"
+
+#. oshi:hBP05-005:skill_oshi_name
+msgid "ちょこまみれになっちゃえっ！"
+msgstr "ちょこまみれになっちゃえっ！"
+
+#. oshi:hBP05-005:skill_sp_name
+msgid "ちょこっとクッキング"
+msgstr "ちょこっとクッキング"
+
+#. oshi:hBP05-007:skill_oshi_name
+msgid "キミの力になりたいから"
+msgstr "キミの力になりたいから"
+
+#. oshi:hBP05-007:skill_sp_name
+msgid "みんなで盛り上がろう！"
+msgstr "みんなで盛り上がろう！"
+
+#. oshi:hBP06-001:skill_oshi_name
+msgid "BIG CAT means…"
+msgstr "BIG CAT means…"
+
+#. oshi:hBP06-002:skill_oshi_name
+msgid "やりたいように、私は私らしく"
+msgstr "やりたいように、私は私らしく"
+
+#. oshi:hBP06-002:skill_sp_name
+msgid "生き抜いていくんです！"
+msgstr "生き抜いていくんです！"
+
+#. oshi:hBP06-003:skill_oshi_name
+msgid "迷ったらまず実行！"
+msgstr "迷ったらまず実行！"
+
+#. oshi:hBP06-003:skill_sp_name
+msgid "アルティメットつよつよござる"
+msgstr "アルティメットつよつよござる"
+
+#. oshi:hBP06-004:skill_oshi_name
+msgid "鬼閻魔"
+msgstr "鬼閻魔"
+
+#. oshi:hBP06-004:skill_sp_name
+msgid "二刀一閃！ 鬼神斬り"
+msgstr "二刀一閃！ 鬼神斬り"
+
+#. oshi:hBP06-005:skill_oshi_name
+msgid "混沌の化身"
+msgstr "混沌の化身"
+
+#. oshi:hBP06-006:skill_oshi_name
+msgid "満月の輝き"
+msgstr "満月の輝き"
+
+#. oshi:hBP06-006:skill_sp_name
+msgid "双月の斉唱"
+msgstr "双月の斉唱"
+
+#. oshi:hBP06-007:skill_oshi_name
+msgid "PONじゃないもん！！"
+msgstr "PONじゃないもん！！"
+
+#. oshi:hBP06-007:skill_sp_name
+msgid "ボクの『高性能っぷり』を堪能してよね♡"
+msgstr "ボクの『高性能っぷり』を堪能してよね♡"
+
+#. oshi:hBP06-008:skill_oshi_name
+msgid "おまつりわっしょーい！！！"
+msgstr "おまつりわっしょーい！！！"
+
+#. oshi:hBP06-008:skill_sp_name
+msgid "絶対勝ちたい！！！！！！！"
+msgstr "絶対勝ちたい！！！！！！！"
+
+#. oshi:hBP07-001:skill_stage_name
+msgid "ドドドライブ"
+msgstr "ドドドライブ"
+
+#. oshi:hBP07-001:skill_oshi_name
+msgid "角ドリルしたろか？"
+msgstr "角ドリルしたろか？"
+
+#. oshi:hBP07-002:skill_sp_name
+msgid "不可能なんてないんだから！"
+msgstr "不可能なんてないんだから！"
+
+#. oshi:hBP07-003:skill_oshi_name
+msgid "神札の導き"
+msgstr "神札の導き"
+
+#. oshi:hBP07-003:skill_sp_name
+msgid "みんなのママ"
+msgstr "みんなのママ"
+
+#. oshi:hBP07-004:skill_stage_name
+msgid "はあちゃまなう"
+msgstr "はあちゃまなう"
+
+#. oshi:hBP07-004:skill_oshi_name
+msgid "ワールドワイドな最強アイドル！"
+msgstr "ワールドワイドな最強アイドル！"
+
+#. oshi:hBP07-005:skill_oshi_name
+msgid "忘却の輪の上で"
+msgstr "忘却の輪の上で"
+
+#. oshi:hBP07-005:skill_sp_name
+msgid "時間の典獄"
+msgstr "時間の典獄"
+
+#. oshi:hBP07-006:skill_oshi_name
+msgid "行くよ、開拓者。"
+msgstr "行くよ、開拓者。"
+
+#. oshi:hBP07-007:skill_oshi_name
+msgid "スーパーねぽらぼエナジー"
+msgstr "スーパーねぽらぼエナジー"
+
+#. oshi:hBP07-007:skill_sp_name
+msgid "ねねちの大・暴・走！"
+msgstr "ねねちの大・暴・走！"
+
+#. oshi:hBD24-004:skill_oshi_name
+#. oshi:hBD24-005:skill_oshi_name
+#. oshi:hBD24-008:skill_oshi_name
+#. ... and 8 more
+msgid "ホワイトエンハンス"
+msgstr "ホワイトエンハンス"
+
+#. oshi:hBD24-001:skill_oshi_name
+#. oshi:hBD24-002:skill_oshi_name
+#. oshi:hBD24-009:skill_oshi_name
+#. ... and 8 more
+msgid "グリーンエンハンス"
+msgstr "グリーンエンハンス"
+
+#. oshi:hBD24-015:skill_oshi_name
+#. oshi:hBD24-019:skill_oshi_name
+#. oshi:hBD24-021:skill_oshi_name
+#. ... and 9 more
+msgid "レッドエンハンス"
+msgstr "レッドエンハンス"
+
+#. oshi:hBD24-010:skill_oshi_name
+#. oshi:hBD24-014:skill_oshi_name
+#. oshi:hBD24-016:skill_oshi_name
+#. ... and 8 more
+msgid "ブルーエンハンス"
+msgstr "ブルーエンハンス"
+
+#. oshi:hBD24-006:skill_oshi_name
+#. oshi:hBD24-011:skill_oshi_name
+#. oshi:hBD24-013:skill_oshi_name
+#. ... and 8 more
+msgid "パープルエンハンス"
+msgstr "パープルエンハンス"
+
+#. oshi:hBD24-003:skill_oshi_name
+#. oshi:hBD24-007:skill_oshi_name
+#. oshi:hBD24-018:skill_oshi_name
+#. ... and 8 more
+msgid "イエローエンハンス"
+msgstr "イエローエンハンス"
+
+#. oshi:hSD01-001:skill_oshi_name
+msgid "リプレイスメント"
+msgstr "リプレイスメント"
+
+#. oshi:hSD01-001:skill_sp_name
+msgid "じゃあ敵だね？"
+msgstr "じゃあ敵だね？"
+
+#. oshi:hSD01-002:skill_oshi_name
+msgid "左手に地図"
+msgstr "左手に地図"
+
+#. oshi:hSD01-002:skill_sp_name
+msgid "右手にマイク"
+msgstr "右手にマイク"
+
+#. oshi:hSD02-001:skill_oshi_name
+#. oshi:hSD09-001:skill_oshi_name
+msgid "レッドマイク"
+msgstr "レッドマイク"
+
+#. oshi:hSD02-001:skill_sp_name
+#. oshi:hSD09-001:skill_sp_name
+#. oshi:hYS01-003:skill_sp_name
+msgid "さあ！もう一度！"
+msgstr "さあ！もう一度！"
+
+#. oshi:hSD03-001:skill_oshi_name
+msgid "ブルーマイク"
+msgstr "ブルーマイク"
+
+#. oshi:hSD03-001:skill_sp_name
+#. oshi:hYS01-004:skill_sp_name
+msgid "バックショット"
+msgstr "バックショット"
+
+#. oshi:hSD04-001:skill_oshi_name
+msgid "パープルマイク"
+msgstr "パープルマイク"
+
+#. oshi:hSD04-001:skill_sp_name
+msgid "カードチェンジ"
+msgstr "カードチェンジ"
+
+#. oshi:hSD05-001:skill_oshi_name
+#. oshi:hSD08-001:skill_oshi_name
+msgid "ホワイトマイク"
+msgstr "ホワイトマイク"
+
+#. oshi:hSD05-001:skill_sp_name
+#. oshi:hSD08-001:skill_sp_name
+#. oshi:hYS01-001:skill_sp_name
+msgid "クイックガード"
+msgstr "クイックガード"
+
+#. oshi:hSD06-001:skill_oshi_name
+msgid "グリーンマイク"
+msgstr "グリーンマイク"
+
+#. oshi:hSD06-001:skill_sp_name
+#. oshi:hYS01-002:skill_sp_name
+msgid "みんな頑張ろー！"
+msgstr "みんな頑張ろー！"
+
+#. oshi:hSD07-001:skill_oshi_name
+msgid "イエローマイク"
+msgstr "イエローマイク"
+
+#. oshi:hSD07-001:skill_sp_name
+msgid "後は引き受けた！"
+msgstr "後は引き受けた！"
+
+#. oshi:hSD10-001:skill_oshi_name
+msgid "エンジン全開！レッツゴー！"
+msgstr "エンジン全開！レッツゴー！"
+
+#. oshi:hSD10-001:skill_sp_name
+msgid "向こう側の景色を見に行かない？"
+msgstr "向こう側の景色を見に行かない？"
+
+#. oshi:hSD11-001:skill_oshi_name
+msgid "虎視眈々"
+msgstr "虎視眈々"
+
+#. oshi:hSD11-001:skill_sp_name
+msgid "ニコたんの名を呼ぶがいいさ！"
+msgstr "ニコたんの名を呼ぶがいいさ！"
+
+#. oshi:hSD12-001:skill_oshi_name
+msgid "収集家"
+msgstr "収集家"
+
+#. oshi:hSD12-001:skill_sp_name
+msgid "リベリオン"
+msgstr "リベリオン"
+
+#. oshi:hSD12-002:skill_sp_name
+msgid "古代魔石の輝き"
+msgstr "古代魔石の輝き"
+
+#. oshi:hSD13-001:skill_oshi_name
+msgid "秩序の先駆者"
+msgstr "秩序の先駆者"
+
+#. oshi:hSD13-002:skill_sp_name
+msgid "自由奔放な『追跡者』"
+msgstr "自由奔放な『追跡者』"
+
+#. oshi:hSD14-001:skill_oshi_name
+msgid "みんな一緒にいくぞぉおっ"
+msgstr "みんな一緒にいくぞぉおっ"
+
+#. oshi:hSD14-001:skill_sp_name
+msgid "マスコッツ、アッセンブル!!"
+msgstr "マスコッツ、アッセンブル!!"
+
+#. oshi:hSD15-001:skill_oshi_name
+msgid "ちょっとまつたけ～♪"
+msgstr "ちょっとまつたけ～♪"
+
+#. oshi:hSD15-001:skill_sp_name
+msgid "あなたの世界を広げに行こう"
+msgstr "あなたの世界を広げに行こう"
+
+#. oshi:hSD16-001:skill_oshi_name
+msgid "35Pこっちこっちー"
+msgstr "35Pこっちこっちー"
+
+#. oshi:hSD16-001:skill_sp_name
+msgid "35Pいくぞー！"
+msgstr "35Pいくぞー！"
+
+#. oshi:hSD17-001:skill_oshi_name
+msgid "張り切ってがんばろーー!!!"
+msgstr "張り切ってがんばろーー!!!"
+
+#. oshi:hSD17-001:skill_sp_name
+msgid "流れ星"
+msgstr "流れ星"
+
+#. oshi:hSD18-001:skill_oshi_name
+msgid "ライミング"
+msgstr "ライミング"
+
+#. oshi:hSD18-001:skill_sp_name
+msgid "世界を繋げるラップ"
+msgstr "世界を繋げるラップ"
+
+#. oshi:hSD19-001:skill_oshi_name
+msgid "ごめんｹﾄﾞ"
+msgstr "ごめんｹﾄﾞ"
+
+#. oshi:hSD19-001:skill_sp_name
+msgid "おさんぽスバル"
+msgstr "おさんぽスバル"
+
+#. oshi:hYS01-001:skill_oshi_name
+msgid "ホワイトバトン"
+msgstr "ホワイトバトン"
+
+#. oshi:hYS01-002:skill_oshi_name
+msgid "グリーンバトン"
+msgstr "グリーンバトン"
+
+#. oshi:hYS01-003:skill_oshi_name
+msgid "レッドバトン"
+msgstr "レッドバトン"
+
+#. oshi:hYS01-004:skill_oshi_name
+msgid "ブルーバトン"
+msgstr "ブルーバトン"
+
+#. support:hBP01-102:name
+msgid "アイドルマイク"
+msgstr "アイドルマイク"
+
+#. support:hBP01-103:name
+msgid "ゲーミングパソコン"
+msgstr "ゲーミングパソコン"
+
+#. support:hBP01-109:name
+msgid "月と兎の物語"
+msgstr "月と兎の物語"
+
+#. support:hBP01-110:name
+msgid "鈍器でぶっ叩くわよ！"
+msgstr "鈍器でぶっ叩くわよ！"
+
+#. support:hBP01-111:name
+msgid "ホロライブインドネシア3期生"
+msgstr "ホロライブインドネシア3期生"
+
+#. support:hBP01-105:name
+msgid "ペンライト"
+msgstr "ペンライト"
+
+#. support:hBP01-108:name
+msgid "じゃあ敵だね"
+msgstr "じゃあ敵だね"
+
+#. support:hSD01-016:name
+msgid "春先のどか"
+msgstr "春先のどか"
+
+#. support:hSD01-019:name
+msgid "スゴイパソコン"
+msgstr "スゴイパソコン"
+
+#. support:hBP01-107:name
+msgid "アンコール"
+msgstr "アンコール"
+
+#. support:hBP01-112:name
+msgid "わくわくいたずらタイム"
+msgstr "わくわくいたずらタイム"
+
+#. support:hBP01-115:name
+msgid "星街すいせいのマイク"
+msgstr "星街すいせいのマイク"
+
+#. support:hBP01-117:name
+msgid "フレンド"
+msgstr "フレンド"
+
+#. support:hBP01-118:name
+msgid "あん肝"
+msgstr "あん肝"
+
+#. support:hBP01-119:name
+msgid "ジョブズ"
+msgstr "ジョブズ"
+
+#. support:hBP01-120:name
+msgid "がんも"
+msgstr "がんも"
+
+#. support:hBP01-122:name
+msgid "ロゼ隊"
+msgstr "ロゼ隊"
+
+#. support:hBP01-123:name
+msgid "野うさぎ同盟"
+msgstr "野うさぎ同盟"
+
+#. support:hBP01-104:name
+msgid "ふつうのパソコン"
+msgstr "ふつうのパソコン"
+
+#. support:hBP01-106:name
+msgid "あとは任せた！"
+msgstr "あとは任せた！"
+
+#. support:hBP01-114:name
+msgid "石の斧"
+msgstr "石の斧"
+
+#. support:hBP01-116:name
+msgid "うぱお"
+msgstr "うぱお"
+
+#. support:hBP01-124:name
+msgid "開拓者"
+msgstr "開拓者"
+
+#. support:hBP01-126:name
+msgid "座員"
+msgstr "座員"
+
+#. support:hSD01-020:name
+msgid "ホロリスの輪"
+msgstr "ホロリスの輪"
+
+#. support:hBP02-075:name
+msgid "アイドルサインペン"
+msgstr "アイドルサインペン"
+
+#. support:hBP02-077:name
+msgid "レトロパソコン"
+msgstr "レトロパソコン"
+
+#. support:hBP02-078:name
+msgid "かなた建設"
+msgstr "かなた建設"
+
+#. support:hBP02-080:name
+msgid "秘密結社holoX"
+msgstr "秘密結社holoX"
+
+#. support:hBP02-081:name
+msgid "ホロライブ インドネシア2期生"
+msgstr "ホロライブ インドネシア2期生"
+
+#. support:hBP02-082:name
+msgid "ホロライブゲーマーズ"
+msgstr "ホロライブゲーマーズ"
+
+#. support:hBP02-084:name
+msgid "みっころね24"
+msgstr "みっころね24"
+
+#. support:hBP02-076:name
+msgid "カスタムパソコン"
+msgstr "カスタムパソコン"
+
+#. support:hBP02-079:name
+msgid "爆発の魔法"
+msgstr "爆発の魔法"
+
+#. support:hBP02-083:name
+msgid "魔法のタンス"
+msgstr "魔法のタンス"
+
+#. support:hBP02-086:name
+msgid "ホロスパークリング"
+msgstr "ホロスパークリング"
+
+#. support:hBP02-087:name
+msgid "紫咲シオンの魔法のステッキ"
+msgstr "紫咲シオンの魔法のステッキ"
+
+#. support:hBP02-088:name
+msgid "森カリオペの鎌"
+msgstr "森カリオペの鎌"
+
+#. support:hBP02-089:tags
+#. support:hBP02-090:tags
+#. support:hBP02-091:tags
+#. ... and 7 more
+msgid "#白上'sキャラクター"
+msgstr "#白上'sキャラクター"
+
+#. support:hBP02-089:name
+msgid "おるやんけ"
+msgstr "おるやんけ"
+
+#. support:hBP02-090:name
+msgid "ネジマキツネ"
+msgstr "ネジマキツネ"
+
+#. support:hBP02-091:name
+msgid "フブチュン"
+msgstr "フブチュン"
+
+#. support:hBP02-092:name
+msgid "フブラ"
+msgstr "フブラ"
+
+#. support:hBP02-093:name
+msgid "ミテイル"
+msgstr "ミテイル"
+
+#. support:hBP02-095:name
+msgid "ドクロくん"
+msgstr "ドクロくん"
+
+#. support:hBP02-096:name
+msgid "イヌ"
+msgstr "イヌ"
+
+#. support:hBP02-099:name
+msgid "すこん部"
+msgstr "すこん部"
+
+#. support:hBP02-100:name
+msgid "白銀聖騎士団"
+msgstr "白銀聖騎士団"
+
+#. support:hBP02-101:name
+msgid "ミオファ"
+msgstr "ミオファ"
+
+#. support:hBP02-102:name
+msgid "塩っ子"
+msgstr "塩っ子"
+
+#. support:hBP03-084:name
+msgid "ゴージャスパソコン"
+msgstr "ゴージャスパソコン"
+
+#. support:hBP03-085:name
+msgid "スーパーパソコン"
+msgstr "スーパーパソコン"
+
+#. support:hBP03-086:name
+msgid "デュアルモニターパソコン"
+msgstr "デュアルモニターパソコン"
+
+#. support:hBP03-088:name
+msgid "凸待ち"
+msgstr "凸待ち"
+
+#. support:hBP03-089:name
+msgid "ファンミーティング"
+msgstr "ファンミーティング"
+
+#. support:hBP03-091:name
+msgid "ホロライブインドネシア1期生"
+msgstr "ホロライブインドネシア1期生"
+
+#. support:hBP03-092:name
+msgid "ホロライブ0期生"
+msgstr "ホロライブ0期生"
+
+#. support:hBP03-093:name
+msgid "ホロライブ4期生"
+msgstr "ホロライブ4期生"
+
+#. support:hBP03-094:name
+msgid "FPS配信"
+msgstr "FPS配信"
+
+#. support:hBP03-087:name
+msgid "コールアンドレスポンス"
+msgstr "コールアンドレスポンス"
+
+#. support:hBP03-090:name
+msgid "ホロライブ言えるかな？"
+msgstr "ホロライブ言えるかな？"
+
+#. support:hBP03-095:name
+msgid "ホロキャップ"
+msgstr "ホロキャップ"
+
+#. support:hBP03-096:name
+msgid "ライフル"
+msgstr "ライフル"
+
+#. support:hBP03-097:name
+msgid "リコーダー"
+msgstr "リコーダー"
+
+#. support:hBP03-098:name
+msgid "金時"
+msgstr "金時"
+
+#. support:hBP03-099:name
+msgid "マグチ"
+msgstr "マグチ"
+
+#. support:hBP03-100:name
+msgid "ペロ"
+msgstr "ペロ"
+
+#. support:hBP03-101:name
+msgid "ビビ"
+msgstr "ビビ"
+
+#. support:hBP03-102:name
+msgid "フトイヌ"
+msgstr "フトイヌ"
+
+#. support:hBP03-103:name
+msgid "ホソイヌ"
+msgstr "ホソイヌ"
+
+#. support:hBP03-105:name
+msgid "ルーナイト"
+msgstr "ルーナイト"
+
+#. support:hBP03-108:name
+msgid "はあとん"
+msgstr "はあとん"
+
+#. support:hBP03-110:name
+msgid "ろぼさー"
+msgstr "ろぼさー"
+
+#. support:hBP03-111:name
+msgid "ころねすきー"
+msgstr "ころねすきー"
+
+#. support:hBP03-112:name
+msgid "わためいと"
+msgstr "わためいと"
+
+#. support:hBP04-089:name
+msgid "ツートンカラーパソコン"
+msgstr "ツートンカラーパソコン"
+
+#. support:hBP04-090:name
+msgid "作業用パソコン"
+msgstr "作業用パソコン"
+
+#. support:hBP04-092:name
+msgid "ねぽらぼ"
+msgstr "ねぽらぼ"
+
+#. support:hBP04-093:name
+msgid "ホロライブ2期生"
+msgstr "ホロライブ2期生"
+
+#. support:hBP04-095:name
+msgid "マスコットキャッチャー"
+msgstr "マスコットキャッチャー"
+
+#. support:hSD01-017:name
+msgid "マネちゃん"
+msgstr "マネちゃん"
+
+#. support:hBP04-091:tags
+#. support:hBP05-075:tags
+#. support:hBP05-076:tags
+#. ... and 2 more
+msgid "#食べ物"
+msgstr "#食べ物"
+
+#. support:hBP04-091:name
+msgid "限界飯"
+msgstr "限界飯"
+
+#. support:hBP04-094:tags
+#. support:hBP06-087:tags
+#. support:hSD15-010:tags
+msgid "#きのこ"
+msgstr "#きのこ"
+
+#. support:hBP04-094:name
+msgid "まいたけダンス"
+msgstr "まいたけダンス"
+
+#. support:hBP04-097:tags
+#. support:hBP04-100:tags
+#. support:hBP04-105:tags
+msgid "#こよラボ"
+msgstr "#こよラボ"
+
+#. support:hBP04-097:name
+msgid "緑の試験管"
+msgstr "緑の試験管"
+
+#. support:hBP04-098:tags
+msgid "#カエラ'sアームズ"
+msgstr "#カエラ'sアームズ"
+
+#. support:hBP04-098:name
+msgid "鍛冶ハンマー"
+msgstr "鍛冶ハンマー"
+
+#. support:hBP04-099:name
+msgid "古代武器"
+msgstr "古代武器"
+
+#. support:hBP04-100:name
+msgid "ココロ"
+msgstr "ココロ"
+
+#. support:hBP04-101:name
+msgid "だいふく"
+msgstr "だいふく"
+
+#. support:hBP04-102:name
+msgid "やめなー"
+msgstr "やめなー"
+
+#. support:hBP04-103:name
+msgid "カラス"
+msgstr "カラス"
+
+#. support:hBP04-104:name
+msgid "スバルドダック"
+msgstr "スバルドダック"
+
+#. support:hBP04-105:name
+msgid "こよりの助手くん"
+msgstr "こよりの助手くん"
+
+#. support:hBP04-106:name
+msgid "雪民"
+msgstr "雪民"
+
+#. support:hBP05-077:name
+msgid "バカタレサーカス"
+msgstr "バカタレサーカス"
+
+#. support:hBP05-078:name
+msgid "晩酌配信"
+msgstr "晩酌配信"
+
+#. support:hBP05-079:name
+msgid "み俺恥"
+msgstr "み俺恥"
+
+#. support:hBP05-080:name
+msgid "SorAZセレブレーション"
+msgstr "SorAZセレブレーション"
+
+#. support:hBP05-074:name
+msgid "フレンドリーパソコン"
+msgstr "フレンドリーパソコン"
+
+#. support:hBP05-075:name
+msgid "牛丼"
+msgstr "牛丼"
+
+#. support:hBP05-076:name
+msgid "ちょこのビーフストロガノフ"
+msgstr "ちょこのビーフストロガノフ"
+
+#. support:hBP05-081:name
+msgid "白銀ノエルのメイス"
+msgstr "白銀ノエルのメイス"
+
+#. support:hBP05-082:name
+msgid "アキ・ローゼンタールの斧"
+msgstr "アキ・ローゼンタールの斧"
+
+#. support:hBP05-083:name
+msgid "ネリッサ・レイヴンクロフトの杖"
+msgstr "ネリッサ・レイヴンクロフトの杖"
+
+#. support:hBP05-084:name
+msgid "角巻わためのハープ"
+msgstr "角巻わためのハープ"
+
+#. support:hBP05-085:name
+msgid "みこだにぇー"
+msgstr "みこだにぇー"
+
+#. support:hBP06-085:name
+msgid "フェイバリットパソコン"
+msgstr "フェイバリットパソコン"
+
+#. support:hBP06-086:name
+msgid "愛情いっぱい召し上がれ♪"
+msgstr "愛情いっぱい召し上がれ♪"
+
+#. support:hBP06-088:name
+msgid "ドッキリうさぎ"
+msgstr "ドッキリうさぎ"
+
+#. support:hBP06-089:name
+msgid "ドローイングストリーム"
+msgstr "ドローイングストリーム"
+
+#. support:hBP06-090:name
+msgid "ブルームステージ"
+msgstr "ブルームステージ"
+
+#. support:hBP06-091:name
+msgid "ホロライブ1期生"
+msgstr "ホロライブ1期生"
+
+#. support:hBP06-093:name
+msgid "山田ルイ54世"
+msgstr "山田ルイ54世"
+
+#. support:hBP06-094:name
+msgid "ワークアウト"
+msgstr "ワークアウト"
+
+#. support:hBP06-096:name
+msgid "2人あわせてラムダック！"
+msgstr "2人あわせてラムダック！"
+
+#. support:hBP06-087:name
+msgid "しめじダンス"
+msgstr "しめじダンス"
+
+#. support:hBP06-092:name
+msgid "マヨネーズちゅっちゅっ"
+msgstr "マヨネーズちゅっちゅっ"
+
+#. support:hBP06-097:tags
+#. support:hBP07-101:tags
+msgid "#Buzzグッズ"
+msgstr "#Buzzグッズ"
+
+#. support:hBP06-097:name
+msgid "カワイイスタジャン"
+msgstr "カワイイスタジャン"
+
+#. support:hBP06-098:name
+msgid "鬼神刀「阿修羅」"
+msgstr "鬼神刀「阿修羅」"
+
+#. support:hBP06-099:name
+msgid "ゆび"
+msgstr "ゆび"
+
+#. support:hBP06-101:name
+msgid "ムーナびと"
+msgstr "ムーナびと"
+
+#. support:hBP06-102:name
+msgid "えびふらいおん"
+msgstr "えびふらいおん"
+
+#. support:hBP06-103:name
+msgid "まつりす"
+msgstr "まつりす"
+
+#. support:hBP06-104:name
+msgid "スバ友"
+msgstr "スバ友"
+
+#. support:hSD02-014:name
+msgid "ぽよ余"
+msgstr "ぽよ余"
+
+#. support:hBP07-092:name
+msgid "アーカイブパソコン"
+msgstr "アーカイブパソコン"
+
+#. support:hBP07-094:name
+msgid "ギリわるロボ"
+msgstr "ギリわるロボ"
+
+#. support:hBP07-095:name
+msgid "クロスインパクト"
+msgstr "クロスインパクト"
+
+#. support:hBP07-097:name
+msgid "時の支配者 -Promise-"
+msgstr "時の支配者 -Promise-"
+
+#. support:hBP07-098:name
+msgid "ビッグゴッドミオーンの占い"
+msgstr "ビッグゴッドミオーンの占い"
+
+#. support:hBP07-099:name
+msgid "ブヒー！"
+msgstr "ブヒー！"
+
+#. support:hBP07-091:name
+msgid "ライブスタッフ"
+msgstr "ライブスタッフ"
+
+#. support:hBP07-093:name
+msgid "うまみー！"
+msgstr "うまみー！"
+
+#. support:hBP07-096:name
+msgid "ちゃま旅"
+msgstr "ちゃま旅"
+
+#. support:hBP07-100:name
+msgid "フロンティアスピリット"
+msgstr "フロンティアスピリット"
+
+#. support:hBP07-101:name
+msgid "ASMRマイク"
+msgstr "ASMRマイク"
+
+#. support:hBP07-102:name
+msgid "角巻わためのハンマー"
+msgstr "角巻わためのハンマー"
+
+#. support:hBP07-103:name
+msgid "ギラファノコギリクワガタ"
+msgstr "ギラファノコギリクワガタ"
+
+#. support:hBP07-106:name
+msgid "ハトタウロス"
+msgstr "ハトタウロス"
+
+#. support:hBP07-110:name
+msgid "ねっ子"
+msgstr "ねっ子"
+
+#. support:hSD10-013:name
+msgid "ふぐ太郎"
+msgstr "ふぐ太郎"
+
+#. support:hSD01-018:name
+msgid "サブパソコン"
+msgstr "サブパソコン"
+
+#. support:hSD02-012:name
+msgid "いろはにほへっと あやふぶみ"
+msgstr "いろはにほへっと あやふぶみ"
+
+#. support:hSD07-014:name
+msgid "不知火建設"
+msgstr "不知火建設"
+
+#. support:hSD03-013:name
+msgid "おかにゃん"
+msgstr "おかにゃん"
+
+#. support:hSD06-011:name
+msgid "ﾁｬｷ丸"
+msgstr "ﾁｬｷ丸"
+
+#. support:hSD02-013:name
+msgid "阿修羅＆羅刹"
+msgstr "阿修羅＆羅刹"
+
+#. support:hSD03-012:name
+msgid "泥棒建設"
+msgstr "泥棒建設"
+
+#. support:hSD03-014:name
+msgid "おにぎりゃー"
+msgstr "おにぎりゃー"
+
+#. support:hSD04-012:name
+msgid "スバちょこルーナ"
+msgstr "スバちょこルーナ"
+
+#. support:hSD04-013:name
+msgid "ちょこのオムライス"
+msgstr "ちょこのオムライス"
+
+#. support:hSD04-014:name
+msgid "しょこら"
+msgstr "しょこら"
+
+#. support:hSD05-014:name
+msgid "ばんぺん"
+msgstr "ばんぺん"
+
+#. support:hSD06-012:name
+msgid "ぽこべぇ"
+msgstr "ぽこべぇ"
+
+#. support:hSD07-015:name
+msgid "エルフレンド"
+msgstr "エルフレンド"
+
+#. support:hSD12-015:name
+msgid "脱獄を果たした共犯者たち"
+msgstr "脱獄を果たした共犯者たち"
+
+#. support:hSD14-011:name
+msgid "ありよりのアリゲーター"
+msgstr "ありよりのアリゲーター"
+
+#. support:hSD15-010:name
+msgid "まつたけダンス"
+msgstr "まつたけダンス"
+
+#. support:hSD17-010:name
+msgid "ステラ"
+msgstr "ステラ"
+
+#. support:hSD19-010:name
+msgid "ごきげんカレー"
+msgstr "ごきげんカレー"
+
+#. yell:hY01-001:name
+#. yell:hY01-003:name
+#. yell:hY01-004:name
+#. ... and 6 more
+msgid "白エール"
+msgstr "白エール"
+
+#. yell:hY02-001:name
+#. yell:hY02-002:name
+#. yell:hY02-003:name
+#. ... and 5 more
+msgid "緑エール"
+msgstr "緑エール"
+
+#. yell:hY03-001:name
+#. yell:hY03-002:name
+#. yell:hY03-003:name
+#. ... and 9 more
+msgid "赤エール"
+msgstr "赤エール"
+
+#. yell:hY04-001:name
+#. yell:hY04-002:name
+#. yell:hY04-003:name
+#. ... and 6 more
+msgid "青エール"
+msgstr "青エール"
+
+#. yell:hY05-002:name
+#. yell:hY05-001:name
+#. yell:hY05-003:name
+#. ... and 4 more
+msgid "紫エール"
+msgstr "紫エール"
+
+#. yell:hY06-002:name
+#. yell:hY06-001:name
+#. yell:hY06-004:name
+#. ... and 4 more
+msgid "黄エール"
+msgstr "黄エール"
