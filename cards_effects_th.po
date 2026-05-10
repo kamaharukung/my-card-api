@@ -1,0 +1,2255 @@
+# Hololive Card Game — Effects (MeCab tokenized)
+#
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th\n"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP02-039:keyword_effect
+#. holomem:hBP02-040:keyword_effect
+#. ... and 169 more
+msgid "ターンに1回"
+msgstr "1 ครั้งต่อเทิร์น"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-050:keyword_effect
+#. ... and 25 more
+msgid "コラボポジション限定"
+msgstr "เฉพาะ Collab Position"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:arts_1_effect
+#. holomem:hBP01-071:keyword_effect
+#. ... and 1807 more
+msgid "自分"
+msgstr "ตัวเอง"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:arts_1_effect
+#. ... and 3884 more
+msgid "の"
+msgstr "ของ"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:arts_1_effect
+#. holomem:hBP01-010:keyword_effect
+#. ... and 911 more
+msgid "が"
+msgstr "~"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-014:keyword_effect
+#. ... and 400 more
+msgid "相手"
+msgstr "ฝ่ายตรงข้าม"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-018:arts_1_effect
+#. ... and 561 more
+msgid "から"
+msgstr "จาก"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-091:arts_2_effect
+#. ... and 238 more
+msgid "ダメージ"
+msgstr "Damage"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:keyword_effect
+#. ... and 2211 more
+msgid "を"
+msgstr "~"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP03-015:keyword_effect
+#. holomem:hSD07-009:keyword_effect
+#. ... and 37 more
+msgid "受ける"
+msgstr "รับ"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-027:arts_1_effect
+#. ... and 452 more
+msgid "時"
+msgstr "เมื่อ"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-023:arts_1_effect
+#. ... and 85 more
+msgid "サイコロ"
+msgstr "ลูกเต๋า"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-023:arts_1_effect
+#. ... and 106 more
+msgid "回"
+msgstr "ครั้ง"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-023:arts_1_effect
+#. ... and 45 more
+msgid "振れる"
+msgstr "ทอยได้"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP01-033:keyword_effect
+#. ... and 23 more
+msgid "奇数"
+msgstr "เลขคี่"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP01-031:keyword_effect
+#. ... and 287 more
+msgid "その"
+msgstr "นั้น"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-087:arts_2_effect
+#. holomem:hBP05-069:keyword_effect
+#. ... and 12 more
+msgid "受け"
+msgstr "รับ"
+
+#. holomem:hBP01-027:keyword_effect
+#. holomem:hBP01-009:arts_1_effect
+#. holomem:hBP01-013:keyword_effect
+#. ... and 197 more
+msgid "ない"
+msgstr "ไม่"
+
+#. holomem:hBP01-027:arts_1_effect
+#. holomem:hBP01-010:keyword_effect
+#. holomem:hBP01-010:keyword_effect
+#. ... and 220 more
+msgid "センター"
+msgstr "Center"
+
+#. holomem:hBP01-027:arts_1_effect
+#. holomem:hBP01-010:keyword_effect
+#. holomem:hBP01-016:keyword_effect
+#. ... and 303 more
+msgid "持つ"
+msgstr "มี"
+
+#. holomem:hBP01-027:arts_1_effect
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-051:arts_1_effect
+#. ... and 989 more
+msgid "この"
+msgstr "นี้"
+
+#. holomem:hBP01-027:arts_1_effect
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-071:arts_1_effect
+#. ... and 492 more
+msgid "アーツ"
+msgstr "Arts"
+
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-091:arts_2_effect
+#. ... and 531 more
+msgid "エール"
+msgstr "Cheer"
+
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-071:keyword_effect
+#. ... and 1214 more
+msgid "枚"
+msgstr "ใบ"
+
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-071:keyword_effect
+#. holomem:hBP01-071:arts_1_effect
+#. ... and 1590 more
+msgid "に"
+msgstr "ใน/ให้"
+
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-071:arts_1_effect
+#. holomem:hBP01-020:arts_1_effect
+#. ... and 217 more
+msgid "つき"
+msgstr "ต่อ"
+
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP01-009:arts_1_effect
+#. ... and 266 more
+msgid "は"
+msgstr "~"
+
+#. holomem:hBP01-051:arts_1_effect
+msgid "最大"
+msgstr "สูงสุด"
+
+#. holomem:hBP01-051:arts_1_effect
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP02-017:arts_2_effect
+#. ... and 22 more
+msgid "まで"
+msgstr "ถึง"
+
+#. holomem:hBP01-071:keyword_effect
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-035:keyword_effect
+#. ... and 472 more
+msgid "アーカイブ"
+msgstr "Archive"
+
+#. holomem:hBP01-071:keyword_effect
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-019:keyword_effect
+#. ... and 421 more
+msgid "手札"
+msgstr "มือ"
+
+#. holomem:hBP01-071:keyword_effect
+#. holomem:hBP01-061:keyword_effect
+#. holomem:hBP01-074:keyword_effect
+#. ... and 30 more
+msgid "戻せる"
+msgstr "คืนได้"
+
+#. holomem:hBP01-071:arts_1_effect
+#. holomem:hBP01-086:keyword_effect
+#. holomem:hBP01-087:arts_1_effect
+#. ... and 47 more
+msgid "全員"
+msgstr "ทุกคน"
+
+#. holomem:hBP01-071:arts_1_effect
+#. holomem:hBP01-035:arts_1_effect
+#. holomem:hBP01-037:keyword_effect
+#. ... and 318 more
+msgid "付い"
+msgstr "ติด"
+
+#. holomem:hBP01-071:arts_1_effect
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-015:arts_1_effect
+#. ... and 482 more
+msgid "て"
+msgstr "~"
+
+#. holomem:hBP01-071:arts_1_effect
+#. holomem:hBP01-035:arts_1_effect
+#. holomem:hBP01-037:keyword_effect
+#. ... and 337 more
+msgid "いる"
+msgstr "อยู่"
+
+#. holomem:hBP01-071:arts_1_effect
+#. holomem:hBP01-070:keyword_effect
+#. holomem:hBP02-073:keyword_effect
+#. ... and 95 more
+msgid "ファン"
+msgstr "แฟน"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-033:keyword_effect
+#. holomem:hBP01-047:keyword_effect
+#. ... and 65 more
+msgid "緑"
+msgstr "สีเขียว"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-019:keyword_effect
+#. holomem:hBP01-026:keyword_effect
+#. ... and 146 more
+msgid "か"
+msgstr "หรือ"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-043:arts_1_bonus
+#. holomem:hBP01-055:arts_1_bonus
+#. ... and 77 more
+msgid "青"
+msgstr "สีน้ำเงิน"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-045:keyword_effect
+#. ... and 127 more
+msgid "できる"
+msgstr "ทำได้"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-020:arts_1_effect
+#. holomem:hBP01-076:arts_1_effect
+#. ... and 103 more
+msgid "バックホロメン"
+msgstr "HoloMem แบ็ค"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-020:arts_1_effect
+#. holomem:hBP01-031:arts_1_effect
+#. ... and 399 more
+msgid "人"
+msgstr "คน"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-014:keyword_effect
+#. holomem:hBP01-013:keyword_effect
+#. ... and 169 more
+msgid "特殊"
+msgstr "พิเศษ"
+
+#. holomem:hBP01-091:arts_2_effect
+#. holomem:hBP01-014:keyword_effect
+#. holomem:hBP01-013:keyword_effect
+#. ... and 160 more
+msgid "与える"
+msgstr "ให้"
+
+#. holomem:hBP01-010:keyword_effect
+#. holomem:hBP01-015:arts_1_effect
+#. holomem:hBP01-020:arts_1_effect
+#. ... and 419 more
+msgid "ターン"
+msgstr "เทิร์น"
+
+#. holomem:hBP01-010:keyword_effect
+#. holomem:hBP01-020:arts_1_effect
+#. holomem:hBP01-030:keyword_effect
+#. ... and 208 more
+msgid "間"
+msgstr "ระหว่าง"
+
+#. holomem:hBP01-010:keyword_effect
+#. holomem:hBP02-064:arts_1_effect
+#. holomem:hBP02-059:arts_1_effect
+#. ... and 13 more
+msgid "さらに"
+msgstr "นอกจากนี้"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-045:keyword_effect
+#. holomem:hBP03-070:keyword_effect
+#. ... and 58 more
+msgid "以下"
+msgstr "หรือน้อยกว่า"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-016:keyword_effect
+#. ... and 850 more
+msgid "デッキ"
+msgstr "Deck"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-063:keyword_effect
+#. holomem:hBP02-034:arts_2_effect
+#. ... and 158 more
+msgid "マスコット"
+msgstr "Mascot"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-018:arts_1_effect
+#. ... and 338 more
+msgid "公開"
+msgstr "เปิดเผย"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-018:arts_1_effect
+#. ... and 513 more
+msgid "し"
+msgstr "~"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP03-009:arts_1_effect
+#. holomem:hBP04-044:keyword_effect
+#. ... and 13 more
+msgid "付ける"
+msgstr "ติด"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-019:keyword_effect
+#. ... and 295 more
+msgid "そして"
+msgstr "และแล้ว"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-019:keyword_effect
+#. holomem:hBP01-020:keyword_effect
+#. ... and 222 more
+msgid "シャッフル"
+msgstr "สับ"
+
+#. holomem:hBP01-012:keyword_effect
+#. holomem:hBP01-019:keyword_effect
+#. holomem:hBP01-020:keyword_effect
+#. ... and 477 more
+msgid "する"
+msgstr "ทำ"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. ... and 299 more
+msgid "で"
+msgstr "ด้วย/ที่"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP01-013:keyword_effect
+#. ... and 95 more
+msgid "ダウン"
+msgstr "Down"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-080:keyword_effect
+#. holomem:hBP01-097:keyword_effect
+#. ... and 92 more
+msgid "さ"
+msgstr "ทำให้"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP03-037:arts_1_effect
+#. holomem:hBP04-013:keyword_effect
+#. ... and 25 more
+msgid "せ"
+msgstr "ทำให้"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-015:arts_1_effect
+#. ... and 451 more
+msgid "た"
+msgstr "~"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP05-028:keyword_effect
+#. holomem:hBP06-052:keyword_effect
+#. ... and 10 more
+msgid "与え"
+msgstr "ให้"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hSD07-007:keyword_effect
+#. holomem:hBP07-014:arts_1_effect
+#. ... and 3 more
+msgid "残り"
+msgstr "ที่เหลือ"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-080:keyword_effect
+#. holomem:hBP01-083:keyword_effect
+#. ... and 90 more
+msgid "以上"
+msgstr "หรือมากกว่า"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP07-014:arts_1_effect
+#. holomem:hBP07-014:arts_1_effect
+#. ... and 2 more
+msgid "オーバー"
+msgstr "เกิน"
+
+#. holomem:hBP01-014:arts_1_effect
+msgid "いれ"
+msgstr "หาก"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP06-039:arts_1_effect
+#. holomem:hBP07-060:arts_2_effect
+#. ... and 49 more
+msgid "ば"
+msgstr "ถ้า"
+
+#. holomem:hBP01-014:arts_1_effect
+#. holomem:hBP01-013:keyword_effect
+#. holomem:hBP01-045:keyword_effect
+#. ... and 58 more
+msgid "ライフ"
+msgstr "Life"
+
+#. holomem:hBP01-014:arts_1_bonus
+#. holomem:hBP01-023:arts_1_bonus
+#. holomem:hBP01-031:arts_1_bonus
+#. ... and 72 more
+msgid "赤"
+msgstr "สีแดง"
+
+#. holomem:hBP01-015:arts_1_effect
+#. holomem:hBP02-027:arts_1_effect
+#. holomem:hBP02-039:keyword_effect
+#. ... and 33 more
+msgid "サポート"
+msgstr "Support"
+
+#. holomem:hBP01-015:arts_1_effect
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-018:arts_1_effect
+#. ... and 248 more
+msgid "カード"
+msgstr "การ์ด"
+
+#. holomem:hBP01-015:arts_1_effect
+#. holomem:hBP02-051:keyword_effect
+#. holomem:hSD04-009:arts_2_effect
+#. ... and 54 more
+msgid "使っ"
+msgstr "ใช้"
+
+#. holomem:hBP01-015:arts_1_effect
+#. holomem:hBP01-070:arts_1_effect
+#. holomem:hBP01-097:keyword_effect
+#. ... and 128 more
+msgid "い"
+msgstr "~"
+
+#. holomem:hBP01-016:keyword_effect
+#. holomem:hBP01-022:keyword_effect
+#. holomem:hBP01-023:keyword_effect
+#. ... and 117 more
+msgid "引く"
+msgstr "จั่ว"
+
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP01-035:arts_1_effect
+#. ... and 194 more
+msgid "上"
+msgstr "บน"
+
+#. holomem:hBP01-018:arts_1_effect
+#. holomem:hBP01-019:keyword_effect
+#. holomem:hBP01-020:keyword_effect
+#. ... and 223 more
+msgid "加える"
+msgstr "เพิ่ม"
+
+#. holomem:hBP01-019:keyword_effect
+#. holomem:hBP01-026:keyword_effect
+#. holomem:hBP01-050:arts_1_effect
+#. ... and 40 more
+msgid "以外"
+msgstr "นอกเหนือจาก"
+
+#. holomem:hBP01-020:arts_1_effect
+#. holomem:hBP01-030:keyword_effect
+#. holomem:hBP01-070:arts_1_effect
+#. ... and 138 more
+msgid "と"
+msgstr "และ"
+
+#. holomem:hBP01-020:arts_1_effect
+#. holomem:hBP01-030:keyword_effect
+#. holomem:hBP01-041:keyword_effect
+#. ... and 107 more
+msgid "コラボホロメン"
+msgstr "HoloMem คอลแลบ"
+
+#. holomem:hBP01-020:arts_1_bonus
+#. holomem:hBP01-087:arts_1_bonus
+#. holomem:hBP01-087:arts_2_bonus
+#. ... and 62 more
+msgid "紫"
+msgstr "สีม่วง"
+
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP01-087:arts_2_effect
+#. holomem:hBP02-040:keyword_effect
+#. ... and 16 more
+msgid "同じ"
+msgstr "เหมือนกัน"
+
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hBP06-027:keyword_effect
+#. ... and 6 more
+msgid "もう"
+msgstr "อีก"
+
+#. holomem:hBP01-023:arts_1_effect
+#. holomem:hBP07-048:keyword_effect
+#. oshi:hBP02-007:skill_sp
+#. ... and 5 more
+msgid "使う"
+msgstr "ใช้"
+
+#. holomem:hBP01-023:arts_1_effect
+msgid "繰り返せる"
+msgstr "ทำซ้ำได้"
+
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP02-027:arts_1_effect
+#. ... and 36 more
+msgid "ホロ"
+msgstr "Holo"
+
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP04-053:arts_1_effect
+#. ... and 32 more
+msgid "パワー"
+msgstr "Power"
+
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP01-065:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. ... and 69 more
+msgid "見る"
+msgstr "ดู"
+
+#. holomem:hBP01-031:keyword_effect
+#. holomem:hBP01-065:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. ... and 76 more
+msgid "中"
+msgstr "ใน"
+
+#. holomem:hBP01-009:arts_1_effect
+#. holomem:hBP01-050:keyword_effect
+#. holomem:hBP02-032:keyword_effect
+#. ... and 88 more
+msgid "しか"
+msgstr "เท่านั้น"
+
+#. holomem:hBP01-009:arts_1_effect
+#. holomem:hBP01-050:keyword_effect
+#. holomem:hBP01-081:arts_1_effect
+#. ... and 14 more
+msgid "対象"
+msgstr "เป้าหมาย"
+
+#. holomem:hBP01-009:arts_1_effect
+#. holomem:hBP01-050:keyword_effect
+#. holomem:hBP05-010:keyword_effect
+#. ... and 2 more
+msgid "でき"
+msgstr "ทำได้"
+
+#. holomem:hBP01-013:keyword_effect
+#. holomem:hBP01-076:arts_1_effect
+#. holomem:hBP01-079:keyword_effect
+#. ... and 57 more
+msgid "も"
+msgstr "ด้วย"
+
+#. holomem:hBP01-013:keyword_effect
+#. holomem:hBP01-076:arts_1_effect
+#. holomem:hBP01-079:keyword_effect
+#. ... and 20 more
+msgid "減ら"
+msgstr "ลด"
+
+#. holomem:hBP01-033:keyword_effect
+#. holomem:hBP01-036:keyword_effect
+#. holomem:hBP01-037:keyword_effect
+#. ... and 33 more
+msgid "回復"
+msgstr "ฟื้นฟู"
+
+#. holomem:hBP01-035:keyword_effect
+#. holomem:hBP01-035:arts_1_effect
+#. holomem:hBP01-037:keyword_effect
+#. ... and 88 more
+msgid "ツール"
+msgstr "Tool"
+
+#. holomem:hBP01-035:keyword_effect
+#. holomem:hBP02-013:keyword_effect
+#. holomem:hBP03-013:arts_1_effect
+#. ... and 142 more
+msgid "付け"
+msgstr "ติด"
+
+#. holomem:hBP01-035:keyword_effect
+#. holomem:hBP01-046:keyword_effect
+#. holomem:hBP01-052:arts_1_effect
+#. ... and 140 more
+msgid "られる"
+msgstr "ได้"
+
+#. holomem:hBP01-035:arts_1_effect
+#. holomem:hBP01-037:keyword_effect
+#. holomem:hBP01-039:keyword_effect
+#. ... and 106 more
+msgid "送る"
+msgstr "ส่ง"
+
+#. holomem:hBP01-037:keyword_effect
+#. holomem:hBP01-047:keyword_effect
+#. holomem:hBP01-095:keyword_effect
+#. ... and 76 more
+msgid "後"
+msgstr "หลัง"
+
+#. holomem:hBP01-037:arts_1_bonus
+#. holomem:hBP01-047:arts_1_bonus
+#. holomem:hBP02-023:arts_1_bonus
+#. ... and 68 more
+msgid "白"
+msgstr "สีขาว"
+
+#. holomem:hBP01-038:arts_1_effect
+#. holomem:hBP01-039:keyword_effect
+#. holomem:hBP01-088:arts_1_effect
+#. ... and 12 more
+msgid "偶数"
+msgstr "เลขคู่"
+
+#. holomem:hBP01-039:keyword_effect
+#. holomem:hBP01-077:keyword_effect
+#. holomem:hBP03-022:arts_1_effect
+#. ... and 82 more
+msgid "推し"
+msgstr "Oshi"
+
+#. holomem:hBP01-042:arts_2_effect
+#. holomem:hBP01-043:arts_1_effect
+#. holomem:hBP04-058:keyword_effect
+#. ... and 20 more
+msgid "出"
+msgstr "ออก"
+
+#. holomem:hBP01-042:arts_2_effect
+#. holomem:hBP01-043:arts_1_effect
+#. holomem:hBP05-016:keyword_effect
+#. ... and 18 more
+msgid "目"
+msgstr "หน้าลูกเต๋า"
+
+#. holomem:hBP01-042:arts_2_effect
+#. holomem:hBP01-043:arts_1_effect
+#. holomem:hBP01-087:arts_2_effect
+#. ... and 19 more
+msgid "数"
+msgstr "จำนวน"
+
+#. holomem:hBP01-043:arts_1_effect
+#. holomem:hBP01-087:arts_2_effect
+#. holomem:hBP05-016:keyword_effect
+#. ... and 5 more
+msgid "合計"
+msgstr "รวม"
+
+#. holomem:hBP01-045:keyword_effect
+#. holomem:hBP02-040:keyword_effect
+#. support:hBP01-121:ability_text
+#. ... and 1 more
+msgid "レベル"
+msgstr "Level"
+
+#. holomem:hBP01-045:keyword_effect
+msgid "無視"
+msgstr "ละเว้น"
+
+#. holomem:hBP01-046:keyword_effect
+#. holomem:hBP01-052:arts_1_effect
+#. holomem:hBP01-055:arts_1_effect
+#. ... and 243 more
+msgid "ステージ"
+msgstr "Stage"
+
+#. holomem:hBP01-046:keyword_effect
+#. holomem:hBP04-030:keyword_effect
+#. holomem:hBP05-070:arts_1_effect
+#. ... and 5 more
+msgid "選び"
+msgstr "เลือก"
+
+#. holomem:hBP01-046:keyword_effect
+#. holomem:hBP03-045:keyword_effect
+#. holomem:hBP04-030:keyword_effect
+#. ... and 7 more
+msgid "割り振っ"
+msgstr "แบ่ง"
+
+#. holomem:hBP01-046:keyword_effect
+#. holomem:hBP01-052:arts_1_effect
+#. holomem:hBP01-092:arts_1_effect
+#. ... and 28 more
+msgid "付け替え"
+msgstr "เปลี่ยนให้"
+
+#. holomem:hBP01-047:keyword_effect
+#. holomem:hBP01-055:keyword_effect
+#. holomem:hBP01-098:keyword_effect
+#. ... and 47 more
+msgid "送れる"
+msgstr "ส่งได้"
+
+#. holomem:hBP01-050:keyword_effect
+#. holomem:hBP02-017:arts_2_effect
+#. holomem:hBP03-045:keyword_effect
+#. ... and 22 more
+msgid "ただし"
+msgstr "อย่างไรก็ตาม"
+
+#. holomem:hBP01-050:keyword_effect
+#. holomem:hBP05-010:keyword_effect
+#. holomem:hBP05-043:keyword_effect
+msgid "除く"
+msgstr "ยกเว้น"
+
+#. holomem:hBP01-055:keyword_effect
+#. holomem:hBP03-045:keyword_effect
+#. holomem:hBP03-021:keyword_effect
+#. ... and 17 more
+msgid "ずつ"
+msgstr "ต่อหนึ่ง"
+
+#. holomem:hBP01-061:arts_1_effect
+#. holomem:hBP03-049:arts_1_effect
+#. holomem:hBP03-056:arts_2_effect
+#. ... and 5 more
+msgid "どちら"
+msgstr "อันไหน"
+
+#. holomem:hBP01-061:arts_1_bonus
+#. holomem:hSD02-009:arts_1_bonus
+#. holomem:hSD02-009:arts_2_bonus
+#. ... and 58 more
+msgid "黄"
+msgstr "สีเหลือง"
+
+#. holomem:hBP01-065:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP02-038:keyword_effect
+#. ... and 60 more
+msgid "残っ"
+msgstr "ที่เหลือ"
+
+#. holomem:hBP01-066:arts_2_effect
+#. holomem:hBP01-081:arts_1_effect
+#. holomem:hBP02-033:keyword_effect
+#. ... and 19 more
+msgid "重なっ"
+msgstr "ซ้อนกัน"
+
+#. holomem:hBP01-067:arts_2_effect
+#. holomem:hBP01-074:keyword_effect
+#. holomem:hBP01-075:keyword_effect
+#. ... and 16 more
+msgid "戻し"
+msgstr "คืน"
+
+#. holomem:hBP01-070:arts_1_effect
+#. holomem:hBP02-032:keyword_effect
+#. holomem:hBP02-051:keyword_effect
+#. ... and 134 more
+msgid "使え"
+msgstr "ใช้ได้"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP01-097:keyword_effect
+#. ... and 21 more
+msgid "お"
+msgstr "ความ"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP04-072:arts_1_effect
+#. ... and 10 more
+msgid "互い"
+msgstr "ซึ่งกันและกัน"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP01-095:keyword_effect
+#. holomem:hBP01-095:keyword_effect
+#. ... and 77 more
+msgid "すべて"
+msgstr "ทั้งหมด"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP02-038:keyword_effect
+#. ... and 99 more
+msgid "好き"
+msgstr "ชอบ"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP02-038:keyword_effect
+#. ... and 128 more
+msgid "な"
+msgstr "~"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP02-038:keyword_effect
+#. ... and 62 more
+msgid "順"
+msgstr "ลำดับ"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP02-038:keyword_effect
+#. ... and 78 more
+msgid "下"
+msgstr "ล่าง"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP01-095:keyword_effect
+#. holomem:hBP01-095:keyword_effect
+#. ... and 121 more
+msgid "戻す"
+msgstr "คืน"
+
+#. holomem:hBP01-075:keyword_effect
+#. holomem:hBP07-083:keyword_effect
+#. holomem:hSD11-007:arts_1_effect
+#. ... and 5 more
+msgid "次"
+msgstr "ถัดไป"
+
+#. holomem:hBP01-075:keyword_effect
+#. support:hBP04-089:ability_text
+#. support:hBP07-094:ability_text
+msgid "それぞれ"
+msgstr "แต่ละ"
+
+#. holomem:hBP01-080:keyword_effect
+#. holomem:hBP03-045:arts_1_effect
+#. holomem:hBP03-083:keyword_effect
+#. ... and 12 more
+msgid "減っ"
+msgstr "ลดลง"
+
+#. holomem:hBP01-080:keyword_effect
+#. holomem:hBP01-097:keyword_effect
+#. holomem:hBP01-099:keyword_effect
+#. ... and 12 more
+msgid "せる"
+msgstr "ทำให้"
+
+#. holomem:hBP01-087:arts_2_effect
+#. holomem:hBP06-052:keyword_effect
+#. holomem:hBP06-053:keyword_effect
+#. ... and 2 more
+msgid "数値"
+msgstr "ค่า"
+
+#. holomem:hBP01-092:arts_1_effect
+#. holomem:hBP01-095:keyword_effect
+#. holomem:hBP02-064:arts_1_effect
+#. ... and 15 more
+msgid "他"
+msgstr "อื่น"
+
+#. holomem:hBP01-094:keyword_effect
+#. holomem:hBP02-026:keyword_effect
+#. holomem:hBP03-049:keyword_effect
+#. ... and 8 more
+msgid "同色"
+msgstr "สีเดียวกัน"
+
+#. holomem:hBP01-095:keyword_effect
+#. support:hBP01-123:ability_text
+#. support:hBP03-108:ability_text
+msgid "無くし"
+msgstr "ลบออก"
+
+#. holomem:hBP01-095:keyword_effect
+msgid "残し"
+msgstr "เหลือไว้"
+
+#. holomem:hBP01-095:arts_1_effect
+#. support:hBP05-074:ability_text
+msgid "出し"
+msgstr "นำออก"
+
+#. holomem:hBP01-097:keyword_effect
+#. holomem:hBP03-039:keyword_effect
+#. holomem:hBP04-055:keyword_effect
+#. ... and 7 more
+msgid "休み"
+msgstr "พัก"
+
+#. holomem:hBP01-097:keyword_effect
+#. holomem:hBP01-099:keyword_effect
+#. holomem:hSD07-007:keyword_effect
+#. ... and 7 more
+msgid "交代"
+msgstr "สลับ"
+
+#. holomem:hBP01-101:keyword_effect
+#. holomem:hSD08-005:keyword_effect
+#. oshi:hBP03-001:skill_oshi
+msgid "アイテム"
+msgstr "ไอเทม"
+
+#. holomem:hBP02-017:arts_2_effect
+#. holomem:hBP03-056:arts_2_effect
+#. holomem:hBP04-015:arts_1_effect
+#. ... and 6 more
+msgid "数える"
+msgstr "นับ"
+
+#. holomem:hBP02-017:arts_2_effect
+#. holomem:hBP03-056:arts_2_effect
+#. holomem:hBP04-015:arts_1_effect
+msgid "人数"
+msgstr "จำนวนคน"
+
+#. holomem:hBP02-027:arts_1_effect
+#. holomem:hBP07-008:keyword_effect
+#. holomem:hBP07-074:keyword_effect
+#. ... and 1 more
+msgid "メン"
+msgstr "เมน"
+
+#. holomem:hBP02-041:keyword_effect
+#. holomem:hBP03-015:keyword_effect
+#. holomem:hBP03-030:keyword_effect
+#. ... and 35 more
+msgid "センターポジション限定"
+msgstr "เฉพาะ Center Position"
+
+#. holomem:hBP02-064:arts_1_effect
+#. holomem:hBP02-064:arts_1_effect
+#. holomem:hBP02-022:arts_1_effect
+#. ... and 24 more
+msgid "ある"
+msgstr "มี"
+
+#. holomem:hBP02-013:keyword_effect
+#. holomem:hBP03-049:arts_1_effect
+#. holomem:hBP04-049:arts_2_effect
+#. ... and 14 more
+msgid "異なる"
+msgstr "ต่างกัน"
+
+#. holomem:hBP02-013:keyword_effect
+#. holomem:hBP03-049:arts_1_effect
+#. holomem:hBP04-082:keyword_effect
+#. ... and 17 more
+msgid "名"
+msgstr "ชื่อ"
+
+#. holomem:hBP02-021:keyword_effect
+#. holomem:hBP02-022:arts_1_effect
+#. holomem:hBP02-023:arts_1_effect
+#. ... and 23 more
+msgid "色"
+msgstr "สี"
+
+#. holomem:hBP02-032:keyword_effect
+#. holomem:hBP02-051:keyword_effect
+#. holomem:hBP03-019:keyword_effect
+#. ... and 7 more
+msgid "ブルーム"
+msgstr "Bloom"
+
+#. holomem:hBP02-032:keyword_effect
+#. holomem:hBP02-051:keyword_effect
+#. holomem:hBP03-019:keyword_effect
+#. ... and 9 more
+msgid "エフェクト"
+msgstr "Effect"
+
+#. holomem:hBP02-032:keyword_effect
+msgid "宝"
+msgstr "สมบัติ"
+
+#. holomem:hBP02-032:keyword_effect
+msgid "鐘"
+msgstr "ระฆัง"
+
+#. holomem:hBP02-032:keyword_effect
+msgid "海賊"
+msgstr "โจรสลัด"
+
+#. holomem:hBP02-032:keyword_effect
+msgid "団"
+msgstr "แก๊ง"
+
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP04-009:arts_1_effect
+#. support:hBP02-080:ability_text
+#. ... and 1 more
+msgid "秘密"
+msgstr "ลับ"
+
+#. holomem:hBP02-036:keyword_effect
+#. holomem:hBP04-009:arts_1_effect
+#. support:hBP02-080:ability_text
+#. ... and 1 more
+msgid "結社"
+msgstr "สมาคม"
+
+#. holomem:hBP02-039:keyword_effect
+#. holomem:hBP03-033:keyword_effect
+#. holomem:hBP06-021:keyword_effect
+#. ... and 17 more
+msgid "かわり"
+msgstr "แทน"
+
+#. holomem:hBP02-039:keyword_effect
+#. holomem:hBP06-014:keyword_effect
+msgid "加え"
+msgstr "เพิ่ม"
+
+#. holomem:hBP02-040:keyword_effect
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP05-024:arts_1_effect
+#. ... and 259 more
+msgid "なら"
+msgstr "ถ้า"
+
+#. holomem:hBP02-046:arts_1_effect
+#. holomem:hBP02-047:keyword_effect
+#. oshi:hBP01-004:skill_oshi
+#. ... and 5 more
+msgid "付け替える"
+msgstr "เปลี่ยนให้"
+
+#. holomem:hBP02-049:keyword_effect
+#. holomem:hBP06-041:keyword_effect
+#. holomem:hBP06-057:arts_1_effect
+#. ... and 8 more
+msgid "引い"
+msgstr "จั่ว"
+
+#. holomem:hBP02-051:keyword_effect
+#. oshi:hBP04-003:skill_sp
+msgid "限界"
+msgstr "ขีดจำกัด"
+
+#. holomem:hBP02-051:keyword_effect
+msgid "化"
+msgstr "เปลี่ยน"
+
+#. holomem:hBP02-057:keyword_effect
+msgid "タグ"
+msgstr "Tag"
+
+#. holomem:hBP02-058:keyword_effect
+#. holomem:hBP02-058:keyword_effect
+#. holomem:hBP03-024:keyword_effect
+#. ... and 43 more
+msgid "〈"
+msgstr "〈"
+
+#. holomem:hBP02-058:keyword_effect
+msgid "森"
+msgstr "โมริ"
+
+#. holomem:hBP02-058:keyword_effect
+msgid "カリ"
+msgstr "คาริ"
+
+#. holomem:hBP02-058:keyword_effect
+msgid "オペ"
+msgstr "โอเปะ"
+
+#. holomem:hBP02-058:keyword_effect
+msgid "鎌"
+msgstr "เคียว"
+
+#. holomem:hBP02-058:keyword_effect
+#. holomem:hBP02-058:keyword_effect
+#. holomem:hBP03-024:keyword_effect
+#. ... and 43 more
+msgid "〉"
+msgstr "〉"
+
+#. holomem:hSD04-009:arts_2_effect
+#. holomem:hBP02-072:keyword_effect
+#. holomem:hBP04-021:keyword_effect
+#. ... and 23 more
+msgid "イベント"
+msgstr "Event"
+
+#. holomem:hBP03-022:keyword_effect
+#. holomem:hBP04-062:keyword_effect
+#. holomem:hBP04-068:keyword_effect
+#. ... and 9 more
+msgid "センターポジション・コラボポジション限定"
+msgstr "เฉพาะ Center Position · Collab Position"
+
+#. holomem:hBP03-022:keyword_effect
+#. holomem:hBP03-083:keyword_effect
+#. holomem:hBP03-083:keyword_effect
+#. ... and 3 more
+msgid "パフォーマンス"
+msgstr "Performance"
+
+#. holomem:hBP03-022:keyword_effect
+#. holomem:hBP03-039:keyword_effect
+#. holomem:hBP03-083:keyword_effect
+#. ... and 17 more
+msgid "ステップ"
+msgstr "Step"
+
+#. holomem:hBP03-022:keyword_effect
+#. holomem:hBP07-056:keyword_effect
+#. holomem:hSD11-006:keyword_effect
+#. ... and 2 more
+msgid "開始"
+msgstr "เริ่ม"
+
+#. holomem:hBP03-022:keyword_effect
+#. holomem:hBP03-037:arts_1_effect
+#. holomem:hBP05-035:keyword_effect
+#. ... and 45 more
+msgid "使える"
+msgstr "ใช้ได้"
+
+#. holomem:hBP03-022:keyword_effect
+#. holomem:hBP03-023:arts_1_effect
+#. holomem:hBP03-065:keyword_effect
+#. ... and 90 more
+msgid "能力"
+msgstr "ความสามารถ"
+
+#. holomem:hBP03-023:arts_1_effect
+#. holomem:hBP04-059:arts_1_effect
+#. holomem:hBP05-016:keyword_effect
+#. ... and 4 more
+msgid "振っ"
+msgstr "ทอย"
+
+#. holomem:hBP03-039:keyword_effect
+#. holomem:hBP06-056:keyword_effect
+#. oshi:hBP06-001:skill_sp
+#. ... and 1 more
+msgid "リセット"
+msgstr "รีเซ็ต"
+
+#. holomem:hBP03-039:keyword_effect
+#. holomem:hBP06-084:keyword_effect
+#. holomem:hBP07-040:keyword_effect
+#. ... and 9 more
+msgid "バック"
+msgstr "Back"
+
+#. holomem:hBP03-039:keyword_effect
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP04-087:keyword_effect
+#. ... and 32 more
+msgid "ポジション"
+msgstr "Position"
+
+#. holomem:hBP03-039:keyword_effect
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP04-037:keyword_effect
+#. ... and 13 more
+msgid "移動"
+msgstr "ย้าย"
+
+#. holomem:hBP03-083:keyword_effect
+#. holomem:hBP05-055:keyword_effect
+#. holomem:hBP07-083:keyword_effect
+#. ... and 3 more
+msgid "終了"
+msgstr "สิ้นสุด"
+
+#. holomem:hBP03-083:keyword_effect
+#. support:hBP01-115:ability_text
+#. support:hBP01-117:ability_text
+#. ... and 64 more
+msgid "たら"
+msgstr "เมื่อ / ถ้า"
+
+#. holomem:hBP03-019:keyword_effect
+msgid "歌う"
+msgstr "ร้องเพลง"
+
+#. holomem:hBP03-019:keyword_effect
+#. holomem:hBP03-019:keyword_effect
+msgid "事"
+msgstr "สิ่ง"
+
+#. holomem:hBP03-019:keyword_effect
+msgid "楽しい"
+msgstr "สนุก"
+
+#. holomem:hBP03-024:keyword_effect
+#. oshi:hBP06-003:skill_oshi
+msgid "風"
+msgstr "ลม"
+
+#. holomem:hBP03-024:keyword_effect
+#. oshi:hBP06-003:skill_oshi
+msgid "真"
+msgstr "จริง"
+
+#. holomem:hBP03-024:keyword_effect
+#. oshi:hBP06-003:skill_oshi
+msgid "いろは"
+msgstr "อิโรฮะ"
+
+#. holomem:hBP03-024:keyword_effect
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+msgid "星"
+msgstr "ดาว"
+
+#. holomem:hBP03-024:keyword_effect
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+msgid "街"
+msgstr "เมือง"
+
+#. holomem:hBP03-024:keyword_effect
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+msgid "すい"
+msgstr "สุย"
+
+#. holomem:hBP03-024:keyword_effect
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+msgid "せい"
+msgstr "เซย์"
+
+#. holomem:hBP03-026:keyword_effect
+#. holomem:hBP06-071:arts_2_effect
+#. holomem:hBP07-076:keyword_effect
+#. ... and 1 more
+msgid "引き"
+msgstr "จั่ว"
+
+#. holomem:hBP03-030:keyword_effect
+#. holomem:hBP03-065:keyword_effect
+#. holomem:hBP04-024:keyword_effect
+#. ... and 7 more
+msgid "メイン"
+msgstr "Main"
+
+#. holomem:hBP03-037:arts_1_effect
+#. holomem:hBP04-078:keyword_effect
+#. holomem:hBP05-017:arts_2_effect
+#. ... and 31 more
+msgid "必要"
+msgstr "จำเป็น"
+
+#. holomem:hBP03-037:arts_1_effect
+#. holomem:hBP03-065:keyword_effect
+#. holomem:hBP04-024:keyword_effect
+#. ... and 34 more
+msgid "ず"
+msgstr "โดยไม่"
+
+#. holomem:hBP03-064:arts_1_effect
+msgid "初期"
+msgstr "เริ่มต้น"
+
+#. holomem:hBP03-065:keyword_effect
+#. holomem:hBP04-024:keyword_effect
+#. support:hBP06-097:ability_text
+msgid "変動"
+msgstr "เปลี่ยนแปลง"
+
+#. holomem:hBP03-070:keyword_effect
+#. holomem:hBP03-077:keyword_effect
+#. holomem:hBP04-016:arts_1_effect
+#. ... and 2 more
+msgid "出せる"
+msgstr "นำออกได้"
+
+#. holomem:hBP03-071:arts_1_effect
+msgid "勝敗"
+msgstr "ผล"
+
+#. holomem:hBP03-071:arts_1_effect
+msgid "決まる"
+msgstr "ถูกกำหนด"
+
+#. holomem:hBP03-071:arts_1_effect
+msgid "じゃんけん"
+msgstr "เป่ายิงฉุบ"
+
+#. holomem:hBP03-071:arts_1_effect
+msgid "勝っ"
+msgstr "ชนะ"
+
+#. holomem:hBP03-071:arts_1_effect
+msgid "特攻"
+msgstr "โจมตีพิเศษ"
+
+#. holomem:hBP03-071:arts_1_effect
+msgid "得る"
+msgstr "ได้รับ"
+
+#. holomem:hBP03-074:arts_1_effect
+msgid "ムーナ･ホシノヴァ"
+msgstr "มูน่า โฮชิโนวะ"
+
+#. holomem:hBP04-053:arts_1_effect
+msgid "裏向き"
+msgstr "คว่ำหน้า"
+
+#. holomem:hBP04-009:arts_1_effect
+msgid "こよ"
+msgstr "โคโยะ"
+
+#. holomem:hBP04-009:arts_1_effect
+msgid "ラボ"
+msgstr "Lab"
+
+#. holomem:hBP04-031:arts_1_effect
+#. holomem:hBP04-070:keyword_effect
+#. holomem:hBP06-053:keyword_effect
+#. ... and 40 more
+msgid "選ぶ"
+msgstr "เลือก"
+
+#. holomem:hBP04-031:arts_1_effect
+#. holomem:hBP04-031:arts_1_effect
+#. holomem:hBP04-070:keyword_effect
+#. ... and 56 more
+msgid "選ん"
+msgstr "เลือก"
+
+#. holomem:hBP04-031:arts_1_effect
+#. holomem:hBP04-031:arts_1_effect
+#. holomem:hBP04-070:keyword_effect
+#. ... and 55 more
+msgid "だ"
+msgstr "~"
+
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP07-012:keyword_effect
+#. holomem:hBP07-081:keyword_effect
+#. ... and 4 more
+msgid "自身"
+msgstr "ตัวเอง"
+
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP06-026:keyword_effect
+#. ... and 28 more
+msgid "コラボ"
+msgstr "Collab"
+
+#. holomem:hBP04-037:keyword_effect
+#. holomem:hBP07-081:keyword_effect
+#. support:hBP03-088:ability_text
+#. ... and 1 more
+msgid "扱わ"
+msgstr "ถือว่าเป็น"
+
+#. holomem:hBP04-055:keyword_effect
+msgid "させる"
+msgstr "ทำให้"
+
+#. holomem:hBP04-058:keyword_effect
+#. holomem:hBP04-059:keyword_effect
+#. holomem:hBP04-059:arts_1_effect
+#. ... and 7 more
+msgid "回数"
+msgstr "จำนวนครั้ง"
+
+#. holomem:hBP04-059:keyword_effect
+#. oshi:hBP02-002:skill_oshi
+#. oshi:hBP02-007:skill_oshi
+#. ... and 1 more
+msgid "こと"
+msgstr "เรื่อง"
+
+#. holomem:hBP04-061:keyword_effect
+#. holomem:hBP05-050:keyword_effect
+#. holomem:hBP05-050:arts_1_effect
+#. ... and 13 more
+msgid "スキル"
+msgstr "Skill"
+
+#. holomem:hBP04-061:keyword_effect
+msgid "蘇る"
+msgstr "ฟื้นคืน"
+
+#. holomem:hBP04-061:keyword_effect
+msgid "オリー"
+msgstr "โอลิ"
+
+#. holomem:hBP04-066:keyword_effect
+#. holomem:hBP07-035:arts_1_effect
+#. oshi:hBP02-004:skill_sp
+msgid "数え"
+msgstr "นับ"
+
+#. holomem:hBP04-066:keyword_effect
+msgid "感情"
+msgstr "ความรู้สึก"
+
+#. holomem:hBP04-066:keyword_effect
+msgid "結晶"
+msgstr "คริสตัล"
+
+#. holomem:hBP04-066:keyword_effect
+msgid "体"
+msgstr "ตัว"
+
+#. holomem:hBP04-070:keyword_effect
+#. holomem:hBP04-072:arts_1_effect
+#. holomem:hBP04-086:arts_2_effect
+#. ... and 103 more
+msgid "枚数"
+msgstr "จำนวนใบ"
+
+#. holomem:hBP04-077:keyword_effect
+#. holomem:hBP07-022:keyword_effect
+#. oshi:hBP01-006:skill_sp
+#. ... and 2 more
+msgid "含め"
+msgstr "รวม"
+
+#. holomem:hBP05-017:arts_2_effect
+#. holomem:hBP06-065:arts_1_effect
+#. holomem:hBP06-014:arts_1_effect
+#. ... and 23 more
+msgid "無色"
+msgstr "ไม่มีสี"
+
+#. holomem:hBP05-050:keyword_effect
+#. holomem:hBP05-050:arts_1_effect
+msgid "モコ"
+msgstr "โมโกะ"
+
+#. holomem:hBP05-050:keyword_effect
+#. holomem:hBP05-050:arts_1_effect
+msgid "ちゃん"
+msgstr "จัง"
+
+#. holomem:hBP05-009:keyword_effect
+#. holomem:hBP05-020:keyword_effect
+#. holomem:hBP05-031:arts_1_effect
+#. ... and 33 more
+msgid "後攻"
+msgstr "ฝ่ายหลัง"
+
+#. holomem:hBP05-009:keyword_effect
+#. holomem:hBP05-020:keyword_effect
+#. holomem:hBP05-031:arts_1_effect
+#. ... and 34 more
+msgid "最初"
+msgstr "ครั้งแรก"
+
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+msgid "さくら"
+msgstr "ซากุระ"
+
+#. holomem:hBP05-040:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+msgid "みこ"
+msgstr "มิโกะ"
+
+#. holomem:hBP05-044:keyword_effect
+msgid "弁当"
+msgstr "กล่องข้าว"
+
+#. holomem:hBP05-044:keyword_effect
+msgid "タイム"
+msgstr "Time"
+
+#. holomem:hBP05-060:keyword_effect
+msgid "杖"
+msgstr "ไม้เท้า"
+
+#. holomem:hBP05-067:keyword_effect
+msgid "送ら"
+msgstr "ส่ง"
+
+#. holomem:hBP05-067:keyword_effect
+#. holomem:hBP06-027:arts_1_effect
+#. holomem:hBP07-075:keyword_effect
+#. ... and 54 more
+msgid "れ"
+msgstr "~"
+
+#. holomem:hBP05-069:keyword_effect
+#. holomem:hSD07-007:keyword_effect
+#. holomem:hSD17-007:keyword_effect
+#. ... and 2 more
+msgid "バックポジション限定"
+msgstr "เฉพาะ Back Position"
+
+#. holomem:hBP05-070:arts_2_effect
+#. holomem:hSD03-008:keyword_effect
+msgid "フブキ"
+msgstr "ฟุบุกิ"
+
+#. holomem:hBP06-065:arts_1_effect
+#. holomem:hBP07-089:keyword_effect
+#. oshi:hBP07-006:skill_oshi
+#. ... and 4 more
+msgid "直前"
+msgstr "ก่อนหน้า"
+
+#. holomem:hBP06-076:keyword_effect
+msgid "えび"
+msgstr "กุ้ง"
+
+#. holomem:hBP06-076:keyword_effect
+msgid "ふらい"
+msgstr "ทอด"
+
+#. holomem:hBP06-076:keyword_effect
+msgid "おん"
+msgstr "โอ้น"
+
+#. holomem:hBP06-076:keyword_effect
+msgid "まつり"
+msgstr "มัตสึริ"
+
+#. holomem:hBP06-076:keyword_effect
+msgid "す"
+msgstr "ซุ"
+
+#. holomem:hBP06-010:keyword_effect
+#. holomem:hBP07-036:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+#. ... and 9 more
+msgid "出す"
+msgstr "นำออก"
+
+#. holomem:hBP06-027:arts_1_effect
+#. holomem:hBP07-075:keyword_effect
+#. support:hBP07-103:ability_text
+msgid "軽減"
+msgstr "ลดทอน"
+
+#. holomem:hBP06-033:keyword_effect
+msgid "濡羽"
+msgstr "นุเระฮะ"
+
+#. holomem:hBP06-033:keyword_effect
+msgid "ほころび"
+msgstr "โฮโคโรบิ"
+
+#. holomem:hBP06-036:keyword_effect
+#. holomem:hBP06-036:keyword_effect
+msgid "阿修羅"
+msgstr "อาชุระ"
+
+#. holomem:hBP06-036:keyword_effect
+msgid "羅刹"
+msgstr "ราเซ็ตสึ"
+
+#. holomem:hBP06-036:keyword_effect
+msgid "鬼神"
+msgstr "คิจิน"
+
+#. holomem:hBP06-036:keyword_effect
+msgid "刀"
+msgstr "ดาบ"
+
+#. holomem:hBP06-036:keyword_effect
+msgid "ぽ"
+msgstr "โปะ"
+
+#. holomem:hBP06-036:keyword_effect
+msgid "よ"
+msgstr "โยะ"
+
+#. holomem:hBP06-036:keyword_effect
+msgid "余"
+msgstr "เหลือ"
+
+#. holomem:hBP06-039:arts_1_effect
+#. holomem:hBP07-060:arts_2_effect
+#. support:hBP01-102:ability_text
+#. ... and 47 more
+msgid "なけれ"
+msgstr "ถ้าไม่"
+
+#. holomem:hBP06-040:arts_1_effect
+#. holomem:hBP06-044:arts_1_effect
+#. holomem:hBP06-071:arts_1_effect
+#. ... and 21 more
+msgid "振る"
+msgstr "ทอย"
+
+#. holomem:hBP06-044:arts_1_effect
+#. holomem:hBP06-045:arts_2_effect
+#. holomem:hBP06-046:keyword_effect
+#. ... and 5 more
+msgid "ゲーム"
+msgstr "เกม"
+
+#. holomem:hBP06-046:keyword_effect
+msgid "ホーク"
+msgstr "ฮอว์ก"
+
+#. holomem:hBP06-046:keyword_effect
+msgid "アイ"
+msgstr "ไอ"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "人生"
+msgstr "ชีวิต"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "ボタン"
+msgstr "ปุ่ม"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "沙"
+msgstr "ซะ"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "花"
+msgstr "ดอกไม้"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "叉"
+msgstr "ฟอร์ค"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "青春"
+msgstr "วัยเยาว์"
+
+#. holomem:hBP06-056:keyword_effect
+msgid "しよ"
+msgstr "ลองทำ"
+
+#. holomem:hBP06-060:arts_2_effect
+#. oshi:hBP05-003:skill_oshi
+#. support:hBP03-107:ability_text
+msgid "引ける"
+msgstr "จั่วได้"
+
+#. holomem:hBP06-068:keyword_effect
+msgid "まかし"
+msgstr "ฝากเรื่อง"
+
+#. holomem:hBP06-068:keyword_effect
+msgid "なー"
+msgstr "นะ"
+
+#. holomem:hBP06-069:arts_1_effect
+#. holomem:hBP06-070:arts_1_effect
+msgid "無限"
+msgstr "ไม่จำกัด"
+
+#. holomem:hBP06-069:arts_1_effect
+#. holomem:hBP06-070:arts_1_effect
+msgid "体力"
+msgstr "พลังชีวิต"
+
+#. holomem:hBP06-069:arts_1_effect
+#. oshi:hBP03-006:skill_oshi
+#. support:hBP04-097:ability_text
+#. ... and 1 more
+msgid "アクティブ"
+msgstr "แอ็กทีฟ"
+
+#. holomem:hBP06-069:arts_1_effect
+msgid "なっ"
+msgstr "กลายเป็น"
+
+#. holomem:hBP06-080:keyword_effect
+msgid "スバ"
+msgstr "สุบะ"
+
+#. holomem:hBP06-080:keyword_effect
+msgid "友"
+msgstr "เพื่อน"
+
+#. holomem:hBP06-082:arts_1_effect
+msgid "神秘"
+msgstr "ลึกลับ"
+
+#. holomem:hBP06-082:arts_1_effect
+msgid "儀式"
+msgstr "พิธีกรรม"
+
+#. holomem:hBP06-083:keyword_effect
+#. support:hBP06-096:ability_text
+msgid "角巻"
+msgstr "คาโดมากิ"
+
+#. holomem:hBP06-083:keyword_effect
+#. support:hBP06-096:ability_text
+msgid "わ"
+msgstr "วะ"
+
+#. holomem:hBP06-083:keyword_effect
+#. holomem:hBP07-048:keyword_effect
+#. support:hBP06-096:ability_text
+msgid "ため"
+msgstr "เพื่อ"
+
+#. holomem:hBP06-083:keyword_effect
+#. support:hBP06-096:ability_text
+msgid "大空"
+msgstr "โอโซระ"
+
+#. holomem:hBP06-083:keyword_effect
+#. support:hBP06-096:ability_text
+msgid "スバル"
+msgstr "สุบารุ"
+
+#. holomem:hBP06-084:keyword_effect
+#. holomem:hSD11-007:arts_1_effect
+#. holomem:hSD11-008:keyword_effect
+#. ... and 58 more
+msgid "バトン"
+msgstr "Baton"
+
+#. holomem:hBP06-084:keyword_effect
+#. holomem:hSD11-007:arts_1_effect
+#. holomem:hSD11-008:keyword_effect
+#. ... and 58 more
+msgid "タッチ"
+msgstr "Touch"
+
+#. holomem:hBP07-011:keyword_effect
+msgid "グルグル"
+msgstr "หมุนๆ"
+
+#. holomem:hBP07-011:keyword_effect
+msgid "シープ"
+msgstr "แกะ"
+
+#. holomem:hBP07-026:keyword_effect
+msgid "ハト"
+msgstr "นกพิราบ"
+
+#. holomem:hBP07-026:keyword_effect
+msgid "タウ"
+msgstr "เทา"
+
+#. holomem:hBP07-026:keyword_effect
+msgid "ロス"
+msgstr "ลอส"
+
+#. holomem:hBP07-032:keyword_effect
+msgid "輪"
+msgstr "วงกลม"
+
+#. holomem:hBP07-032:keyword_effect
+msgid "堂"
+msgstr "ฮอล"
+
+#. holomem:hBP07-032:keyword_effect
+msgid "千"
+msgstr "เซน"
+
+#. holomem:hBP07-032:keyword_effect
+msgid "速"
+msgstr "เร็ว"
+
+#. holomem:hBP07-032:keyword_effect
+msgid "ふぐ"
+msgstr "ปลาปักเป้า"
+
+#. holomem:hBP07-032:keyword_effect
+msgid "太郎"
+msgstr "ทาโร่"
+
+#. holomem:hBP07-035:arts_1_effect
+#. holomem:hSD03-011:arts_2_effect
+#. oshi:hBP03-003:skill_sp
+#. ... and 3 more
+msgid "なる"
+msgstr "กลายเป็น"
+
+#. holomem:hBP07-039:keyword_effect
+#. holomem:hBP07-042:arts_2_effect
+#. oshi:hBP07-004:skill_stage
+msgid "戻っ"
+msgstr "คืน"
+
+#. holomem:hBP07-043:keyword_effect
+#. oshi:hBP01-004:skill_sp
+#. oshi:hBP04-005:skill_oshi
+#. ... and 7 more
+msgid "扱う"
+msgstr "ถือว่าเป็น"
+
+#. holomem:hBP07-044:keyword_effect
+#. holomem:hSD09-007:keyword_effect
+#. oshi:hBP01-006:skill_sp
+#. ... and 1 more
+msgid "減る"
+msgstr "ลดลง"
+
+#. holomem:hBP07-044:arts_1_effect
+#. oshi:hBP05-003:skill_sp
+#. oshi:hBP05-003:skill_sp
+msgid "スタッフ"
+msgstr "Staff"
+
+#. holomem:hBP07-046:keyword_effect
+msgid "エリザベス"
+msgstr "เอลิซาเบธ"
+
+#. holomem:hBP07-046:keyword_effect
+msgid "ローズ"
+msgstr "โรส"
+
+#. holomem:hBP07-046:keyword_effect
+msgid "ブラッド"
+msgstr "แบล็ด"
+
+#. holomem:hBP07-046:keyword_effect
+msgid "フレイム"
+msgstr "เฟลม"
+
+#. holomem:hBP07-089:keyword_effect
+msgid "っ"
+msgstr "っ"
+
+#. holomem:hBP07-089:keyword_effect
+msgid "しゃ"
+msgstr "ชะ"
+
+#. holomem:hBP07-089:keyword_effect
+msgid "反撃"
+msgstr "โต้กลับ"
+
+#. holomem:hBP07-089:keyword_effect
+msgid "抜刀"
+msgstr "ชักดาบ"
+
+#. holomem:hSD06-006:keyword_effect
+msgid "ﾁｬｷ"
+msgstr "ชะกิ"
+
+#. holomem:hSD06-006:keyword_effect
+#. holomem:hSD07-003:keyword_effect
+#. oshi:hBP05-003:skill_sp
+#. ... and 1 more
+msgid "丸"
+msgstr "มารุ"
+
+#. holomem:hSD06-006:keyword_effect
+msgid "ぽこ"
+msgstr "โปโกะ"
+
+#. holomem:hSD06-006:keyword_effect
+msgid "べ"
+msgstr "เบะ"
+
+#. holomem:hSD06-006:keyword_effect
+msgid "ぇ"
+msgstr "เอะ"
+
+#. holomem:hSD08-005:keyword_effect
+#. oshi:hBP03-001:skill_oshi
+msgid "パソコン"
+msgstr "PC (คอมพิวเตอร์)"
+
+#. holomem:hSD08-005:keyword_effect
+#. oshi:hBP03-001:skill_oshi
+msgid "含む"
+msgstr "รวม"
+
+#. holomem:hSD11-008:arts_1_effect
+#. holomem:hSD11-009:arts_1_effect
+#. oshi:hSD01-002:skill_oshi
+#. ... and 1 more
+msgid "つ"
+msgstr "อัน"
+
+#. holomem:hSD09-007:keyword_effect
+#. holomem:hSD07-012:keyword_effect
+#. holomem:hSD07-004:arts_1_effect
+#. ... and 6 more
+msgid "より"
+msgstr "มากกว่า / กว่า"
+
+#. holomem:hSD09-007:keyword_effect
+#. holomem:hSD07-004:arts_1_effect
+#. support:hBP03-088:ability_text
+#. ... and 4 more
+msgid "少ない"
+msgstr "น้อยกว่า"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "鷹"
+msgstr "เหยี่ยว"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "嶺"
+msgstr "ยอดเขา"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "ルイ"
+msgstr "รุย"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "大神"
+msgstr "โอคามิ"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "ミオ"
+msgstr "มิโอะ"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "ラプラス"
+msgstr "ลาปลาส"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "ダークネス"
+msgstr "ดาร์กเนส"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "戌"
+msgstr "สุนัข"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "神"
+msgstr "เทพ"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "ころ"
+msgstr "โคโระ"
+
+#. holomem:hSD03-008:keyword_effect
+msgid "ね"
+msgstr "เนะ"
+
+#. holomem:hSD07-012:keyword_effect
+msgid "少なけれ"
+msgstr "ถ้าน้อยกว่า"
+
+#. holomem:hSD07-003:keyword_effect
+#. oshi:hBP05-003:skill_sp
+#. oshi:hBP05-003:skill_sp
+msgid "尾"
+msgstr "หาง"
+
+#. holomem:hSD07-003:keyword_effect
+#. oshi:hBP05-003:skill_sp
+#. oshi:hBP05-003:skill_sp
+msgid "ポルカ"
+msgstr "โปลก้า"
+
+#. holomem:hSD07-003:keyword_effect
+msgid "白銀"
+msgstr "ฮาคุงิน"
+
+#. holomem:hSD07-003:keyword_effect
+msgid "ノエル"
+msgstr "โนเอล"
+
+#. oshi:hBP01-001:skill_oshi
+#. oshi:hBP01-001:skill_sp
+#. oshi:hBP01-002:skill_oshi
+#. ... and 284 more
+msgid "ホロパワー"
+msgstr "Holo Power"
+
+#. oshi:hBP01-001:skill_sp
+#. oshi:hBP01-002:skill_sp
+#. oshi:hBP01-003:skill_sp
+#. ... and 140 more
+msgid "ゲームに1回"
+msgstr "1 ครั้งต่อเกม"
+
+#. oshi:hBP01-007:skill_sp
+msgid "それ"
+msgstr "นั้น"
+
+#. oshi:hBP02-005:skill_oshi
+#. support:hBP01-123:ability_text
+#. support:hBP03-108:ability_text
+msgid "振り"
+msgstr "ทอย"
+
+#. oshi:hBP02-005:skill_oshi
+#. support:hBP01-123:ability_text
+#. support:hBP03-108:ability_text
+msgid "直す"
+msgstr "ทอยใหม่"
+
+#. oshi:hBP04-003:skill_sp
+msgid "一条"
+msgstr "อิจิโจ"
+
+#. oshi:hBP04-003:skill_sp
+msgid "莉"
+msgstr "ริ"
+
+#. oshi:hBP04-003:skill_sp
+msgid "々"
+msgstr "々"
+
+#. oshi:hBP04-003:skill_sp
+msgid "華"
+msgstr "ฮานะ"
+
+#. oshi:hBP04-003:skill_sp
+msgid "飯"
+msgstr "ข้าว"
+
+#. oshi:hBP04-005:skill_oshi
+msgid "度"
+msgstr "ครั้ง"
+
+#. oshi:hSD01-002:skill_oshi
+#. oshi:hSD01-002:skill_oshi
+msgid "宣言"
+msgstr "ประกาศ"
+
+#. oshi:hSD01-002:skill_oshi
+msgid "出る"
+msgstr "ออก"
+
+#. oshi:hSD13-001:skill_oshi
+msgid "選べる"
+msgstr "เลือกได้"
+
+#. oshi:hSD13-002:skill_oshi
+msgid "入れ替える"
+msgstr "สลับ"
+
+#. support:hBP01-102:ability_text
+#. support:hBP01-109:ability_text
+#. support:hBP01-111:ability_text
+#. ... and 27 more
+msgid "含ま"
+msgstr "รวม"
+
+#. support:hBP01-110:ability_text
+#. support:hBP02-087:ability_text
+msgid "変更"
+msgstr "เปลี่ยนแปลง"
+
+#. support:hBP01-110:ability_text
+msgid "可能"
+msgstr "เป็นไปได้"
+
+#. support:hBP01-115:ability_text
+#. support:hBP01-117:ability_text
+#. support:hBP01-118:ability_text
+#. ... and 63 more
+msgid "追加"
+msgstr "เพิ่มเติม"
+
+#. support:hBP01-115:ability_text
+#. support:hBP01-117:ability_text
+#. support:hBP01-118:ability_text
+#. ... and 94 more
+msgid "だけ"
+msgstr "แค่"
+
+#. support:hBP01-121:ability_text
+#. support:hBP07-110:ability_text
+msgid "上がっ"
+msgstr "เพิ่มขึ้น"
+
+#. support:hBP01-122:ability_text
+#. support:hBP01-123:ability_text
+#. support:hBP01-125:ability_text
+#. ... and 25 more
+msgid "られ"
+msgstr "ได้"
+
+#. support:hBP01-122:ability_text
+#. support:hBP01-123:ability_text
+#. support:hBP01-125:ability_text
+#. ... and 27 more
+msgid "何"
+msgstr "เท่าไหร่ / อะไร"
+
+#. support:hBP01-123:ability_text
+#. support:hBP03-108:ability_text
+msgid "結果"
+msgstr "ผลลัพธ์"
+
+#. support:hBP01-123:ability_text
+#. support:hBP03-108:ability_text
+msgid "はじめ"
+msgstr "เริ่มต้น"
+
+#. support:hBP02-086:ability_text
+msgid "持た"
+msgstr "มี"
+
+#. support:hBP02-087:ability_text
+msgid "ねえ"
+msgstr "นะ"
+
+#. support:hBP02-087:ability_text
+#. support:hBP02-087:ability_text
+#. support:hBP02-087:ability_text
+#. ... and 4 more
+msgid "゛"
+msgstr "゛"
+
+#. support:hBP02-087:ability_text
+#. support:hBP02-087:ability_text
+#. support:hBP02-087:ability_text
+#. ... and 3 more
+msgid "え"
+msgstr "อี"
+
+#. support:hBP02-087:ability_text
+msgid "ターンに2回"
+msgstr "2 ครั้งต่อเทิร์น"
+
+#. support:hBP03-086:ability_text
+#. support:hBP05-074:ability_text
+msgid "エクストラ"
+msgstr "Extra"
+
+#. support:hBP03-086:ability_text
+#. support:hBP05-074:ability_text
+msgid "入れ"
+msgstr "ใส่"
+
+#. support:hBP06-088:ability_text
+msgid "させ"
+msgstr "ทำให้"
+
+#. support:hBP06-103:ability_text
+msgid "期"
+msgstr "ยุค / รุ่น"
+
+#. support:hBP06-103:ability_text
+msgid "生"
+msgstr "เกิด"
+
+#. support:hBP07-095:ability_text
+msgid "小さい"
+msgstr "น้อยกว่า"
+
+#. support:hBP07-107:ability_text
+msgid "時間"
+msgstr "เวลา"
+
+#. support:hBP07-107:ability_text
+msgid "典獄"
+msgstr "ทิปโงกุ (Jailer)"
+
+#. support:hSD10-013:ability_text
+msgid "エンド"
+msgstr "End"
+
+#. support:hSD03-013:ability_text
+msgid "てる"
+msgstr "อยู่"
+
+#. yell:hY01-001:ability_text
+#. yell:hY02-001:ability_text
+#. yell:hY03-001:ability_text
+#. ... and 49 more
+msgid "離れる"
+msgstr "ออกจาก"
+
+#. yell:hY01-001:ability_text
+#. yell:hY02-001:ability_text
+#. yell:hY03-001:ability_text
+#. ... and 49 more
+msgid "指定"
+msgstr "ระบุ"
