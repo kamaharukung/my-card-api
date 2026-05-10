@@ -3862,7 +3862,7 @@
           {
             "valueType": "IMAGE"
           },
-          210,
+          180,
           "hBP02-059",
           430,
           "hBP02",
@@ -24142,13 +24142,13 @@
           "hBP07-030",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-030_SR.png",
           "SR",
-          125,
+          145,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hBP07-030",
           1941,
           "hBP07",
