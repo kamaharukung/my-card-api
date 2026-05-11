@@ -24628,13 +24628,13 @@
           "hBP07-057",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-057_SR.png",
           "SR",
-          105,
+          125,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP07-057",
           1968,
           "hBP07",
@@ -37684,7 +37684,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hSD10-001",
           1456,
           "hSD10",
@@ -38926,7 +38926,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hSD13-005",
           1773,
           "hSD13",
@@ -38944,7 +38944,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hSD13-006",
           1774,
           "hSD13",
@@ -38962,7 +38962,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD13-007",
           1775,
           "hSD13",
