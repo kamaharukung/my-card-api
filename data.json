@@ -38614,7 +38614,7 @@
           "hSD12-011",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-011_RR.png",
           "RR",
-          55,
+          45,
           "",
           "หมด",
           {
@@ -38902,13 +38902,13 @@
           "hSD13-004",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-004_C.png",
           "C",
-          45,
+          30,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD13-004",
           1772,
           "hSD13",
