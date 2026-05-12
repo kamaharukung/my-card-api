@@ -18,7 +18,7 @@ msgstr "#ID3期生"
 #. holomem:hBP01-025:name
 #. ... and 11 more
 msgid "ベスティア・ゼータ"
-msgstr "ベスティア・ゼータ"
+msgstr "Vestia Zeta"
 
 #. holomem:hBP01-027:card_type
 #. holomem:hBP01-051:card_type
@@ -57,7 +57,7 @@ msgstr "#秘密結社holoX"
 #. holomem:hBP01-049:name
 #. ... and 18 more
 msgid "風真いろは"
-msgstr "風真いろは"
+msgstr "Kazama Iroha"
 
 #. holomem:hBP01-051:arts_1_name
 msgid "エールを束ねて"
@@ -86,7 +86,7 @@ msgstr "#ケモミミ"
 #. holomem:hBP01-069:name
 #. ... and 10 more
 msgid "尾丸ポルカ"
-msgstr "尾丸ポルカ"
+msgstr "Omaru Polka"
 
 #. holomem:hBP01-071:keyword_type
 #. holomem:hBP01-012:keyword_type
@@ -144,7 +144,7 @@ msgstr "#4期生"
 #. holomem:hBP01-014:name
 #. ... and 10 more
 msgid "天音かなた"
-msgstr "天音かなた"
+msgstr "Amane Kanata"
 
 #. holomem:hBP01-010:card_type
 #. holomem:hBP01-012:card_type
@@ -203,7 +203,7 @@ msgstr "#絵"
 #. holomem:hBP01-017:name
 #. ... and 5 more
 msgid "七詩ムメイ"
-msgstr "七詩ムメイ"
+msgstr "Nanashi Mumei"
 
 #. holomem:hBP01-015:extra
 #. holomem:hBP01-021:extra
@@ -260,7 +260,7 @@ msgstr "#0期生"
 #. holomem:hBP01-023:name
 #. ... and 7 more
 msgid "ときのそら"
-msgstr "ときのそら"
+msgstr "Tokino Sora"
 
 #. holomem:hBP01-021:arts_1_name
 msgid "みんな～こんそめ～"
@@ -368,7 +368,7 @@ msgstr "#お酒"
 #. holomem:hBP01-034:name
 #. ... and 9 more
 msgid "アキ・ローゼンタール"
-msgstr "アキ・ローゼンタール"
+msgstr "Aki Rosenthal"
 
 #. holomem:hBP01-032:arts_1_name
 msgid "アロ～ナ！"
@@ -426,7 +426,7 @@ msgstr "#3期生"
 #. holomem:hBP01-040:name
 #. ... and 12 more
 msgid "兎田ぺこら"
-msgstr "兎田ぺこら"
+msgstr "Usada Pekora"
 
 #. holomem:hBP01-038:arts_1_name
 msgid "こんぺこー！"
@@ -544,7 +544,7 @@ msgstr "リレーションスカイ"
 #. holomem:hBP01-058:name
 #. ... and 8 more
 msgid "鷹嶺ルイ"
-msgstr "鷹嶺ルイ"
+msgstr "Takane Lui"
 
 #. holomem:hBP01-056:arts_1_name
 msgid "皆さん、待っ鷹ね？"
@@ -591,7 +591,7 @@ msgstr "ホークレイヴ"
 #. holomem:hBP01-064:name
 #. ... and 7 more
 msgid "小鳥遊キアラ"
-msgstr "小鳥遊キアラ"
+msgstr "Takanashi Kiara"
 
 #. holomem:hBP01-062:arts_1_name
 msgid "キッケリキー！"
@@ -650,7 +650,7 @@ msgstr "共依存"
 #. holomem:hBP01-074:name
 #. ... and 10 more
 msgid "ハコス・ベールズ"
-msgstr "ハコス・ベールズ"
+msgstr "Hakos Baelz"
 
 #. holomem:hBP01-074:keyword_name
 msgid "ネズミアイドルがいよいよ登場！"
@@ -669,7 +669,7 @@ msgstr "カオスシャッフル"
 #. holomem:hBP01-078:name
 #. ... and 19 more
 msgid "星街すいせい"
-msgstr "星街すいせい"
+msgstr "Hoshimachi Suisei"
 
 #. holomem:hBP01-076:arts_1_name
 msgid "スターの原石"
@@ -720,7 +720,7 @@ msgstr "輝く彗星"
 #. holomem:hBP01-084:name
 #. ... and 10 more
 msgid "こぼ・かなえる"
-msgstr "こぼ・かなえる"
+msgstr "Kobo Kanaeru"
 
 #. holomem:hBP01-082:arts_1_name
 msgid "ぼこぼこぼこぼ"
@@ -775,7 +775,7 @@ msgstr "楽しみにしてて！！"
 #. holomem:hBP01-094:name
 #. ... and 10 more
 msgid "オーロ・クロニー"
-msgstr "オーロ・クロニー"
+msgstr "Ouro Kronii"
 
 #. holomem:hBP01-092:arts_1_name
 msgid "クロにちは～"
@@ -825,7 +825,7 @@ msgstr "このホロメンはBloomできない"
 #. holomem:hSD07-009:name
 #. ... and 17 more
 msgid "不知火フレア"
-msgstr "不知火フレア"
+msgstr "Shiranui Flare"
 
 #. holomem:hBP01-097:keyword_name
 msgid "それは「愛と絆の物語」"
@@ -840,7 +840,7 @@ msgstr "フレア～扉の向こう側へ～"
 #. holomem:hBP02-014:name
 #. ... and 12 more
 msgid "白銀ノエル"
-msgstr "白銀ノエル"
+msgstr "Shirogane Noel"
 
 #. holomem:hBP01-098:keyword_name
 msgid "それは「俺」"
@@ -862,7 +862,7 @@ msgstr "#海"
 #. holomem:hBP02-030:name
 #. ... and 11 more
 msgid "宝鐘マリン"
-msgstr "宝鐘マリン"
+msgstr "Houshou Marine"
 
 #. holomem:hBP01-099:keyword_name
 msgid "それは「エジンバラ城」"
@@ -877,7 +877,7 @@ msgstr "マリン～扉の向こう側へ～"
 #. holomem:hBP02-055:name
 #. ... and 20 more
 msgid "森カリオペ"
-msgstr "森カリオペ"
+msgstr "Mori Calliope"
 
 #. holomem:hBP01-100:keyword_name
 msgid "ソウル収穫"
@@ -889,7 +889,7 @@ msgstr "ソウルご案内"
 
 #. holomem:hBP01-101:name
 msgid "ワトソン・アメリア"
-msgstr "ワトソン・アメリア"
+msgstr "Watson Amelia"
 
 #. holomem:hBP01-101:keyword_name
 msgid "手がかり発見"
@@ -926,7 +926,7 @@ msgstr "#料理"
 #. holomem:hBP02-025:name
 #. ... and 12 more
 msgid "大神ミオ"
-msgstr "大神ミオ"
+msgstr "Ookami Mio"
 
 #. holomem:hBP02-027:arts_1_name
 msgid "タロットの導き"
@@ -951,7 +951,7 @@ msgstr "#シューター"
 #. holomem:hBP06-034:name
 #. ... and 15 more
 msgid "百鬼あやめ"
-msgstr "百鬼あやめ"
+msgstr "Nakiri Ayame"
 
 #. holomem:hBP02-034:arts_1_name
 msgid "余は草"
@@ -966,7 +966,7 @@ msgstr "オーガニックショット"
 #. holomem:hBP05-041:name
 #. ... and 15 more
 msgid "猫又おかゆ"
-msgstr "猫又おかゆ"
+msgstr "Nekomata Okayu"
 
 #. holomem:hBP02-041:keyword_name
 msgid "毒の愛"
@@ -981,7 +981,7 @@ msgstr "ぽいずん猫"
 #. holomem:hBP05-052:name
 #. ... and 15 more
 msgid "癒月ちょこ"
-msgstr "癒月ちょこ"
+msgstr "Yuzuki Choco"
 
 #. holomem:hBP02-060:keyword_name
 msgid "誘惑の視線"
@@ -996,7 +996,7 @@ msgstr "隠しきれない魅力"
 #. holomem:hBP02-062:name
 #. ... and 2 more
 msgid "一伊那尓栖"
-msgstr "一伊那尓栖"
+msgstr "Ninomae Ina’nis"
 
 #. holomem:hBP02-064:arts_1_name
 msgid "アルカイックスマイル"
@@ -1007,7 +1007,7 @@ msgstr "アルカイックスマイル"
 #. holomem:hBP02-010:name
 #. ... and 19 more
 msgid "白上フブキ"
-msgstr "白上フブキ"
+msgstr "Shirakami Fubuki"
 
 #. holomem:hBP02-008:arts_1_name
 msgid "こんこんきーつね！"
@@ -1081,7 +1081,7 @@ msgstr "#ID2期生"
 #. holomem:hBP02-020:name
 #. ... and 6 more
 msgid "パヴォリア・レイネ"
-msgstr "パヴォリア・レイネ"
+msgstr "Pavolia Reine"
 
 #. holomem:hBP02-018:arts_1_name
 msgid "ペルハティアン！"
@@ -1228,7 +1228,7 @@ msgstr "おかゆ～"
 #. holomem:hBP02-044:name
 #. ... and 6 more
 msgid "紫咲シオン"
-msgstr "紫咲シオン"
+msgstr "Murasaki Shion"
 
 #. holomem:hBP02-042:arts_1_name
 msgid "どうも～"
@@ -1369,7 +1369,7 @@ msgstr "楽しんでいこう！！！"
 #. holomem:hBP02-067:name
 #. ... and 10 more
 msgid "ネリッサ・レイヴンクロフト"
-msgstr "ネリッサ・レイヴンクロフト"
+msgstr "Nerissa Ravencroft"
 
 #. holomem:hBP02-066:arts_1_name
 msgid "良い響きですね"
@@ -1510,7 +1510,7 @@ msgstr "カードするぺこ"
 #. holomem:hBP03-032:name
 #. ... and 10 more
 msgid "赤井はあと"
-msgstr "赤井はあと"
+msgstr "Akai Haato"
 
 #. holomem:hBP03-034:keyword_name
 msgid "もう1人のはあと"
@@ -1525,7 +1525,7 @@ msgstr "レッド オア ルージュ"
 #. holomem:hBP03-038:name
 #. ... and 3 more
 msgid "モココ・アビスガード"
-msgstr "モココ・アビスガード"
+msgstr "Mococo Abyssgard"
 
 #. holomem:hBP03-039:keyword_name
 msgid "魔界乃番犬の暴れん坊"
@@ -1548,7 +1548,7 @@ msgstr "元気いっぱい！"
 #. holomem:hBP03-047:name
 #. ... and 4 more
 msgid "火威青"
-msgstr "火威青"
+msgstr "Hiodoshi Ao"
 
 #. holomem:hBP03-049:keyword_name
 msgid "困ったお姫様たちだね"
@@ -1571,7 +1571,7 @@ msgstr "サンライズエール"
 #. holomem:hBP03-081:name
 #. ... and 3 more
 msgid "音乃瀬奏"
-msgstr "音乃瀬奏"
+msgstr "Otonose Kanade"
 
 #. holomem:hBP03-083:keyword_name
 msgid "なんちゅーこった"
@@ -1593,7 +1593,7 @@ msgstr "#ベイビー"
 #. holomem:hBP03-011:name
 #. ... and 12 more
 msgid "姫森ルーナ"
-msgstr "姫森ルーナ"
+msgstr "Himemori Luna"
 
 #. holomem:hBP03-009:arts_1_name
 msgid "みんな～、おりゅ～？"
@@ -1644,7 +1644,7 @@ msgstr "お疲れ様なのらね"
 #. holomem:hSD05-002:name
 #. ... and 8 more
 msgid "轟はじめ"
-msgstr "轟はじめ"
+msgstr "Todoroki Hajime"
 
 #. holomem:hBP03-015:keyword_name
 msgid "メランコリャック"
@@ -1667,7 +1667,7 @@ msgstr "滅紫の雷"
 #. holomem:hBP03-018:name
 #. ... and 6 more
 msgid "獅白ぼたん"
-msgstr "獅白ぼたん"
+msgstr "Shishiro Botan"
 
 #. holomem:hBP03-016:arts_1_name
 msgid "ららーいおん♪"
@@ -1742,7 +1742,7 @@ msgstr "このホロメンは〈フワワ・アビスガード〉〈モココ・
 #. holomem:hBP03-027:name
 #. ... and 18 more
 msgid "さくらみこ"
-msgstr "さくらみこ"
+msgstr "Sakura Miko"
 
 #. holomem:hBP03-025:arts_1_name
 msgid "にゃっはろ～"
@@ -1829,7 +1829,7 @@ msgstr "モココとドーナツクッキング"
 #. holomem:hBP03-042:name
 #. ... and 4 more
 msgid "フワワ・アビスガード"
-msgstr "フワワ・アビスガード"
+msgstr "Fuwawa Abyssgard"
 
 #. holomem:hBP03-040:arts_1_name
 msgid "チワワじゃないよ、フワワだよ"
@@ -1892,7 +1892,7 @@ msgstr "ReGLOSSのボーイッシュ担当"
 #. holomem:hBP03-053:name
 #. ... and 7 more
 msgid "常闇トワ"
-msgstr "常闇トワ"
+msgstr "Tokoyami Towa"
 
 #. holomem:hBP03-051:arts_1_name
 msgid "こんやっぴー"
@@ -1935,7 +1935,7 @@ msgstr "私を縛る固定概念を壊せ"
 #. holomem:hBP03-059:name
 #. ... and 9 more
 msgid "ロボ子さん"
-msgstr "ロボ子さん"
+msgstr "Robocosan"
 
 #. holomem:hBP03-057:arts_1_name
 msgid "はろーぼー！"
@@ -1966,7 +1966,7 @@ msgstr "自称【高性能】"
 #. holomem:hBP03-063:name
 #. ... and 11 more
 msgid "戌神ころね"
-msgstr "戌神ころね"
+msgstr "Inugami Korone"
 
 #. holomem:hBP03-061:arts_1_name
 msgid "ぉぁよ～"
@@ -2017,7 +2017,7 @@ msgstr "最凶天災"
 #. holomem:hBP03-069:name
 #. ... and 15 more
 msgid "角巻わため"
-msgstr "角巻わため"
+msgstr "Tsunomaki Watame"
 
 #. holomem:hBP03-067:arts_1_name
 msgid "こんばんドドド～！"
@@ -2143,7 +2143,7 @@ msgstr "情熱ステージ"
 #. holomem:hBP04-040:name
 #. ... and 2 more
 msgid "カエラ・コヴァルスキア"
-msgstr "カエラ・コヴァルスキア"
+msgstr "Kaela Kovalskia"
 
 #. holomem:hBP04-042:arts_2_name
 msgid "お墨付きの一品"
@@ -2154,7 +2154,7 @@ msgstr "お墨付きの一品"
 #. holomem:hBP04-051:name
 #. ... and 12 more
 msgid "シオリ・ノヴェラ"
-msgstr "シオリ・ノヴェラ"
+msgstr "Shiori Novella"
 
 #. holomem:hBP04-053:keyword_name
 msgid "禁断の知識"
@@ -2185,7 +2185,7 @@ msgstr "最期の一杯"
 #. holomem:hBP04-010:name
 #. ... and 8 more
 msgid "博衣こより"
-msgstr "博衣こより"
+msgstr "Hakui Koyori"
 
 #. holomem:hBP04-008:arts_1_name
 msgid "こんこよ～"
@@ -2236,7 +2236,7 @@ msgstr "私の大切な人"
 #. holomem:hBP04-018:name
 #. ... and 10 more
 msgid "ラオーラ・パンテーラ"
-msgstr "ラオーラ・パンテーラ"
+msgstr "Raora Panthera"
 
 #. holomem:hBP04-016:arts_1_name
 msgid "チアオーラ"
@@ -2263,7 +2263,7 @@ msgstr "只今、情報収集中"
 #. holomem:hBP04-022:name
 #. ... and 17 more
 msgid "儒烏風亭らでん"
-msgstr "儒烏風亭らでん"
+msgstr "Juufuutei Raden"
 
 #. holomem:hBP04-020:arts_1_name
 msgid "儒烏風亭一門は前座見習い！"
@@ -2326,7 +2326,7 @@ msgstr "うちってフブキのものだったの？"
 #. holomem:hBP04-030:name
 #. ... and 4 more
 msgid "セシリア・イマーグリーン"
-msgstr "セシリア・イマーグリーン"
+msgstr "Cecilia Immergreen"
 
 #. holomem:hBP04-028:arts_1_name
 msgid "正義の調べ"
@@ -2357,7 +2357,7 @@ msgstr "マルチリンガル"
 #. holomem:hBP04-034:name
 #. ... and 8 more
 msgid "一条莉々華"
-msgstr "一条莉々華"
+msgstr "Ichijou Ririka"
 
 #. holomem:hBP04-032:arts_1_name
 msgid "こんりり"
@@ -2412,7 +2412,7 @@ msgstr "サイレント笑い"
 #. holomem:hBP04-045:name
 #. ... and 7 more
 msgid "雪花ラミィ"
-msgstr "雪花ラミィ"
+msgstr "Yukihana Lamy"
 
 #. holomem:hBP04-043:arts_1_name
 msgid "こんらみ～"
@@ -2475,7 +2475,7 @@ msgstr "魅力的な物語"
 #. holomem:hBP04-056:name
 #. ... and 12 more
 msgid "ラプラス・ダークネス"
-msgstr "ラプラス・ダークネス"
+msgstr "La+ Darknesss"
 
 #. holomem:hBP04-054:arts_1_name
 msgid "貴様ら、刮目せよ！！"
@@ -2534,7 +2534,7 @@ msgstr "HOLOROの魂"
 #. holomem:hBP04-065:name
 #. ... and 8 more
 msgid "古石ビジュー"
-msgstr "古石ビジュー"
+msgstr "Koseki Bijou"
 
 #. holomem:hBP04-063:keyword_name
 msgid "キラキラ コセキ！"
@@ -2569,7 +2569,7 @@ msgstr "この輝きが、伝わればいいな"
 #. holomem:hBP04-069:name
 #. ... and 19 more
 msgid "大空スバル"
-msgstr "大空スバル"
+msgstr "Oozora Subaru"
 
 #. holomem:hBP04-067:arts_1_name
 msgid "あじまる！ あじまる！"
@@ -2671,7 +2671,7 @@ msgstr "ダンジョンアドベンチャー"
 #. holomem:hBP04-081:name
 #. ... and 10 more
 msgid "夏色まつり"
-msgstr "夏色まつり"
+msgstr "Natsuiro Matsuri"
 
 #. holomem:hBP04-079:keyword_name
 msgid "わっしょ～い！"
@@ -2710,7 +2710,7 @@ msgstr "お気に入りみつけた"
 #. holomem:hBP04-085:name
 #. ... and 10 more
 msgid "桃鈴ねね"
-msgstr "桃鈴ねね"
+msgstr "Momosuzu Nene"
 
 #. holomem:hBP04-083:arts_1_name
 msgid "こんねね～"
@@ -2745,7 +2745,7 @@ msgstr "ギラギラパワー"
 #. holomem:hBP07-046:name
 #. ... and 9 more
 msgid "エリザベス・ローズ・ブラッドフレイム"
-msgstr "エリザベス・ローズ・ブラッドフレイム"
+msgstr "Elizabeth Rose Bloodflame"
 
 #. holomem:hBP04-087:keyword_name
 msgid "『緋色の女王』"
@@ -2756,7 +2756,7 @@ msgstr "『緋色の女王』"
 #. holomem:hSD13-008:name
 #. ... and 7 more
 msgid "ジジ・ムリン"
-msgstr "ジジ・ムリン"
+msgstr "Gigi Murin"
 
 #. holomem:hBP04-088:keyword_name
 msgid "え？ でも面白かったじゃん！"
@@ -3279,7 +3279,7 @@ msgstr "色彩のリナシメント"
 #. holomem:hBP06-017:name
 #. ... and 6 more
 msgid "響咲リオナ"
-msgstr "響咲リオナ"
+msgstr "Isaki Riona"
 
 #. holomem:hBP06-015:arts_1_name
 msgid "おかえりおな～"
@@ -3890,7 +3890,7 @@ msgstr "たくさんの宝物"
 #. holomem:hBP07-034:name
 #. ... and 8 more
 msgid "輪堂千速"
-msgstr "輪堂千速"
+msgstr "Rindo Chihaya"
 
 #. holomem:hBP07-032:keyword_name
 msgid "ドライブ行こうよ"
@@ -4217,7 +4217,7 @@ msgstr "追撃のライオット"
 #. holomem:hBP07-089:name
 #. ... and 8 more
 msgid "虎金妃笑虎"
-msgstr "虎金妃笑虎"
+msgstr "Koganei Niko"
 
 #. holomem:hBP07-087:keyword_name
 msgid "ニコたん出動！"
@@ -4452,7 +4452,7 @@ msgstr "全力で僕なりの歌、お届けします！"
 #. holomem:hSD11-009:name
 #. ... and 1 more
 msgid "水宮枢"
-msgstr "水宮枢"
+msgstr "Mizumiya Su"
 
 #. holomem:hSD11-007:arts_1_name
 msgid "しゅぴしゅわー"
@@ -4511,7 +4511,7 @@ msgstr "トワに見惚れちゃった？"
 #. holomem:hSD10-008:name
 #. ... and 1 more
 msgid "綺々羅々ヴィヴィ"
-msgstr "綺々羅々ヴィヴィ"
+msgstr "Kikirara Vivi"
 
 #. holomem:hSD10-007:arts_1_name
 msgid "ん〜〜〜〜〜ッヴィヴィ〜！"
@@ -6009,7 +6009,7 @@ msgstr "じゃあ敵だね"
 
 #. support:hSD01-016:name
 msgid "春先のどか"
-msgstr "春先のどか"
+msgstr "Harusaki Nodoka"
 
 #. support:hSD01-019:name
 msgid "スゴイパソコン"
