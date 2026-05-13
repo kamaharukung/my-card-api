@@ -2056,13 +2056,13 @@
           "hBP01-094",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-094_U.png",
           "U",
-          195,
+          170,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "hBP01-094",
           135,
           "hBP01",
@@ -13294,7 +13294,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          45,
           "hBP04-004",
           864,
           "hBP04",
@@ -23194,7 +23194,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP06-093",
           1570,
           "hBP06",
@@ -37684,7 +37684,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hSD10-001",
           1456,
           "hSD10",
@@ -37756,7 +37756,7 @@
           {
             "valueType": "IMAGE"
           },
-          35,
+          30,
           "hSD10-005",
           1460,
           "hSD10",
@@ -38098,7 +38098,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD11-001",
           1469,
           "hSD11",
