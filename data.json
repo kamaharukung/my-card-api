@@ -7678,7 +7678,7 @@
           {
             "valueType": "IMAGE"
           },
-          150,
+          210,
           "hBP03-050",
           731,
           "hBP03",
@@ -8380,7 +8380,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          75,
           "hBP03-090",
           773,
           "hBP03",
@@ -19558,7 +19558,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          30,
           "hBP06-018",
           1613,
           "hBP06",
@@ -28090,7 +28090,7 @@
           {
             "valueType": "IMAGE"
           },
-          270,
+          165,
           "hBP02-013",
           1175,
           "hCS01",
@@ -30388,13 +30388,13 @@
           "hBP01-079",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-079_P.png",
           "P",
-          495,
+          620,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          105,
+          120,
           "hBP01-079",
           217,
           "hPR",
@@ -30412,7 +30412,7 @@
           {
             "valueType": "IMAGE"
           },
-          75,
+          90,
           "hBP01-080",
           1451,
           "hPR",
@@ -32512,7 +32512,7 @@
           "hBP06-023",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-023_P.png",
           "P",
-          105,
+          80,
           "",
           "หมด",
           {
@@ -32602,13 +32602,13 @@
           "hBP06-041",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-041_P.png",
           "P",
-          170,
+          145,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hBP06-041",
           2051,
           "hPR",
@@ -32908,7 +32908,7 @@
           "hBP07-046",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-046_P.png",
           "P",
-          105,
+          80,
           "",
           "หมด",
           {
