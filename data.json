@@ -5332,7 +5332,7 @@
           "hBP02-031",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-031_U.png",
           "U",
-          20,
+          30,
           22,
           "มีในคลัง",
           {
@@ -21988,7 +21988,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP06-026",
           1503,
           "hBP06",
@@ -25984,7 +25984,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          90,
           "hBP07-006",
           1792,
           "hBP07",
