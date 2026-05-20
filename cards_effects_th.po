@@ -1387,10 +1387,6 @@ msgstr "โจมตีพิเศษ"
 msgid "得る"
 msgstr "ได้รับ"
 
-#. holomem:hBP03-074:arts_1_effect
-msgid "ムーナ･ホシノヴァ"
-msgstr "มูน่า โฮชิโนวะ"
-
 #. holomem:hBP04-053:arts_1_effect
 msgid "裏向き"
 msgstr "คว่ำหน้า"
