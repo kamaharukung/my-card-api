@@ -122,7 +122,7 @@ msgstr "#歌"
 #. holomem:hBP01-089:name
 #. ... and 10 more
 msgid "ムーナ・ホシノヴァ"
-msgstr "ムーナ・ホシノヴァ"
+msgstr "Moona Hoshinova"
 
 #. holomem:hBP01-091:arts_1_name
 msgid "月は夜に。"
