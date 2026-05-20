@@ -517,7 +517,7 @@ msgstr "元気を全力でお届けします！"
 #. holomem:hBP01-054:name
 #. ... and 10 more
 msgid "アイラニ・イオフィフティーン"
-msgstr "アイラニ・イオフィフティーン"
+msgstr "Airani Iofifteen"
 
 #. holomem:hBP01-052:arts_1_name
 msgid "スラマッパギ！"
@@ -1286,7 +1286,7 @@ msgstr "#語学"
 #. holomem:hBP02-050:name
 #. ... and 6 more
 msgid "クレイジー・オリー"
-msgstr "クレイジー・オリー"
+msgstr "Kureiji Ollie"
 
 #. holomem:hBP02-048:arts_1_name
 msgid "ゾンばんは！"
@@ -2064,7 +2064,7 @@ msgstr "わためぇ Night Fever!!"
 #. holomem:hBP03-075:name
 #. ... and 6 more
 msgid "アユンダ・リス"
-msgstr "アユンダ・リス"
+msgstr "Ayunda Risu"
 
 #. holomem:hBP03-073:arts_1_name
 msgid "こんリス"
@@ -2624,7 +2624,7 @@ msgstr "太陽少女"
 #. holomem:hBP04-075:name
 #. ... and 6 more
 msgid "アーニャ・メルフィッサ"
-msgstr "アーニャ・メルフィッサ"
+msgstr "Anya Melfissa"
 
 #. holomem:hBP04-073:arts_1_name
 msgid "おはよー！"
