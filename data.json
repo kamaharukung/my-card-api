@@ -30766,13 +30766,13 @@
           "hBP02-014",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-014_P.png",
           "P",
-          145,
+          170,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "hBP02-014",
           511,
           "hPR",
@@ -32230,7 +32230,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP05-011",
           1398,
           "hPR",
