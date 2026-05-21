@@ -12065,8 +12065,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-052_S.png",
           "S",
           55,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -16043,8 +16043,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-036_S.png",
           "S",
           55,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -24557,8 +24557,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-054_SR.png",
           "SR",
           320,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -34168,13 +34168,13 @@
           "hY01-009",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY01-009_P.png",
           "P",
-          1245,
+          995,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          525,
+          420,
           "hY01-009",
           1128,
           "hPR",
@@ -34204,13 +34204,13 @@
           "hY02-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY02-007_P.png",
           "P",
-          3200,
+          2495,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1350,
+          1050,
           "hY02-007",
           1129,
           "hPR",
@@ -34312,13 +34312,13 @@
           "hY03-012",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-012_P.png",
           "P",
-          995,
+          1245,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          420,
+          525,
           "hY03-012",
           1131,
           "hPR",
@@ -34372,7 +34372,7 @@
           {
             "valueType": "IMAGE"
           },
-          270,
+          360,
           "hY05-007",
           1133,
           "hPR",
