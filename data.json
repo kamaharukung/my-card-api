@@ -19882,7 +19882,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP06-034",
           1631,
           "hBP06",
@@ -19918,7 +19918,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP06-037",
           1633,
           "hBP06",
@@ -19972,7 +19972,7 @@
           {
             "valueType": "IMAGE"
           },
-          900,
+          1050,
           "hBP06-039",
           1636,
           "hBP06",
@@ -32626,7 +32626,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "hBP06-043",
           2044,
           "hPR",
@@ -33268,13 +33268,13 @@
           "hSD02-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD02-007_P.png",
           "P",
-          445,
+          495,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          75,
+          90,
           "hSD02-007",
           497,
           "hPR",
