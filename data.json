@@ -24544,7 +24544,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          35,
           "hBP07-053",
           1963,
           "hBP07",
@@ -24562,7 +24562,7 @@
           {
             "valueType": "IMAGE"
           },
-          75,
+          90,
           "hBP07-054",
           1964,
           "hBP07",
@@ -25114,13 +25114,13 @@
           "hBP07-083",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-083_UR.png",
           "UR",
-          2495,
+          3200,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          900,
+          1050,
           "hBP07-083",
           1995,
           "hBP07",
@@ -25390,7 +25390,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "hBP07-101",
           2010,
           "hBP07",
@@ -32068,7 +32068,7 @@
           {
             "valueType": "IMAGE"
           },
-          1050,
+          600,
           "hBP04-068",
           1119,
           "hPR",
@@ -34456,13 +34456,13 @@
           "hY01-009",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY01-009_P.png",
           "P",
-          995,
+          1245,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          420,
+          360,
           "hY01-009",
           1128,
           "hPR",
@@ -34654,13 +34654,13 @@
           "hY05-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY05-007_P.png",
           "P",
-          870,
+          995,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          360,
+          420,
           "hY05-007",
           1133,
           "hPR",
@@ -34690,13 +34690,13 @@
           "hY06-006",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY06-006_P.png",
           "P",
-          870,
+          995,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          360,
+          420,
           "hY06-006",
           1134,
           "hPR",
