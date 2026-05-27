@@ -8410,13 +8410,13 @@
           "hBP03-092",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-092_S.png",
           "S",
-          55,
+          80,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP03-092",
           775,
           "hBP03",
@@ -25372,7 +25372,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          75,
           "hBP07-099",
           2009,
           "hBP07",
@@ -31636,7 +31636,7 @@
           {
             "valueType": "IMAGE"
           },
-          270,
+          360,
           "hBP03-092",
           1397,
           "hPR",
@@ -41860,7 +41860,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hSD01-010",
           2182,
           "hWF01",
