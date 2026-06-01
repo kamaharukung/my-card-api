@@ -136,7 +136,7 @@
           {
             "valueType": "IMAGE"
           },
-          2700,
+          3000,
           "hBP01-006",
           34,
           "hBP01",
@@ -8884,7 +8884,7 @@
           {
             "valueType": "IMAGE"
           },
-          300,
+          330,
           "hY02-003",
           798,
           "hBP03",
@@ -19246,13 +19246,13 @@
           "hBP06-003",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-003_OUR.png",
           "OUR",
-          6200,
+          7450,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1950,
+          2400,
           "hBP06-003",
           1596,
           "hBP06",
@@ -20470,7 +20470,7 @@
           "hBP06-066",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-066_UR.png",
           "UR",
-          745,
+          870,
           "",
           "หมด",
           {
@@ -23050,7 +23050,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP06-085",
           1562,
           "hBP06",
@@ -30232,7 +30232,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hBP01-068",
           180,
           "hPR",
@@ -31924,7 +31924,7 @@
           {
             "valueType": "IMAGE"
           },
-          255,
+          300,
           "hBP04-044",
           1115,
           "hPR",
@@ -34210,7 +34210,7 @@
           {
             "valueType": "IMAGE"
           },
-          675,
+          450,
           "hSD11-009",
           2148,
           "hPR",
@@ -41518,7 +41518,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hBP02-030",
           2162,
           "hWF01",
@@ -41788,7 +41788,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          75,
           "hBP04-070",
           2177,
           "hWF01",
@@ -41860,7 +41860,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hSD01-005",
           2181,
           "hWF01",
@@ -41878,7 +41878,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hSD01-010",
           2182,
           "hWF01",
