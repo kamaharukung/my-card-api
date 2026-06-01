@@ -454,7 +454,7 @@
           "hBP01-005",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-005_OSR.png",
           "OSR",
-          45,
+          80,
           "",
           "หมด",
           {
@@ -472,7 +472,7 @@
           "hBP01-006",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-006_OSR.png",
           "OSR",
-          55,
+          70,
           1,
           "มีในคลัง",
           {
@@ -490,13 +490,13 @@
           "hBP01-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-007_OSR.png",
           "OSR",
-          370,
+          445,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          105,
+          120,
           "hBP01-007",
           35,
           "hBP01",
@@ -14278,13 +14278,13 @@
           "hBP04-059",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-059_RR.png",
           "RR",
-          105,
+          80,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          15,
+          1,
           "hBP04-059",
           921,
           "hBP04",
@@ -21640,7 +21640,7 @@
           "hBP06-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-007_OSR.png",
           "OSR",
-          55,
+          70,
           "",
           "หมด",
           {
@@ -24430,7 +24430,7 @@
           "hBP07-047",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-047_S.png",
           "S",
-          80,
+          55,
           1,
           "มีในคลัง",
           {
@@ -26878,13 +26878,13 @@
           "hBP07-056",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-056_RR.png",
           "RR",
-          45,
+          55,
           4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP07-056",
           1842,
           "hBP07",
