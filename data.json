@@ -2944,7 +2944,7 @@
           {
             "valueType": "IMAGE"
           },
-          1800,
+          2400,
           "hBP02-007",
           379,
           "hBP02",
@@ -3586,13 +3586,13 @@
           "hBP02-045",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-045_S.png",
           "S",
-          195,
+          170,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          35,
+          20,
           "hBP02-045",
           415,
           "hBP02",
@@ -6778,7 +6778,7 @@
           {
             "valueType": "IMAGE"
           },
-          1800,
+          2400,
           "hBP03-003",
           681,
           "hBP03",
@@ -6970,7 +6970,7 @@
           "hBP03-012",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-012_S.png",
           "S",
-          80,
+          70,
           1,
           "มีในคลัง",
           {
@@ -11134,7 +11134,7 @@
           {
             "valueType": "IMAGE"
           },
-          1050,
+          1350,
           "hBP04-001",
           971,
           "hBP04",
@@ -11314,7 +11314,7 @@
           {
             "valueType": "IMAGE"
           },
-          480,
+          675,
           "hBP04-007",
           977,
           "hBP04",
@@ -11512,7 +11512,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          50,
           "hBP04-019",
           988,
           "hBP04",
@@ -15418,7 +15418,7 @@
           {
             "valueType": "IMAGE"
           },
-          480,
+          675,
           "hBP05-007",
           1289,
           "hBP05",
@@ -16480,7 +16480,7 @@
           {
             "valueType": "IMAGE"
           },
-          240,
+          300,
           "hBP05-056",
           1348,
           "hBP05",
@@ -17122,13 +17122,13 @@
           "hSD07-002",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hSD07-002_HR.png",
           "HR",
-          745,
+          870,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          300,
+          360,
           "hSD07-002",
           1374,
           "hBP05",
@@ -17464,7 +17464,7 @@
           "hBP05-002",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-002_OSR.png",
           "OSR",
-          45,
+          55,
           "",
           "หมด",
           {
@@ -19234,7 +19234,7 @@
           {
             "valueType": "IMAGE"
           },
-          1800,
+          2400,
           "hBP06-002",
           1595,
           "hBP06",
@@ -19252,7 +19252,7 @@
           {
             "valueType": "IMAGE"
           },
-          2400,
+          3000,
           "hBP06-003",
           1596,
           "hBP06",
@@ -21262,7 +21262,7 @@
           "hY05-008",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hY05-008_SY.png",
           "SY",
-          320,
+          370,
           "",
           "หมด",
           {
@@ -24232,13 +24232,13 @@
           "hBP07-035",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-035_UR.png",
           "UR",
-          1745,
+          1995,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          525,
+          900,
           "hBP07-035",
           1946,
           "hBP07",
@@ -39610,7 +39610,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD14-001",
           2065,
           "hSD14",
@@ -39934,7 +39934,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD15-001",
           2077,
           "hSD15",
@@ -40258,7 +40258,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD16-001",
           2088,
           "hSD16",
@@ -40546,7 +40546,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD17-001",
           2098,
           "hSD17",
