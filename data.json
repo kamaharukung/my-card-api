@@ -13240,7 +13240,7 @@
           {
             "valueType": "IMAGE"
           },
-          35,
+          45,
           "hBP04-001",
           861,
           "hBP04",
@@ -45477,7 +45477,7 @@
           ]
         ]
       },
-      "Anniversary Merch": {
+      "Merch Set": {
         "headers": [
           "ชื่อสินค้า",
           "ราคา",
@@ -45490,54 +45490,14 @@
         ],
         "data": [
           [
-            "FUWAMOCO 2nd Anniversary Celebration: Set Limited Edition",
+            "FUWAMOCO 2nd Anniversary Celebration Limited Edition Set",
             7100,
             "https://lh3.googleusercontent.com/d/1fCvTRI0eDF3nDIpllvrIjHA-0vkMzeCK",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
+            "Merch Set",
             2
-          ],
-          [
-            "FUWAMOCO 2nd Anniversary Celebration: Fluffy Fuzzy Adventure Mat",
-            1250,
-            "https://lh3.googleusercontent.com/d/1jsnfTK3IgHZEJ10A6v4THb_8Rsvc3PFG",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            3
-          ],
-          [
-            "FUWAMOCO 2nd Anniversary Celebration: FUWAMOCO Ita-Shirt",
-            1800,
-            "https://lh3.googleusercontent.com/d/1ccb7qfrlbw4vmlPW1ej0_HyPmWFSoL5J",
-            1,
-            "มีในคลัง",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            4
-          ],
-          [
-            "FUWAMOCO 2nd Anniversary Celebration: Pero on the Brain♡Cap",
-            1500,
-            "https://lh3.googleusercontent.com/d/1pHKfZsm1xQdz-351bs2wM9i2eau05jtR",
-            1,
-            "มีในคลัง",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            5
-          ],
-          [
-            "FUWAMOCO 2nd Anniversary Celebration: FUWAMOCO Donut♡Cushion",
-            2150,
-            "https://lh3.googleusercontent.com/d/1kEDV6q_bTtB4J7gSKd48TMHKrz9rKyJc",
-            1,
-            "มีในคลัง",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            6
           ],
           [
             "Takanashi Kiara 5th Anniversary Limited Edition Set",
@@ -45546,8 +45506,8 @@
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            7
+            "Merch Set",
+            3
           ],
           [
             "Mori Calliope 5th Anniversary Limited Edition Set",
@@ -45556,18 +45516,18 @@
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            8
+            "Merch Set",
+            4
           ],
           [
-            "Gigi Murin Birthday 2025",
+            "Gigi Murin Birthday 2025 Limited Edition Set",
             4200,
             "https://lh3.googleusercontent.com/d/12Vw0xgNciphNb7x_vAbIeepbHzXWvavu",
             1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            9
+            "Merch Set",
+            5
           ],
           [
             "",
@@ -45576,8 +45536,8 @@
             "",
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            10
+            "Merch Set",
+            6
           ],
           [
             "",
@@ -45586,8 +45546,8 @@
             "",
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            11
+            "Merch Set",
+            7
           ],
           [
             "",
@@ -45596,8 +45556,8 @@
             "",
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Anniversary Merch",
-            12
+            "Merch Set",
+            8
           ]
         ]
       },
