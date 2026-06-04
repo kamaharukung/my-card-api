@@ -3388,13 +3388,13 @@
           "hBP02-034",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-034_SR.png",
           "SR",
-          105,
+          125,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP02-034",
           404,
           "hBP02",
@@ -4072,7 +4072,7 @@
           "hBP02-072",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-072_SR.png",
           "SR",
-          105,
+          80,
           "",
           "หมด",
           {
@@ -4648,13 +4648,13 @@
           "hSD02-009",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hSD02-009_SR.png",
           "SR",
-          170,
+          195,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          30,
+          35,
           "hSD02-009",
           445,
           "hBP02",
@@ -9730,7 +9730,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP03-043",
           607,
           "hBP03",
@@ -13258,7 +13258,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          75,
           "hBP04-002",
           862,
           "hBP04",
@@ -14080,7 +14080,7 @@
           "hBP04-048",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-048_RR.png",
           "RR",
-          55,
+          45,
           4,
           "มีในคลัง",
           {
@@ -19522,7 +19522,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          300,
           "hBP06-015",
           1706,
           "hBP06",
@@ -24562,7 +24562,7 @@
           {
             "valueType": "IMAGE"
           },
-          90,
+          75,
           "hBP07-054",
           1964,
           "hBP07",
@@ -25012,7 +25012,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "hBP07-078",
           1989,
           "hBP07",
@@ -38872,7 +38872,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD12-008",
           1757,
           "hSD12",
@@ -41464,7 +41464,7 @@
           {
             "valueType": "IMAGE"
           },
-          150,
+          180,
           "hBP02-011",
           2159,
           "hWF01",
