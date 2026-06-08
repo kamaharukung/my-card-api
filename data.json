@@ -1535,7 +1535,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-065_U.png",
           "U",
           30,
-          9,
+          5,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -1571,7 +1571,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-067_RR.png",
           "RR",
           45,
-          9,
+          7,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -2273,7 +2273,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-106_U.png",
           "U",
           15,
-          19,
+          17,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -9599,8 +9599,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-036_R.png",
           "R",
           15,
-          4,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -13672,7 +13672,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hBP04-025",
           887,
           "hBP04",
@@ -18761,7 +18761,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-074_C.png",
           "C",
           70,
-          29,
+          27,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -19288,7 +19288,7 @@
           {
             "valueType": "IMAGE"
           },
-          3000,
+          4500,
           "hBP06-004",
           1597,
           "hBP06",
@@ -27370,7 +27370,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP07-083",
           1869,
           "hBP07",
@@ -35879,7 +35879,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-106_U.png",
           "U",
           15,
-          19,
+          17,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
