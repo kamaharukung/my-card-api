@@ -13060,7 +13060,7 @@
           {
             "valueType": "IMAGE"
           },
-          60,
+          75,
           "hBP04-105",
           1076,
           "hBP04",
@@ -38741,8 +38741,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-001_OSR.png",
           "OSR",
           55,
-          "",
-          "หมด",
+          2,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -38759,8 +38759,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-002_OSR.png",
           "OSR",
           55,
-          "",
-          "หมด",
+          4,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
