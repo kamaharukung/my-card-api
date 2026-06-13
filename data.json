@@ -2944,7 +2944,7 @@
           {
             "valueType": "IMAGE"
           },
-          1500,
+          2400,
           "hBP02-007",
           379,
           "hBP02",
@@ -29128,7 +29128,7 @@
           "hSD11-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hSD11-007_C_02.png",
           "C",
-          "",
+          30,
           "",
           "หมด",
           {
@@ -29848,7 +29848,7 @@
           "hSD14-010",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hSD14-010_C_02.png",
           "C",
-          "",
+          30,
           "",
           "หมด",
           {
