@@ -3371,8 +3371,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-033_UR.png",
           "UR",
           2495,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
@@ -3551,8 +3551,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-041_UR.png",
           "UR",
           1245,
-          "",
-          "หมด",
+          1,
+          "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
