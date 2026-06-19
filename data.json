@@ -18419,8 +18419,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-055_R.png",
           "R",
           20,
-          3,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -18437,7 +18437,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-056_RR.png",
           "RR",
           45,
-          4,
+          1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
