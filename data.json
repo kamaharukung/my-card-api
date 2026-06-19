@@ -30160,7 +30160,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          90,
           "hY01-013",
           2450,
           "hBP08",
@@ -30178,7 +30178,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          60,
           "hY02-011",
           2451,
           "hBP08",
@@ -30196,7 +30196,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          150,
           "hY03-015",
           2452,
           "hBP08",
@@ -30214,7 +30214,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          150,
           "hY04-012",
           2453,
           "hBP08",
@@ -30232,7 +30232,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          105,
           "hY05-010",
           2454,
           "hBP08",
@@ -30250,7 +30250,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          60,
           "hY06-010",
           2455,
           "hBP08",
@@ -30442,13 +30442,13 @@
           "hBP08-002",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-002_OSR.png",
           "OSR",
-          130,
+          100,
           2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "hBP08-002",
           2205,
           "hBP08",
@@ -30484,7 +30484,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          60,
           "hBP08-004",
           2207,
           "hBP08",
@@ -32062,7 +32062,7 @@
           "hBP08-092",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-092_U.png",
           "U",
-          40,
+          25,
           16,
           "มีในคลัง",
           {
