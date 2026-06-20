@@ -13258,7 +13258,7 @@
           {
             "valueType": "IMAGE"
           },
-          75,
+          90,
           "hBP04-002",
           862,
           "hBP04",
@@ -20056,7 +20056,7 @@
           "hBP06-045",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-045_SR.png",
           "SR",
-          105,
+          125,
           "",
           "หมด",
           {
@@ -28630,7 +28630,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hBP08-029",
           2398,
           "hBP08",
@@ -29008,7 +29008,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          50,
           "hBP08-049",
           2406,
           "hBP08",
@@ -29062,7 +29062,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          50,
           "hBP08-052",
           2408,
           "hBP08",
@@ -29098,7 +29098,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          90,
           "hBP08-053",
           2369,
           "hBP08",
@@ -29386,7 +29386,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "hBP08-069",
           2415,
           "hBP08",
@@ -30142,7 +30142,7 @@
           {
             "valueType": "IMAGE"
           },
-          900,
+          600,
           "hSD11-007",
           2447,
           "hBP08",
@@ -35950,13 +35950,13 @@
           "hBP03-054",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-054_P.png",
           "P",
-          195,
+          245,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          35,
+          45,
           "hBP03-054",
           2037,
           "hPR",
@@ -36280,7 +36280,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP04-008",
           1110,
           "hPR",
@@ -46162,7 +46162,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP03-027",
           2166,
           "hWF01",
