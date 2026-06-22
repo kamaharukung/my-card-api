@@ -23554,7 +23554,7 @@
           {
             "valueType": "IMAGE"
           },
-          750,
+          600,
           "hBP07-001",
           1908,
           "hBP07",
@@ -23572,7 +23572,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          330,
           "hBP07-002",
           1909,
           "hBP07",
@@ -23620,13 +23620,13 @@
           "hBP07-003",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-003_SEC.png",
           "SEC",
-          27000,
+          24950,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          6750,
+          7500,
           "hBP07-003",
           1912,
           "hBP07",
@@ -23692,13 +23692,13 @@
           "hBP07-006",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-006_SEC.png",
           "SEC",
-          34500,
+          32000,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          9000,
+          8250,
           "hBP07-006",
           1916,
           "hBP07",
@@ -27940,13 +27940,13 @@
           "hBP01-056",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP01-056_HR.png",
           "HR",
-          2995,
+          2695,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          600,
+          480,
           "hBP01-056",
           2446,
           "hBP08",
@@ -27994,13 +27994,13 @@
           "hBP03-080",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP03-080_HR.png",
           "HR",
-          2395,
+          2095,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          600,
+          525,
           "hBP03-080",
           2449,
           "hBP08",
@@ -28048,13 +28048,13 @@
           "hBP08-003",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-003_SEC.png",
           "SEC",
-          47400,
+          53400,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          16500,
+          21000,
           "hBP08-003",
           2326,
           "hBP08",
