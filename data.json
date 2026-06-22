@@ -316,7 +316,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          50,
           "hBP01-067",
           105,
           "hBP01",
@@ -19216,7 +19216,7 @@
           {
             "valueType": "IMAGE"
           },
-          3000,
+          4800,
           "hBP06-001",
           1602,
           "hBP06",
@@ -25132,13 +25132,13 @@
           "hBP07-084",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-084_SR.png",
           "SR",
-          105,
+          80,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "hBP07-084",
           1996,
           "hBP07",
@@ -28000,7 +28000,7 @@
           {
             "valueType": "IMAGE"
           },
-          525,
+          480,
           "hBP03-080",
           2449,
           "hBP08",
@@ -28090,7 +28090,7 @@
           {
             "valueType": "IMAGE"
           },
-          10500,
+          16500,
           "hBP08-004",
           2327,
           "hBP08",
@@ -29044,7 +29044,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          120,
           "hBP08-051",
           2368,
           "hBP08",
@@ -30430,7 +30430,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "hBP08-001",
           2204,
           "hBP08",
@@ -30484,7 +30484,7 @@
           {
             "valueType": "IMAGE"
           },
-          135,
+          120,
           "hBP08-004",
           2207,
           "hBP08",
@@ -30514,7 +30514,7 @@
           "hBP08-006",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-006_OSR.png",
           "OSR",
-          205,
+          235,
           "",
           "หมด",
           {
@@ -30532,13 +30532,13 @@
           "hBP08-007",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-007_OSR.png",
           "OSR",
-          130,
+          175,
           3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "hBP08-007",
           2210,
           "hBP08",
@@ -31108,13 +31108,13 @@
           "hBP08-039",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-039_RR.png",
           "RR",
-          100,
+          130,
           1,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP08-039",
           2242,
           "hBP08",
@@ -31360,13 +31360,13 @@
           "hBP08-053",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-053_RR.png",
           "RR",
-          130,
+          150,
           3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hBP08-053",
           2256,
           "hBP08",
@@ -43102,7 +43102,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "hSD11-008",
           1476,
           "hSD11",
@@ -43120,7 +43120,7 @@
           {
             "valueType": "IMAGE"
           },
-          105,
+          90,
           "hSD11-009",
           1477,
           "hSD11",
@@ -43336,7 +43336,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "hSD12-002",
           1751,
           "hSD12",
@@ -43858,7 +43858,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD13-008",
           1776,
           "hSD13",
@@ -43894,7 +43894,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD13-010",
           1778,
           "hSD13",
@@ -43966,7 +43966,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD13-014",
           1782,
           "hSD13",
@@ -44002,7 +44002,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD13-016",
           1784,
           "hSD13",
