@@ -46694,7 +46694,7 @@
           [
             "[hEB01] Summer hologram [JP] *รอบสินค้าหน้าร้าน\n(1 กล่อง)  ",
             1800,
-            "https://lh3.googleusercontent.com/d/1EnFISD1qWvxMKvC7Qf9VWU0L1egsLGw_",
+            "https://lh3.googleusercontent.com/d/1JCCy58bFsfz-2R7vs2oysjyZ_Y3ZyUe7",
             50,
             "มีในคลัง",
             "2026-08-20T17:00:00.000Z",
@@ -46779,7 +46779,7 @@
             "[hBP08] Bouncer Bound [JP] *รอบสินค้าหน้าร้าน\n(1 กล่อง)  ",
             1800,
             "https://lh3.googleusercontent.com/d/1Uo8GaJHxQhTaoCaIekbhaubvRwSVbEoT",
-            35,
+            -1,
             "มีในคลัง",
             "2026-06-18T17:00:00.000Z",
             "2026-06-18T17:00:00.000Z",
@@ -47051,7 +47051,7 @@
             "[hBP02] Quintet Spectrum [JP]\n(1 ซอง)  ",
             150,
             "https://lh3.googleusercontent.com/d/1t-ONik8OdDBp1YTKE8TNY013ljxvmqTR",
-            3,
+            1,
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
@@ -47156,6 +47156,26 @@
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
             15
+          ],
+          [
+            "[hBP08] Bouncer Bound [JP]\n(1 กล่อง)  ",
+            1800,
+            "https://lh3.googleusercontent.com/d/1pbAkfbANx77RSP_7LHYENRp2s5-Q_tnK",
+            26,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack",
+            16
+          ],
+          [
+            "[hBP08] Bouncer Bound [JP]\n(1 ซอง)  ",
+            150,
+            "https://lh3.googleusercontent.com/d/1pbAkfbANx77RSP_7LHYENRp2s5-Q_tnK",
+            12,
+            "มีในคลัง",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack",
+            17
           ]
         ]
       },
