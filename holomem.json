@@ -851,6 +851,24 @@
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
       },
       {
+        "web_id": "2314",
+        "card_number": "hBP01-028",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP01-028_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2444",
+        "card_number": "hBP01-028",
+        "rarity": "HR",
+        "illustrator": "がり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP01-028_HR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
         "web_id": "509",
         "card_number": "hBP01-028",
         "rarity": "P",
@@ -1245,6 +1263,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-034_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2153",
+        "card_number": "hBP01-034",
+        "rarity": "P",
+        "illustrator": "MILTEA",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP01-034_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -1509,6 +1536,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-040_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2154",
+        "card_number": "hBP01-040",
+        "rarity": "P",
+        "illustrator": "BORUMETE",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP01-040_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -2225,6 +2261,24 @@
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
       },
       {
+        "web_id": "2317",
+        "card_number": "hBP01-056",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP01-056_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2446",
+        "card_number": "hBP01-056",
+        "rarity": "HR",
+        "illustrator": "Wan1",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP01-056_HR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
         "web_id": "192",
         "card_number": "hBP01-056",
         "rarity": "P",
@@ -2302,6 +2356,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-058_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2155",
+        "card_number": "hBP01-058",
+        "rarity": "P",
+        "illustrator": "JIGENN",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP01-058_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -2460,6 +2523,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-062_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2318",
+        "card_number": "hBP01-062",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP01-062_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
       },
       {
         "web_id": "193",
@@ -2768,6 +2840,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-069_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2156",
+        "card_number": "hBP01-069",
+        "rarity": "P",
+        "illustrator": "MILTEA",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP01-069_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -3147,6 +3228,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-078_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2157",
+        "card_number": "hBP01-078",
+        "rarity": "P",
+        "illustrator": "TOH.",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP01-078_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -4520,6 +4610,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-010_S.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "2158",
+        "card_number": "hBP02-010",
+        "rarity": "P",
+        "illustrator": "Jenevan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP02-010_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -4573,6 +4672,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-011_P_02.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "2159",
+        "card_number": "hBP02-011",
+        "rarity": "P",
+        "illustrator": "ナナテトラ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP02-011_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -4785,6 +4893,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-015_S.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "2160",
+        "card_number": "hBP02-015",
+        "rarity": "P",
+        "illustrator": "武知明伸",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP02-015_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -4873,6 +4990,24 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-018_C.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "2315",
+        "card_number": "hBP02-018",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP02-018_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2445",
+        "card_number": "hBP02-018",
+        "rarity": "HR",
+        "illustrator": "アのひと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP02-018_HR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
       },
       {
         "web_id": "512",
@@ -5226,6 +5361,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-025_S.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "2161",
+        "card_number": "hBP02-025",
+        "rarity": "P",
+        "illustrator": "81",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP02-025_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -5367,6 +5511,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-030_C.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "2162",
+        "card_number": "hBP02-030",
+        "rarity": "P",
+        "illustrator": "EEJU",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP02-030_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -6832,6 +6985,24 @@
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
       },
       {
+        "web_id": "2322",
+        "card_number": "hBP02-061",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP02-061_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2448",
+        "card_number": "hBP02-061",
+        "rarity": "HR",
+        "illustrator": "にゃまそ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP02-061_HR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
         "web_id": "515",
         "card_number": "hBP02-061",
         "rarity": "P",
@@ -7949,6 +8120,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-010_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2163",
+        "card_number": "hBP03-010",
+        "rarity": "P",
+        "illustrator": "BANPRESTO / バンプレスト",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-010_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -7993,6 +8173,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-011_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2164",
+        "card_number": "hBP03-011",
+        "rarity": "P",
+        "illustrator": "葉桜ちこり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-011_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -8372,6 +8561,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-018_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2165",
+        "card_number": "hBP03-018",
+        "rarity": "P",
+        "illustrator": "ろわんて",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-018_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -8813,6 +9011,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-027_S_2.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2166",
+        "card_number": "hBP03-027",
+        "rarity": "P",
+        "illustrator": "さこもち",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-027_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -9203,6 +9410,15 @@
         "expansion_name": "ブースターパック「エリートスパーク」"
       },
       {
+        "web_id": "2319",
+        "card_number": "hBP03-037",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP03-037_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
         "web_id": "1108",
         "card_number": "hBP03-037",
         "rarity": "P",
@@ -9289,6 +9505,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-040_C.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2320",
+        "card_number": "hBP03-040",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP03-040_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
       },
       {
         "web_id": "851",
@@ -9765,6 +9990,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-053_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2167",
+        "card_number": "hBP03-053",
+        "rarity": "P",
+        "illustrator": "有芳",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-053_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -10021,6 +10255,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-058_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2168",
+        "card_number": "hBP03-058",
+        "rarity": "P",
+        "illustrator": "gaha",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-058_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -10259,6 +10502,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-063_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2169",
+        "card_number": "hBP03-063",
+        "rarity": "P",
+        "illustrator": "くへん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-063_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -10550,6 +10802,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-069_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2170",
+        "card_number": "hBP03-069",
+        "rarity": "P",
+        "illustrator": "BORUMETE",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP03-069_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -11008,6 +11269,24 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-080_C.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2323",
+        "card_number": "hBP03-080",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP03-080_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2449",
+        "card_number": "hBP03-080",
+        "rarity": "HR",
+        "illustrator": "がり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP03-080_HR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
       },
       {
         "web_id": "816",
@@ -11537,6 +11816,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-010_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2171",
+        "card_number": "hBP04-010",
+        "rarity": "P",
+        "illustrator": "misa",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-010_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -12323,6 +12611,15 @@
         "expansion_name": "ブースターパック「キュリアスユニバース」"
       },
       {
+        "web_id": "2316",
+        "card_number": "hBP04-028",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP04-028_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
         "web_id": "1113",
         "card_number": "hBP04-028",
         "rarity": "P",
@@ -13070,6 +13367,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-045_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2172",
+        "card_number": "hBP04-045",
+        "rarity": "P",
+        "illustrator": "武知明伸",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-045_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -13114,6 +13420,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-046_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2173",
+        "card_number": "hBP04-046",
+        "rarity": "P",
+        "illustrator": "和錆",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-046_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -13529,6 +13844,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-055_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2174",
+        "card_number": "hBP04-055",
+        "rarity": "P",
+        "illustrator": "BANPRESTO / バンプレスト",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-055_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -13573,6 +13897,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-056_S_02.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2175",
+        "card_number": "hBP04-056",
+        "rarity": "P",
+        "illustrator": "NaRang",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-056_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -14129,6 +14462,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-069_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2176",
+        "card_number": "hBP04-069",
+        "rarity": "P",
+        "illustrator": "ヨン",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-069_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -14173,6 +14515,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-070_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2177",
+        "card_number": "hBP04-070",
+        "rarity": "P",
+        "illustrator": "絢芽",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-070_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -14658,6 +15009,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-080_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2178",
+        "card_number": "hBP04-080",
+        "rarity": "P",
+        "illustrator": "葉桜ちこり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-080_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -14861,6 +15221,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-084_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "2179",
+        "card_number": "hBP04-084",
+        "rarity": "P",
+        "illustrator": "misa",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP04-084_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -16271,6 +16640,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-040_S.png",
         "expansion_id": "hBP05",
         "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "2203",
+        "card_number": "hBP05-040",
+        "rarity": "P",
+        "illustrator": "はたほまめ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-040_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -18651,6 +19029,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-010_U.png",
         "expansion_id": "hBP06",
         "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "2187",
+        "card_number": "hBP06-010",
+        "rarity": "P",
+        "illustrator": "加川壱互",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-010_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -18977,6 +19364,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-018_S.png",
         "expansion_id": "hBP06",
         "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "2195",
+        "card_number": "hBP06-018",
+        "rarity": "P",
+        "illustrator": "Pan田",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-018_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -19259,6 +19655,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-024_S.png",
         "expansion_id": "hBP06",
         "expansion_name": "ブースターパック「アヤカシヴァーミリオン」"
+      },
+      {
+        "web_id": "2180",
+        "card_number": "hBP06-024",
+        "rarity": "P",
+        "illustrator": "すすもく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP06-024_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -19687,7 +20092,7 @@
         "web_id": "2058",
         "card_number": "hBP06-034",
         "rarity": "P",
-        "illustrator": "なもり",
+        "illustrator": "ちひろ綺華",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-034_P.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
@@ -20771,7 +21176,7 @@
         "web_id": "2059",
         "card_number": "hBP06-057",
         "rarity": "P",
-        "illustrator": "ちひろ綺華",
+        "illustrator": "Pawchie",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-057_P.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
@@ -22281,6 +22686,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-008_C.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2188",
+        "card_number": "hBP07-008",
+        "rarity": "P",
+        "illustrator": "ちょん＊",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-008_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -22906,6 +23320,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-023_C.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2189",
+        "card_number": "hBP07-023",
+        "rarity": "P",
+        "illustrator": "泉彩",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-023_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -24069,6 +24492,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-050_C.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2190",
+        "card_number": "hBP07-050",
+        "rarity": "P",
+        "illustrator": "Ria",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-050_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -24245,6 +24677,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-055_S.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2196",
+        "card_number": "hBP07-055",
+        "rarity": "P",
+        "illustrator": "やも",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-055_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -24421,6 +24862,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-059_C.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2191",
+        "card_number": "hBP07-059",
+        "rarity": "P",
+        "illustrator": "やも",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-059_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -24597,6 +25047,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-063_C.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2192",
+        "card_number": "hBP07-063",
+        "rarity": "P",
+        "illustrator": "LINO",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-063_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -24782,6 +25241,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-067_SR.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2457",
+        "card_number": "hBP07-067",
+        "rarity": "P",
+        "illustrator": "よだれ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-067_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -24831,7 +25299,7 @@
         "web_id": "2060",
         "card_number": "hBP07-068",
         "rarity": "P",
-        "illustrator": "Pawchie",
+        "illustrator": "カバー株式会社",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-068_P.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
@@ -24981,7 +25449,7 @@
         "web_id": "2061",
         "card_number": "hBP07-071",
         "rarity": "P",
-        "illustrator": "カバー株式会社",
+        "illustrator": "みずあめ",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-071_P.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
@@ -25205,6 +25673,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-077_C.png",
         "expansion_id": "hBP07",
         "expansion_name": "ブースターパック「ディーヴァフィーバー」"
+      },
+      {
+        "web_id": "2193",
+        "card_number": "hBP07-077",
+        "rarity": "P",
+        "illustrator": "西沢5㍉",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-077_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -25848,6 +26325,3730 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-002_C.png",
         "expansion_id": "hSD11",
         "expansion_name": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-031",
+    "name": "パヴォリア・レイネ",
+    "color": "緑",
+    "hp": "250",
+    "bloom_level": "1st",
+    "tags": "#ID, #ID2期生, #トリ, #絵",
+    "baton_touch": "◇◇",
+    "card_type": "Buzzホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "SPY-C1000",
+    "keyword_effect": "[センターポジション・コラボポジション限定][ターンに1回]自分のターンで、自分のエールがアーカイブに置かれた時、自分のデッキを1枚引く。",
+    "arts_1_cost": "緑◇",
+    "arts_1_name": "GWS+",
+    "arts_1_damage": "60",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のエールデッキの上から1枚をアーカイブする。その後、自分のステージのエール1色につき、自分のホロメン1人のHP10回復。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "このホロメンがダウンした時、自分のライフ-2",
+    "variations": [
+      {
+        "web_id": "2234",
+        "card_number": "hBP08-031",
+        "rarity": "R",
+        "illustrator": "飯田ぽち。",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-031_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2358",
+        "card_number": "hBP08-031",
+        "rarity": "SR",
+        "illustrator": "飯田ぽち。",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-031_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-040",
+    "name": "百鬼あやめ",
+    "color": "赤",
+    "hp": "220",
+    "bloom_level": "1st",
+    "tags": "#JP, #2期生, #シューター",
+    "baton_touch": "◇◇",
+    "card_type": "Buzzホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "桜の気配に誘われて",
+    "keyword_effect": "このホロメンに〈鬼神刀「阿修羅」〉が付いていて、相手のコラボホロメンがいないなら、相手は、自身のバックホロメン1人をコラボポジションに移動させる（移動はコラボとしては扱わない）。",
+    "arts_1_cost": "赤◇",
+    "arts_1_name": "お花見デート",
+    "arts_1_damage": "30+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のアーカイブの赤エール1枚につき、このアーツ+10。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "このホロメンがダウンした時、自分のライフ-2",
+    "variations": [
+      {
+        "web_id": "2243",
+        "card_number": "hBP08-040",
+        "rarity": "R",
+        "illustrator": "氷菜",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-040_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2363",
+        "card_number": "hBP08-040",
+        "rarity": "SR",
+        "illustrator": "氷菜",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-040_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-043",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "hp": "240",
+    "bloom_level": "1st",
+    "tags": "#EN, #Myth, #トリ",
+    "baton_touch": "◇◇",
+    "card_type": "Buzzホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "火ノ鳥剣舞",
+    "keyword_effect": "自分のアーカイブにホロメンが10枚以上あるなら、このターンの間、このホロメンのアーツに必要な赤-2。",
+    "arts_1_cost": "赤赤",
+    "arts_1_name": "生き抜く覚悟",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のステージのホロメン全員が#Mythを持つホロメンなら、自分のデッキの上から1枚をホロパワーにする。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "このホロメンがダウンした時、自分のライフ-2",
+    "variations": [
+      {
+        "web_id": "2246",
+        "card_number": "hBP08-043",
+        "rarity": "R",
+        "illustrator": "huke",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-043_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2364",
+        "card_number": "hBP08-043",
+        "rarity": "SR",
+        "illustrator": "huke",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-043_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-008",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "Promise of Spring",
+    "keyword_effect": "自分が後攻で最初のターンなら、自分のステージの#Promiseを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+30。さらに、自分のステージに紫エールがあるなら、自分のデッキを1枚引く。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "芽吹く春",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2211",
+        "card_number": "hBP08-008",
+        "rarity": "C",
+        "illustrator": "なかゥま",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-008_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-009",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "分かり合える日が来るかもね",
+    "keyword_effect": "自分のホロパワーを見る。その中からサポートカード1枚を公開し、手札に加える。そしてホロパワーをシャッフルする。手札に加えたなら、自分のデッキの上から1枚をホロパワーにする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "あたしはもっと深いところを見てるの",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2212",
+        "card_number": "hBP08-009",
+        "rarity": "U",
+        "illustrator": "ムロマキ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-009_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2387",
+        "card_number": "hBP08-009",
+        "rarity": "S",
+        "illustrator": "ムロマキ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-009_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-010",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "130",
+    "bloom_level": "1st",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "Race with Me!!",
+    "keyword_effect": "自分のデッキから、[〈Bloom＆Gloom〉か〈GuyRyS〉]1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "I am Lightning Speed",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2213",
+        "card_number": "hBP08-010",
+        "rarity": "C",
+        "illustrator": "せき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-010_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2388",
+        "card_number": "hBP08-010",
+        "rarity": "S",
+        "illustrator": "せき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-010_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-011",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "The Hot Pink One",
+    "keyword_effect": "このホロメンに白エールが付いているなら、自分のデッキを1枚引く。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "Hot Ending",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに紫エールが付いているなら、自分のデッキを1枚引く。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2214",
+        "card_number": "hBP08-011",
+        "rarity": "C",
+        "illustrator": "VIGORE",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-011_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2389",
+        "card_number": "hBP08-011",
+        "rarity": "S",
+        "illustrator": "VIGORE",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-011_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-012",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "160",
+    "bloom_level": "1st",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "希望が照らす轍",
+    "keyword_effect": "自分のステージのエール1枚をエールデッキの下に戻せる:自分のエールデッキの上から1枚を自分の〈IRyS〉に送る。",
+    "arts_1_cost": "白◇",
+    "arts_1_name": "片や天使 片や悪魔",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに紫エールが付いているなら、相手のセンターホロメンに特殊ダメージ20を与える。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2215",
+        "card_number": "hBP08-012",
+        "rarity": "R",
+        "illustrator": "せき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-012_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2350",
+        "card_number": "hBP08-012",
+        "rarity": "SR",
+        "illustrator": "せき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-012_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-013",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "勝利のティータイム",
+    "keyword_effect": "このホロメンが相手のホロメンをダウンさせた時、自分のデッキの上から1枚をホロパワーにする。",
+    "arts_1_cost": "白◇",
+    "arts_1_name": "萌え萌えキュンしちゃった？",
+    "arts_1_damage": "70+",
+    "arts_1_bonus": "紫+50",
+    "arts_1_effect": "このホロメンに紫エールが付いているなら、このアーツ+50。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2216",
+        "card_number": "hBP08-013",
+        "rarity": "U",
+        "illustrator": "xu chan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-013_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2390",
+        "card_number": "hBP08-013",
+        "rarity": "S",
+        "illustrator": "xu chan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-013_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-014",
+    "name": "IRyS",
+    "color": "白",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Promise, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "絶望に残った光",
+    "keyword_effect": "相手のセンターホロメンに特殊ダメージ30を与える。さらに、このホロメンに紫エールが付いているなら、相手のコラボホロメンに特殊ダメージ30を与える。",
+    "arts_1_cost": "白◇◇",
+    "arts_1_name": "プリズマティック・アンセム",
+    "arts_1_damage": "130+",
+    "arts_1_bonus": "赤+50",
+    "arts_1_effect": "このターンの間、このホロメンの紫エール1枚につき、自分のステージのホロメン全員のアーツ+20。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2217",
+        "card_number": "hBP08-014",
+        "rarity": "RR",
+        "illustrator": "EEJU",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-014_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2338",
+        "card_number": "hBP08-014",
+        "rarity": "UR",
+        "illustrator": "EEJU",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-014_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2351",
+        "card_number": "hBP08-014",
+        "rarity": "SR",
+        "illustrator": "EEJU",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-014_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-015",
+    "name": "ときのそら",
+    "color": "白",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#JP, #0期生, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "私に勝てるかな？",
+    "keyword_effect": "このホロメンが相手のホロメンから受けるアーツダメージ-10。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "ナインダーツ",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2218",
+        "card_number": "hBP08-015",
+        "rarity": "C",
+        "illustrator": "Amone",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-015_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2391",
+        "card_number": "hBP08-015",
+        "rarity": "S",
+        "illustrator": "Amone",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-015_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-016",
+    "name": "ときのそら",
+    "color": "白",
+    "hp": "180",
+    "bloom_level": "1st",
+    "tags": "#JP, #0期生, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "",
+    "keyword_name": "",
+    "keyword_effect": "",
+    "arts_1_cost": "◇",
+    "arts_1_name": "Stairway to the Stars",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のステージに〈ときのそら〉が3人以上いるなら、自分のデッキを1枚引く。",
+    "arts_2_cost": "白◇◇",
+    "arts_2_name": "あの時の空へ…",
+    "arts_2_damage": "90",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2219",
+        "card_number": "hBP08-016",
+        "rarity": "U",
+        "illustrator": "Wan1",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-016_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2392",
+        "card_number": "hBP08-016",
+        "rarity": "S",
+        "illustrator": "Wan1",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-016_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-017",
+    "name": "ときのそら",
+    "color": "白",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#JP, #0期生, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "「ヴァ！」",
+    "keyword_effect": "自分のデッキから、〈あん肝〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "白◇",
+    "arts_1_name": "みんな、ぬんぬん進んでいこーう",
+    "arts_1_damage": "40+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のステージに#0期生を持つ2ndホロメンがいるなら、このアーツ+20。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2220",
+        "card_number": "hBP08-017",
+        "rarity": "R",
+        "illustrator": "おるだん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-017_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2352",
+        "card_number": "hBP08-017",
+        "rarity": "SR",
+        "illustrator": "おるだん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-017_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-018",
+    "name": "ときのそら",
+    "color": "白",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#JP, #0期生, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "アイドルになりたいわたし",
+    "keyword_effect": "[センターポジション・コラボポジション限定]自分のデッキを2枚引く。",
+    "arts_1_cost": "白◇◇◇",
+    "arts_1_name": "盛り上がってくれたらうれしいな！",
+    "arts_1_damage": "150",
+    "arts_1_bonus": "赤+50",
+    "arts_1_effect": "自分の推しホロメンが〈ときのそら〉なら、自分のステージの他の〈ときのそら〉1人を選ぶ。このターンの間、選んだホロメンのアーツは、相手の2ndのバックホロメンも対象にできる。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2221",
+        "card_number": "hBP08-018",
+        "rarity": "RR",
+        "illustrator": "つなかわ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-018_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2339",
+        "card_number": "hBP08-018",
+        "rarity": "UR",
+        "illustrator": "つなかわ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-018_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2353",
+        "card_number": "hBP08-018",
+        "rarity": "SR",
+        "illustrator": "つなかわ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-018_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-019",
+    "name": "ラオーラ・パンテーラ",
+    "color": "白",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Justice, #ケモミミ, #絵",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "ボナペティート -楽しい食事-",
+    "keyword_effect": "■このホロメンに〈Chattino〉が付いていないなら、このホロメンのアーツに必要な白-1。 ■このホロメンに〈Chattino〉が付いているなら、このホロメンのHP+30。",
+    "arts_1_cost": "白",
+    "arts_1_name": "この幸せをシェアしよう",
+    "arts_1_damage": "10",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに〈Chattino〉が付いていないなら、自分のデッキから、〈Chattino〉1枚をこのホロメンに付ける。そしてデッキをシャッフルする。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2222",
+        "card_number": "hBP08-019",
+        "rarity": "U",
+        "illustrator": "にゃまそ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-019_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2393",
+        "card_number": "hBP08-019",
+        "rarity": "S",
+        "illustrator": "にゃまそ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-019_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-020",
+    "name": "響咲リオナ",
+    "color": "白",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "セクシーダンスクィーン",
+    "keyword_effect": "自分のデッキの上から1～2枚をアーカイブできる:アーカイブしたカード1枚につき、自分のデッキを1枚引く。",
+    "arts_1_cost": "白◇",
+    "arts_1_name": "挑戦のまなざし",
+    "arts_1_damage": "110+",
+    "arts_1_bonus": "赤+50",
+    "arts_1_effect": "このターンに自分のデッキからカードを3枚以上アーカイブしていたなら、このアーツ+40。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2223",
+        "card_number": "hBP08-020",
+        "rarity": "R",
+        "illustrator": "耳ン",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-020_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2354",
+        "card_number": "hBP08-020",
+        "rarity": "SR",
+        "illustrator": "耳ン",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-020_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-021",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "Automaton，Roll Out!",
+    "keyword_effect": "自分が後攻で最初のターンなら、自分のデッキから、〈Otomo〉2枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "祝祭を響かせよう",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2224",
+        "card_number": "hBP08-021",
+        "rarity": "C",
+        "illustrator": "misyune",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-021_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-022",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "エスケープメント",
+    "keyword_effect": "このホロメンがバトンタッチしてバックポジションに移動した時、このホロメンをお休みさせる。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "エレガントに行くのです",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2225",
+        "card_number": "hBP08-022",
+        "rarity": "U",
+        "illustrator": "おとうふ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-022_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2394",
+        "card_number": "hBP08-022",
+        "rarity": "S",
+        "illustrator": "おとうふ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-022_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-023",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "150",
+    "bloom_level": "1st",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "一緒に居てくれる時間",
+    "keyword_effect": "このホロメンをお休みさせることができる。その後、自分のお休みしている#Justiceを持つホロメンが2人以上いるなら、自分のホロメン1人のHP50回復。",
+    "arts_1_cost": "緑",
+    "arts_1_name": "とってもとっても特別！",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2226",
+        "card_number": "hBP08-023",
+        "rarity": "C",
+        "illustrator": "加川壱互",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-023_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2395",
+        "card_number": "hBP08-023",
+        "rarity": "S",
+        "illustrator": "加川壱互",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-023_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-024",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "グーテ・ライゼ -良き旅を-",
+    "keyword_effect": "[センターポジション・コラボポジション限定]相手のメインステップの間、自分のお休みしている〈セシリア・イマーグリーン〉全員のHPは相手の能力で減らず、変動しない。",
+    "arts_1_cost": "緑",
+    "arts_1_name": "風の赴くままに",
+    "arts_1_damage": "60",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンをお休みさせる。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2227",
+        "card_number": "hBP08-024",
+        "rarity": "C",
+        "illustrator": "雨ノ坂のの",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-024_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2396",
+        "card_number": "hBP08-024",
+        "rarity": "S",
+        "illustrator": "雨ノ坂のの",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-024_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-025",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "160",
+    "bloom_level": "1st",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "喫茶の時間",
+    "keyword_effect": "自分のお休みしている#Justiceを持つホロメンが2人以上いるなら、このターンの間、自分のステージのホロメン全員のアーツ+20。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "休憩も大事でしょ？",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2228",
+        "card_number": "hBP08-025",
+        "rarity": "R",
+        "illustrator": "宮波",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-025_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2355",
+        "card_number": "hBP08-025",
+        "rarity": "SR",
+        "illustrator": "宮波",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-025_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-026",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "機巧のシュトライヒ",
+    "keyword_effect": "自分のお休みしている#Justiceを持つホロメンが2人以上いるなら、このターンの間、このホロメンのアーツ+50。",
+    "arts_1_cost": "緑◇",
+    "arts_1_name": "奏楽のヴィンデ",
+    "arts_1_damage": "90",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2229",
+        "card_number": "hBP08-026",
+        "rarity": "U",
+        "illustrator": "moguta",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-026_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2397",
+        "card_number": "hBP08-026",
+        "rarity": "S",
+        "illustrator": "moguta",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-026_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-027",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Justice, #語学",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "絡繰のラプソディー",
+    "keyword_effect": "自分のお休みしている#Justiceを持つホロメン1人につき、自分のアーカイブのエール1枚をこのホロメンに送る。",
+    "arts_1_cost": "緑◇◇◇",
+    "arts_1_name": "翠嵐のシュトルム",
+    "arts_1_damage": "200",
+    "arts_1_bonus": "黄+50",
+    "arts_1_effect": "自分のお休みしている#Justiceを持つホロメン1人につき、自分のデッキを1枚引く。その後、このホロメンをお休みさせる。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2230",
+        "card_number": "hBP08-027",
+        "rarity": "RR",
+        "illustrator": "たゆたれお",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-027_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2340",
+        "card_number": "hBP08-027",
+        "rarity": "UR",
+        "illustrator": "たゆたれお",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-027_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2356",
+        "card_number": "hBP08-027",
+        "rarity": "SR",
+        "illustrator": "たゆたれお",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-027_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-028",
+    "name": "アキ・ローゼンタール",
+    "color": "緑",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#JP, #1期生, #ハーフエルフ, #お酒, #サマー",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "ホロナツ大盛りパフェ",
+    "keyword_effect": "自分のツールが付いている〈アキ・ローゼンタール〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。選んだホロメンがBuzzホロメンか2ndホロメンなら、かわりに、そのホロメンのアーツ+50。",
+    "arts_1_cost": "緑◇",
+    "arts_1_name": "一口食べる？",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のツールが付いているホロメン1人のHP30回復。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2231",
+        "card_number": "hBP08-028",
+        "rarity": "R",
+        "illustrator": "宮間知佳慕",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-028_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2357",
+        "card_number": "hBP08-028",
+        "rarity": "SR",
+        "illustrator": "宮間知佳慕",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-028_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-029",
+    "name": "風真いろは",
+    "color": "緑",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#JP, #秘密結社holoX",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "Secret Love -Iroha-",
+    "keyword_effect": "[コラボポジション限定][ターンに1回]相手のターンで、自分の#秘密結社holoXを持つセンターホロメンがアーツダメージを受けた時、自分のデッキの上から1枚をホロパワーにする。",
+    "arts_1_cost": "緑",
+    "arts_1_name": "極秘任務遂行中でござる",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2232",
+        "card_number": "hBP08-029",
+        "rarity": "U",
+        "illustrator": "墓無",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-029_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2398",
+        "card_number": "hBP08-029",
+        "rarity": "S",
+        "illustrator": "墓無",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-029_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-030",
+    "name": "パヴォリア・レイネ",
+    "color": "緑",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#ID, #ID2期生, #トリ, #絵",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "一歩ずつ",
+    "keyword_effect": "自分の手札の#ID2期生を持つホロメン1枚をアーカイブできる:自分のエールデッキの上から1枚を自分のバックホロメンに送る。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "以後　お見知りおきを…",
+    "arts_1_damage": "10",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2233",
+        "card_number": "hBP08-030",
+        "rarity": "C",
+        "illustrator": "WOODDAK",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-030_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2399",
+        "card_number": "hBP08-030",
+        "rarity": "S",
+        "illustrator": "WOODDAK",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-030_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-032",
+    "name": "パヴォリア・レイネ",
+    "color": "緑",
+    "hp": "180",
+    "bloom_level": "2nd",
+    "tags": "#ID, #ID2期生, #トリ, #絵",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "新しい旅へ",
+    "keyword_effect": "自分のステージの2ndホロメンの[〈クレイジー・オリー〉か〈アーニャ・メルフィッサ〉]1人を選ぶ。このターンの間、選んだホロメンのアーツ+70。",
+    "arts_1_cost": "◇◇",
+    "arts_1_name": "ストラクチュラル・カラー",
+    "arts_1_damage": "80+",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "自分の〈パヴォリア・レイネ〉以外の#ID2期生を持つホロメンに紫エールか黄エールが付いているなら、このアーツ+70。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2235",
+        "card_number": "hBP08-032",
+        "rarity": "U",
+        "illustrator": "chida",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-032_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2400",
+        "card_number": "hBP08-032",
+        "rarity": "S",
+        "illustrator": "chida",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-032_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-033",
+    "name": "パヴォリア・レイネ",
+    "color": "緑",
+    "hp": "190",
+    "bloom_level": "2nd",
+    "tags": "#ID, #ID2期生, #トリ, #絵",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "監視者の眼差し",
+    "keyword_effect": "自分のエールデッキから、エール1枚を自分の#IDを持つホロメンに送る。そしてエールデッキをシャッフルする。",
+    "arts_1_cost": "緑◇◇",
+    "arts_1_name": "ノックアウト・ツイスト",
+    "arts_1_damage": "140",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "自分のアーカイブのエール1～2枚を自分の〈パヴォリア・レイネ〉1人に送る。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2236",
+        "card_number": "hBP08-033",
+        "rarity": "RR",
+        "illustrator": "Ritae",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-033_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2341",
+        "card_number": "hBP08-033",
+        "rarity": "UR",
+        "illustrator": "Ritae",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-033_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2359",
+        "card_number": "hBP08-033",
+        "rarity": "SR",
+        "illustrator": "Ritae",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-033_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-060",
+    "name": "FUWAMOCO",
+    "color": "青赤",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "“BAU” DOL♡",
+    "keyword_effect": "[コラボポジション限定]自分の推しスキル「モコちゃん！」の[ホロパワー:-3]を[ホロパワー:-2]に変更する。",
+    "arts_1_cost": "◇◇",
+    "arts_1_name": "いっしょういっしょ♡",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分の推しホロメンが青の〈FUWAMOCO〉なら、自分のデッキの上から1枚をホロパワーにする。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "このホロメンは〈フワワ・アビスガード〉〈モココ・アビスガード〉としても扱う",
+    "variations": [
+      {
+        "web_id": "2263",
+        "card_number": "hBP08-060",
+        "rarity": "R",
+        "illustrator": "兎未枝",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-060_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2374",
+        "card_number": "hBP08-060",
+        "rarity": "SR",
+        "illustrator": "兎未枝",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-060_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2325",
+        "card_number": "hBP08-060",
+        "rarity": "P",
+        "illustrator": "Hyde",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP08-060_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-034",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "FUWAMOCOを信じて！",
+    "keyword_effect": "自分が後攻で最初のターンなら、自分のデッキから、Debutホロメンの[〈フワワ・アビスガード〉と〈モココ・アビスガード〉]1枚ずつをステージに出す。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "あなたのもこもこなモココ",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2237",
+        "card_number": "hBP08-034",
+        "rarity": "C",
+        "illustrator": "marumoru",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-034_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-035",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "",
+    "keyword_name": "",
+    "keyword_effect": "",
+    "arts_1_cost": "赤",
+    "arts_1_name": "やったぁ大勝ちだ！！",
+    "arts_1_damage": "10+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに青エールが付いているなら、このアーツ+30。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2238",
+        "card_number": "hBP08-035",
+        "rarity": "U",
+        "illustrator": "VIGORE",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-035_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2401",
+        "card_number": "hBP08-035",
+        "rarity": "S",
+        "illustrator": "VIGORE",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-035_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-036",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "140",
+    "bloom_level": "1st",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "ドキドキDoggy -Mococo-",
+    "keyword_effect": "自分のデッキから、[〈ペロ〉か〈Ruffians〉か〈いたずらなRuffians〉]1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "ふたりは“BAU” DOL☆★",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2239",
+        "card_number": "hBP08-036",
+        "rarity": "C",
+        "illustrator": "松浦健人",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-036_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2402",
+        "card_number": "hBP08-036",
+        "rarity": "S",
+        "illustrator": "松浦健人",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-036_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-037",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "トゥインクル・アイドル",
+    "keyword_effect": "自分のステージに〈フワワ・アビスガード〉がいるなら、相手のセンターホロメンかコラボホロメンに特殊ダメージ20を与える。",
+    "arts_1_cost": "赤赤",
+    "arts_1_name": "がんBAUるねー！",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに青エールが2枚以上付いているなら、自分のエールデッキの上から1枚を自分の〈フワワ・アビスガード〉に送る。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2240",
+        "card_number": "hBP08-037",
+        "rarity": "R",
+        "illustrator": "株式会社スタジオヴィガ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-037_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2360",
+        "card_number": "hBP08-037",
+        "rarity": "SR",
+        "illustrator": "株式会社スタジオヴィガ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-037_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-038",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "190",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "魔法の武器だもん！",
+    "keyword_effect": "自分の推しホロメンが青の〈FUWAMOCO〉なら、自分のアーカイブの#Adventを持つホロメン1枚を手札に戻す。",
+    "arts_1_cost": "◇◇",
+    "arts_1_name": "勝つのはモココだよ！",
+    "arts_1_damage": "100",
+    "arts_1_bonus": "緑+50",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2241",
+        "card_number": "hBP08-038",
+        "rarity": "R",
+        "illustrator": "Honshin",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-038_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2361",
+        "card_number": "hBP08-038",
+        "rarity": "SR",
+        "illustrator": "Honshin",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-038_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-039",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "深淵からの信頼",
+    "keyword_effect": "自分のステージに青エールが6枚以上あるなら、自分のお休みしている〈フワワ・アビスガード〉1人をアクティブにする。",
+    "arts_1_cost": "赤赤赤",
+    "arts_1_name": "もこもこバウンティハンター",
+    "arts_1_damage": "90+",
+    "arts_1_bonus": "紫+50",
+    "arts_1_effect": "このホロメンの青エール1枚につき、このアーツ+20。その後、このホロメンの青エールを好きな枚数選び、自分の〈フワワ・アビスガード〉1人に付け替える。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2242",
+        "card_number": "hBP08-039",
+        "rarity": "RR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-039_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2342",
+        "card_number": "hBP08-039",
+        "rarity": "UR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-039_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2362",
+        "card_number": "hBP08-039",
+        "rarity": "SR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-039_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-041",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Myth, #トリ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "不死鳥式エアロビ",
+    "keyword_effect": "相手のターンで、このホロメンがダウンした時、このホロメンをアーカイブするかわりに手札に戻せる。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "\"熱狂的な夜\"は実在する!!!",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のデッキの上から1枚をアーカイブする。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2244",
+        "card_number": "hBP08-041",
+        "rarity": "C",
+        "illustrator": "chida",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-041_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2403",
+        "card_number": "hBP08-041",
+        "rarity": "S",
+        "illustrator": "chida",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-041_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-042",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Myth, #トリ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "グーテンモルゲン -穏やかな朝-",
+    "keyword_effect": "自分の手札1～3枚をアーカイブできる:自分のステージのホロメン1人を選ぶ。この能力でアーカイブしたカード1枚につき、このターンの間、選んだホロメンのアーツ+10。",
+    "arts_1_cost": "赤",
+    "arts_1_name": "キワワとチョンカーズ＆スムージー",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2245",
+        "card_number": "hBP08-042",
+        "rarity": "U",
+        "illustrator": "Amone",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-042_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2404",
+        "card_number": "hBP08-042",
+        "rarity": "S",
+        "illustrator": "Amone",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-042_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-044",
+    "name": "小鳥遊キアラ",
+    "color": "赤",
+    "hp": "170",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Myth, #トリ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "光、再び灯りて",
+    "keyword_effect": "自分のメインステップで、自分のアーカイブにホロメンが10枚以上あるなら、自分のホロメンを、アーカイブのこのホロメンを使ってBloomできる（この能力は、アーカイブにある時のみ使える）。",
+    "arts_1_cost": "赤赤",
+    "arts_1_name": "不敵なるファイヤーフォーゲル",
+    "arts_1_damage": "100",
+    "arts_1_bonus": "紫+50",
+    "arts_1_effect": "自分のデッキの上から1～3枚をアーカイブする。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2247",
+        "card_number": "hBP08-044",
+        "rarity": "RR",
+        "illustrator": "びび",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-044_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2343",
+        "card_number": "hBP08-044",
+        "rarity": "UR",
+        "illustrator": "びび",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-044_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2365",
+        "card_number": "hBP08-044",
+        "rarity": "SR",
+        "illustrator": "びび",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-044_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-045",
+    "name": "ハコス・ベールズ",
+    "color": "赤",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Promise, #ケモミミ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "今年は豊作になりそうやねん！",
+    "keyword_effect": "このターンの間、自分の推しホロメンの〈ハコス・ベールズ〉と自分のステージの〈ハコス・ベールズ〉の能力でサイコロを振る時、そのサイコロの目の数すべてを倍の数として扱う。",
+    "arts_1_cost": "赤",
+    "arts_1_name": "ボクはボクらしく生きたい。",
+    "arts_1_damage": "50+",
+    "arts_1_bonus": "緑+50",
+    "arts_1_effect": "自分のステージのホロメン1人を選び、サイコロを1回振る。出た目の数1につき、このターンの間、選んだホロメンのアーツ+10。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2248",
+        "card_number": "hBP08-045",
+        "rarity": "R",
+        "illustrator": "Buri",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-045_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2366",
+        "card_number": "hBP08-045",
+        "rarity": "SR",
+        "illustrator": "Buri",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-045_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-046",
+    "name": "エリザベス・ローズ・ブラッドフレイム",
+    "color": "赤",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Justice, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "マジェスティック・デヴォーション",
+    "keyword_effect": "[コラボポジション限定]相手のターンで、このホロメン以外の自分の#Justiceを持つホロメンがダウンした時、自分のデッキから、2ndホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "赤",
+    "arts_1_name": "スイートトゥース",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2249",
+        "card_number": "hBP08-046",
+        "rarity": "R",
+        "illustrator": "WOODDAK",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-046_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2367",
+        "card_number": "hBP08-046",
+        "rarity": "SR",
+        "illustrator": "WOODDAK",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-046_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-047",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "はい、天才！",
+    "keyword_effect": "自分が後攻で最初のターンなら、自分のデッキを1枚引き、相手のセンターホロメンのバトンタッチに必要な無色1つにつき、自分のデッキを1枚引く。",
+    "arts_1_cost": "青",
+    "arts_1_name": "すうの充電たりてる？",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2250",
+        "card_number": "hBP08-047",
+        "rarity": "C",
+        "illustrator": "ZETTO",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-047_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-048",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "けはいあり183cm",
+    "keyword_effect": "自分のステージのエール1枚をアーカイブできる:自分のデッキから、〈けはい〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "つよい。でかい。大きい。",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2251",
+        "card_number": "hBP08-048",
+        "rarity": "U",
+        "illustrator": "柚杞ゆぎな",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-048_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2405",
+        "card_number": "hBP08-048",
+        "rarity": "S",
+        "illustrator": "柚杞ゆぎな",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-048_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-049",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "140",
+    "bloom_level": "1st",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "君との電話ひとりじめ",
+    "keyword_effect": "[コラボポジション限定]自分の#FLOW GLOWを持つセンターホロメンがいるなら、相手のホロメンのアーツは、自分のコラボホロメンしか対象にできない。ただし、特殊ダメージは除く。",
+    "arts_1_cost": "青◇",
+    "arts_1_name": "君さえよかったらもっとはなそ",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2252",
+        "card_number": "hBP08-049",
+        "rarity": "C",
+        "illustrator": "赤木渉",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-049_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2406",
+        "card_number": "hBP08-049",
+        "rarity": "S",
+        "illustrator": "赤木渉",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-049_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-050",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "160",
+    "bloom_level": "1st",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "君に任せちゃおうかな？",
+    "keyword_effect": "相手のターンで、このホロメンがダウンした時、自分のエールデッキの上から1枚を自分のバックホロメンに送る。",
+    "arts_1_cost": "青",
+    "arts_1_name": "雪だるまつくろっ",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のアーカイブのエール1枚を自分のホロメンに送る。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2253",
+        "card_number": "hBP08-050",
+        "rarity": "C",
+        "illustrator": "Cranee",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-050_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2407",
+        "card_number": "hBP08-050",
+        "rarity": "S",
+        "illustrator": "Cranee",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-050_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-051",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "愛のエゴサ",
+    "keyword_effect": "[センターポジション限定]自分の〈水宮枢〉がコラボした時、相手のセンターホロメンを選ぶ。次の相手のターンが終了するまで、選んだホロメンのバトンタッチに必要な無色+1。",
+    "arts_1_cost": "青◇",
+    "arts_1_name": "8時間35分",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のエールデッキの上から1枚を自分の〈水宮枢〉に送る。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2254",
+        "card_number": "hBP08-051",
+        "rarity": "R",
+        "illustrator": "れーかるる",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-051_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2368",
+        "card_number": "hBP08-051",
+        "rarity": "SR",
+        "illustrator": "れーかるる",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-051_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-052",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "",
+    "keyword_name": "",
+    "keyword_effect": "",
+    "arts_1_cost": "青",
+    "arts_1_name": "元気の出るグミ",
+    "arts_1_damage": "70",
+    "arts_1_bonus": "赤+50",
+    "arts_1_effect": "相手のセンターホロメンのバトンタッチに必要な無色が5つ以上なら、自分のエールデッキの上から1枚を自分の〈水宮枢〉に送る。",
+    "arts_2_cost": "青◇◇◇",
+    "arts_2_name": "グミうまい",
+    "arts_2_damage": "180",
+    "arts_2_bonus": "赤+50",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2255",
+        "card_number": "hBP08-052",
+        "rarity": "U",
+        "illustrator": "ごろー＊",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-052_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2408",
+        "card_number": "hBP08-052",
+        "rarity": "S",
+        "illustrator": "ごろー＊",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-052_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-053",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "160",
+    "bloom_level": "2nd",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "しゅぴしゅわ～～っ！！！！",
+    "keyword_effect": "[センターポジション限定]相手のセンターホロメンのバトンタッチに必要な無色が5つ以上なら、相手のセンターホロメンのアーツに必要な無色+2。",
+    "arts_1_cost": "青青◇",
+    "arts_1_name": "届け、この愛",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "白+50",
+    "arts_1_effect": "相手のセンターホロメンのバトンタッチに必要な無色が5つ以上なら、相手のDebut以外のホロメン1人に特殊ダメージ100を与える。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2256",
+        "card_number": "hBP08-053",
+        "rarity": "RR",
+        "illustrator": "green322",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-053_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2344",
+        "card_number": "hBP08-053",
+        "rarity": "UR",
+        "illustrator": "green322",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-053_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2369",
+        "card_number": "hBP08-053",
+        "rarity": "SR",
+        "illustrator": "green322",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-053_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-054",
+    "name": "ムーナ・ホシノヴァ",
+    "color": "青",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#ID, #ID1期生, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "この絆が私達！",
+    "keyword_effect": "自分の推しホロメンの色が緑か青か黄なら、自分のアーカイブの青エールを自分の#ID1期生を持つホロメン1～3人に1枚ずつ送る。",
+    "arts_1_cost": "◇◇◇",
+    "arts_1_name": "ひとりじゃない、今は共に",
+    "arts_1_damage": "130",
+    "arts_1_bonus": "赤+50",
+    "arts_1_effect": "このホロメンに付いているエール3枚をアーカイブできる:自分のデッキを3枚引く。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2257",
+        "card_number": "hBP08-054",
+        "rarity": "R",
+        "illustrator": "よもさか",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-054_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2370",
+        "card_number": "hBP08-054",
+        "rarity": "SR",
+        "illustrator": "よもさか",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-054_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-055",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "hp": "110",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "FUWAMOCOとなら大丈夫",
+    "keyword_effect": "自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。",
+    "arts_1_cost": "青",
+    "arts_1_name": "あなたのふわふわなフワワ",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに赤エールが付いているなら、自分のデッキを1枚引く。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2258",
+        "card_number": "hBP08-055",
+        "rarity": "C",
+        "illustrator": "marumoru",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-055_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2409",
+        "card_number": "hBP08-055",
+        "rarity": "S",
+        "illustrator": "marumoru",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-055_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-056",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "hp": "160",
+    "bloom_level": "1st",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "ドキドキDoggy -Fuwawa-",
+    "keyword_effect": "自分のデッキから、1stホロメンの〈モココ・アビスガード〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "思いっきりやってくるよ！",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2259",
+        "card_number": "hBP08-056",
+        "rarity": "U",
+        "illustrator": "松浦健人",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-056_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2410",
+        "card_number": "hBP08-056",
+        "rarity": "S",
+        "illustrator": "松浦健人",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-056_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-057",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "hp": "180",
+    "bloom_level": "1st",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "木漏れ日のブランコ",
+    "keyword_effect": "自分のステージのエールを好きな枚数選び、自分の〈モココ・アビスガード〉1人に付け替えられる。その後、自分のステージにエールが8枚以上あるなら、このターンの間、このホロメンのアーツ+40。",
+    "arts_1_cost": "青",
+    "arts_1_name": "寄り添うふたり",
+    "arts_1_damage": "30+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "このホロメンに赤エールが付いているなら、このアーツ+20。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2260",
+        "card_number": "hBP08-057",
+        "rarity": "R",
+        "illustrator": "カロクチトセ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-057_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2371",
+        "card_number": "hBP08-057",
+        "rarity": "SR",
+        "illustrator": "カロクチトセ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-057_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-058",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "",
+    "keyword_name": "",
+    "keyword_effect": "",
+    "arts_1_cost": "青◇",
+    "arts_1_name": "勝てるわけないでしょ！",
+    "arts_1_damage": "100",
+    "arts_1_bonus": "白+50",
+    "arts_1_effect": "自分のアーカイブの青エール1～2枚を選び、自分の#Adventを持つホロメンに割り振って送る。",
+    "arts_2_cost": "青青◇◇",
+    "arts_2_name": "今度はこっちの番だよ！",
+    "arts_2_damage": "160",
+    "arts_2_bonus": "白+50",
+    "arts_2_effect": "自分の推しホロメンが青の〈FUWAMOCO〉なら、このホロメンのエール2枚をアーカイブできる:相手のDebut以外のホロメン1人に特殊ダメージ50を与える。",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2261",
+        "card_number": "hBP08-058",
+        "rarity": "R",
+        "illustrator": "Honshin",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-058_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2372",
+        "card_number": "hBP08-058",
+        "rarity": "SR",
+        "illustrator": "Honshin",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-058_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-059",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "深淵からの愛情",
+    "keyword_effect": "自分のステージに赤エールが6枚以上あるなら、このホロメンのアーツは、相手のDebut以外のバックホロメンも対象にできる。",
+    "arts_1_cost": "青青青",
+    "arts_1_name": "ふわふわバウンダリースパナー",
+    "arts_1_damage": "80+",
+    "arts_1_bonus": "白+50",
+    "arts_1_effect": "このターンに自分の〈モココ・アビスガード〉がアーツを使っていたなら、このアーツ+50。その後、このホロメンの赤エールを好きな枚数選び、自分の〈モココ・アビスガード〉1人に付け替える。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2262",
+        "card_number": "hBP08-059",
+        "rarity": "RR",
+        "illustrator": "しちがつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-059_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2345",
+        "card_number": "hBP08-059",
+        "rarity": "UR",
+        "illustrator": "しちがつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-059_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2373",
+        "card_number": "hBP08-059",
+        "rarity": "SR",
+        "illustrator": "しちがつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-059_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD11-007",
+    "name": "水宮枢",
+    "color": "青",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#DEV_IS, #FLOW GLOW",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "",
+    "keyword_name": "",
+    "keyword_effect": "",
+    "arts_1_cost": "◇",
+    "arts_1_name": "しゅぴしゅわー",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "相手のセンターホロメンを選ぶ。次の相手のターンが終了するまで、選んだホロメンのバトンタッチに必要な無色+1。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "このホロメンはデッキに何枚でも入れられる",
+    "variations": [
+      {
+        "web_id": "2321",
+        "card_number": "hSD11-007",
+        "rarity": "C",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hSD11-007_C_02.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2447",
+        "card_number": "hSD11-007",
+        "rarity": "HR",
+        "illustrator": "ふじさわ犬一",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hSD11-007_HR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "1724",
+        "card_number": "hSD11-007",
+        "rarity": "P",
+        "illustrator": "おげげ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD11-007_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1475",
+        "card_number": "hSD11-007",
+        "rarity": "C",
+        "illustrator": "おげげ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-007_C.png",
+        "expansion_id": "hSD11",
+        "expansion_name": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-061",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "秘密結社のおもてなし",
+    "keyword_effect": "自分が後攻で最初のターンで、自分の推しホロメンが〈鷹嶺ルイ〉なら、相手は、自身のホロパワーの上から1枚を手札に加える。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "holoX Coffeeをどうぞ",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2264",
+        "card_number": "hBP08-061",
+        "rarity": "C",
+        "illustrator": "いずみけい",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-061_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-062",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "ダウンさせられる覚悟",
+    "keyword_effect": "自分の手札1枚をアーカイブできる:自分のデッキから、エクストラ「このホロメンはデッキに何枚でも入れられる」を持つDebutホロメン1枚をステージに出す。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "ダウンさせる意志",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2265",
+        "card_number": "hBP08-062",
+        "rarity": "U",
+        "illustrator": "TAINO江511",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-062_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2411",
+        "card_number": "hBP08-062",
+        "rarity": "S",
+        "illustrator": "TAINO江511",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-062_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-063",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "150",
+    "bloom_level": "1st",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "ホロックス・ディール",
+    "keyword_effect": "自分のデッキの上から3枚を見る。その中から、#秘密結社holoXを持つホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。",
+    "arts_1_cost": "紫",
+    "arts_1_name": "どう似合ってる？？？",
+    "arts_1_damage": "40",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2266",
+        "card_number": "hBP08-063",
+        "rarity": "C",
+        "illustrator": "ekao",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-063_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2412",
+        "card_number": "hBP08-063",
+        "rarity": "S",
+        "illustrator": "ekao",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-063_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-064",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "荒事上等",
+    "keyword_effect": "自分の手札1枚をアーカイブできる:相手のセンターホロメンかコラボホロメンに特殊ダメージ30を与える。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "眠らない街の仕事屋",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のデッキから、〈ルイ友〉1枚を自分のホロメンに付ける。そしてデッキをシャッフルする。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2267",
+        "card_number": "hBP08-064",
+        "rarity": "C",
+        "illustrator": "有芳",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-064_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2413",
+        "card_number": "hBP08-064",
+        "rarity": "S",
+        "illustrator": "有芳",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-064_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-065",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "180",
+    "bloom_level": "1st",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "大穴きちゃーーー！",
+    "keyword_effect": "[センターポジション限定]自分の手札1枚をアーカイブできる:サイコロを1回振る。1なら、自分のデッキを3枚引く。1以外なら、自分のデッキを1枚引く。",
+    "arts_1_cost": "紫紫",
+    "arts_1_name": "差していくよ！",
+    "arts_1_damage": "50+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分の手札が2枚以下なら、このアーツ+30。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2268",
+        "card_number": "hBP08-065",
+        "rarity": "R",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-065_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2375",
+        "card_number": "hBP08-065",
+        "rarity": "SR",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-065_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-066",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "そんなに顔赤い？",
+    "keyword_effect": "自分のアーカイブのサポートカード1枚をデッキの上に戻せる。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "酔い、覚ましていこ？",
+    "arts_1_damage": "60+",
+    "arts_1_bonus": "黄+50",
+    "arts_1_effect": "自分の手札1～2枚をアーカイブできる:アーカイブしたカード1枚につき、このアーツ+20。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2269",
+        "card_number": "hBP08-066",
+        "rarity": "U",
+        "illustrator": "かかげ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-066_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2414",
+        "card_number": "hBP08-066",
+        "rarity": "S",
+        "illustrator": "かかげ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-066_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-067",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#JP, #秘密結社holoX, #トリ, #お酒",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "ヴァイオレットドミネーション",
+    "keyword_effect": "[センターポジション限定]自分の手札2枚をアーカイブできる:相手のステージのエール1枚を、相手のホロメンに付け替える。",
+    "arts_1_cost": "紫紫紫",
+    "arts_1_name": "逆転の一手",
+    "arts_1_damage": "130+",
+    "arts_1_bonus": "緑+50",
+    "arts_1_effect": "自分の手札が2枚以下なら、このアーツ+50。自分の手札が0枚なら、かわりに、このアーツ+70。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2270",
+        "card_number": "hBP08-067",
+        "rarity": "RR",
+        "illustrator": "pbj",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-067_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2346",
+        "card_number": "hBP08-067",
+        "rarity": "UR",
+        "illustrator": "pbj",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-067_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2376",
+        "card_number": "hBP08-067",
+        "rarity": "SR",
+        "illustrator": "pbj",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-067_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-068",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "140",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Myth, #絵, #海",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "きタコれ！",
+    "keyword_effect": "自分が後攻で最初のターンなら、このターンの間、相手のステージのホロメン全員は、すべての色を持つホロメンとして扱う。",
+    "arts_1_cost": "紫",
+    "arts_1_name": "引きこもり娘は外出の夢を見た",
+    "arts_1_damage": "10",
+    "arts_1_bonus": "",
+    "arts_1_effect": "相手の推しホロメンと異なる色を持つ相手のセンターホロメンとコラボホロメンに特殊ダメージ20を与える。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2271",
+        "card_number": "hBP08-068",
+        "rarity": "C",
+        "illustrator": "黒星紅白",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-068_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-069",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Myth, #絵, #海",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "夏の訪れ",
+    "keyword_effect": "自分のステージに#絵を持つホロメンが3人以上いるなら、自分のデッキを1枚引く。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "うまくいったでしょ、もっといけるよ",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2272",
+        "card_number": "hBP08-069",
+        "rarity": "U",
+        "illustrator": "古澤あつし",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-069_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2415",
+        "card_number": "hBP08-069",
+        "rarity": "S",
+        "illustrator": "古澤あつし",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-069_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-070",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "180",
+    "bloom_level": "1st",
+    "tags": "#EN, #Myth, #絵, #海",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "イナ・イマジネーション",
+    "keyword_effect": "自分のデッキから、〈Takodachi〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "紫",
+    "arts_1_name": "私の生涯の友人",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、自分の#Mythを持つホロメン1人のHP10回復。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2273",
+        "card_number": "hBP08-070",
+        "rarity": "C",
+        "illustrator": "こぶりな とま",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-070_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2416",
+        "card_number": "hBP08-070",
+        "rarity": "S",
+        "illustrator": "こぶりな とま",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-070_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-071",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "150",
+    "bloom_level": "1st",
+    "tags": "#EN, #Myth, #絵, #海",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "TOMORROW!?",
+    "keyword_effect": "相手の推しホロメンと異なる色を持つ相手のホロメン1人に特殊ダメージ20を与える。",
+    "arts_1_cost": "◇◇",
+    "arts_1_name": "Bonk!",
+    "arts_1_damage": "50",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2274",
+        "card_number": "hBP08-071",
+        "rarity": "C",
+        "illustrator": "deru",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-071_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2417",
+        "card_number": "hBP08-071",
+        "rarity": "S",
+        "illustrator": "deru",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-071_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-072",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Myth, #絵, #海, #サマー",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "Natsu Ina!!",
+    "keyword_effect": "自分のアーカイブに#Mythを持つホロメンが8枚以上あるなら、自分のアーカイブの#Mythを持つホロメン1枚を手札に戻す。自分のブルームエフェクト「Natsu Ina!!」はターンに1回しか使えない。",
+    "arts_1_cost": "紫",
+    "arts_1_name": "マルチカラー・スケッチ",
+    "arts_1_damage": "30+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、このアーツ+10。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2275",
+        "card_number": "hBP08-072",
+        "rarity": "R",
+        "illustrator": "Loisning",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-072_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2377",
+        "card_number": "hBP08-072",
+        "rarity": "SR",
+        "illustrator": "Loisning",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-072_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-073",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Myth, #絵, #海",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "お行儀よくしてね？",
+    "keyword_effect": "相手のステージのホロメン2人を選ぶ。このターンの間、選んだホロメンは、すべての色を持つホロメンとして扱う。",
+    "arts_1_cost": "◇◇",
+    "arts_1_name": "おやつのクッキー抜きだよ！",
+    "arts_1_damage": "90",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2276",
+        "card_number": "hBP08-073",
+        "rarity": "U",
+        "illustrator": "しえりあ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-073_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2418",
+        "card_number": "hBP08-073",
+        "rarity": "S",
+        "illustrator": "しえりあ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-073_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-074",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#EN, #Myth, #絵, #海",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "目覚めよ、赤き眼の黒龍",
+    "keyword_effect": "[センターポジション限定]相手の推しホロメンと異なる色を持つ相手のステージのホロメン1人につき、自分のデッキを1枚引く。",
+    "arts_1_cost": "◇◇◇",
+    "arts_1_name": "ネクロ・エリミネーション!!",
+    "arts_1_damage": "110",
+    "arts_1_bonus": "黄+50",
+    "arts_1_effect": "自分の手札1～3枚をアーカイブできる:この能力でアーカイブしたカード1枚につき、相手のホロメン1人を選ぶ。このターンの間、選んだホロメンは、すべての色を持つホロメンとして扱う。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2277",
+        "card_number": "hBP08-074",
+        "rarity": "RR",
+        "illustrator": "しえりあ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-074_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2347",
+        "card_number": "hBP08-074",
+        "rarity": "UR",
+        "illustrator": "しえりあ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-074_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2378",
+        "card_number": "hBP08-074",
+        "rarity": "SR",
+        "illustrator": "しえりあ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-074_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-075",
+    "name": "ロボ子さん",
+    "color": "紫",
+    "hp": "210",
+    "bloom_level": "2nd",
+    "tags": "#JP, #0期生, #シューター",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "ロボ子さん↔ろぼさー",
+    "keyword_effect": "自分のデッキから、〈ろぼさー〉1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "紫紫",
+    "arts_1_name": "一緒に外に行こうよ",
+    "arts_1_damage": "110+",
+    "arts_1_bonus": "黄+50",
+    "arts_1_effect": "このホロメンに付いている〈ろぼさー〉1枚につき、このアーツ+20。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2278",
+        "card_number": "hBP08-075",
+        "rarity": "R",
+        "illustrator": "ももしき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-075_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2379",
+        "card_number": "hBP08-075",
+        "rarity": "SR",
+        "illustrator": "ももしき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-075_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-076",
+    "name": "癒月ちょこ",
+    "color": "紫",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#JP, #2期生, #料理",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "おいしいごはんの夢",
+    "keyword_effect": "自分のデッキの上から3枚を見る。その中から、[#料理を持つホロメンと#食べ物を持つイベント]1枚ずつを公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。",
+    "arts_1_cost": "紫◇◇",
+    "arts_1_name": "ごはんをいっぱい食べたあとには……",
+    "arts_1_damage": "120",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "自分のアーカイブに#食べ物を持つイベントが3枚以上あるなら、このホロメンのHP100回復。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2279",
+        "card_number": "hBP08-076",
+        "rarity": "R",
+        "illustrator": "ryota",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-076_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2380",
+        "card_number": "hBP08-076",
+        "rarity": "SR",
+        "illustrator": "ryota",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-076_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-077",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "歌ってみた、聴いてください",
+    "keyword_effect": "自分が後攻で最初のターンなら、自分のデッキから、[1stホロメンの〈音乃瀬奏〉と〈リコーダー〉]1枚ずつを公開し、手札に加える。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "奏スタンバイ",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2280",
+        "card_number": "hBP08-077",
+        "rarity": "C",
+        "illustrator": "hitokoto",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-077_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-078",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "楽しい月曜日だよー！！！！！！！！",
+    "keyword_effect": "自分のステージの#歌を持つ2ndホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "れろれろれろれろ",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2281",
+        "card_number": "hBP08-078",
+        "rarity": "U",
+        "illustrator": "xu chan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-078_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2419",
+        "card_number": "hBP08-078",
+        "rarity": "S",
+        "illustrator": "xu chan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-078_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-079",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "黎明の歌姫",
+    "keyword_effect": "自分のステージに#ReGLOSSを持つ2ndホロメンがいるなら、このホロメンのHP+50。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "清廉なる歌声",
+    "arts_1_damage": "10",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のアーカイブのエール1枚を自分の#ReGLOSSを持つセンターホロメンに送れる。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2282",
+        "card_number": "hBP08-079",
+        "rarity": "C",
+        "illustrator": "紺屋",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-079_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2420",
+        "card_number": "hBP08-079",
+        "rarity": "S",
+        "illustrator": "紺屋",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-079_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-080",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "ファイティングエール",
+    "keyword_effect": "自分のステージのエールの枚数が相手より多いなら、自分のデッキから、#ReGLOSSを持つDebutホロメン1枚をステージに出せる。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "奏ストラクション",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2283",
+        "card_number": "hBP08-080",
+        "rarity": "C",
+        "illustrator": "謝謝いぬ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-080_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2421",
+        "card_number": "hBP08-080",
+        "rarity": "S",
+        "illustrator": "謝謝いぬ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-080_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-081",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "150",
+    "bloom_level": "1st",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "音の饗宴",
+    "keyword_effect": "自分のアーカイブのエール1枚を自分のセンターホロメンの〈音乃瀬奏〉に送る。",
+    "arts_1_cost": "黄◇",
+    "arts_1_name": "今年も伸び盛り",
+    "arts_1_damage": "40+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "[センターポジション限定]自分のステージのエールの枚数が相手より1枚多いなら、このアーツ+20。エールが2枚以上多いなら、かわりに、このアーツ+40。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2284",
+        "card_number": "hBP08-081",
+        "rarity": "R",
+        "illustrator": "すすもく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-081_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2381",
+        "card_number": "hBP08-081",
+        "rarity": "SR",
+        "illustrator": "すすもく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-081_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-082",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "190",
+    "bloom_level": "2nd",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "めでたい日なのに……",
+    "keyword_effect": "自分のステージのエールの枚数が相手より多いなら、このターンの間、このホロメンのアーツ+40。",
+    "arts_1_cost": "黄◇",
+    "arts_1_name": "涙が止まらないよ～",
+    "arts_1_damage": "100",
+    "arts_1_bonus": "白+50",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2285",
+        "card_number": "hBP08-082",
+        "rarity": "U",
+        "illustrator": "gomzi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-082_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2422",
+        "card_number": "hBP08-082",
+        "rarity": "S",
+        "illustrator": "gomzi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-082_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-083",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "hp": "190",
+    "bloom_level": "2nd",
+    "tags": "#DEV_IS, #ReGLOSS, #歌",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "テンション超アップ！",
+    "keyword_effect": "自分のステージのエールの枚数が相手以下なら、自分のアーカイブのエール1～2枚をこのホロメンに送る。",
+    "arts_1_cost": "黄黄◇",
+    "arts_1_name": "奏オンステージ",
+    "arts_1_damage": "120+",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "自分のステージのエールの枚数が相手より多いなら、多い枚数1枚につき、このアーツ+20。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2286",
+        "card_number": "hBP08-083",
+        "rarity": "RR",
+        "illustrator": "ZETTO",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-083_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2348",
+        "card_number": "hBP08-083",
+        "rarity": "UR",
+        "illustrator": "ZETTO",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-083_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2382",
+        "card_number": "hBP08-083",
+        "rarity": "SR",
+        "illustrator": "ZETTO",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-083_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-084",
+    "name": "夏色まつり",
+    "color": "黄",
+    "hp": "190",
+    "bloom_level": "1st",
+    "tags": "#JP, #1期生, #シューター",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "優雅なてぃーたいむ！",
+    "keyword_effect": "自分のライフが3以下なら、このターンの間、自分のステージの#1期生を持つホロメン全員のアーツ+20。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "まちゅだってお姫さま♡",
+    "arts_1_damage": "30+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のステージに#1期生を持つ2ndホロメンがいるなら、このアーツ+30。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2287",
+        "card_number": "hBP08-084",
+        "rarity": "R",
+        "illustrator": "おもちもなか",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-084_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2383",
+        "card_number": "hBP08-084",
+        "rarity": "SR",
+        "illustrator": "おもちもなか",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-084_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-085",
+    "name": "不知火フレア",
+    "color": "黄",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#JP, #3期生, #ハーフエルフ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "手、繋いでいると温かいね",
+    "keyword_effect": "自分の手札1枚をアーカイブできる:自分のアーカイブの[Debutホロメンか1stホロメンかSpotホロメン]1枚を手札に戻す。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "テレ隠しが下手ですな～",
+    "arts_1_damage": "10",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2288",
+        "card_number": "hBP08-085",
+        "rarity": "C",
+        "illustrator": "サクミチ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-085_C.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2423",
+        "card_number": "hBP08-085",
+        "rarity": "S",
+        "illustrator": "サクミチ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-085_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-086",
+    "name": "不知火フレア",
+    "color": "黄",
+    "hp": "160",
+    "bloom_level": "1st",
+    "tags": "#JP, #3期生, #ハーフエルフ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "俺のイナー！",
+    "keyword_effect": "自分のエールデッキの上から1枚を自分の[〈不知火フレア〉か#ENを持つホロメン]に送れる。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "最高のともだち",
+    "arts_1_damage": "20+",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のセンターホロメンが2ndホロメンなら、このアーツ+30。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2289",
+        "card_number": "hBP08-086",
+        "rarity": "U",
+        "illustrator": "おとうふ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-086_U.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2424",
+        "card_number": "hBP08-086",
+        "rarity": "S",
+        "illustrator": "おとうふ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-086_S.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-087",
+    "name": "不知火フレア",
+    "color": "黄",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#JP, #3期生, #ハーフエルフ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "ドリーミングエール",
+    "keyword_effect": "自分のアーカイブのエール1～2枚を自分のセンターホロメンの[〈不知火フレア〉か#ENを持つホロメン]に送れる。",
+    "arts_1_cost": "◇◇",
+    "arts_1_name": "夢から醒めたら",
+    "arts_1_damage": "90",
+    "arts_1_bonus": "青+50",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2290",
+        "card_number": "hBP08-087",
+        "rarity": "R",
+        "illustrator": "ひょん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-087_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2384",
+        "card_number": "hBP08-087",
+        "rarity": "SR",
+        "illustrator": "ひょん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-087_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-088",
+    "name": "不知火フレア",
+    "color": "黄",
+    "hp": "200",
+    "bloom_level": "2nd",
+    "tags": "#JP, #3期生, #ハーフエルフ",
+    "baton_touch": "◇◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ギフト",
+    "keyword_name": "メロゥ・フラワリー",
+    "keyword_effect": "[ターンに1回]自分のターンで、このホロメンがコラボポジションに移動した時、相手のセンターホロメンとコラボホロメンに特殊ダメージ20を与える。",
+    "arts_1_cost": "黄黄◇",
+    "arts_1_name": "リレーションファンタジー",
+    "arts_1_damage": "140+",
+    "arts_1_bonus": "白+50",
+    "arts_1_effect": "[コラボポジション限定]自分のセンターホロメンが#3期生を持つホロメンなら、このアーツ+30。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2291",
+        "card_number": "hBP08-088",
+        "rarity": "RR",
+        "illustrator": "那桜",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-088_RR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2349",
+        "card_number": "hBP08-088",
+        "rarity": "UR",
+        "illustrator": "那桜",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-088_UR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2385",
+        "card_number": "hBP08-088",
+        "rarity": "SR",
+        "illustrator": "那桜",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-088_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-089",
+    "name": "ジジ・ムリン",
+    "color": "黄",
+    "hp": "170",
+    "bloom_level": "1st",
+    "tags": "#EN, #Justice",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "ブルームエフェクト",
+    "keyword_name": "ラピッドファイア・ウィット",
+    "keyword_effect": "このホロメンに重なっているホロメン1枚をアーカイブできる:自分のデッキから、〈Popo〉1枚を自分のホロメンに付ける。そしてデッキをシャッフルする。",
+    "arts_1_cost": "黄",
+    "arts_1_name": "アイアムアゲーマー",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "自分のアーカイブのエール1枚を自分の#Justiceを持つホロメンに送る。",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2292",
+        "card_number": "hBP08-089",
+        "rarity": "R",
+        "illustrator": "スライム",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-089_R.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2386",
+        "card_number": "hBP08-089",
+        "rarity": "SR",
+        "illustrator": "スライム",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-089_SR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
       }
     ]
   },
@@ -26785,6 +30986,50 @@
     ]
   },
   {
+    "card_number": "hSD12-013",
+    "name": "モココ・アビスガード",
+    "color": "赤",
+    "hp": "130",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "ハッピー☆パピー -MOCOCO-",
+    "keyword_effect": "自分のステージのホロメン全員が#Adventを持つホロメンなら、自分のバックポジションのDebutホロメン1人をデッキの下に戻せる:自分のデッキを2枚引く。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "ほんまにほんま～！！",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2197",
+        "card_number": "hSD12-013",
+        "rarity": "P",
+        "illustrator": "ゆがー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD12-013_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1762",
+        "card_number": "hSD12-013",
+        "rarity": "C",
+        "illustrator": "イコモチ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-013_C.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
+      }
+    ]
+  },
+  {
     "card_number": "hSD13-003",
     "name": "エリザベス・ローズ・ブラッドフレイム",
     "color": "赤",
@@ -26961,50 +31206,6 @@
     ]
   },
   {
-    "card_number": "hSD11-007",
-    "name": "水宮枢",
-    "color": "青",
-    "hp": "120",
-    "bloom_level": "Debut",
-    "tags": "#DEV_IS, #FLOW GLOW",
-    "baton_touch": "◇",
-    "card_type": "ホロメン",
-    "keyword_type": "",
-    "keyword_name": "",
-    "keyword_effect": "",
-    "arts_1_cost": "◇",
-    "arts_1_name": "しゅぴしゅわー",
-    "arts_1_damage": "20",
-    "arts_1_bonus": "",
-    "arts_1_effect": "相手のセンターポジションのホロメン1人は、次の相手のターンが終了するまでバトンタッチに必要な無色+1。",
-    "arts_2_cost": "",
-    "arts_2_name": "",
-    "arts_2_damage": "",
-    "arts_2_bonus": "",
-    "arts_2_effect": "",
-    "extra": "このホロメンはデッキに何枚でも入れられる",
-    "variations": [
-      {
-        "web_id": "1724",
-        "card_number": "hSD11-007",
-        "rarity": "P",
-        "illustrator": "おげげ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD11-007_P.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
-      },
-      {
-        "web_id": "1475",
-        "card_number": "hSD11-007",
-        "rarity": "C",
-        "illustrator": "おげげ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-007_C.png",
-        "expansion_id": "hSD11",
-        "expansion_name": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎"
-      }
-    ]
-  },
-  {
     "card_number": "hSD11-008",
     "name": "水宮枢",
     "color": "青",
@@ -27175,6 +31376,50 @@
         "rarity": "RR",
         "illustrator": "株式会社ジーアングル",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-007_RR.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD12-014",
+    "name": "フワワ・アビスガード",
+    "color": "青",
+    "hp": "100",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Advent, #ケモミミ",
+    "baton_touch": "",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "ハッピー☆パピー -FUWAWA-",
+    "keyword_effect": "自分のステージのホロメン全員が#Adventを持つホロメンなら、自分のバックポジションのDebutホロメン1人をデッキの下に戻せる:自分のエールデッキの上から1枚を自分のホロメンに送る。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "ほんまにほんまだよ！",
+    "arts_1_damage": "30",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2198",
+        "card_number": "hSD12-014",
+        "rarity": "P",
+        "illustrator": "ゆがー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD12-014_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1763",
+        "card_number": "hSD12-014",
+        "rarity": "C",
+        "illustrator": "イコモチ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-014_C.png",
         "expansion_id": "hSD12",
         "expansion_name": "スタートデッキ 推し Advent"
       }
@@ -27621,6 +31866,50 @@
     ]
   },
   {
+    "card_number": "hSD13-009",
+    "name": "ジジ・ムリン",
+    "color": "黄",
+    "hp": "120",
+    "bloom_level": "Debut",
+    "tags": "#EN, #Justice",
+    "baton_touch": "◇",
+    "card_type": "ホロメン",
+    "keyword_type": "コラボエフェクト",
+    "keyword_name": "イタズラ増殖！",
+    "keyword_effect": "自分が後攻で最初のターンなら、自分のデッキから、#Justiceを持つ1stホロメン1枚を公開し、ステージに出す。そしてデッキをシャッフルする。",
+    "arts_1_cost": "◇",
+    "arts_1_name": "YIPPEEE",
+    "arts_1_damage": "20",
+    "arts_1_bonus": "",
+    "arts_1_effect": "",
+    "arts_2_cost": "",
+    "arts_2_name": "",
+    "arts_2_damage": "",
+    "arts_2_bonus": "",
+    "arts_2_effect": "",
+    "extra": "",
+    "variations": [
+      {
+        "web_id": "2194",
+        "card_number": "hSD13-009",
+        "rarity": "P",
+        "illustrator": "なかゥま",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD13-009_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1777",
+        "card_number": "hSD13-009",
+        "rarity": "C",
+        "illustrator": "なかゥま",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-009_C.png",
+        "expansion_id": "hSD13",
+        "expansion_name": "スタートデッキ 推し Justice"
+      }
+    ]
+  },
+  {
     "card_number": "hSD13-013",
     "name": "ジジ・ムリン",
     "color": "黄",
@@ -27810,6 +32099,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-005_U.png",
         "expansion_id": "hSD01",
         "expansion_name": "スタートデッキ「ときのそら＆AZKi」"
+      },
+      {
+        "web_id": "2181",
+        "card_number": "hSD01-005",
+        "rarity": "P",
+        "illustrator": "つなかわ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hSD01-005_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -27880,6 +32178,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD01/hSD01-010_U.png",
         "expansion_id": "hSD01",
         "expansion_name": "スタートデッキ「ときのそら＆AZKi」"
+      },
+      {
+        "web_id": "2182",
+        "card_number": "hSD01-010",
+        "rarity": "P",
+        "illustrator": "北爪久美恵",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hSD01-010_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -28090,6 +32397,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD02/hSD02-005_C.png",
         "expansion_id": "hSD02",
         "expansion_name": "スタートデッキ 赤 百鬼あやめ"
+      },
+      {
+        "web_id": "2183",
+        "card_number": "hSD02-005",
+        "rarity": "P",
+        "illustrator": "gaha",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hSD02-005_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -28300,6 +32616,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD03/hSD03-005_C.png",
         "expansion_id": "hSD03",
         "expansion_name": "スタートデッキ 青 猫又おかゆ"
+      },
+      {
+        "web_id": "2184",
+        "card_number": "hSD03-005",
+        "rarity": "P",
+        "illustrator": "くへん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hSD03-005_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -28545,6 +32870,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD04/hSD04-005_C.png",
         "expansion_id": "hSD04",
         "expansion_name": "スタートデッキ 紫 癒月ちょこ"
+      },
+      {
+        "web_id": "2185",
+        "card_number": "hSD04-005",
+        "rarity": "P",
+        "illustrator": "MIGU",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hSD04-005_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -29420,6 +33754,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD07/hSD07-005_C.png",
         "expansion_id": "hSD07",
         "expansion_name": "スタートデッキ 黄 不知火フレア"
+      },
+      {
+        "web_id": "2186",
+        "card_number": "hSD07-005",
+        "rarity": "P",
+        "illustrator": "カロクチトセ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hSD07-005_P.png",
+        "expansion_id": "hWF01",
+        "expansion_name": "hololive OFFICIAL CARD GAME ツインウエハース"
       }
     ]
   },
@@ -29809,41 +34152,6 @@
     ]
   },
   {
-    "card_number": "hSD12-013",
-    "name": "モココ・アビスガード",
-    "color": "赤",
-    "hp": "130",
-    "bloom_level": "Debut",
-    "tags": "#EN, #Advent, #ケモミミ",
-    "baton_touch": "◇",
-    "card_type": "ホロメン",
-    "keyword_type": "コラボエフェクト",
-    "keyword_name": "ハッピー☆パピー -MOCOCO-",
-    "keyword_effect": "自分のステージのホロメン全員が#Adventを持つホロメンなら、自分のバックポジションのDebutホロメン1人をデッキの下に戻せる:自分のデッキを2枚引く。",
-    "arts_1_cost": "◇",
-    "arts_1_name": "ほんまにほんま～！！",
-    "arts_1_damage": "30",
-    "arts_1_bonus": "",
-    "arts_1_effect": "",
-    "arts_2_cost": "",
-    "arts_2_name": "",
-    "arts_2_damage": "",
-    "arts_2_bonus": "",
-    "arts_2_effect": "",
-    "extra": "",
-    "variations": [
-      {
-        "web_id": "1762",
-        "card_number": "hSD12-013",
-        "rarity": "C",
-        "illustrator": "イコモチ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-013_C.png",
-        "expansion_id": "hSD12",
-        "expansion_name": "スタートデッキ 推し Advent"
-      }
-    ]
-  },
-  {
     "card_number": "hSD12-004",
     "name": "シオリ・ノヴェラ",
     "color": "青",
@@ -29908,41 +34216,6 @@
         "rarity": "U",
         "illustrator": "時坂まこと",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-005_U.png",
-        "expansion_id": "hSD12",
-        "expansion_name": "スタートデッキ 推し Advent"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD12-014",
-    "name": "フワワ・アビスガード",
-    "color": "青",
-    "hp": "100",
-    "bloom_level": "Debut",
-    "tags": "#EN, #Advent, #ケモミミ",
-    "baton_touch": "",
-    "card_type": "ホロメン",
-    "keyword_type": "コラボエフェクト",
-    "keyword_name": "ハッピー☆パピー -FUWAWA-",
-    "keyword_effect": "自分のステージのホロメン全員が#Adventを持つホロメンなら、自分のバックポジションのDebutホロメン1人をデッキの下に戻せる:自分のエールデッキの上から1枚を自分のホロメンに送る。",
-    "arts_1_cost": "◇",
-    "arts_1_name": "ほんまにほんまだよ！",
-    "arts_1_damage": "30",
-    "arts_1_bonus": "",
-    "arts_1_effect": "",
-    "arts_2_cost": "",
-    "arts_2_name": "",
-    "arts_2_damage": "",
-    "arts_2_bonus": "",
-    "arts_2_effect": "",
-    "extra": "",
-    "variations": [
-      {
-        "web_id": "1763",
-        "card_number": "hSD12-014",
-        "rarity": "C",
-        "illustrator": "イコモチ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-014_C.png",
         "expansion_id": "hSD12",
         "expansion_name": "スタートデッキ 推し Advent"
       }
@@ -30153,41 +34426,6 @@
         "rarity": "U",
         "illustrator": "VIGORE",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-006_U.png",
-        "expansion_id": "hSD13",
-        "expansion_name": "スタートデッキ 推し Justice"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD13-009",
-    "name": "ジジ・ムリン",
-    "color": "黄",
-    "hp": "120",
-    "bloom_level": "Debut",
-    "tags": "#EN, #Justice",
-    "baton_touch": "◇",
-    "card_type": "ホロメン",
-    "keyword_type": "コラボエフェクト",
-    "keyword_name": "イタズラ増殖！",
-    "keyword_effect": "自分が後攻で最初のターンなら、自分のデッキから、#Justiceを持つ1stホロメン1枚を公開し、ステージに出す。そしてデッキをシャッフルする。",
-    "arts_1_cost": "◇",
-    "arts_1_name": "YIPPEEE",
-    "arts_1_damage": "20",
-    "arts_1_bonus": "",
-    "arts_1_effect": "",
-    "arts_2_cost": "",
-    "arts_2_name": "",
-    "arts_2_damage": "",
-    "arts_2_bonus": "",
-    "arts_2_effect": "",
-    "extra": "",
-    "variations": [
-      {
-        "web_id": "1777",
-        "card_number": "hSD13-009",
-        "rarity": "C",
-        "illustrator": "なかゥま",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-009_C.png",
         "expansion_id": "hSD13",
         "expansion_name": "スタートデッキ 推し Justice"
       }
@@ -30591,7 +34829,7 @@
     "keyword_name": "大丈夫ですよ！",
     "keyword_effect": "自分のアーカイブのマスコット1枚をこのホロメンに付ける。",
     "arts_1_cost": "◇",
-    "arts_1_name": "一緒に行こう(??????)??",
+    "arts_1_name": "一緒に行こう (๑•̀ㅂ•́)و✧",
     "arts_1_damage": "20+",
     "arts_1_bonus": "",
     "arts_1_effect": "[コラボポジション限定]このホロメンにマスコットが付いているなら、このアーツ+20。",

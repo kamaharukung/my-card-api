@@ -738,6 +738,114 @@
     ]
   },
   {
+    "card_number": "hY01-013",
+    "name": "白エール",
+    "color": "白",
+    "tags": "",
+    "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。 ■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
+    "variations": [
+      {
+        "web_id": "2450",
+        "card_number": "hY01-013",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hY01-013_SY.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hY02-011",
+    "name": "緑エール",
+    "color": "緑",
+    "tags": "",
+    "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。 ■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
+    "variations": [
+      {
+        "web_id": "2451",
+        "card_number": "hY02-011",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hY02-011_SY.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hY03-015",
+    "name": "赤エール",
+    "color": "赤",
+    "tags": "",
+    "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。 ■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
+    "variations": [
+      {
+        "web_id": "2452",
+        "card_number": "hY03-015",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hY03-015_SY.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hY04-012",
+    "name": "青エール",
+    "color": "青",
+    "tags": "",
+    "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。 ■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
+    "variations": [
+      {
+        "web_id": "2453",
+        "card_number": "hY04-012",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hY04-012_SY.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hY05-010",
+    "name": "紫エール",
+    "color": "紫",
+    "tags": "",
+    "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。 ■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
+    "variations": [
+      {
+        "web_id": "2454",
+        "card_number": "hY05-010",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hY05-010_SY.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hY06-010",
+    "name": "黄エール",
+    "color": "黄",
+    "tags": "",
+    "ability_text": "■ホロメンがステージから離れる時、そのホロメンのエールすべてをアーカイブする。 ■ホロメンがバトンタッチする時、そのホロメンのエールを指定された枚数アーカイブする。",
+    "variations": [
+      {
+        "web_id": "2455",
+        "card_number": "hY06-010",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hY06-010_SY.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
     "card_number": "hY01-002",
     "name": "白エール",
     "color": "白",

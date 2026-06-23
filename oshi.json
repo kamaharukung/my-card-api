@@ -2013,6 +2013,291 @@
     ]
   },
   {
+    "card_number": "hBP08-001",
+    "name": "IRyS",
+    "color": "白",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "ネフィリムの祝福",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。選んだホロメンに紫エールが付いているなら、かわりに、そのホロメンのアーツ+50。",
+    "skill_sp_name": "HOPE and DESPAIR",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の〈IRyS〉全員のエール1枚につき、自分のデッキを1枚引く。その後、自分の〈IRyS〉全員の紫エール1枚につき、自分のデッキの上から1枚をホロパワーにする。",
+    "variations": [
+      {
+        "web_id": "2204",
+        "card_number": "hBP08-001",
+        "rarity": "OSR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-001_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2331",
+        "card_number": "hBP08-001",
+        "rarity": "OUR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-001_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-002",
+    "name": "セシリア・イマーグリーン",
+    "color": "緑",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "Justiceの古代自動人形",
+    "skill_stage": "自分の〈セシリア・イマーグリーン〉全員は、リセットステップでアクティブにならない。",
+    "skill_oshi_name": "SPIN TO WIN!",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のエールデッキの上から2枚を自分のお休みしている〈セシリア・イマーグリーン〉に割り振って送る。その後、この能力でエールを送られたホロメン全員をアクティブにする。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2205",
+        "card_number": "hBP08-002",
+        "rarity": "OSR",
+        "illustrator": "むっちりしいたけ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-002_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2332",
+        "card_number": "hBP08-002",
+        "rarity": "OUR",
+        "illustrator": "むっちりしいたけ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-002_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-003",
+    "name": "FUWAMOCO",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "準備は出来てるよね!",
+    "skill_stage": "自分の[〈フワワ・アビスガード〉と〈モココ・アビスガード〉]に付いている赤エールすべては、青エールとしても扱う。",
+    "skill_oshi_name": "みんなの笑顔はモココが守る!",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のステージに赤エールがあるなら、自分のアーカイブの#Adventを持つホロメン1枚を手札に戻す。青エールがあるなら、自分のアーカイブのエール1枚を自分の#Adventを持つホロメンに送る。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2206",
+        "card_number": "hBP08-003",
+        "rarity": "OSR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-003_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2326",
+        "card_number": "hBP08-003",
+        "rarity": "SEC",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-003_SEC.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2333",
+        "card_number": "hBP08-003",
+        "rarity": "OUR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-003_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-004",
+    "name": "水宮枢",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "すうだけ見てたらいいのにね",
+    "skill_oshi": "[ホロパワー:-1] [ターンに1回]相手のセンターホロメンを選ぶ。次の相手のターンが終了するまで、選んだホロメンのバトンタッチに必要な無色+3。",
+    "skill_sp_name": "いけいけどんどん！",
+    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のバックホロメン1人に、相手のセンターホロメンが受けているダメージと同じ数値の特殊ダメージを与える。",
+    "variations": [
+      {
+        "web_id": "2207",
+        "card_number": "hBP08-004",
+        "rarity": "OSR",
+        "illustrator": "おにねこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-004_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2327",
+        "card_number": "hBP08-004",
+        "rarity": "SEC",
+        "illustrator": "おにねこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-004_SEC.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2334",
+        "card_number": "hBP08-004",
+        "rarity": "OUR",
+        "illustrator": "おにねこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-004_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-005",
+    "name": "鷹嶺ルイ",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "もう金曜だねルイ姉",
+    "skill_stage": "自分のターンが終了する時、自分のセンターホロメンが〈鷹嶺ルイ〉で、自分のコラボホロメンがいるなら、手札が4枚になるまで、自分のデッキを引く。",
+    "skill_oshi_name": "ホイサホイサ",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の手札2枚をアーカイブする。この能力で2枚アーカイブしたなら、相手のDebut以外の[センターホロメンとコラボホロメン]に特殊ダメージ50を与える。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2208",
+        "card_number": "hBP08-005",
+        "rarity": "OSR",
+        "illustrator": "GULI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-005_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2328",
+        "card_number": "hBP08-005",
+        "rarity": "SEC",
+        "illustrator": "GULI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-005_SEC.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2335",
+        "card_number": "hBP08-005",
+        "rarity": "OUR",
+        "illustrator": "GULI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-005_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2456",
+        "card_number": "hBP08-005",
+        "rarity": "P",
+        "illustrator": "TORYa",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP08-005_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-006",
+    "name": "一伊那尓栖",
+    "color": "紫",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "WORLD DOMINATION",
+    "skill_stage": "相手のステージのホロメン全員が、相手の推しホロメンと異なる色を持つなら、自分の〈一伊那尓栖〉全員のアーツは、エールを必要とせずに使える。",
+    "skill_oshi_name": "Ina'nisの色彩",
+    "skill_oshi": "[ホロパワー:-X] [ターンに1回]この能力でアーカイブしたホロパワー1枚につき、相手のステージのホロメン1人を選ぶ。このターンの間、選んだホロメンは、すべての色を持つホロメンとして扱う。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2209",
+        "card_number": "hBP08-006",
+        "rarity": "OSR",
+        "illustrator": "ツバメノ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-006_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2329",
+        "card_number": "hBP08-006",
+        "rarity": "SEC",
+        "illustrator": "黒星紅白",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-006_SEC.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2336",
+        "card_number": "hBP08-006",
+        "rarity": "OUR",
+        "illustrator": "ツバメノ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-006_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP08-007",
+    "name": "音乃瀬奏",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "",
+    "skill_stage": "",
+    "skill_oshi_name": "奏でるメロディー",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のターンが終了する時、このターンに自分の〈音乃瀬奏〉がセンターポジションでアーツを使っていたなら使える:自分のセンターホロメンと自分の#ReGLOSSを持つバックホロメン1人を交代させる。",
+    "skill_sp_name": "ぱちぱちありがとう！",
+    "skill_sp": "[ホロパワー:-1] [ゲームに1回]自分のエールデッキの上から3枚を自分のセンターホロメンの〈音乃瀬奏〉に送る。このターンが終了する時、自分のステージのエール3枚をアーカイブする。",
+    "variations": [
+      {
+        "web_id": "2210",
+        "card_number": "hBP08-007",
+        "rarity": "OSR",
+        "illustrator": "81",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-007_OSR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2330",
+        "card_number": "hBP08-007",
+        "rarity": "SEC",
+        "illustrator": "81",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-007_SEC.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      },
+      {
+        "web_id": "2337",
+        "card_number": "hBP08-007",
+        "rarity": "OUR",
+        "illustrator": "81",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-007_OUR.png",
+        "expansion_id": "hBP08",
+        "expansion_name": "ブースターパック バウンサーバウンド"
+      }
+    ]
+  },
+  {
     "card_number": "hBD24-004",
     "name": "白上フブキ",
     "color": "白",
