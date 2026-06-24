@@ -17542,7 +17542,7 @@
           {
             "valueType": "IMAGE"
           },
-          20,
+          30,
           "hBP05-006",
           1184,
           "hBP05",
@@ -30736,7 +30736,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP08-018",
           2221,
           "hBP08",
@@ -30898,7 +30898,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP08-027",
           2230,
           "hBP08",
@@ -36832,7 +36832,7 @@
           "hBP05-040",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-040_P.png",
           "P",
-          170,
+          195,
           4,
           "มีในคลัง",
           {
@@ -37552,7 +37552,7 @@
           "hBP07-050",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-050_P.png",
           "P",
-          80,
+          105,
           "",
           "หมด",
           {
