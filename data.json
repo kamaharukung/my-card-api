@@ -2291,7 +2291,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-107_C.png",
           "C",
           45,
-          8,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -4649,8 +4649,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hSD02-009_SR.png",
           "SR",
           145,
-          2,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -19931,8 +19931,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-038_SR.png",
           "SR",
           370,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -21155,8 +21155,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hSD02-002_HR.png",
           "HR",
           2495,
-          1,
-          "มีในคลัง",
+          "",
+          "หมด",
           {
             "valueType": "IMAGE"
           },
@@ -28157,7 +28157,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-035_P.png",
           "P",
           45,
-          8,
+          4,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -30875,7 +30875,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD02/hSD02-004_U.png",
           "U",
           55,
-          3,
+          2,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -30911,7 +30911,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD02/hSD02-006_C.png",
           "C",
           70,
-          6,
+          3,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -33017,7 +33017,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD01-016_02_C.png",
           "C",
           55,
-          9,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
@@ -33323,7 +33323,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD08/hSD01-016_02_C.png",
           "C",
           55,
-          9,
+          6,
           "มีในคลัง",
           {
             "valueType": "IMAGE"
