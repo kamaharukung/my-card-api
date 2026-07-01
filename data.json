@@ -8554,13 +8554,13 @@
           "hBP03-100",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-100_S.png",
           "S",
-          80,
+          105,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          15,
           "hBP03-100",
           783,
           "hBP03",
@@ -15148,7 +15148,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD01-017",
           951,
           "hBP04",
@@ -18766,7 +18766,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          15,
           "hBP05-074",
           1264,
           "hBP05",
@@ -23134,13 +23134,13 @@
           "hBP06-090",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-090_U.png",
           "U",
-          80,
+          105,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          15,
           "hBP06-090",
           1567,
           "hBP06",
@@ -25528,7 +25528,7 @@
           "hBP01-048",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-048_P.png",
           "P",
-          195,
+          245,
           1,
           "มีในคลัง",
           {
@@ -33718,7 +33718,7 @@
           "hSD10-009",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-009_RR.png",
           "RR",
-          70,
+          45,
           2,
           "มีในคลัง",
           {
@@ -35230,7 +35230,7 @@
           "hBP02-011",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hWF01/hBP02-011_P.png",
           "P",
-          495,
+          445,
           "",
           "หมด",
           {
@@ -44482,7 +44482,7 @@
           "hBP08-091",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-091_U.png",
           "U",
-          70,
+          55,
           40,
           "มีในคลัง",
           {
@@ -44866,7 +44866,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD14-010",
           2324,
           "hBP08",
