@@ -21046,7 +21046,7 @@
           "hBP06-099",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP06/hBP06-099_S.png",
           "S",
-          70,
+          55,
           1,
           "มีในคลัง",
           {
@@ -25474,13 +25474,13 @@
           "hBP01-044",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-044_P.png",
           "P",
-          195,
+          170,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          20,
+          15,
           "hBP01-044",
           190,
           "hPR",
@@ -28120,13 +28120,13 @@
           "hBP06-033",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP06-033_P.png",
           "P",
-          125,
+          145,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          1,
+          5,
           "hBP06-033",
           2046,
           "hPR",
@@ -29764,7 +29764,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hSD11-007",
           1724,
           "hPR",
@@ -35614,7 +35614,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          1,
           "hBP06-024",
           2180,
           "hWF01",
@@ -37210,7 +37210,7 @@
           "hBP07-066",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP07/hBP07-066_S.png",
           "S",
-          55,
+          70,
           "",
           "หมด",
           {
@@ -40366,7 +40366,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          405,
           "hBP01-028",
           2444,
           "hBP08",
@@ -40510,7 +40510,7 @@
           {
             "valueType": "IMAGE"
           },
-          2700,
+          3600,
           "hBP08-003",
           2333,
           "hBP08",
@@ -41788,7 +41788,7 @@
           {
             "valueType": "IMAGE"
           },
-          300,
+          360,
           "hBP08-067",
           2346,
           "hBP08",
