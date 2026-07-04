@@ -334,7 +334,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          60,
           "hBP01-071",
           110,
           "hBP01",
@@ -12988,7 +12988,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP04-101",
           1072,
           "hBP04",
@@ -25762,7 +25762,7 @@
           "hBP01-070",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-070_P_01.png",
           "P",
-          80,
+          105,
           "",
           "หมด",
           {
@@ -41734,7 +41734,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          15,
           "hBP08-064",
           2413,
           "hBP08",
