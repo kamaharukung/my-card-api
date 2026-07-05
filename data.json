@@ -460,7 +460,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hBP01-005",
           30,
           "hBP01",
@@ -910,7 +910,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP01-030",
           64,
           "hBP01",
@@ -1270,7 +1270,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP01-050",
           86,
           "hBP01",
@@ -3916,7 +3916,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          5,
           "hBP02-063",
           433,
           "hBP02",
@@ -16786,7 +16786,7 @@
           {
             "valueType": "IMAGE"
           },
-          675,
+          450,
           "hBP05-070",
           1365,
           "hBP05",
@@ -20026,7 +20026,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP06-043",
           1639,
           "hBP06",
@@ -20998,7 +20998,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          35,
           "hBP06-094",
           1693,
           "hBP06",
@@ -23626,7 +23626,7 @@
           {
             "valueType": "IMAGE"
           },
-          12000,
+          7500,
           "hBP07-003",
           1912,
           "hBP07",
@@ -28702,7 +28702,7 @@
           {
             "valueType": "IMAGE"
           },
-          210,
+          180,
           "hBP08-033",
           2341,
           "hBP08",
@@ -44992,7 +44992,7 @@
           {
             "valueType": "IMAGE"
           },
-          12000,
+          7500,
           "hBP07-003",
           1912,
           "sele08",
@@ -46684,7 +46684,7 @@
           {
             "valueType": "IMAGE"
           },
-          210,
+          180,
           "hBP08-033",
           2341,
           "sele08",
@@ -59173,8 +59173,8 @@
             "[hSD14] Live Start Deck: Shirakami Fubuki [JP]\n(1 กล่อง)  ",
             500,
             "https://lh3.googleusercontent.com/d/1HZoFPhV9r1ka6QuSePKxXLqQVKiFtXaw",
-            1,
-            "มีในคลัง",
+            "",
+            "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Starter Deck",
             16
