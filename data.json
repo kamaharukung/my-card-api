@@ -2062,7 +2062,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "hBP01-094",
           135,
           "hBP01",
@@ -6328,7 +6328,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP02-086",
           353,
           "hBP02",
@@ -24850,7 +24850,7 @@
           {
             "valueType": "IMAGE"
           },
-          750,
+          900,
           "hBP07-069",
           1980,
           "hBP07",
@@ -27622,7 +27622,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP07-097",
           1883,
           "hBP07",
@@ -28288,7 +28288,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "hBP08-012",
           2350,
           "hBP08",
@@ -28324,7 +28324,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          300,
           "hBP08-014",
           2338,
           "hBP08",
@@ -34570,7 +34570,7 @@
           {
             "valueType": "IMAGE"
           },
-          1350,
+          900,
           "hBP01-050",
           1733,
           "hPR",
@@ -35002,7 +35002,7 @@
           {
             "valueType": "IMAGE"
           },
-          5,
+          20,
           "hBP01-088",
           195,
           "hPR",
@@ -35866,7 +35866,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP03-037",
           1108,
           "hPR",
@@ -36856,7 +36856,7 @@
           {
             "valueType": "IMAGE"
           },
-          50,
+          45,
           "hBP05-040",
           2203,
           "hPR",
@@ -37738,7 +37738,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          60,
           "hBP07-094",
           2200,
           "hPR",
@@ -37750,13 +37750,13 @@
           "hBP07-097",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-097_P.png",
           "P",
-          170,
+          195,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          20,
+          30,
           "hBP07-097",
           2201,
           "hPR",
@@ -38026,7 +38026,7 @@
           {
             "valueType": "IMAGE"
           },
-          6300,
+          4500,
           "hSD01-016",
           829,
           "hPR",
@@ -38674,7 +38674,7 @@
           {
             "valueType": "IMAGE"
           },
-          300,
+          330,
           "hSD10-009",
           2145,
           "hPR",
@@ -38836,7 +38836,7 @@
           {
             "valueType": "IMAGE"
           },
-          210,
+          240,
           "hSD12-007",
           2149,
           "hPR",
@@ -38926,7 +38926,7 @@
           {
             "valueType": "IMAGE"
           },
-          15,
+          20,
           "hSD13-003",
           1744,
           "hPR",
@@ -38980,7 +38980,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hSD13-009",
           2194,
           "hPR",
@@ -39880,7 +39880,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hSD02-004",
           228,
           "hSD02",
@@ -45874,7 +45874,7 @@
           {
             "valueType": "IMAGE"
           },
-          30,
+          20,
           "hBP08-012",
           2350,
           "sele08",
@@ -45910,7 +45910,7 @@
           {
             "valueType": "IMAGE"
           },
-          360,
+          300,
           "hBP08-014",
           2338,
           "sele08",
@@ -46882,7 +46882,7 @@
           {
             "valueType": "IMAGE"
           },
-          1,
+          "",
           "hBP03-037",
           1108,
           "sele08",
@@ -48322,7 +48322,7 @@
           {
             "valueType": "IMAGE"
           },
-          750,
+          900,
           "hBP07-069",
           1980,
           "sele08",
@@ -49564,7 +49564,7 @@
           {
             "valueType": "IMAGE"
           },
-          45,
+          60,
           "hBP07-094",
           2200,
           "sele08",
@@ -49594,13 +49594,13 @@
           "hBP07-097",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP07-097_P.png",
           "P",
-          170,
+          195,
           "",
           "หมด",
           {
             "valueType": "IMAGE"
           },
-          20,
+          30,
           "hBP07-097",
           2201,
           "sele08",
@@ -55576,7 +55576,7 @@
           {
             "valueType": "IMAGE"
           },
-          "",
+          1,
           "hBP07-097",
           1883,
           "sele08",
