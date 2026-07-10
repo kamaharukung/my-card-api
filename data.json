@@ -2743,7 +2743,7 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-017_SR.png",
           "SR",
           "125",
-          "2",
+          "1",
           "มีในคลัง",
           "",
           "20",
@@ -6759,8 +6759,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-045_SR.png",
           "SR",
           "145",
-          "1",
-          "มีในคลัง",
+          "",
+          "หมด",
           "",
           "30",
           "hBP03-045",
@@ -10134,11 +10134,11 @@
           "hBP04-013",
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-013_SR.png",
           "SR",
-          "145",
+          "125",
           "",
           "หมด",
           "",
-          "20",
+          "15",
           "hBP04-013",
           "982",
           "hBP04",
@@ -17722,7 +17722,7 @@
           "",
           "หมด",
           "",
-          "90",
+          "105",
           "hBP06-038",
           "1634",
           "hBP06",
@@ -25271,8 +25271,8 @@
           "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP08/hBP08-018_SR.png",
           "SR",
           "145",
-          "1",
-          "มีในคลัง",
+          "",
+          "หมด",
           "",
           "15",
           "hBP08-018",
@@ -34394,7 +34394,7 @@
           "",
           "หมด",
           "",
-          "90",
+          "105",
           "hSD10-010",
           "2146",
           "hPR",
@@ -52372,16 +52372,6 @@
             2
           ],
           [
-            "[hBP01] Blooming Radiance [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1V1kRQOT81MrvcfuCda5Ozr1TBW8RM74z",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            3
-          ],
-          [
             "[hBP02] Quintet Spectrum [JP]\n(1 กล่อง)  ",
             "1800",
             "https://lh3.googleusercontent.com/d/1t-ONik8OdDBp1YTKE8TNY013ljxvmqTR",
@@ -52389,17 +52379,7 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            4
-          ],
-          [
-            "[hBP02] Quintet Spectrum [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1t-ONik8OdDBp1YTKE8TNY013ljxvmqTR",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            5
+            3
           ],
           [
             "[hBP03] Elite Spark [JP]\n(1 กล่อง)  ",
@@ -52409,17 +52389,7 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            6
-          ],
-          [
-            "[hBP03] Elite Spark [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1qvvaEQ8LI5-dB9qZnkGQcsKVhGahJ1UR",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            7
+            4
           ],
           [
             "[hBP04] Curious Universe [JP]\n(1 กล่อง)  ",
@@ -52429,17 +52399,7 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            8
-          ],
-          [
-            "[hBP04] Curious Universe [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1_8oFZsNZCtzBtArqju5o_CT22FTt7YRh",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            9
+            5
           ],
           [
             "[hBP05] Enchant Regalia [JP]\n(1 กล่อง)  ",
@@ -52449,17 +52409,7 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            10
-          ],
-          [
-            "[hBP05] Enchant Regalia [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1g-AArKAuHIY7Y74t8F-_LtyTnSj80Tjy",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            11
+            6
           ],
           [
             "[hBP06] Ayakashi Vermilion [JP]\n(1 กล่อง)  ",
@@ -52469,17 +52419,7 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            12
-          ],
-          [
-            "[hBP06] Ayakashi Vermilion [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1kqsrSuBnqgcBjO9lMif1y7qzWorD2Ko7",
-            "",
-            "หมด",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            13
+            7
           ],
           [
             "[hBP07] Diva Fever [JP]\n(1 กล่อง)  ",
@@ -52489,37 +52429,17 @@
             "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            14
-          ],
-          [
-            "[hBP07] Diva Fever [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1_RRVyZR6RGt22d1U2lM0P1nX5uSkpEFC",
-            "27",
-            "มีในคลัง",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            15
+            8
           ],
           [
             "[hBP08] Bouncer Bound [JP]\n(1 กล่อง)  ",
             "1800",
             "https://lh3.googleusercontent.com/d/1pbAkfbANx77RSP_7LHYENRp2s5-Q_tnK",
-            "24",
+            "21",
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Booster Pack",
-            16
-          ],
-          [
-            "[hBP08] Bouncer Bound [JP]\n(1 ซอง)  ",
-            "150",
-            "https://lh3.googleusercontent.com/d/1pbAkfbANx77RSP_7LHYENRp2s5-Q_tnK",
-            "12",
-            "มีในคลัง",
-            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
-            "Booster Pack",
-            17
+            9
           ]
         ]
       },
@@ -54475,8 +54395,8 @@
             "hololive English 3rd Concert -All for One-: Ouro Kronii",
             "250",
             "https://lh3.googleusercontent.com/d/1OmTQEVwDC7ek1bbbPcQ4oijHJsece0cX",
-            "1",
-            "มีในคลัง",
+            "",
+            "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "เข็มกลัด",
             5
@@ -54525,8 +54445,8 @@
             "hololive English 3rd Concert -All for One-: Gigi Murin",
             "250",
             "https://lh3.googleusercontent.com/d/1_xqq-tCX_VE4UvYGagnsdlycaXluQSFh",
-            "1",
-            "มีในคลัง",
+            "",
+            "หมด",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "เข็มกลัด",
             10
@@ -55471,7 +55391,7 @@
             "Gigi Murin Birthday 2025 Limited Edition Set",
             "4200",
             "https://lh3.googleusercontent.com/d/12Vw0xgNciphNb7x_vAbIeepbHzXWvavu",
-            "1",
+            "",
             "มีในคลัง",
             "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
             "Merch Set",
