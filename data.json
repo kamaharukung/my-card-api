@@ -72645,6 +72645,110 @@
           ]
         ]
       },
+      "Booster Pack(แบบซอง)": {
+        "headers": [
+          "ซ",
+          "ราคา",
+          "รูปภาพ",
+          "จำนวนในคลัง",
+          "สถานะ",
+          "_ssId",
+          "_sheet",
+          "_row"
+        ],
+        "data": [
+          [
+            "[hBP01] Blooming Radiance [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1V1kRQOT81MrvcfuCda5Ozr1TBW8RM74z",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            2
+          ],
+          [
+            "[hBP02] Quintet Spectrum [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1t-ONik8OdDBp1YTKE8TNY013ljxvmqTR",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            3
+          ],
+          [
+            "[hBP03] Elite Spark [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1qvvaEQ8LI5-dB9qZnkGQcsKVhGahJ1UR",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            4
+          ],
+          [
+            "[hBP04] Curious Universe [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1_8oFZsNZCtzBtArqju5o_CT22FTt7YRh",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            5
+          ],
+          [
+            "[hBP05] Enchant Regalia [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1g-AArKAuHIY7Y74t8F-_LtyTnSj80Tjy",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            6
+          ],
+          [
+            "[hBP06] Ayakashi Vermilion [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1kqsrSuBnqgcBjO9lMif1y7qzWorD2Ko7",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            7
+          ],
+          [
+            "[hBP07] Diva Fever [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1_RRVyZR6RGt22d1U2lM0P1nX5uSkpEFC",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            8
+          ],
+          [
+            "[hBP08] Bouncer Bound [JP]\n(1 ซอง)  ",
+            "150",
+            "https://lh3.googleusercontent.com/d/1pbAkfbANx77RSP_7LHYENRp2s5-Q_tnK",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            9
+          ],
+          [
+            "[hEB01] Summer hologram [JP]\n(1 ซอง)  ",
+            "250",
+            "https://lh3.googleusercontent.com/d/1Bj91NXYYcS9WyCUHeiIOAv_Kaiiz-b6W",
+            "",
+            "หมด",
+            "1P6vcrK59tgsA0pKeD6QfXac-F21q_CNHPJsFlBNuWhc",
+            "Booster Pack(แบบซอง)",
+            10
+          ]
+        ]
+      },
       "Starter Deck": {
         "headers": [
           "ชื่อสินค้า",
