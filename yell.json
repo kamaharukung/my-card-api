@@ -14,6 +14,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hY01-001_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2670",
+        "card_number": "hY01-001",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY01-001_S.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
       }
     ]
   },
@@ -32,6 +41,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hY02-001_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2671",
+        "card_number": "hY02-001",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY02-001_S.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
       }
     ]
   },
@@ -50,6 +68,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hY03-001_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2672",
+        "card_number": "hY03-001",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY03-001_S.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
       }
     ]
   },
@@ -68,6 +95,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hY04-001_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2673",
+        "card_number": "hY04-001",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY04-001_S.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
       }
     ]
   },
@@ -176,6 +212,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hY05-001_C.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "2674",
+        "card_number": "hY05-001",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY05-001_S.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
       }
     ]
   },
@@ -302,6 +347,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD07/hY06-001_C.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "2675",
+        "card_number": "hY06-001",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY06-001_S.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
       }
     ]
   },
@@ -846,6 +900,114 @@
     ]
   },
   {
+    "card_number": "hY01-014",
+    "name": "白エール",
+    "color": "白",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2676",
+        "card_number": "hY01-014",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY01-014_SY.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hY02-012",
+    "name": "緑エール",
+    "color": "緑",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2677",
+        "card_number": "hY02-012",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY02-012_SY.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hY03-016",
+    "name": "赤エール",
+    "color": "赤",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2678",
+        "card_number": "hY03-016",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY03-016_SY.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hY04-013",
+    "name": "青エール",
+    "color": "青",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2679",
+        "card_number": "hY04-013",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY04-013_SY.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hY05-011",
+    "name": "紫エール",
+    "color": "紫",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2680",
+        "card_number": "hY05-011",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY05-011_SY.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hY06-011",
+    "name": "黄エール",
+    "color": "黄",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2681",
+        "card_number": "hY06-011",
+        "rarity": "SY",
+        "illustrator": "ごとー",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hY06-011_SY.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
     "card_number": "hY01-002",
     "name": "白エール",
     "color": "白",
@@ -1044,6 +1206,24 @@
     ]
   },
   {
+    "card_number": "hY03-018",
+    "name": "赤エール",
+    "color": "赤",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2684",
+        "card_number": "hY03-018",
+        "rarity": "P",
+        "illustrator": "瀬戸",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY03-018_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
     "card_number": "hY04-004",
     "name": "青エール",
     "color": "青",
@@ -1074,6 +1254,24 @@
         "rarity": "P",
         "illustrator": "",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY04-009_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hY04-015",
+    "name": "青エール",
+    "color": "青",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2685",
+        "card_number": "hY04-015",
+        "rarity": "P",
+        "illustrator": "瀬戸",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hY04-015_P.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
       }

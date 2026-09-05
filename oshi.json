@@ -2298,6 +2298,132 @@
     ]
   },
   {
+    "card_number": "hEB01-001",
+    "name": "ときのそら",
+    "color": "赤",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "浜辺のヴィーナス",
+    "skill_stage": "自分のターンが終了する時、自分のセンターホロメンとコラボホロメンが〈ときのそら〉なら、自分のデッキの上から1枚をホロパワーにする。さらに、自分のステージに2ndホロメンがいるなら、自分のデッキを1枚引く。",
+    "skill_oshi_name": "ロマンスは突然に",
+    "skill_oshi": "[ホロパワー:-4] [ターンに1回]自分のステージの〈ときのそら〉1人を選ぶ。選んだホロメンを、自分のデッキの〈ときのそら〉を使ってBloomさせる。そしてデッキをシャッフルする。このターンの間、選んだホロメンのアーツに必要な無色-1。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2476",
+        "card_number": "hEB01-001",
+        "rarity": "OSR",
+        "illustrator": "むっちりしいたけ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-001_OSR.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "2570",
+        "card_number": "hEB01-001",
+        "rarity": "SEC",
+        "illustrator": "むっちりしいたけ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-001_SEC.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "2573",
+        "card_number": "hEB01-001",
+        "rarity": "OUR",
+        "illustrator": "むっちりしいたけ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-001_OUR.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hEB01-002",
+    "name": "宝鐘マリン",
+    "color": "青",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "魔性の再演",
+    "skill_stage": "自分のパフォーマンスステップが開始する時、自分のコラボホロメンがいるなら、自分のこのターンにBloomしたセンターの〈宝鐘マリン〉を、自分の手札の青ホロメンを使ってもう1回Bloomできる。",
+    "skill_oshi_name": "Uh～ 刺激的すぎたかナ～？",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]相手のDebut以外のバックホロメン1人に特殊ダメージ50を与える。その後、自分のセンターホロメンに重なっているホロメンが3枚以上あるなら、相手のDebut以外のバックホロメン1人に特殊ダメージ50を与える。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2477",
+        "card_number": "hEB01-002",
+        "rarity": "OSR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-002_OSR.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "2571",
+        "card_number": "hEB01-002",
+        "rarity": "SEC",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-002_SEC.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "2574",
+        "card_number": "hEB01-002",
+        "rarity": "OUR",
+        "illustrator": "砂利さや(か)",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-002_OUR.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
+    "card_number": "hEB01-003",
+    "name": "博衣こより",
+    "color": "黄",
+    "life": "5",
+    "tags": "",
+    "skill_stage_name": "助手くん限定の『こよ色観測』",
+    "skill_stage": "自分のステージの〈こよりの助手くん〉1枚につき、自分の推しスキルと自分の黄の〈博衣こより〉の能力で、デッキの上から公開する枚数+1。",
+    "skill_oshi_name": "解析完了！ 二人だけの独占海域",
+    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキの上から、自分のステージのエールと同じ枚数を公開する。その中にホロメンが3枚以上あるなら、このターンの間、自分のステージの〈博衣こより〉全員のアーツ+30。そして公開したDebut以外のホロメンすべてを手札に加え、残ったカードをアーカイブする。",
+    "skill_sp_name": "",
+    "skill_sp": "",
+    "variations": [
+      {
+        "web_id": "2478",
+        "card_number": "hEB01-003",
+        "rarity": "OSR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-003_OSR.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "2572",
+        "card_number": "hEB01-003",
+        "rarity": "SEC",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-003_SEC.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "2575",
+        "card_number": "hEB01-003",
+        "rarity": "OUR",
+        "illustrator": "望田とうり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hEB01-003_OUR.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      }
+    ]
+  },
+  {
     "card_number": "hBD24-004",
     "name": "白上フブキ",
     "color": "白",
@@ -4142,294 +4268,6 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hSD09-001_OC.png",
         "expansion_id": "hSD09",
         "expansion_name": "スタートデッキ 赤 宝鐘マリン"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD10-001",
-    "name": "輪堂千速",
-    "color": "緑",
-    "life": "5",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "エンジン全開！レッツゴー！",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]このターンに自分のホロメンがBloomしていたなら、このターンの間、自分のステージの#FLOW GLOWを持つホロメン1人のアーツ+30。",
-    "skill_sp_name": "向こう側の景色を見に行かない？",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。その後、自分の#FLOW GLOWを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのエール1枚につき、選んだホロメンのアーツ+20。",
-    "variations": [
-      {
-        "web_id": "1456",
-        "card_number": "hSD10-001",
-        "rarity": "OSR",
-        "illustrator": "株式会社スタジオヴィガ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-001_OSR.png",
-        "expansion_id": "hSD10",
-        "expansion_name": "スタートデッキ FLOW GLOW 推し 輪堂千速"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD11-001",
-    "name": "虎金妃笑虎",
-    "color": "黄",
-    "life": "5",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "虎視眈々",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のアーカイブのエール1～2枚を自分のエールが付いていない#FLOW GLOWを持つホロメン1人に送る。",
-    "skill_sp_name": "ニコたんの名を呼ぶがいいさ！",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分の#FLOW GLOWを持つホロメンの能力でエールをアーカイブした時に使える:相手のセンターホロメンかコラボホロメンどちらかに、アーカイブしたエール1枚につき、特殊ダメージ30を与える。",
-    "variations": [
-      {
-        "web_id": "1469",
-        "card_number": "hSD11-001",
-        "rarity": "OSR",
-        "illustrator": "トマル",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD11/hSD11-001_OSR.png",
-        "expansion_id": "hSD11",
-        "expansion_name": "スタートデッキ FLOW GLOW 推し 虎金妃笑虎"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD12-001",
-    "name": "シオリ・ノヴェラ",
-    "color": "青",
-    "life": "5",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "収集家",
-    "skill_oshi": "[ホロパワー:-1] [ターンに1回]自分のデッキの上から3枚を見る。その中から、サポートカード1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。",
-    "skill_sp_name": "リベリオン",
-    "skill_sp": "[ホロパワー:-3] [ゲームに1回]相手のDebut以外のバックホロメン1人に、自分のアーカイブのサポートカード1枚につき、特殊ダメージ10を与える。",
-    "variations": [
-      {
-        "web_id": "1750",
-        "card_number": "hSD12-001",
-        "rarity": "OSR",
-        "illustrator": "村カルキ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-001_OSR.png",
-        "expansion_id": "hSD12",
-        "expansion_name": "スタートデッキ 推し Advent"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD12-002",
-    "name": "古石ビジュー",
-    "color": "紫",
-    "life": "5",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "Biboo Tax",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]お互いのエールデッキの上から1枚をアーカイブする。アーカイブしたエール1色につき、自分のデッキを1枚引く。",
-    "skill_sp_name": "古代魔石の輝き",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]相手のセンターホロメンに、自分のアーカイブの[#Adventを持つホロメンとエール]1枚につき、特殊ダメージ10を与える。",
-    "variations": [
-      {
-        "web_id": "1751",
-        "card_number": "hSD12-002",
-        "rarity": "OSR",
-        "illustrator": "茶椿",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-002_OSR.png",
-        "expansion_id": "hSD12",
-        "expansion_name": "スタートデッキ 推し Advent"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD13-001",
-    "name": "エリザベス・ローズ・ブラッドフレイム",
-    "color": "赤",
-    "life": "5",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "秩序の先駆者",
-    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のホロメン1人が相手からアーツダメージを受ける時、自分のステージの[Buzzか2nd]の赤ホロメン1人を選べる:そのダメージを、選んだホロメンがかわりに受ける。",
-    "skill_sp_name": "JUST LIKE THAT",
-    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のアーカイブの#Justiceを持つホロメン1枚をステージに出す。その後、自分のアーカイブのエール1～5枚をそのホロメンに送る。",
-    "variations": [
-      {
-        "web_id": "1769",
-        "card_number": "hSD13-001",
-        "rarity": "OSR",
-        "illustrator": "絢芽",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-001_OSR.png",
-        "expansion_id": "hSD13",
-        "expansion_name": "スタートデッキ 推し Justice"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD13-002",
-    "name": "ジジ・ムリン",
-    "color": "黄",
-    "life": "5",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "Boat Goes Binted",
-    "skill_oshi": "[ホロパワー:-1] [ターンに1回]相手のセンターポジションとコラボポジションのホロメンを入れ替える。",
-    "skill_sp_name": "自由奔放な『追跡者』",
-    "skill_sp": "[ホロパワー:-3] [ゲームに1回]自分のデッキから、2ndホロメンの〈ジジ・ムリン〉2枚を公開し、ステージに出す。そしてデッキをシャッフルする。その後、自分のアーカイブのエールを自分のホロメン全員に1枚ずつ送る。",
-    "variations": [
-      {
-        "web_id": "1770",
-        "card_number": "hSD13-002",
-        "rarity": "OSR",
-        "illustrator": "BISAI",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-002_OSR.png",
-        "expansion_id": "hSD13",
-        "expansion_name": "スタートデッキ 推し Justice"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD14-001",
-    "name": "白上フブキ",
-    "color": "白",
-    "life": "4",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "みんな一緒にいくぞぉおっ",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のマスコットが付いている〈白上フブキ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+20。",
-    "skill_sp_name": "マスコッツ、アッセンブル!!",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のデッキから、マスコット1～2枚を公開し、手札に加える。そしてデッキをシャッフルする。",
-    "variations": [
-      {
-        "web_id": "2065",
-        "card_number": "hSD14-001",
-        "rarity": "OC",
-        "illustrator": "もも寝子",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-001_OC.png",
-        "expansion_id": "hSD14",
-        "expansion_name": "ライブスタートデッキ 白上フブキ"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD15-001",
-    "name": "儒烏風亭らでん",
-    "color": "緑",
-    "life": "4",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "ちょっとまつたけ～♪",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキから#きのこを持つイベント1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
-    "skill_sp_name": "あなたの世界を広げに行こう",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のエールデッキの上から1枚を自分の〈儒烏風亭らでん〉に送る。その後、自分のアーカイブの#きのこを持つイベント1枚を手札に戻す。",
-    "variations": [
-      {
-        "web_id": "2077",
-        "card_number": "hSD15-001",
-        "rarity": "OC",
-        "illustrator": "古弥月",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-001_OC.png",
-        "expansion_id": "hSD15",
-        "expansion_name": "ライブスタートデッキ 儒烏風亭らでん"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD16-001",
-    "name": "さくらみこ",
-    "color": "赤",
-    "life": "4",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "35Pこっちこっちー",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分の〈35P〉が付いているホロメンがいるなら、自分のデッキを1枚引く。",
-    "skill_sp_name": "35Pいくぞー！",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のファンが付いている〈さくらみこ〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+50。",
-    "variations": [
-      {
-        "web_id": "2088",
-        "card_number": "hSD16-001",
-        "rarity": "OC",
-        "illustrator": "古弥月",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hSD16-001_OC.png",
-        "expansion_id": "hSD16",
-        "expansion_name": "ライブスタートデッキ さくらみこ"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD17-001",
-    "name": "星街すいせい",
-    "color": "青",
-    "life": "4",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "張り切ってがんばろーー!!!",
-    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のエールデッキの上から1枚を自分のホロメンに送る。",
-    "skill_sp_name": "流れ星",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のセンターホロメンが〈星街すいせい〉なら、相手のバックホロメン1人に特殊ダメージ50を与える。",
-    "variations": [
-      {
-        "web_id": "2098",
-        "card_number": "hSD17-001",
-        "rarity": "OC",
-        "illustrator": "玲汰",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-001_OC.png",
-        "expansion_id": "hSD17",
-        "expansion_name": "ライブスタートデッキ 星街すいせい"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD18-001",
-    "name": "森カリオペ",
-    "color": "紫",
-    "life": "4",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "ライミング",
-    "skill_oshi": "[ホロパワー:-2] [ターンに1回]自分のデッキの上から2枚をアーカイブする。その後、自分のデッキを1枚引く。",
-    "skill_sp_name": "世界を繋げるラップ",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブにホロメンが6枚以上あるなら、このターンの間、自分のステージの〈森カリオペ〉全員のアーツ+30。",
-    "variations": [
-      {
-        "web_id": "2109",
-        "card_number": "hSD18-001",
-        "rarity": "OC",
-        "illustrator": "古弥月",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hSD18-001_OC.png",
-        "expansion_id": "hSD18",
-        "expansion_name": "ライブスタートデッキ 森カリオペ"
-      }
-    ]
-  },
-  {
-    "card_number": "hSD19-001",
-    "name": "大空スバル",
-    "color": "黄",
-    "life": "4",
-    "tags": "",
-    "skill_stage_name": "",
-    "skill_stage": "",
-    "skill_oshi_name": "ごめんｹﾄﾞ",
-    "skill_oshi": "[ホロパワー:-3] [ターンに1回]自分のアーカイブのホロメン1枚を手札に戻す。",
-    "skill_sp_name": "おさんぽスバル",
-    "skill_sp": "[ホロパワー:-2] [ゲームに1回]自分のアーカイブのエールを自分の〈大空スバル〉1～2人に1枚ずつ送る。",
-    "variations": [
-      {
-        "web_id": "2119",
-        "card_number": "hSD19-001",
-        "rarity": "OC",
-        "illustrator": "GIN",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-001_OC.png",
-        "expansion_id": "hSD19",
-        "expansion_name": "ライブスタートデッキ 大空スバル"
       }
     ]
   },
