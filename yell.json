@@ -900,6 +900,114 @@
     ]
   },
   {
+    "card_number": "hY01-015",
+    "name": "白エール",
+    "color": "白",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2971",
+        "card_number": "hY01-015",
+        "rarity": "SY",
+        "illustrator": "くるみつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hY01-015_SY.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hY02-013",
+    "name": "緑エール",
+    "color": "緑",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2972",
+        "card_number": "hY02-013",
+        "rarity": "SY",
+        "illustrator": "くるみつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hY02-013_SY.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hY03-017",
+    "name": "赤エール",
+    "color": "赤",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2973",
+        "card_number": "hY03-017",
+        "rarity": "SY",
+        "illustrator": "くるみつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hY03-017_SY.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hY04-014",
+    "name": "青エール",
+    "color": "青",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2974",
+        "card_number": "hY04-014",
+        "rarity": "SY",
+        "illustrator": "くるみつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hY04-014_SY.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hY05-012",
+    "name": "紫エール",
+    "color": "紫",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2975",
+        "card_number": "hY05-012",
+        "rarity": "SY",
+        "illustrator": "くるみつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hY05-012_SY.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hY06-012",
+    "name": "黄エール",
+    "color": "黄",
+    "tags": "",
+    "ability_text": "",
+    "variations": [
+      {
+        "web_id": "2976",
+        "card_number": "hY06-012",
+        "rarity": "SY",
+        "illustrator": "くるみつ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hY06-012_SY.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
     "card_number": "hY01-014",
     "name": "白エール",
     "color": "白",

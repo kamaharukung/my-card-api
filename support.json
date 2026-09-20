@@ -489,6 +489,60 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-104_P_07.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "2076",
+        "card_number": "hBP01-104",
+        "rarity": "C",
+        "illustrator": "イマフク",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hBP01-104_02_C.png",
+        "expansion_id": "hSD14",
+        "expansion_name": "ライブスタートデッキ 白上フブキ"
+      },
+      {
+        "web_id": "2087",
+        "card_number": "hBP01-104",
+        "rarity": "C",
+        "illustrator": "瞭",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hBP01-104_03_C.png",
+        "expansion_id": "hSD15",
+        "expansion_name": "ライブスタートデッキ 儒烏風亭らでん"
+      },
+      {
+        "web_id": "2097",
+        "card_number": "hBP01-104",
+        "rarity": "C",
+        "illustrator": "瞭",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD16/hBP01-104_04_C.png",
+        "expansion_id": "hSD16",
+        "expansion_name": "ライブスタートデッキ さくらみこ"
+      },
+      {
+        "web_id": "2108",
+        "card_number": "hBP01-104",
+        "rarity": "C",
+        "illustrator": "瞭",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hBP01-104_05_C.png",
+        "expansion_id": "hSD17",
+        "expansion_name": "ライブスタートデッキ 星街すいせい"
+      },
+      {
+        "web_id": "2118",
+        "card_number": "hBP01-104",
+        "rarity": "C",
+        "illustrator": "瞭",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD18/hBP01-104_06_C.png",
+        "expansion_id": "hSD18",
+        "expansion_name": "ライブスタートデッキ 森カリオペ"
+      },
+      {
+        "web_id": "2129",
+        "card_number": "hBP01-104",
+        "rarity": "C",
+        "illustrator": "瞭",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hBP01-104_07_C.png",
+        "expansion_id": "hSD19",
+        "expansion_name": "ライブスタートデッキ 大空スバル"
       }
     ]
   },
@@ -523,6 +577,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP01/hBP01-107_C.png",
         "expansion_id": "hBP01",
         "expansion_name": "ブースターパック「ブルーミングレディアンス」"
+      },
+      {
+        "web_id": "2990",
+        "card_number": "hBP01-107",
+        "rarity": "P",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP01-107_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -673,6 +736,41 @@
     ]
   },
   {
+    "card_number": "hBP02-077",
+    "name": "レトロパソコン",
+    "tags": "",
+    "ability_text": "このカードは、自分のライフが3以下でなければ使えない。 自分のアーカイブのホロメン1枚を手札に戻す。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "450",
+        "card_number": "hBP02-077",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-077_S.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "344",
+        "card_number": "hBP02-077",
+        "rarity": "C",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-077_C.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "845",
+        "card_number": "hBP02-077",
+        "rarity": "SR",
+        "illustrator": "夕城",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-077_SR.png",
+        "expansion_id": "hPC01",
+        "expansion_name": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-"
+      }
+    ]
+  },
+  {
     "card_number": "hBP02-078",
     "name": "かなた建設",
     "tags": "",
@@ -786,6 +884,59 @@
     ]
   },
   {
+    "card_number": "hBP02-084",
+    "name": "みっころね24",
+    "tags": "",
+    "ability_text": "自分のデッキを2枚引き、サイコロを1回振る:3か5か6の時、自分のデッキから、Debutホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。2か4の時、自分のデッキを1枚引く。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "457",
+        "card_number": "hBP02-084",
+        "rarity": "S",
+        "illustrator": "さまてる",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-084_S.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "458",
+        "card_number": "hBP02-084",
+        "rarity": "SEC",
+        "illustrator": "yuki",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-084_SEC.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "351",
+        "card_number": "hBP02-084",
+        "rarity": "U",
+        "illustrator": "さまてる",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-084_U.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "959",
+        "card_number": "hBP02-084",
+        "rarity": "U",
+        "illustrator": "成田タメゾウ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP02-084_02_U.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1066",
+        "card_number": "hBP02-084",
+        "rarity": "SR",
+        "illustrator": "成田タメゾウ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP02-084_02_SR.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
     "card_number": "hBP02-085",
     "name": "HOLOLIVE FANTASY",
     "tags": "",
@@ -826,94 +977,6 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD09/hBP02-085_U_02.png",
         "expansion_id": "hSD09",
         "expansion_name": "スタートデッキ 赤 宝鐘マリン"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP02-077",
-    "name": "レトロパソコン",
-    "tags": "",
-    "ability_text": "このカードは、自分のライフが3以下でなければ使えない。 自分のアーカイブのホロメン1枚を手札に戻す。 LIMITED:ターンに1枚しか使えない。",
-    "variations": [
-      {
-        "web_id": "344",
-        "card_number": "hBP02-077",
-        "rarity": "C",
-        "illustrator": "はずき",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-077_C.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "450",
-        "card_number": "hBP02-077",
-        "rarity": "S",
-        "illustrator": "はずき",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-077_S.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "845",
-        "card_number": "hBP02-077",
-        "rarity": "SR",
-        "illustrator": "夕城",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP02-077_SR.png",
-        "expansion_id": "hPC01",
-        "expansion_name": "【イベント物販／hololive production OFFICIAL SHOP限定商品】オフィシャルホロカコレクション-PCセット-"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP02-084",
-    "name": "みっころね24",
-    "tags": "",
-    "ability_text": "自分のデッキを2枚引き、サイコロを1回振る:3か5か6の時、自分のデッキから、Debutホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。2か4の時、自分のデッキを1枚引く。 LIMITED:ターンに1枚しか使えない。",
-    "variations": [
-      {
-        "web_id": "351",
-        "card_number": "hBP02-084",
-        "rarity": "U",
-        "illustrator": "さまてる",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-084_U.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "457",
-        "card_number": "hBP02-084",
-        "rarity": "S",
-        "illustrator": "さまてる",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-084_S.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "458",
-        "card_number": "hBP02-084",
-        "rarity": "SEC",
-        "illustrator": "yuki",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-084_SEC.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "959",
-        "card_number": "hBP02-084",
-        "rarity": "U",
-        "illustrator": "成田タメゾウ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP02-084_02_U.png",
-        "expansion_id": "hBP04",
-        "expansion_name": "ブースターパック「キュリアスユニバース」"
-      },
-      {
-        "web_id": "1066",
-        "card_number": "hBP02-084",
-        "rarity": "SR",
-        "illustrator": "成田タメゾウ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP02-084_02_SR.png",
-        "expansion_id": "hBP04",
-        "expansion_name": "ブースターパック「キュリアスユニバース」"
       }
     ]
   },
@@ -1025,6 +1088,32 @@
         "rarity": "S",
         "illustrator": "はずき",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-087_S.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP02-088",
+    "name": "森カリオペの鎌",
+    "tags": "",
+    "ability_text": "このツールが付いているホロメンのアーツ+10。 ◆1st以上の〈森カリオペ〉に付いていたら能力追加 このツールをホロメンに手札から付けた時、自分のデッキの上から1枚をアーカイブする。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "462",
+        "card_number": "hBP02-088",
+        "rarity": "S",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-088_S.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "355",
+        "card_number": "hBP02-088",
+        "rarity": "U",
+        "illustrator": "はずき",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-088_U.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
       }
@@ -1317,6 +1406,32 @@
     ]
   },
   {
+    "card_number": "hBP02-101",
+    "name": "ミオファ",
+    "tags": "",
+    "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、自分のデッキを1枚引く。 このファンは、自分の〈大神ミオ〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "475",
+        "card_number": "hBP02-101",
+        "rarity": "S",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-101_S.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      },
+      {
+        "web_id": "368",
+        "card_number": "hBP02-101",
+        "rarity": "C",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-101_C.png",
+        "expansion_id": "hBP02",
+        "expansion_name": "ブースターパック「クインテットスペクトラム」"
+      }
+    ]
+  },
+  {
     "card_number": "hBP02-102",
     "name": "塩っ子",
     "tags": "",
@@ -1378,32 +1493,6 @@
     ]
   },
   {
-    "card_number": "hBP02-088",
-    "name": "森カリオペの鎌",
-    "tags": "",
-    "ability_text": "このツールが付いているホロメンのアーツ+10。 ◆1st以上の〈森カリオペ〉に付いていたら能力追加 このツールをホロメンに手札から付けた時、自分のデッキの上から1枚をアーカイブする。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
-    "variations": [
-      {
-        "web_id": "355",
-        "card_number": "hBP02-088",
-        "rarity": "U",
-        "illustrator": "はずき",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-088_U.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "462",
-        "card_number": "hBP02-088",
-        "rarity": "S",
-        "illustrator": "はずき",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-088_S.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      }
-    ]
-  },
-  {
     "card_number": "hBP02-095",
     "name": "ドクロくん",
     "tags": "",
@@ -1424,32 +1513,6 @@
         "rarity": "S",
         "illustrator": "はずき",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-095_S.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP02-101",
-    "name": "ミオファ",
-    "tags": "",
-    "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、自分のデッキを1枚引く。 このファンは、自分の〈大神ミオ〉だけに付けられ、1人につき何枚でも付けられる。",
-    "variations": [
-      {
-        "web_id": "368",
-        "card_number": "hBP02-101",
-        "rarity": "C",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-101_C.png",
-        "expansion_id": "hBP02",
-        "expansion_name": "ブースターパック「クインテットスペクトラム」"
-      },
-      {
-        "web_id": "475",
-        "card_number": "hBP02-101",
-        "rarity": "S",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP02/hBP02-101_S.png",
         "expansion_id": "hBP02",
         "expansion_name": "ブースターパック「クインテットスペクトラム」"
       }
@@ -2056,6 +2119,41 @@
     ]
   },
   {
+    "card_number": "hBP03-105",
+    "name": "ルーナイト",
+    "tags": "",
+    "ability_text": "相手のターンで、このファンが付いているホロメンがダメージを受ける時、このファンをアーカイブできる:このファンが付いていたホロメンの受けるダメージ-30。 このファンは、自分の〈姫森ルーナ〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "788",
+        "card_number": "hBP03-105",
+        "rarity": "S",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-105_S.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "669",
+        "card_number": "hBP03-105",
+        "rarity": "U",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hBP03-105_U.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "855",
+        "card_number": "hBP03-105",
+        "rarity": "P",
+        "illustrator": "せんちゃ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-105_P_02.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
     "card_number": "hBP03-106",
     "name": "SSRB",
     "tags": "",
@@ -2078,6 +2176,41 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-106_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP03-107",
+    "name": "35P",
+    "tags": "",
+    "ability_text": "■このファンが付いているホロメンがアーツを使う時、このファンを赤エールとしても扱う。 ■このファンが付いているホロメンがダウンした時、相手は、自身のデッキを1枚引ける。 このファンは、自分の〈さくらみこ〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "790",
+        "card_number": "hBP03-107",
+        "rarity": "S",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-107_S.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "671",
+        "card_number": "hBP03-107",
+        "rarity": "U",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-107_U.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "823",
+        "card_number": "hBP03-107",
+        "rarity": "P",
+        "illustrator": "くまらん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-107_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
       }
     ]
   },
@@ -2134,6 +2267,32 @@
     ]
   },
   {
+    "card_number": "hBP03-110",
+    "name": "ろぼさー",
+    "tags": "",
+    "ability_text": "■このファンが付いているホロメンがアーツを使う時、このファンを紫エールとしても扱う。 ■このファンが付いているホロメンのアーツ-10。 このファンは、自分の〈ロボ子さん〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "793",
+        "card_number": "hBP03-110",
+        "rarity": "S",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-110_S.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "674",
+        "card_number": "hBP03-110",
+        "rarity": "U",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hBP03-110_U.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      }
+    ]
+  },
+  {
     "card_number": "hBP03-111",
     "name": "ころねすきー",
     "tags": "",
@@ -2160,6 +2319,41 @@
     ]
   },
   {
+    "card_number": "hBP03-112",
+    "name": "わためいと",
+    "tags": "",
+    "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、このホロメンの黄エール1～2枚を、自分の他の〈角巻わため〉1人に付け替えられる。 このファンは、自分の〈角巻わため〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "795",
+        "card_number": "hBP03-112",
+        "rarity": "S",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-112_S.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "676",
+        "card_number": "hBP03-112",
+        "rarity": "U",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-112_U.png",
+        "expansion_id": "hBP03",
+        "expansion_name": "ブースターパック「エリートスパーク」"
+      },
+      {
+        "web_id": "856",
+        "card_number": "hBP03-112",
+        "rarity": "P",
+        "illustrator": "ふーみ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-112_P_02.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
     "card_number": "hBP03-113",
     "name": "Risuners",
     "tags": "",
@@ -2182,137 +2376,6 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-113_S.png",
         "expansion_id": "hBP03",
         "expansion_name": "ブースターパック「エリートスパーク」"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP03-105",
-    "name": "ルーナイト",
-    "tags": "",
-    "ability_text": "相手のターンで、このファンが付いているホロメンがダメージを受ける時、このファンをアーカイブできる:このファンが付いていたホロメンの受けるダメージ-30。 このファンは、自分の〈姫森ルーナ〉だけに付けられ、1人につき何枚でも付けられる。",
-    "variations": [
-      {
-        "web_id": "669",
-        "card_number": "hBP03-105",
-        "rarity": "U",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hBP03-105_U.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "788",
-        "card_number": "hBP03-105",
-        "rarity": "S",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-105_S.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "855",
-        "card_number": "hBP03-105",
-        "rarity": "P",
-        "illustrator": "せんちゃ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-105_P_02.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP03-107",
-    "name": "35P",
-    "tags": "",
-    "ability_text": "■このファンが付いているホロメンがアーツを使う時、このファンを赤エールとしても扱う。 ■このファンが付いているホロメンがダウンした時、相手は、自身のデッキを1枚引ける。 このファンは、自分の〈さくらみこ〉だけに付けられ、1人につき何枚でも付けられる。",
-    "variations": [
-      {
-        "web_id": "671",
-        "card_number": "hBP03-107",
-        "rarity": "U",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-107_U.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "790",
-        "card_number": "hBP03-107",
-        "rarity": "S",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-107_S.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "823",
-        "card_number": "hBP03-107",
-        "rarity": "P",
-        "illustrator": "くまらん",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-107_P.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP03-110",
-    "name": "ろぼさー",
-    "tags": "",
-    "ability_text": "■このファンが付いているホロメンがアーツを使う時、このファンを紫エールとしても扱う。 ■このファンが付いているホロメンのアーツ-10。 このファンは、自分の〈ロボ子さん〉だけに付けられ、1人につき何枚でも付けられる。",
-    "variations": [
-      {
-        "web_id": "674",
-        "card_number": "hBP03-110",
-        "rarity": "U",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/COMMON/hBP03-110_U.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "793",
-        "card_number": "hBP03-110",
-        "rarity": "S",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-110_S.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP03-112",
-    "name": "わためいと",
-    "tags": "",
-    "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、このホロメンの黄エール1～2枚を、自分の他の〈角巻わため〉1人に付け替えられる。 このファンは、自分の〈角巻わため〉だけに付けられ、1人につき何枚でも付けられる。",
-    "variations": [
-      {
-        "web_id": "676",
-        "card_number": "hBP03-112",
-        "rarity": "U",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-112_U.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "795",
-        "card_number": "hBP03-112",
-        "rarity": "S",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP03/hBP03-112_S.png",
-        "expansion_id": "hBP03",
-        "expansion_name": "ブースターパック「エリートスパーク」"
-      },
-      {
-        "web_id": "856",
-        "card_number": "hBP03-112",
-        "rarity": "P",
-        "illustrator": "ふーみ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP03-112_P_02.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
       }
     ]
   },
@@ -2453,20 +2516,20 @@
     "ability_text": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。 自分のデッキの上から4枚を見る。その中から、#Adventを持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。 LIMITED:ターンに1枚しか使えない。",
     "variations": [
       {
-        "web_id": "960",
-        "card_number": "hBP04-096",
-        "rarity": "U",
-        "illustrator": "chyan",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-096_U.png",
-        "expansion_id": "hBP04",
-        "expansion_name": "ブースターパック「キュリアスユニバース」"
-      },
-      {
         "web_id": "1067",
         "card_number": "hBP04-096",
         "rarity": "S",
         "illustrator": "chyan",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-096_S.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "960",
+        "card_number": "hBP04-096",
+        "rarity": "U",
+        "illustrator": "chyan",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-096_U.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
       }
@@ -2777,32 +2840,6 @@
     ]
   },
   {
-    "card_number": "hBP04-106",
-    "name": "雪民",
-    "tags": "",
-    "ability_text": "このファンが付いているホロメンが、相手のセンターホロメンに与える特殊ダメージ+10。 このファンは、自分の〈雪花ラミィ〉だけに付けられ、1人につき何枚でも付けられる。",
-    "variations": [
-      {
-        "web_id": "970",
-        "card_number": "hBP04-106",
-        "rarity": "U",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-106_U.png",
-        "expansion_id": "hBP04",
-        "expansion_name": "ブースターパック「キュリアスユニバース」"
-      },
-      {
-        "web_id": "1077",
-        "card_number": "hBP04-106",
-        "rarity": "S",
-        "illustrator": "JinArt こばやかわやまと",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-106_S.png",
-        "expansion_id": "hBP04",
-        "expansion_name": "ブースターパック「キュリアスユニバース」"
-      }
-    ]
-  },
-  {
     "card_number": "hBP04-105",
     "name": "こよりの助手くん",
     "tags": "#こよラボ",
@@ -2823,6 +2860,32 @@
         "rarity": "S",
         "illustrator": "茶椿",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-105_S.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP04-106",
+    "name": "雪民",
+    "tags": "",
+    "ability_text": "このファンが付いているホロメンが、相手のセンターホロメンに与える特殊ダメージ+10。 このファンは、自分の〈雪花ラミィ〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "970",
+        "card_number": "hBP04-106",
+        "rarity": "U",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-106_U.png",
+        "expansion_id": "hBP04",
+        "expansion_name": "ブースターパック「キュリアスユニバース」"
+      },
+      {
+        "web_id": "1077",
+        "card_number": "hBP04-106",
+        "rarity": "S",
+        "illustrator": "JinArt こばやかわやまと",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP04/hBP04-106_S.png",
         "expansion_id": "hBP04",
         "expansion_name": "ブースターパック「キュリアスユニバース」"
       }
@@ -2987,94 +3050,6 @@
     ]
   },
   {
-    "card_number": "hBP05-074",
-    "name": "フレンドリーパソコン",
-    "tags": "",
-    "ability_text": "自分のデッキから、エクストラ「このホロメンはデッキに何枚でも入れられる」を持つDebutホロメン1～2枚を公開し、ステージに出す。そしてデッキをシャッフルする。Debutホロメンを2枚出したなら、さらに、自分の手札1枚をデッキの下に戻す。",
-    "variations": [
-      {
-        "web_id": "1264",
-        "card_number": "hBP05-074",
-        "rarity": "C",
-        "illustrator": "六九導イツキ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-074_C.png",
-        "expansion_id": "hBP05",
-        "expansion_name": "ブースターパック「エンチャントレガリア」"
-      },
-      {
-        "web_id": "1375",
-        "card_number": "hBP05-074",
-        "rarity": "S",
-        "illustrator": "六九導イツキ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-074_S.png",
-        "expansion_id": "hBP05",
-        "expansion_name": "ブースターパック「エンチャントレガリア」"
-      },
-      {
-        "web_id": "2567",
-        "card_number": "hBP05-074",
-        "rarity": "C",
-        "illustrator": "じっぽ",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hBP05-074_C_04.png",
-        "expansion_id": "hEB01",
-        "expansion_name": "エクストラブースター サマー・ホログラム"
-      },
-      {
-        "web_id": "1455",
-        "card_number": "hBP05-074",
-        "rarity": "P",
-        "illustrator": "たうた",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-074_P.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
-      },
-      {
-        "web_id": "2693",
-        "card_number": "hBP05-074",
-        "rarity": "P",
-        "illustrator": "risumi",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-074_P_02.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP05-075",
-    "name": "牛丼",
-    "tags": "#食べ物",
-    "ability_text": "自分のホロメン1人を選ぶ。このターンの間、選んだホロメンのバトンタッチに必要な無色エール-2。その後、選んだホロメンのHP20回復。",
-    "variations": [
-      {
-        "web_id": "1265",
-        "card_number": "hBP05-075",
-        "rarity": "C",
-        "illustrator": "BISAI",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-075_C.png",
-        "expansion_id": "hBP05",
-        "expansion_name": "ブースターパック「エンチャントレガリア」"
-      },
-      {
-        "web_id": "1376",
-        "card_number": "hBP05-075",
-        "rarity": "S",
-        "illustrator": "BISAI",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-075_S.png",
-        "expansion_id": "hBP05",
-        "expansion_name": "ブースターパック「エンチャントレガリア」"
-      },
-      {
-        "web_id": "1736",
-        "card_number": "hBP05-075",
-        "rarity": "P",
-        "illustrator": "Oli",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-075_P.png",
-        "expansion_id": "hPR",
-        "expansion_name": "PRカード"
-      }
-    ]
-  },
-  {
     "card_number": "hBP05-076",
     "name": "ちょこのビーフストロガノフ",
     "tags": "#食べ物",
@@ -3121,32 +3096,6 @@
         "rarity": "S",
         "illustrator": "神奈ぺろん",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-081_S.png",
-        "expansion_id": "hBP05",
-        "expansion_name": "ブースターパック「エンチャントレガリア」"
-      }
-    ]
-  },
-  {
-    "card_number": "hBP05-082",
-    "name": "アキ・ローゼンタールの斧",
-    "tags": "",
-    "ability_text": "このカードは、自分の手札1枚か自分のステージの〈石の斧〉1枚をアーカイブしなければ使えない。 このツールが付いているホロメンのアーツ+10。 ◆2nd以上の〈アキ・ローゼンタール〉に付いていたら能力追加 このツールが付いているホロメンのアーツ+40。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
-    "variations": [
-      {
-        "web_id": "1272",
-        "card_number": "hBP05-082",
-        "rarity": "U",
-        "illustrator": "たく",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-082_U.png",
-        "expansion_id": "hBP05",
-        "expansion_name": "ブースターパック「エンチャントレガリア」"
-      },
-      {
-        "web_id": "1384",
-        "card_number": "hBP05-082",
-        "rarity": "S",
-        "illustrator": "たく",
-        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-082_S.png",
         "expansion_id": "hBP05",
         "expansion_name": "ブースターパック「エンチャントレガリア」"
       }
@@ -3277,6 +3226,129 @@
         "rarity": "S",
         "illustrator": "すぎもと",
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-087_S.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-074",
+    "name": "フレンドリーパソコン",
+    "tags": "",
+    "ability_text": "自分のデッキから、エクストラ「このホロメンはデッキに何枚でも入れられる」を持つDebutホロメン1～2枚を公開し、ステージに出す。そしてデッキをシャッフルする。Debutホロメンを2枚出したなら、さらに、自分の手札1枚をデッキの下に戻す。",
+    "variations": [
+      {
+        "web_id": "1264",
+        "card_number": "hBP05-074",
+        "rarity": "C",
+        "illustrator": "六九導イツキ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-074_C.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1375",
+        "card_number": "hBP05-074",
+        "rarity": "S",
+        "illustrator": "六九導イツキ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-074_S.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "2567",
+        "card_number": "hBP05-074",
+        "rarity": "C",
+        "illustrator": "じっぽ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hEB01/hBP05-074_C_04.png",
+        "expansion_id": "hEB01",
+        "expansion_name": "エクストラブースター サマー・ホログラム"
+      },
+      {
+        "web_id": "1455",
+        "card_number": "hBP05-074",
+        "rarity": "P",
+        "illustrator": "たうた",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-074_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "2693",
+        "card_number": "hBP05-074",
+        "rarity": "P",
+        "illustrator": "risumi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-074_P_02.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1768",
+        "card_number": "hBP05-074",
+        "rarity": "C",
+        "illustrator": "risumi",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hBP05-074_02_C.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-075",
+    "name": "牛丼",
+    "tags": "#食べ物",
+    "ability_text": "自分のホロメン1人を選ぶ。このターンの間、選んだホロメンのバトンタッチに必要な無色エール-2。その後、選んだホロメンのHP20回復。",
+    "variations": [
+      {
+        "web_id": "1265",
+        "card_number": "hBP05-075",
+        "rarity": "C",
+        "illustrator": "BISAI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-075_C.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1376",
+        "card_number": "hBP05-075",
+        "rarity": "S",
+        "illustrator": "BISAI",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-075_S.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1736",
+        "card_number": "hBP05-075",
+        "rarity": "P",
+        "illustrator": "Oli",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP05-075_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP05-082",
+    "name": "アキ・ローゼンタールの斧",
+    "tags": "",
+    "ability_text": "このカードは、自分の手札1枚か自分のステージの〈石の斧〉1枚をアーカイブしなければ使えない。 このツールが付いているホロメンのアーツ+10。 ◆2nd以上の〈アキ・ローゼンタール〉に付いていたら能力追加 このツールが付いているホロメンのアーツ+40。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "1272",
+        "card_number": "hBP05-082",
+        "rarity": "U",
+        "illustrator": "たく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-082_U.png",
+        "expansion_id": "hBP05",
+        "expansion_name": "ブースターパック「エンチャントレガリア」"
+      },
+      {
+        "web_id": "1384",
+        "card_number": "hBP05-082",
+        "rarity": "S",
+        "illustrator": "たく",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP05/hBP05-082_S.png",
         "expansion_id": "hBP05",
         "expansion_name": "ブースターパック「エンチャントレガリア」"
       }
@@ -4632,6 +4704,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD14-010_P_03.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "2074",
+        "card_number": "hSD14-010",
+        "rarity": "C",
+        "illustrator": "ミュシャ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-010_C.png",
+        "expansion_id": "hSD14",
+        "expansion_name": "ライブスタートデッキ 白上フブキ"
       }
     ]
   },
@@ -4974,6 +5055,587 @@
     ]
   },
   {
+    "card_number": "hBP09-091",
+    "name": "あずいろ BESTIE DAYS",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈AZKi〉か〈風真いろは〉で、前の相手のターンに自分のホロメンがダウンしていなければ使えない。 自分のデッキから、1st[〈AZKi〉と〈風真いろは〉]1枚ずつをステージに出す。そしてデッキをシャッフルする。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2808",
+        "card_number": "hBP09-091",
+        "rarity": "U",
+        "illustrator": "green322",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-091_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2947",
+        "card_number": "hBP09-091",
+        "rarity": "S",
+        "illustrator": "green322",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-091_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-092",
+    "name": "雨の日ヴィヴィ",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈綺々羅々ヴィヴィ〉でなければ使えない。 お互いそれぞれのデッキを2枚引く。その後、相手の手札が7枚以上あるなら、このターンの間、自分のステージの〈綺々羅々ヴィヴィ〉全員のアーツ+30。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2809",
+        "card_number": "hBP09-092",
+        "rarity": "C",
+        "illustrator": "狛乃",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-092_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2948",
+        "card_number": "hBP09-092",
+        "rarity": "S",
+        "illustrator": "狛乃",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-092_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-094",
+    "name": "大空警察",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈大空スバル〉で、前の相手のターンに自分のホロメンがダウンしていなければ使えない。 相手のバックホロメン1人を選ぶ。選んだホロメンをお休みさせる。そのホロメンは、次の相手のリセットステップでアクティブにならない。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2811",
+        "card_number": "hBP09-094",
+        "rarity": "U",
+        "illustrator": "さかなへん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-094_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2991",
+        "card_number": "hBP09-094",
+        "rarity": "P",
+        "illustrator": "さかなへん",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP09-094_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "2992",
+        "card_number": "hBP09-094",
+        "rarity": "P",
+        "illustrator": "こまいぬ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP09-094_P_02.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-097",
+    "name": "コンビプレイ",
+    "tags": "",
+    "ability_text": "自分のデッキを2枚引く。その後、自分のステージのエール1枚をエールデッキの下に戻し、自分のエールデッキから、エール1枚を自分のホロメンに送る。そしてエールデッキをシャッフルする。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2814",
+        "card_number": "hBP09-097",
+        "rarity": "U",
+        "illustrator": "roena",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-097_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2952",
+        "card_number": "hBP09-097",
+        "rarity": "S",
+        "illustrator": "roena",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-097_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-098",
+    "name": "スイカバブル",
+    "tags": "",
+    "ability_text": "自分のデッキを4枚引く。その後、自分のアーカイブにLIMITEDのサポートがあるなら、自分の手札4枚を好きな順でデッキの下に戻す。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2815",
+        "card_number": "hBP09-098",
+        "rarity": "C",
+        "illustrator": "紅緒",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-098_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2953",
+        "card_number": "hBP09-098",
+        "rarity": "S",
+        "illustrator": "紅緒",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-098_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-101",
+    "name": "バカ！変態！うるさーい！もう知らなーい！",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈常闇トワ〉でなければ使えない。 相手のセンターホロメンに特殊ダメージ20を与える。その後、このターンの間、自分の〈常闇トワ〉の3回目のアーツは、相手のDebut以外のバックホロメンも対象にできる。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2818",
+        "card_number": "hBP09-101",
+        "rarity": "U",
+        "illustrator": "楪",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-101_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2956",
+        "card_number": "hBP09-101",
+        "rarity": "S",
+        "illustrator": "楪",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-101_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-102",
+    "name": "ばんちょーダンス",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈轟はじめ〉でなければ使えない。 自分のデッキの上から2枚をホロパワーにする。その後、自分のホロパワーを見る。その中から1～2枚を手札に加える。そしてホロパワーをシャッフルする。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2819",
+        "card_number": "hBP09-102",
+        "rarity": "C",
+        "illustrator": "楪",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-102_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2957",
+        "card_number": "hBP09-102",
+        "rarity": "S",
+        "illustrator": "楪",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-102_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-103",
+    "name": "変な動き",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈白銀ノエル〉でなければ使えない。 自分のアーカイブの[〈白銀ノエル〉と〈牛丼〉]1枚ずつを手札に戻す。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2820",
+        "card_number": "hBP09-103",
+        "rarity": "C",
+        "illustrator": "狛乃",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-103_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2958",
+        "card_number": "hBP09-103",
+        "rarity": "S",
+        "illustrator": "狛乃",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-103_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-104",
+    "name": "ホロライブ体力王決定戦",
+    "tags": "",
+    "ability_text": "このターンの間、自分のステージの残りHPが最も高いホロメン全員のアーツ+30。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2821",
+        "card_number": "hBP09-104",
+        "rarity": "C",
+        "illustrator": "ぱとり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-104_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2959",
+        "card_number": "hBP09-104",
+        "rarity": "S",
+        "illustrator": "ぱとり",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-104_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-105",
+    "name": "BIG3",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈大空スバル〉か〈白銀ノエル〉か〈雪花ラミィ〉でなければ使えない。 自分のデッキを2枚引く。その後、自分のデッキの上から3枚を見る。その中から、自分の推しホロメンと同じカード名のホロメン1枚を公開し、手札に加える。そして残ったカードを好きな順でデッキの下に戻す。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "2822",
+        "card_number": "hBP09-105",
+        "rarity": "U",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-105_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2906",
+        "card_number": "hBP09-105",
+        "rarity": "SR",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-105_SR.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2846",
+        "card_number": "hBP09-105",
+        "rarity": "P",
+        "illustrator": "茶ちえ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hBP09-105_P.png",
+        "expansion_id": "hPR",
+        "expansion_name": "PRカード"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-090",
+    "name": "コラボパソコン",
+    "tags": "",
+    "ability_text": "このカードは、自分のホロパワー1枚をアーカイブしなければ使えない。 自分のデッキから、コラボエフェクトを持つ、自分の推しホロメンと同じカード名のホロメン1枚を公開し、手札に加える。そしてデッキをシャッフルする。",
+    "variations": [
+      {
+        "web_id": "2807",
+        "card_number": "hBP09-090",
+        "rarity": "C",
+        "illustrator": "kaerunrun",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-090_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2946",
+        "card_number": "hBP09-090",
+        "rarity": "S",
+        "illustrator": "kaerunrun",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-090_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-093",
+    "name": "応援するホロリス",
+    "tags": "",
+    "ability_text": "自分のステージのエール1～2枚を選び、自分のホロメンに割り振って付け替える。その後、自分のエールが付いているホロメンが4人以上いるなら、自分のアーカイブのエール1枚を自分のホロメンに送る。",
+    "variations": [
+      {
+        "web_id": "2810",
+        "card_number": "hBP09-093",
+        "rarity": "C",
+        "illustrator": "888BUN",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-093_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2949",
+        "card_number": "hBP09-093",
+        "rarity": "S",
+        "illustrator": "888BUN",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-093_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-095",
+    "name": "君に乾杯",
+    "tags": "#ラミィのお酒",
+    "ability_text": "このカードは、自分の推しホロメンが〈雪花ラミィ〉でなければ使えない。 相手のセンターホロメンかコラボホロメンを選ぶ。選んだホロメンに特殊ダメージ10を与える。自分のアーカイブに〈君に乾杯〉が2枚以上あるなら、かわりに、選んだホロメンに特殊ダメージ40を与える。 自分の〈君に乾杯〉はターンに1回しか使えない。",
+    "variations": [
+      {
+        "web_id": "2812",
+        "card_number": "hBP09-095",
+        "rarity": "C",
+        "illustrator": "もも寝子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-095_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2950",
+        "card_number": "hBP09-095",
+        "rarity": "S",
+        "illustrator": "もも寝子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-095_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-096",
+    "name": "コンコ コンコンコ コンコンコン",
+    "tags": "",
+    "ability_text": "自分のステージの#ReGLOSSを持つホロメン1人を選ぶ。このターンの間、選んだホロメンのバトンタッチに必要な無色-1。その後、自分のアーカイブのエール1枚を自分のバックの〈轟はじめ〉に送る。",
+    "variations": [
+      {
+        "web_id": "2813",
+        "card_number": "hBP09-096",
+        "rarity": "U",
+        "illustrator": "紺藤ココン",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-096_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2951",
+        "card_number": "hBP09-096",
+        "rarity": "S",
+        "illustrator": "紺藤ココン",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-096_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-099",
+    "name": "スピード違反",
+    "tags": "",
+    "ability_text": "このカードは、自分の推しホロメンが〈大空スバル〉で、自分のステージのエールの枚数が相手より少ない時にしか使えない。 自分のアーカイブのエール2枚を、自分のホロメン1人に送る。",
+    "variations": [
+      {
+        "web_id": "2816",
+        "card_number": "hBP09-099",
+        "rarity": "C",
+        "illustrator": "roena",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-099_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2954",
+        "card_number": "hBP09-099",
+        "rarity": "S",
+        "illustrator": "roena",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-099_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-100",
+    "name": "ノエルの特盛牛丼",
+    "tags": "#食べ物",
+    "ability_text": "自分のステージの〈白銀ノエル〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+10。さらに、選んだホロメンがBuzzホロメンか2ndホロメンなら、そのホロメンのHP50回復。",
+    "variations": [
+      {
+        "web_id": "2817",
+        "card_number": "hBP09-100",
+        "rarity": "U",
+        "illustrator": "祀花よう子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-100_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2955",
+        "card_number": "hBP09-100",
+        "rarity": "S",
+        "illustrator": "祀花よう子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-100_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-106",
+    "name": "カエラが作ったホロシールド",
+    "tags": "#カエラ'sアームズ",
+    "ability_text": "このツールが付いている[Buzzか2nd]の〈カエラ・コヴァルスキア〉のHP+40。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "2823",
+        "card_number": "hBP09-106",
+        "rarity": "C",
+        "illustrator": "憂",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-106_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2960",
+        "card_number": "hBP09-106",
+        "rarity": "S",
+        "illustrator": "憂",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-106_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-107",
+    "name": "カエラが作ったホロソード",
+    "tags": "#カエラ'sアームズ",
+    "ability_text": "このツールが付いている[Buzzか2nd]の〈カエラ・コヴァルスキア〉のアーツ+40。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "2824",
+        "card_number": "hBP09-107",
+        "rarity": "U",
+        "illustrator": "mado*pen",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-107_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2961",
+        "card_number": "hBP09-107",
+        "rarity": "S",
+        "illustrator": "mado*pen",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-107_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-108",
+    "name": "常闇トワのブレイクマイク",
+    "tags": "",
+    "ability_text": "このツールが付いている〈常闇トワ〉のアーツ+20。 ◆2nd〈常闇トワ〉に付いていたら能力追加 このホロメンに付いている青エールすべては、紫エールとしても扱う。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "2825",
+        "card_number": "hBP09-108",
+        "rarity": "C",
+        "illustrator": "鏑木康隆",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-108_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2962",
+        "card_number": "hBP09-108",
+        "rarity": "S",
+        "illustrator": "鏑木康隆",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-108_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-109",
+    "name": "メイクアップ",
+    "tags": "",
+    "ability_text": "このツールが付いている〈綺々羅々ヴィヴィ〉のアーツ+20。 ◆1st以上の〈綺々羅々ヴィヴィ〉に付いていたら能力追加 [センターポジション限定]自分のパフォーマンスステップが終了する時、このターンにBloomした#FLOW GLOWを持つホロメン1人を、自分の手札のホロメンを使ってもう1回Bloomできる。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "2826",
+        "card_number": "hBP09-109",
+        "rarity": "U",
+        "illustrator": "呱々唄七つ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-109_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2963",
+        "card_number": "hBP09-109",
+        "rarity": "S",
+        "illustrator": "呱々唄七つ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-109_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-110",
+    "name": "雪夜月",
+    "tags": "#ラミィのお酒",
+    "ability_text": "◆〈雪花ラミィ〉に付いていたら能力追加 自分のパフォーマンスステップが終了する時、このターンにこのホロメンがアーツを使っていたなら、このホロメンに付いている〈雪夜月〉1枚をアーカイブし、自分のデッキを1枚引く。 ツールは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "2827",
+        "card_number": "hBP09-110",
+        "rarity": "U",
+        "illustrator": "もも寝子",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-110_U.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
+    "card_number": "hBP09-111",
+    "name": "Pemaloe",
+    "tags": "",
+    "ability_text": "相手のターンで、このファンが付いているホロメンがダウンした時、このファンが付いているホロメンのエール1枚を自分の他のホロメンに付け替える。 このファンは、自分の〈カエラ・コヴァルスキア〉だけに付けられ、1人につき何枚でも付けられる。",
+    "variations": [
+      {
+        "web_id": "2828",
+        "card_number": "hBP09-111",
+        "rarity": "C",
+        "illustrator": "しまりすゆきち",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-111_C.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      },
+      {
+        "web_id": "2964",
+        "card_number": "hBP09-111",
+        "rarity": "S",
+        "illustrator": "しまりすゆきち",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hBP09/hBP09-111_S.png",
+        "expansion_id": "hBP09",
+        "expansion_name": "ブースターパック「ボリュームヴォルテックス」"
+      }
+    ]
+  },
+  {
     "card_number": "hEB01-026",
     "name": "クマリン",
     "tags": "",
@@ -5305,6 +5967,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD10-011_P_01.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1466",
+        "card_number": "hSD10-011",
+        "rarity": "U",
+        "illustrator": "おぐち",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-011_U.png",
+        "expansion_id": "hSD10",
+        "expansion_name": "スタートデッキ FLOW GLOW 推し 輪堂千速"
       }
     ]
   },
@@ -5322,6 +5993,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD10-012_02_P.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1467",
+        "card_number": "hSD10-012",
+        "rarity": "U",
+        "illustrator": "𝘧𝘳𝘦𝘯𝘨",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD10/hSD10-012_U.png",
+        "expansion_id": "hSD10",
+        "expansion_name": "スタートデッキ FLOW GLOW 推し 輪堂千速"
       }
     ]
   },
@@ -5365,6 +6045,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD12-015_P_01.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "1764",
+        "card_number": "hSD12-015",
+        "rarity": "U",
+        "illustrator": "黒井ススム",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-015_U.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
       }
     ]
   },
@@ -5382,6 +6071,15 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hPR/hSD17-010_P_01.png",
         "expansion_id": "hPR",
         "expansion_name": "PRカード"
+      },
+      {
+        "web_id": "2107",
+        "card_number": "hSD17-010",
+        "rarity": "C",
+        "illustrator": "みゃーこ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD17/hSD17-010_C.png",
+        "expansion_id": "hSD17",
+        "expansion_name": "ライブスタートデッキ 星街すいせい"
       }
     ]
   },
@@ -5552,6 +6250,142 @@
         "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD07/hSD07-015_C.png",
         "expansion_id": "hSD07",
         "expansion_name": "スタートデッキ 黄 不知火フレア"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD12-016",
+    "name": "GEOW",
+    "tags": "",
+    "ability_text": "このマスコットが付いているホロメンのHP+20。 このマスコットを手札から1st以上の〈古石ビジュー〉に付けた時、自分のステージのエール1枚をアーカイブできる:自分のエールデッキから、エール1枚を公開し、自分のホロメンに送る。そしてエールデッキをシャッフルする。 マスコットは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "1765",
+        "card_number": "hSD12-016",
+        "rarity": "C",
+        "illustrator": "はたほまめ",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD12/hSD12-016_C.png",
+        "expansion_id": "hSD12",
+        "expansion_name": "スタートデッキ 推し Advent"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD13-016",
+    "name": "Justice",
+    "tags": "",
+    "ability_text": "このカードは、自分の手札がこのカードを含まずに6枚以下でなければ使えない。 自分のデッキの上から4枚を見る。その中から、#Justiceを持つホロメンを好きな枚数公開し、公開したホロメンを手札に加える。そして残ったカードを好きな順でデッキの下に戻す。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "1784",
+        "card_number": "hSD13-016",
+        "rarity": "U",
+        "illustrator": "PORO",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-016_U.png",
+        "expansion_id": "hSD13",
+        "expansion_name": "スタートデッキ 推し Justice"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD13-017",
+    "name": "JUSTICE, JUST LIKE THAT!!!!",
+    "tags": "",
+    "ability_text": "このカードは、自分のステージのホロメン全員が#Justiceを持つホロメンでなければ使えない。 自分のステージのホロメン1人を選ぶ。選んだホロメンに重なっているホロメン1～2枚を手札に戻す。このターンの間、この能力で戻したホロメン1枚につき、選んだホロメンのアーツ+20。 LIMITED:ターンに1枚しか使えない。",
+    "variations": [
+      {
+        "web_id": "1785",
+        "card_number": "hSD13-017",
+        "rarity": "U",
+        "illustrator": "黒井ススム",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-017_U.png",
+        "expansion_id": "hSD13",
+        "expansion_name": "スタートデッキ 推し Justice"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD13-018",
+    "name": "Popo",
+    "tags": "",
+    "ability_text": "このマスコットが付いているホロメンのHP+20。 ◆〈ジジ・ムリン〉に付いていたら能力追加 このホロメンに重なっているホロメンが0枚なら、このホロメンのアーツ+20。 マスコットは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "1786",
+        "card_number": "hSD13-018",
+        "rarity": "C",
+        "illustrator": "888BUN",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD13/hSD13-018_C.png",
+        "expansion_id": "hSD13",
+        "expansion_name": "スタートデッキ 推し Justice"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD14-011",
+    "name": "ありよりのアリゲーター",
+    "tags": "#白上'sキャラクター",
+    "ability_text": "このマスコットが付いているホロメンのHP+10。 ◆〈白上フブキ〉に付いていたら能力追加 このホロメンが相手のホロメンをダウンさせた時、自分のエールデッキの上から1枚を自分のホロメンに送る。 マスコットは、自分のホロメン1人につき1枚だけ付けられる。",
+    "variations": [
+      {
+        "web_id": "2075",
+        "card_number": "hSD14-011",
+        "rarity": "C",
+        "illustrator": "イマフク",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD14/hSD14-011_C.png",
+        "expansion_id": "hSD14",
+        "expansion_name": "ライブスタートデッキ 白上フブキ"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD15-010",
+    "name": "まつたけダンス",
+    "tags": "#きのこ",
+    "ability_text": "自分のステージの〈儒烏風亭らでん〉1人を選ぶ。このターンの間、選んだホロメンのアーツ+10。そのホロメンに、エールが3枚以上付いているなら、かわりに、そのホロメンのアーツ+20。",
+    "variations": [
+      {
+        "web_id": "2086",
+        "card_number": "hSD15-010",
+        "rarity": "C",
+        "illustrator": "ばかくん３世",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD15/hSD15-010_C.png",
+        "expansion_id": "hSD15",
+        "expansion_name": "ライブスタートデッキ 儒烏風亭らでん"
+      }
+    ]
+  },
+  {
+    "card_number": "hSD19-010",
+    "name": "ごきげんカレー",
+    "tags": "#食べ物",
+    "ability_text": "自分のホロメンのHP30回復。",
+    "variations": [
+      {
+        "web_id": "2128",
+        "card_number": "hSD19-010",
+        "rarity": "C",
+        "illustrator": "紅木春",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/hSD19/hSD19-010_C.png",
+        "expansion_id": "hSD19",
+        "expansion_name": "ライブスタートデッキ 大空スバル"
+      }
+    ]
+  },
+  {
+    "card_number": "null",
+    "name": "デッキ構築ルール",
+    "tags": "",
+    "ability_text": "※本説明用カードはデッキ登録できません。 【デッキ構築ルール】 「推しホロメンカード」とメインデッキのカードは下記に収録するカードと同じカードナンバーのカードのみ使用できます。 ブースターパック バウンサーバウンド エクストラブースター サマー・ホログラム ブースターパック ボリュームヴォルテックス",
+    "variations": [
+      {
+        "web_id": "2993",
+        "card_number": "null",
+        "rarity": "",
+        "illustrator": "",
+        "img_url": "https://hololive-official-cardgame.com/wp-content/images/cardlist/sele09/sele09_teaching.png",
+        "expansion_id": "sele09",
+        "expansion_name": "【使用可能カード】セレクションカップ"
       }
     ]
   }
